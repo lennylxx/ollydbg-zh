@@ -10099,15 +10099,15 @@ ZH Chicken chicken
 
 // OLLYMAIN:638
 EN Restore window
-ZH Chicken chicken
+ZH 恢复窗口
 
 // OLLYMAIN:640
 EN Maximize window
-ZH Chicken chicken
+ZH 最大化窗口
 
 // OLLYMAIN:707
 EN &Open...
-ZH &Chic...
+ZH 打开(&O)...
 
 // OLLYMAIN:707
 EN Open executable file for debugging
@@ -10123,15 +10123,15 @@ ZH Chicken chicken chicken chicken chicken chicken
 
 // OLLYMAIN:712
 EN &Attach...
-ZH &Chicken...
+ZH 附加(&A)...
 
 // OLLYMAIN:714
 EN &Detach
-ZH &Chicken
+ZH 分离(&D)
 
 // OLLYMAIN:716
 EN &Detach and exit
-ZH &Chicken chicken
+ZH 分离并退出(&D)
 
 // OLLYMAIN:717
 EN Detach from the debugged process and close OllyDbg
@@ -10139,7 +10139,7 @@ ZH Chicken chicken chicken chicken chicken chicken
 
 // OLLYMAIN:719
 EN E&xit
-ZH C&chi
+ZH 退出(&X)
 
 // OLLYMAIN:723
 EN Reopen last debugged application
@@ -10151,47 +10151,47 @@ ZH Chicken chicken
 
 // OLLYMAIN:747
 EN &Log
-ZH &Chi
+ZH 日志(&L)
 
 // OLLYMAIN:749
 EN &Executable modules
-ZH &Chicken chicken
+ZH 可执行模块(&E)
 
 // OLLYMAIN:751
 EN &Memory map
-ZH &Chicken
+ZH 内存映射(&M)
 
 // OLLYMAIN:753
 EN List of &windows
-ZH Chicken &chicken
+ZH 窗口列表(&W)
 
 // OLLYMAIN:755
 EN &Threads
-ZH &Chicken
+ZH 线程(&T)
 
 // OLLYMAIN:757
 EN &CPU
-ZH &CHI
+ZH &CPU
 
 // OLLYMAIN:767
 EN &Patches
-ZH &Chicken
+ZH 补丁(&P)
 
 // OLLYMAIN:769
 EN INT3 &breakpoints
-ZH CHI3 &chicken chicken
+ZH INT3 断点(&B)
 
 // OLLYMAIN:771
 EN Memor&y breakpoints
-ZH Chicken&chicken chicken
+ZH 内存断点(&Y)
 
 // OLLYMAIN:773
 EN &Hardware breakpoints
-ZH &Chicken chicken chicken
+ZH 硬件断点(&H)
 
 // OLLYMAIN:775
 EN VEH/SEH chain
-ZH CHI/Chicken
+ZH VEH/SEH 链
 
 // OLLYMAIN:775
 EN Open list of installed exception handlers
@@ -10203,15 +10203,15 @@ ZH Chicken chicken chicken
 
 // OLLYMAIN:779
 EN &Source files
-ZH &Chicken chicken
+ZH 源文件(&S)
 
 // OLLYMAIN:781
 EN File...
-ZH Chic...
+ZH 文件...
 
 // OLLYMAIN:781
 EN View file
-ZH Chicken
+ZH 查看文件
 
 // OLLYMAIN:783
 EN Drive...
@@ -10223,7 +10223,7 @@ ZH Chicken chicken chicken chicken
 
 // OLLYMAIN:789
 EN &Run
-ZH &Chi
+ZH 运行(&R)
 
 // OLLYMAIN:789
 EN Run debugged application (all threads)
@@ -10235,11 +10235,11 @@ ZH Chicken
 
 // OLLYMAIN:793
 EN &Pause
-ZH &Chicken
+ZH 暂停(&P)
 
 // OLLYMAIN:795
 EN Step &into
-ZH Chic &chic
+ZH 步入(&I)
 
 // OLLYMAIN:795
 EN Execute single command entering subroutines
@@ -10247,7 +10247,7 @@ ZH Chicken chicken chicken chicken chicken chicken
 
 // OLLYMAIN:797
 EN Step &over
-ZH Chic &chic
+ZH 步过(&O)
 
 // OLLYMAIN:797
 EN Execute single command or call
@@ -10267,11 +10267,11 @@ ZH Chicken chicken chicken chicken
 
 // OLLYMAIN:805
 EN Re&start
-ZH Ch&chicken
+ZH 重启(&S)
 
 // OLLYMAIN:807
 EN &Close
-ZH &Chicken
+ZH 关闭(&C)
 
 // OLLYMAIN:809
 EN Set affinity
@@ -10351,7 +10351,7 @@ ZH Chicken chicken
 
 // OLLYMAIN:849
 EN &Options...
-ZH &Chicken...
+ZH 选项(&O)...
 
 // OLLYMAIN:849
 EN Set OllyDbg options
@@ -10375,7 +10375,7 @@ ZH Chicken chicken chicken chicken chicken chicken chicken
 
 // OLLYMAIN:857
 EN &Plugin options...
-ZH &Chicken chicken...
+ZH 插件选项(&P)...
 
 // OLLYMAIN:857
 EN Set plugin options
@@ -10383,7 +10383,7 @@ ZH Chicken chicken
 
 // OLLYMAIN:859
 EN &Edit shortcuts...
-ZH &Chicken chicken...
+ZH 编辑快捷键(&E)...
 
 // OLLYMAIN:859
 EN Customize keyboard shortcuts
@@ -10391,7 +10391,7 @@ ZH Chicken chicken chicken chicken
 
 // OLLYMAIN:865
 EN Always on &top
-ZH Chicken &chi
+ZH 总在最前(&T)
 
 // OLLYMAIN:865
 EN Toggle topmost status of main OllyDbg window
@@ -10399,19 +10399,19 @@ ZH Chicken chicken chicken chicken chicken chicken
 
 // OLLYMAIN:867
 EN &Cascade
-ZH &Chicken
+ZH 层叠(&C)
 
 // OLLYMAIN:869
 EN Tile &horizontal
-ZH Chic &chicken
+ZH 水平平铺(&H)
 
 // OLLYMAIN:871
 EN Tile &vertical
-ZH Chic &chicken
+ZH 垂直平铺(&V)
 
 // OLLYMAIN:873
 EN Arrange &icons
-ZH Chicken &chicken
+ZH 排列图标(&I)
 
 // OLLYMAIN:873
 EN Arrange minimized MDI windows
@@ -10419,7 +10419,7 @@ ZH Chicken chicken chicken chicken
 
 // OLLYMAIN:875
 EN Close all
-ZH Chicken
+ZH 关闭所有
 
 // OLLYMAIN:875
 EN Close all data windows
@@ -10431,7 +10431,7 @@ ZH Chicken chicken chicken chicken chicken chicken
 
 // OLLYMAIN:879
 EN Previous
-ZH Chicken
+ZH 上一个
 
 // OLLYMAIN:879
 EN Activate previous window
@@ -10439,7 +10439,7 @@ ZH Chicken chicken chicken
 
 // OLLYMAIN:881
 EN Next
-ZH Chic
+ZH 下一个
 
 // OLLYMAIN:881
 EN Activate next window
@@ -10447,7 +10447,7 @@ ZH Chicken chicken chicken
 
 // OLLYMAIN:887
 EN &About...
-ZH &Chicken...
+ZH 关于(&A)...
 
 // OLLYMAIN:887
 EN Show version and copyright information
@@ -10455,7 +10455,7 @@ ZH Chicken chicken chicken chicken chicken
 
 // OLLYMAIN:889
 EN License
-ZH Chicken
+ZH 许可证
 
 // OLLYMAIN:889
 EN Show License Agreement
@@ -10463,7 +10463,7 @@ ZH Chicken chicken chicken
 
 // OLLYMAIN:895
 EN &File
-ZH &Chic
+ZH 文件(&F)
 
 // OLLYMAIN:895
 EN Select file or process to debug
@@ -10471,15 +10471,15 @@ ZH Chicken chicken chicken chicken
 
 // OLLYMAIN:897
 EN &View
-ZH &Chic
+ZH 查看(&V)
 
 // OLLYMAIN:897
 EN Debug windows
-ZH Chicken chicken
+ZH 调试窗口
 
 // OLLYMAIN:899
 EN &Debug
-ZH &Chicken
+ZH 调试(&D)
 
 // OLLYMAIN:899
 EN Debugging functions
@@ -10487,7 +10487,7 @@ ZH Chicken chicken chicken
 
 // OLLYMAIN:901
 EN &Trace
-ZH &Chicken
+ZH 跟踪(&T)
 
 // OLLYMAIN:901
 EN Run trace functions
@@ -10495,7 +10495,7 @@ ZH Chicken chicken chicken
 
 // OLLYMAIN:903
 EN &Plugins
-ZH &Chicken
+ZH 插件(&P)
 
 // OLLYMAIN:903
 EN Plugin functions
@@ -10503,7 +10503,7 @@ ZH Chicken chicken
 
 // OLLYMAIN:905
 EN &Options
-ZH &Chicken
+ZH 选项(&O)
 
 // OLLYMAIN:905
 EN Set options
@@ -10511,7 +10511,7 @@ ZH Chicken chicken
 
 // OLLYMAIN:907
 EN &Windows
-ZH &Chicken
+ZH 窗口(&W)
 
 // OLLYMAIN:907
 EN Manipulate windows
@@ -10519,7 +10519,7 @@ ZH Chicken chicken
 
 // OLLYMAIN:909
 EN &Help
-ZH &Chic
+ZH 帮助(&H)
 
 // OLLYMAIN:909
 EN Help functions
@@ -13719,7 +13719,7 @@ ZH Chicken
 
 // REGS:1827
 EN &Increment
-ZH &Chicken
+ZH 递增(&I)
 
 // REGS:1828
 EN Increment register (add 1)
@@ -13727,7 +13727,7 @@ ZH Chicken chicken (chi 1)
 
 // REGS:1830
 EN &Decrement
-ZH &Chicken
+ZH 递减(&D)
 
 // REGS:1831
 EN Decrement register (subtract 1)
