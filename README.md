@@ -11,10 +11,12 @@ How to use
 Contributing
 ------------
 1. Clone this repo.
-```
-git clone https://github.com/lennylxx/ollydbg-zh
-```
+
+  ```
+  git clone https://github.com/lennylxx/ollydbg-zh
+  ```
 2. Run the script to make git process UTF-16 LE and checkout the real file.
-```
-./setup-git.sh
-```
+
+  ```
+  ./setup-git.sh
+  ```
