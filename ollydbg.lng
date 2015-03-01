@@ -4251,7 +4251,7 @@ ZH Chicken chicken chicken
 
 // DIALOGS:8622
 EN CPU %i
-ZH CHI %i
+ZH CPU %i
 
 // DIALOGS:8653
 EN Set affinity mask
@@ -7335,7 +7335,7 @@ ZH Chicken-chicken chicken chicken
 
 // HANDLES:621
 EN Handles
-ZH Chicken
+ZH 句柄
 
 // HELP:966
 EN Command help
@@ -7987,255 +7987,255 @@ ZH Chicken
 
 // MENU:127
 EN Main menu: File
-ZH Chicken: Chic
+ZH 主菜单: 文件
 
 // MENU:129
 EN Open new executable
-ZH Chicken chicken chicken
+ZH 打开新的可执行文件
 
 // MENU:131
 EN Set command line arguments for next run
-ZH Chicken chicken chicken chicken chicken
+ZH 设置下次执行时的命令行参数
 
 // MENU:133
 EN Attach to running process
-ZH Chicken chicken chicken
+ZH 附加到正在运行的进程
 
 // MENU:135
 EN Detach from the debugged process
-ZH Chicken chicken chicken chicken
+ZH 从被调试的进程上分离
 
 // MENU:137
 EN Close OllyDbg
-ZH Chicken chicken
+ZH 关闭 OllyDbg
 
 // MENU:140
 EN Main menu: View
-ZH Chicken: Chic
+ZH 主菜单: 查看
 
 // MENU:142
 EN Open Log window
-ZH Chicken chicken
+ZH 打开日志窗口
 
 // MENU:144
 EN Open Executable modules window
-ZH Chicken chicken chicken chicken
+ZH 打开可执行模块窗口
 
 // MENU:146
 EN Open Memory map window
-ZH Chicken chicken chicken
+ZH 打开内存映射窗口
 
 // MENU:148
 EN Open list of windows
-ZH Chicken chicken chicken
+ZH 打开窗口列表
 
 // MENU:150
 EN Open Threads window
-ZH Chicken chicken chicken
+ZH 打开线程窗口
 
 // MENU:152
 EN Open CPU window
-ZH Chicken chicken
+ZH 打开 CPU 窗口
 
 // MENU:154
 EN Open Watches window
-ZH Chicken chicken chicken
+ZH 打开监视窗口
 
 // MENU:156
 EN Open Search results window
-ZH Chicken chicken chicken
+ZH 打开搜索结果窗口
 
 // MENU:158
 EN Open Run trace window
-ZH Chicken chicken chicken
+ZH 打开 Run 跟踪窗口
 
 // MENU:160
 EN Open Patches window
-ZH Chicken chicken chicken
+ZH 打开补丁窗口
 
 // MENU:162
 EN Open INT3 breakpoints window
-ZH Chicken3 chicken chicken
+ZH 打开 INT3 断点窗口
 
 // MENU:164
 EN Open Memory breakpoints window
-ZH Chicken chicken chicken chicken
+ZH 打开内存断点窗口
 
 // MENU:166
 EN Open Hardware breakpoints window
-ZH Chicken chicken chicken chicken
+ZH 打开硬件断点窗口
 
 // MENU:168
 EN Open list of source files
-ZH Chicken chicken chicken
+ZH 打开源文件列表
 
 // MENU:170
 EN Open file
-ZH Chicken
+ZH 打开文件
 
 // MENU:172
 EN Open VEH/SEH chain window
-ZH Chicken/Chicken chicken
+ZH 打开 VEH/SEH 链窗口
 
 // MENU:174
 EN Open Handles window
-ZH Chicken chicken chicken
+ZH 打开句柄窗口
 
 // MENU:176
 EN Open Call stack window
-ZH Chicken chicken chicken
+ZH 打开调用堆栈窗口
 
 // MENU:179
 EN Main menu: Debug
-ZH Chicken: Chicken
+ZH 主菜单: 调试
 
 // MENU:181
 EN Run debugged application
-ZH Chicken chicken chicken
+ZH 运行被调试的程序
 
 // MENU:183
 EN Run only current thread
-ZH Chicken chicken chicken
+ZH 只运行当前进程
 
 // MENU:185
 EN Pause debugged application
-ZH Chicken chicken chicken
+ZH 暂停被调试的程序
 
 // MENU:187
 EN Step into
-ZH Chicken
+ZH 单步步入
 
 // MENU:189
 EN Step over
-ZH Chicken
+ZH 单步步过
 
 // MENU:191
 EN Execute till return
-ZH Chicken chicken chicken
+ZH 执行到返回
 
 // MENU:193
 EN Execute till user code
-ZH Chicken chicken chicken
+ZH 执行到用户代码
 
 // MENU:195
 EN Call DLL export
-ZH Chicken chicken
+ZH 调用 DLL 输出
 
 // MENU:197
 EN Restart last debugged executable
-ZH Chicken chicken chicken chicken
+ZH 重启上次调试的可执行文件
 
 // MENU:199
 EN Close debugged application
-ZH Chicken chicken chicken
+ZH 关闭被调试的程序
 
 // MENU:206
 EN Main menu: Trace
-ZH Chicken: Chicken
+ZH 主菜单: 跟踪
 
 // MENU:208
 EN Open Run trace
-ZH Chicken chicken
+ZH 打开 Run 跟踪
 
 // MENU:210
 EN Close Run trace
-ZH Chicken chicken
+ZH 关闭 Run 跟踪
 
 // MENU:212
 EN Animate into
-ZH Chicken chicken
+ZH 自动步入
 
 // MENU:214
 EN Animate over
-ZH Chicken chicken
+ZH 自动步过
 
 // MENU:216
 EN Trace into
-ZH Chicken
+ZH 跟踪步入
 
 // MENU:218
 EN Trace over
-ZH Chicken
+ZH 跟踪步过
 
 // MENU:220
 EN Run hit trace
-ZH Chicken chicken
+ZH 执行 Hit 跟踪
 
 // MENU:222
 EN Stop hit trace
-ZH Chicken chicken
+ZH 停止 Hit 跟踪
 
 // MENU:224
 EN Set run trace break condition
-ZH Chicken chicken chicken chicken
+ZH 设置 Run 跟踪断点条件
 
 // MENU:226
 EN Set run trace log condition
-ZH Chicken chicken chicken chicken
+ZH 设置 Run 跟踪日志条件
 
 // MENU:229
 EN Main menu: Options
-ZH Chicken: Chicken
+ZH 主菜单: 选项
 
 // MENU:231
 EN Open Options dialog
-ZH Chicken chicken chicken
+ZH 打开选项对话框
 
 // MENU:233
 EN Open Plugin options dialog
-ZH Chicken chicken chicken
+ZH 打开插件选项对话框
 
 // MENU:235
 EN Open Shortcut editor
-ZH Chicken chicken chicken
+ZH 打开快捷键编辑器
 
 // MENU:238
 EN Main menu: Windows
-ZH Chicken: Chicken
+ZH 主菜单: 窗口
 
 // MENU:240
 EN Topmost status of main window
-ZH Chicken chicken chicken chicken
+ZH 主窗口最前状态
 
 // MENU:242
 EN Cascade MDI windows
-ZH Chicken chicken chicken
+ZH 层叠 MDI 窗口
 
 // MENU:244
 EN Tile MDI windows horizontally
-ZH Chicken chicken chicken chicken
+ZH 水平平铺 MDI 窗口
 
 // MENU:246
 EN Tile MDI windows vertically
-ZH Chicken chicken chicken chicken
+ZH 垂直平铺 MDI 窗口
 
 // MENU:248
 EN Arrange icons
-ZH Chicken chicken
+ZH 排列图标
 
 // MENU:250
 EN Close all MDI windows
-ZH Chicken chicken chicken
+ZH 关闭所有 MDI 窗口
 
 // MENU:252
 EN Maximize or restore active MDI
-ZH Chicken chicken chicken chicken
+ZH 最大化或回复活动的 MDI 窗口
 
 // MENU:254
 EN Go to previous MDI window
-ZH Chicken chicken chicken
+ZH 激活上一个 MDI 窗口
 
 // MENU:256
 EN Go to next MDI window
-ZH Chicken chicken chicken
+ZH 激活下一个 MDI 窗口
 
 // MENU:259
 EN Main menu: Help
-ZH Chicken: Chic
+ZH 主菜单: 帮助
 
 // MENU:261
 EN Open About dialog
-ZH Chicken chicken
+ZH 打开关于对话框
 
 // MENU:264
 EN Generic table shortcuts
@@ -8251,23 +8251,23 @@ ZH Chicken chicken chicken
 
 // MENU:271
 EN Update
-ZH Chicken
+ZH 更新
 
 // MENU:273
 EN Copy
-ZH Chic
+ZH 复制
 
 // MENU:275
 EN Copy all
-ZH Chicken
+ZH 复制全部
 
 // MENU:277
 EN Cut
-ZH Chi
+ZH 剪切
 
 // MENU:279
 EN Paste
-ZH Chicken
+ZH 粘贴
 
 // MENU:281
 EN Make MDI window topmost
@@ -8275,15 +8275,15 @@ ZH Chicken chicken chicken
 
 // MENU:283
 EN Periodically update contents of window
-ZH Chicken chicken chicken chicken chicken
+ZH 定期更新窗口内容
 
 // MENU:285
 EN Show or hide bar
-ZH Chicken chicken
+ZH 显示或隐藏栏
 
 // MENU:287
 EN Show or hide horizontal scrollbar
-ZH Chicken chicken chicken chicken
+ZH 显示或隐藏水平滚动栏
 
 // MENU:289
 EN Resize all columns to default width
@@ -8339,7 +8339,7 @@ ZH Chicken chicken chicken 0chi
 
 // MENU:326
 EN Select all
-ZH Chicken
+ZH 全选
 
 // MENU:328
 EN Select procedure or structure
@@ -8359,7 +8359,7 @@ ZH Chicken chicken chicken
 
 // MENU:342
 EN Save file to disk
-ZH Chicken chicken
+ZH 保存文件到磁盘
 
 // MENU:345
 EN Dump: Breakpoints (shared by other windows)
@@ -8923,19 +8923,19 @@ ZH Chicken chicken chicken
 
 // MENU:692
 EN Suspend thread
-ZH Chicken chicken
+ZH 挂起线程
 
 // MENU:694
 EN Resume thread
-ZH Chicken chicken
+ZH 恢复线程
 
 // MENU:696
 EN Kill thread
-ZH Chicken chicken
+ZH 杀死线程
 
 // MENU:699
 EN Watches
-ZH Chicken
+ZH 监视
 
 // MENU:701
 EN Insert watch
@@ -8975,7 +8975,7 @@ ZH Chicken chicken chicken chicken
 
 // MENU:720
 EN Search results
-ZH Chicken chicken
+ZH 搜索结果
 
 // MENU:722
 EN Follow selected found item in CPU Disassembler
@@ -9027,7 +9027,7 @@ ZH Chicken chicken chicken chicken chicken chicken
 
 // MENU:747
 EN Run trace
-ZH Chicken
+ZH Run 跟踪
 
 // MENU:749
 EN Follow previous run trace record in Disassembler
@@ -9135,11 +9135,11 @@ ZH Chicken chicken chicken chicken
 
 // MENU:804
 EN Breakpoint lists
-ZH Chicken chicken
+ZH 断点列表
 
 // MENU:806
 EN Delete breakpoint
-ZH Chicken chicken
+ZH 删除断点
 
 // MENU:808
 EN Enable or disable reakpoint
@@ -9195,7 +9195,7 @@ ZH Chicken chicken chicken chicken chicken
 
 // MENU:847
 EN Call stack
-ZH Chicken
+ZH 调用堆栈
 
 // MENU:851
 EN Follow procedure in CPU Disassember
@@ -9227,19 +9227,19 @@ ZH Chicken chicken chicken chicken chicken
 
 // MENU:911
 EN Ctrl+
-ZH Chic+
+ZH Ctrl+
 
 // MENU:913
 EN Alt+
-ZH Chi+
+ZH Alt+
 
 // MENU:915
 EN Win+
-ZH Chi+
+ZH Win+
 
 // MENU:917
 EN Shift+
-ZH Chicken+
+ZH Shift+
 
 // MENU:930
 EN Space
@@ -9347,7 +9347,7 @@ ZH Chicken:
 
 // MENU:1277
 EN Ctrl +
-ZH Chic +
+ZH Ctrl +
 
 // MENU:1278
 EN Shortcut includes Control key
@@ -9355,7 +9355,7 @@ ZH Chicken chicken chicken chicken
 
 // MENU:1280
 EN Alt +
-ZH Chi +
+ZH Alt +
 
 // MENU:1281
 EN Shortcut includes Alt key
@@ -9363,7 +9363,7 @@ ZH Chicken chicken chicken
 
 // MENU:1283
 EN Win +
-ZH Chi +
+ZH Win +
 
 // MENU:1284
 EN Shortcut includes Flying Windows key
@@ -9371,7 +9371,7 @@ ZH Chicken chicken chicken chicken chicken
 
 // MENU:1286
 EN Shift +
-ZH Chicken +
+ZH Shift +
 
 // MENU:1287
 EN Shortcut includes Shift key
@@ -9383,7 +9383,7 @@ ZH Chicken chicken chicken
 
 // MENU:1292
 EN Apply
-ZH Chicken
+ZH 应用
 
 // MENU:1293
 EN Press to apply shortcut
@@ -9407,7 +9407,7 @@ ZH Chicken chicken chicken
 
 // MENU:1304
 EN Restore defaults
-ZH Chicken chicken
+ZH 恢复默认
 
 // MENU:1305
 EN Restore default OllyDbg shortcuts
@@ -10087,15 +10087,15 @@ ZH Chicken chicken .Chicken chicken chicken chicken chicken2. Chicken chicken ch
 
 // OLLYMAIN:256
 EN Process paused
-ZH Chicken chicken
+ZH 进程暂停
 
 // OLLYMAIN:260
 EN Process terminated
-ZH Chicken chicken
+ZH 进程终结
 
 // OLLYMAIN:616
 EN Open run trace
-ZH Chicken chicken
+ZH 打开 Run 跟踪
 
 // OLLYMAIN:638
 EN Restore window
@@ -10111,15 +10111,15 @@ ZH 打开(&O)...
 
 // OLLYMAIN:707
 EN Open executable file for debugging
-ZH Chicken chicken chicken chicken
+ZH 打开需要调试的可执行文件
 
 // OLLYMAIN:709
 EN Set new arguments...
-ZH Chicken chicken...
+ZH 设置新参数...
 
 // OLLYMAIN:710
 EN Set command line arguments for the next run
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 设置下次执行时的命令行参数
 
 // OLLYMAIN:712
 EN &Attach...
@@ -10135,7 +10135,7 @@ ZH 分离并退出(&D)
 
 // OLLYMAIN:717
 EN Detach from the debugged process and close OllyDbg
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 从被调试的进程上分离并关闭 OllyDbg
 
 // OLLYMAIN:719
 EN E&xit
@@ -10143,11 +10143,11 @@ ZH 退出(&X)
 
 // OLLYMAIN:723
 EN Reopen last debugged application
-ZH Chicken chicken chicken chicken
+ZH 重新打开上次调试的程序
 
 // OLLYMAIN:725
 EN Open selected file
-ZH Chicken chicken
+ZH 打开选中文件
 
 // OLLYMAIN:747
 EN &Log
@@ -10195,11 +10195,11 @@ ZH VEH/SEH 链
 
 // OLLYMAIN:775
 EN Open list of installed exception handlers
-ZH Chicken chicken chicken chicken chicken
+ZH 打开已安装的异常处理程序的列表
 
 // OLLYMAIN:777
 EN Open Calls stack window
-ZH Chicken chicken chicken
+ZH 打开调用堆栈窗口
 
 // OLLYMAIN:779
 EN &Source files
@@ -10215,11 +10215,11 @@ ZH 查看文件
 
 // OLLYMAIN:783
 EN Drive...
-ZH Chicken...
+ZH 驱动器...
 
 // OLLYMAIN:783
 EN View physical sectors on the disk
-ZH Chicken chicken chicken chicken
+ZH 查看磁盘上的物理分区
 
 // OLLYMAIN:789
 EN &Run
@@ -10227,11 +10227,11 @@ ZH 运行(&R)
 
 // OLLYMAIN:789
 EN Run debugged application (all threads)
-ZH Chicken chicken chicken (chicken chicken)
+ZH 运行被调试的程序 (所有线程)
 
 // OLLYMAIN:791
 EN Run thread
-ZH Chicken
+ZH 运行线程
 
 // OLLYMAIN:793
 EN &Pause
@@ -10243,7 +10243,7 @@ ZH 步入(&I)
 
 // OLLYMAIN:795
 EN Execute single command entering subroutines
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 执行单个指令或进入子程序
 
 // OLLYMAIN:797
 EN Step &over
@@ -10251,19 +10251,19 @@ ZH 步过(&O)
 
 // OLLYMAIN:797
 EN Execute single command or call
-ZH Chicken chicken chicken chicken
+ZH 执行单个指令或调用
 
 // OLLYMAIN:799
 EN Run program till next return
-ZH Chicken chicken chicken chicken
+ZH 执行程序到下次返回
 
 // OLLYMAIN:801
 EN Run program till exit from system DLLs
-ZH Chicken chicken chicken chicken chicken
+ZH 执行程序直到从系统 DLL 退出
 
 // OLLYMAIN:803
 EN Call procedure exported by DLL
-ZH Chicken chicken chicken chicken
+ZH 调用 DLL 导出的程序
 
 // OLLYMAIN:805
 EN Re&start
@@ -10275,23 +10275,23 @@ ZH 关闭(&C)
 
 // OLLYMAIN:809
 EN Set affinity
-ZH Chicken chicken
+ZH 设置亲和性
 
 // OLLYMAIN:809
 EN Set list of CPUs for debugged application
-ZH Chicken chicken chicken chicken chicken
+ZH 设置用来调试程序的 CPU 列表
 
 // OLLYMAIN:811
 EN Create function library
-ZH Chicken chicken chicken
+ZH 创建函数库
 
 // OLLYMAIN:817
 EN Open or reopen run trace with new parameters
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 使用新参数打开或重打开 Run 跟踪
 
 // OLLYMAIN:819
 EN Close run trace
-ZH Chicken chicken
+ZH 关闭 Run 跟踪
 
 // OLLYMAIN:819
 EN Close run trace protocolling
@@ -10323,7 +10323,7 @@ ZH Chicken chicken chicken chicken chicken chicken
 
 // OLLYMAIN:833
 EN Discard hit trace
-ZH Chicken chicken
+ZH 忽略 Hit 跟踪
 
 // OLLYMAIN:833
 EN Discard gathered hit trace data
@@ -10331,11 +10331,11 @@ ZH Chicken chicken chicken chicken
 
 // OLLYMAIN:835
 EN Set condition...
-ZH Chicken chicken...
+ZH 设置条件...
 
 // OLLYMAIN:835
 EN Set trace break conditions
-ZH Chicken chicken chicken
+ZH 设置跟踪断点条件
 
 // OLLYMAIN:837
 EN Set protocol...
@@ -10347,7 +10347,7 @@ ZH Chicken chicken chicken chicken chicken chicken
 
 // OLLYMAIN:843
 EN Plugin menu
-ZH Chicken chicken
+ZH 插件菜单
 
 // OLLYMAIN:849
 EN &Options...
@@ -10355,11 +10355,11 @@ ZH 选项(&O)...
 
 // OLLYMAIN:849
 EN Set OllyDbg options
-ZH Chicken chicken chicken
+ZH 设置 OllyDbg 选项
 
 // OLLYMAIN:851
 EN Load options...
-ZH Chicken chicken...
+ZH 加载选项...
 
 // OLLYMAIN:852
 EN Load OllyDbg options from different initialization file
@@ -10367,7 +10367,7 @@ ZH Chicken chicken chicken chicken chicken chicken chicken
 
 // OLLYMAIN:854
 EN Save options...
-ZH Chicken chicken...
+ZH 保存选项...
 
 // OLLYMAIN:855
 EN Save OllyDbg options to different initialization file
@@ -10379,7 +10379,7 @@ ZH 插件选项(&P)...
 
 // OLLYMAIN:857
 EN Set plugin options
-ZH Chicken chicken
+ZH 设置插件选项
 
 // OLLYMAIN:859
 EN &Edit shortcuts...
@@ -10387,7 +10387,7 @@ ZH 编辑快捷键(&E)...
 
 // OLLYMAIN:859
 EN Customize keyboard shortcuts
-ZH Chicken chicken chicken chicken
+ZH 自定义键盘快捷键
 
 // OLLYMAIN:865
 EN Always on &top
@@ -10395,7 +10395,7 @@ ZH 总在最前(&T)
 
 // OLLYMAIN:865
 EN Toggle topmost status of main OllyDbg window
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 切换 OllyDbg 主窗口最前状态
 
 // OLLYMAIN:867
 EN &Cascade
@@ -10415,7 +10415,7 @@ ZH 排列图标(&I)
 
 // OLLYMAIN:873
 EN Arrange minimized MDI windows
-ZH Chicken chicken chicken chicken
+ZH 排列最小化 MDI 窗口
 
 // OLLYMAIN:875
 EN Close all
@@ -10423,11 +10423,11 @@ ZH 关闭所有
 
 // OLLYMAIN:875
 EN Close all data windows
-ZH Chicken chicken chicken
+ZH 关闭所有数据窗口
 
 // OLLYMAIN:877
 EN Toggle between maximized and restored window state
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 切换最大化和恢复窗口状态
 
 // OLLYMAIN:879
 EN Previous
@@ -10435,7 +10435,7 @@ ZH 上一个
 
 // OLLYMAIN:879
 EN Activate previous window
-ZH Chicken chicken chicken
+ZH 激活上一个窗口
 
 // OLLYMAIN:881
 EN Next
@@ -10443,7 +10443,7 @@ ZH 下一个
 
 // OLLYMAIN:881
 EN Activate next window
-ZH Chicken chicken chicken
+ZH 激活下一个窗口
 
 // OLLYMAIN:887
 EN &About...
@@ -10451,7 +10451,7 @@ ZH 关于(&A)...
 
 // OLLYMAIN:887
 EN Show version and copyright information
-ZH Chicken chicken chicken chicken chicken
+ZH 显示版本和版权信息
 
 // OLLYMAIN:889
 EN License
@@ -10459,7 +10459,7 @@ ZH 许可证
 
 // OLLYMAIN:889
 EN Show License Agreement
-ZH Chicken chicken chicken
+ZH 显示许可证协议
 
 // OLLYMAIN:895
 EN &File
@@ -10467,7 +10467,7 @@ ZH 文件(&F)
 
 // OLLYMAIN:895
 EN Select file or process to debug
-ZH Chicken chicken chicken chicken
+ZH 选择要调试的文件或进程
 
 // OLLYMAIN:897
 EN &View
@@ -10483,7 +10483,7 @@ ZH 调试(&D)
 
 // OLLYMAIN:899
 EN Debugging functions
-ZH Chicken chicken chicken
+ZH 调试功能
 
 // OLLYMAIN:901
 EN &Trace
@@ -10491,7 +10491,7 @@ ZH 跟踪(&T)
 
 // OLLYMAIN:901
 EN Run trace functions
-ZH Chicken chicken chicken
+ZH Run 跟踪功能
 
 // OLLYMAIN:903
 EN &Plugins
@@ -10499,7 +10499,7 @@ ZH 插件(&P)
 
 // OLLYMAIN:903
 EN Plugin functions
-ZH Chicken chicken
+ZH 插件功能
 
 // OLLYMAIN:905
 EN &Options
@@ -10507,7 +10507,7 @@ ZH 选项(&O)
 
 // OLLYMAIN:905
 EN Set options
-ZH Chicken chicken
+ZH 设置选项
 
 // OLLYMAIN:907
 EN &Windows
@@ -10515,7 +10515,7 @@ ZH 窗口(&W)
 
 // OLLYMAIN:907
 EN Manipulate windows
-ZH Chicken chicken
+ZH 操作窗口
 
 // OLLYMAIN:909
 EN &Help
@@ -10523,7 +10523,7 @@ ZH 帮助(&H)
 
 // OLLYMAIN:909
 EN Help functions
-ZH Chicken chicken
+ZH 帮助功能
 
 // OLLYMAIN:1054
 EN WM_DESTROY from different process ignored
@@ -10551,11 +10551,11 @@ ZH Chi
 
 // OLLYMAIN:1657
 EN Ready
-ZH Chicken
+ZH 就绪
 
 // OLLYMAIN:1661
 EN Loading
-ZH Chicken
+ZH 加载中
 
 // OLLYMAIN:1665
 EN Attaching
@@ -10571,15 +10571,15 @@ ZH Chicken
 
 // OLLYMAIN:1675
 EN Thread
-ZH Chicken
+ZH 线程
 
 // OLLYMAIN:1677
 EN Running
-ZH Chicken
+ZH 运行中
 
 // OLLYMAIN:1682
 EN Step in
-ZH Chicken
+ZH 单步步入
 
 // OLLYMAIN:1691
 EN Animating
