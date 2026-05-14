@@ -26,7 +26,7 @@ ZH <translation>
 
 ## Translation style
 
-Follow **Microsoft Simplified Chinese Style Guide**.
+Follow **Microsoft Simplified Chinese Style Guide** for terminology and tone, with **one deliberate deviation: selective halfwidth ASCII punctuation** for labels, tooltips, and short messages (see Punctuation section).
 
 ### Pre-flight per entry / per section
 1. `grep` the file for related EN strings — many terms appear in multiple entries (menu labels, error messages, tooltips). Translate consistently.
@@ -34,12 +34,28 @@ Follow **Microsoft Simplified Chinese Style Guide**.
 3. Before inventing a new term, scan the 437 existing translations and the terminology table below.
 
 ### Punctuation
-- Sentence punctuation in Chinese text: fullwidth `，。！？：；`
-- Parentheses around Chinese-led content: fullwidth `（）`
-- Parentheses around code, English, format specifiers, version numbers, file extensions: halfwidth `()` — e.g. `(*.exe,*.dll)`, `(%i.%02i.%04i)`
-- No space between Chinese characters and fullwidth punctuation
-- Source ASCII `, . ! : ;` in Chinese-led sentences → translate to fullwidth equivalents
-- Preserve trailing source punctuation: `Foo!` → `XX！`, `Foo...` → `XX...`(halfwidth ellipsis kept verbatim is common; either is fine)
+
+Tested 2026-05-14 in OllyDbg's Shortcut editor: fullwidth glyphs look bloated/awkward in OllyDbg's bitmap fonts. Use halfwidth for short strings, fullwidth only for multi-sentence prose where the visual rhythm of `，。` actually helps readability.
+
+**Halfwidth (default — use for labels, tooltips, single-sentence messages, parentheticals):**
+- `,` `.` `!` `?` `:` `;` followed by halfwidth space
+- `()` parens regardless of whether content is Chinese, English, or code
+- Trailing `...` ellipsis preserved as-is
+- Examples:
+  - `主菜单: 文件`
+  - `内存不足!`
+  - `缺少 SYMSRV.DLL, Microsoft 符号服务器已停用`
+  - `运行被调试的程序 (所有线程)`
+  - `插件 '%s' (文件 '%s') 初始化失败`
+
+**Fullwidth (only when source has 2+ sentence-ending marks `. ! ?` — multi-sentence dialog body text):**
+- `，。！？：；（）` for sentence punctuation
+- No space between Chinese characters and fullwidth punctuation (fullwidth glyphs include their own spacing)
+- Examples:
+  - `无法获取 .NET 调试接口 ICorDebugProcess2。这实际上使调试无法进行。例如，任何断点（包括临时断点）都可能导致死锁。`
+  - `跳转表内存不足。跳转路径和调用树中将遗漏部分调用和跳转。`
+
+**Decision heuristic:** if it's one short string that fits in a status bar, label, tooltip, or dialog item — halfwidth. If it's multiple sentences in a dialog body — fullwidth.
 
 ### Format specifiers and inline code
 - Preserve `%s`, `%i`, `%02X`, `%08X`, `%.200S` etc. verbatim in original position

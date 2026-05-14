@@ -1675,23 +1675,23 @@ ZH Chicken chicken chicken
 
 // DBGHELP:136
 EN DBGHELP.DLL is too old, debugging data will be ignored
-ZH DBGHELP.DLL 版本过旧，将忽略调试数据
+ZH DBGHELP.DLL 版本过旧, 将忽略调试数据
 
 // DBGHELP:151
 EN Missing SYMSRV.DLL, Microsoft Symbol Server is deactivated
-ZH 缺少 SYMSRV.DLL，Microsoft 符号服务器已停用
+ZH 缺少 SYMSRV.DLL, Microsoft 符号服务器已停用
 
 // DBGHELP:155
 EN Old SYMSRV.DLL, Microsoft Symbol Server may be unreachable
-ZH SYMSRV.DLL 版本过旧，Microsoft 符号服务器可能无法访问
+ZH SYMSRV.DLL 版本过旧, Microsoft 符号服务器可能无法访问
 
 // DBGHELP:243
 EN Accessing Microsoft Symbol Server (module '%s'), this may take a while...
-ZH 正在访问 Microsoft 符号服务器（模块 '%s'），可能需要一段时间...
+ZH 正在访问 Microsoft 符号服务器 (模块 '%s'), 可能需要一段时间...
 
 // DBGHELP:255
 EN PDB file: '%s'
-ZH PDB 文件：'%s'
+ZH PDB 文件: '%s'
 
 // DBGHELP:270
 EN Debugging information in %s format is available
@@ -7355,7 +7355,7 @@ ZH 结构 %s 位于
 
 // JUMPDATA:183
 EN Low memory!
-ZH 内存不足！
+ZH 内存不足!
 
 // JUMPDATA:185
 EN Out of memory in jump table. Some calls and jumps will be missed in Jump path and Call tree.
@@ -13279,15 +13279,15 @@ ZH 插件 '%s' 的版本不兼容 (%i.%02i.%04i)
 
 // PLUGINS:295
 EN Plugin '%s' (file '%s') failed to initialize
-ZH 插件 '%s'（文件 '%s'）初始化失败
+ZH 插件 '%s' (文件 '%s') 初始化失败
 
 // PLUGINS:387
 EN Installed plugins:
-ZH 已安装的插件：
+ZH 已安装的插件:
 
 // PLUGINS:391
 EN %s (version %s, file '%s')
-ZH %s（版本 %s，文件 '%s'）
+ZH %s (版本 %s, 文件 '%s')
 
 // REGS:206
 EN LastErr
