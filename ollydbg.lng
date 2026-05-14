@@ -7339,27 +7339,27 @@ ZH 句柄
 
 // HELP:966
 EN Command help
-ZH Chicken chicken
+ZH 指令帮助
 
 // HELP:970
 EN Help
-ZH Chic
+ZH 帮助
 
 // HELP:1110
 EN Help on item
-ZH Chicken chicken
+ZH 当前项帮助
 
 // INSPECT:33
 EN Structure %s at
-ZH Chicken %s ch
+ZH 结构 %s 位于
 
 // JUMPDATA:183
 EN Low memory!
-ZH Chicken!
+ZH 内存不足！
 
 // JUMPDATA:185
 EN Out of memory in jump table. Some calls and jumps will be missed in Jump path and Call tree.
-ZH Chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH 跳转表内存不足。跳转路径和调用树中将遗漏部分调用和跳转。
 
 // LIBSCAN:86
 EN Not a standard function library
@@ -10079,11 +10079,11 @@ ZH Chicken
 
 // NETASM:1139
 EN Command crosses end of code block
-ZH Chicken chicken chicken chicken
+ZH 指令跨越代码块末尾
 
 // NETDBG:599
 EN Unable to get .NET debugging interface ICorDebugProcess2. This makes debugging practically impossible. For example, any breakpoint (also temporary) may lead to deadlock. You may try to continue, but I recommend to restart in native debugging mode.
-ZH Chicken chicken .Chicken chicken chicken chicken chicken2. Chicken chicken chicken chicken chicken chicken. Chicken chicken, chicken chicken (chicken chicken) chicken chicken chicken. Chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken.
+ZH 无法获取 .NET 调试接口 ICorDebugProcess2。这实际上使调试无法进行。例如，任何断点（包括临时断点）都可能导致死锁。您可以尝试继续，但建议以原生调试模式重新启动。
 
 // OLLYMAIN:256
 EN Process paused
@@ -14299,7 +14299,7 @@ ZH Chicken = %s
 
 // SAPI:25
 EN Hello. Speech interface is on.
-ZH Chicken. Chicken chicken chicken.
+ZH 你好。语音接口已开启。
 
 // SAPI:69
 EN Good-bye!
