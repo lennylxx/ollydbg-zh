@@ -1087,75 +1087,75 @@ ZH Chicken chicken chicken
 
 // BPMEM:39
 EN Memory protection attributes in memory breakpoint are changed
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 内存断点的内存保护属性已更改
 
 // BPMEM:43
 EN Old protection: %08X %s
-ZH Chicken chicken: %08X %s
+ZH 旧保护: %08X %s
 
 // BPMEM:45
 EN New protection: %08X %s
-ZH Chicken chicken: %08X %s
+ZH 新保护: %08X %s
 
 // BPMEM:191
 EN Memory breakpoint on stack
-ZH Chicken chicken chicken
+ZH 堆栈上的内存断点
 
 // BPMEM:195
 EN You are going to set memory breakpoint on stack. As long as this breakpoint is active, some system calls may fail, terminating the applicatin or changing its behaviour. Do you still want to set this breakpoint?
-ZH Chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken, chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken?
+ZH 您将在堆栈上设置内存断点。只要此断点处于激活状态，部分系统调用可能会失败，从而终止程序或改变其行为。仍要设置此断点吗？
 
 // BPMEM:388
 EN Delete memory breakpoint
-ZH Chicken chicken chicken
+ZH 删除内存断点
 
 // BPMEM:393
 EN Re-enable memory breakpoint
-ZH Ch-chicken chicken chicken
+ZH 重新启用内存断点
 
 // BPMEM:398
 EN Follow breakpoint in the CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编面板中跟随断点
 
 // BPMEM:400
 EN Follow breakpoint in the CPU Dump pane
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据面板中跟随断点
 
 // BPMEM:402
 EN Disable all memory breakpoints
-ZH Chicken chicken chicken chicken
+ZH 禁用所有内存断点
 
 // BPMEM:404
 EN Re-enable all memory breakpoints
-ZH Ch-chicken chicken chicken chicken
+ZH 重新启用所有内存断点
 
 // BPMEM:521
 EN <none - not kept between sessions>
-ZH <chic - chicken chicken chicken>
+ZH <无 - 会话间不保留>
 
 // BPMEM:573
 EN Address of the memory breakpoint
-ZH Chicken chicken chicken chicken
+ZH 内存断点的地址
 
 // BPMEM:576
 EN Size$    (Decimal)
-ZH Chic$    (Chicken)
+ZH 大小$    (十进制)
 
 // BPMEM:577
 EN Size of the memory area covered by the breakpoint
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 断点覆盖的内存区域大小
 
 // BPMEM:585
 EN Type of the memory breakpoint
-ZH Chicken chicken chicken chicken
+ZH 内存断点的类型
 
 // BPMEM:589
 EN Status of the memory breakpoint
-ZH Chicken chicken chicken chicken
+ZH 内存断点的状态
 
 // BPMEM:608
 EN Memory breakpoints
-ZH Chicken chicken
+ZH 内存断点
 
 // BREAKS:152
 EN Corrupt breakpoint
