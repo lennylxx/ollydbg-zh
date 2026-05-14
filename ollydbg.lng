@@ -1675,27 +1675,27 @@ ZH Chicken chicken chicken
 
 // DBGHELP:136
 EN DBGHELP.DLL is too old, debugging data will be ignored
-ZH CHICKEN.Chicken chicken, chicken chicken chicken chicken
+ZH DBGHELP.DLL 版本过旧，将忽略调试数据
 
 // DBGHELP:151
 EN Missing SYMSRV.DLL, Microsoft Symbol Server is deactivated
-ZH Chicken chicken.CHI, Chicken chicken chicken chicken chicken
+ZH 缺少 SYMSRV.DLL，Microsoft 符号服务器已停用
 
 // DBGHELP:155
 EN Old SYMSRV.DLL, Microsoft Symbol Server may be unreachable
-ZH Chicken.CHI, Chicken chicken chicken chicken chicken
+ZH SYMSRV.DLL 版本过旧，Microsoft 符号服务器可能无法访问
 
 // DBGHELP:243
 EN Accessing Microsoft Symbol Server (module '%s'), this may take a while...
-ZH Chicken chicken chicken chicken (chicken '%s'), chicken chicken chicken...
+ZH 正在访问 Microsoft 符号服务器（模块 '%s'），可能需要一段时间...
 
 // DBGHELP:255
 EN PDB file: '%s'
-ZH Chicken: '%s'
+ZH PDB 文件：'%s'
 
 // DBGHELP:270
 EN Debugging information in %s format is available
-ZH Chicken chicken chicken %s chicken chicken chicken
+ZH 提供 %s 格式的调试信息
 
 // DEBUG:393
 EN Modified debug registers of
