@@ -14803,59 +14803,59 @@ ZH Chicken chicken chicken chicken
 
 // SOURCE:469
 EN &Follow in Disassembler
-ZH &Chicken chicken chicken
+ZH 在反汇编器中跟随(&F)
 
 // SOURCE:470
 EN Follow selected line in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编器中跟随所选行
 
 // SOURCE:473
 EN Set unconditional breakpoint on every extent of the selected line
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在所选行的每个代码段上设置无条件断点
 
 // SOURCE:476
 EN Set conditional breakpoint on every extent of the selected line
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在所选行的每个代码段上设置条件断点
 
 // SOURCE:480
 EN Set conditional logging breakpoint on every extent of the selected line
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在所选行的每个代码段上设置条件记录断点
 
 // SOURCE:483
 EN Remove all breakpoints from the selected source line
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 删除所选源代码行的所有断点
 
 // SOURCE:486
 EN Temporarily disable all breakpoints on selected source line
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 临时禁用所选源代码行的所有断点
 
 // SOURCE:489
 EN Re-enable breakpoints on selected source line
-ZH Ch-chicken chicken chicken chicken chicken
+ZH 重新启用所选源代码行的断点
 
 // SOURCE:639
 EN Line
-ZH Chic
+ZH 行
 
 // SOURCE:640
 EN Line number
-ZH Chicken chicken
+ZH 行号
 
 // SOURCE:836
 EN Module containing source file
-ZH Chicken chicken chicken chicken
+ZH 包含源文件的模块
 
 // SOURCE:840
 EN Name of the source file
-ZH Chicken chicken chicken
+ZH 源文件名称
 
 // SOURCE:844
 EN Full name of source file, including path
-ZH Chicken chicken chicken, chicken chicken
+ZH 源文件的完整名称, 包含路径
 
 // SOURCE:859
 EN Source files
-ZH Chicken chicken
+ZH 源文件
 
 // SPEECH:119
 EN plus
