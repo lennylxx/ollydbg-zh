@@ -1,1 +1,1 @@
-*.lng filter=utf16le
+*.lng text eol=crlf working-tree-encoding=UTF-16LE-BOM

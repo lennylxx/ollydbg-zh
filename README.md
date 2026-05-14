@@ -10,13 +10,8 @@ How to use
 
 Contributing
 ------------
-1. Clone this repo.
+Clone this repo. Git will automatically check out `ollydbg.lng` as UTF-16 LE with BOM and CRLF (required by OllyDbg) via the `working-tree-encoding` attribute. Requires git 2.10 or newer.
 
-  ```
-  git clone https://github.com/lennylxx/ollydbg-zh
-  ```
-2. Run the script to make git process UTF-16 LE and checkout the real file.
-
-  ```
-  ./setup-git.sh
-  ```
+```
+git clone https://github.com/lennylxx/ollydbg-zh
+```
