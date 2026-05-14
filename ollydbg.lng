@@ -1635,43 +1635,43 @@ ZH chicken
 
 // DATA:263
 EN Data table full, some data will be lost!
-ZH Chicken chicken, chicken chicken chicken!
+ZH 数据表已满, 部分数据将丢失!
 
 // DATA:1699
 EN Bad input data
-ZH Chicken chicken
+ZH 输入数据错误
 
 // DATA:1728
 EN Unknown module
-ZH Chicken chicken
+ZH 未知模块
 
 // DATA:1741
 EN Invalid import name
-ZH Chicken chicken chicken
+ZH 无效的导入名称
 
 // DATA:1754
 EN Please specify module
-ZH Chicken chicken chicken
+ZH 请指定模块
 
 // DATA:1762
 EN Invalid ordinal
-ZH Chicken chicken
+ZH 无效的序号
 
 // DATA:1766
 EN Extra characters in name
-ZH Chicken chicken chicken
+ZH 名称中包含多余字符
 
 // DATA:1820
 EN Ordinal not found
-ZH Chicken chicken
+ZH 未找到序号
 
 // DATA:1843
 EN Unknown import
-ZH Chicken chicken
+ZH 未知导入
 
 // DATA:1850
 EN Ordinal not imported
-ZH Chicken chicken chicken
+ZH 序号未导入
 
 // DBGHELP:136
 EN DBGHELP.DLL is too old, debugging data will be ignored
