@@ -7547,63 +7547,63 @@ ZH Chicken chicken
 
 // LIST:310
 EN Select log file
-ZH Chicken chicken
+ZH 选择日志文件
 
 // LIST:314
 EN Unable to open log file '%s'
-ZH Chicken chicken chicken '%s'
+ZH 无法打开日志文件 '%s'
 
 // LIST:337
 EN Show address in CPU Disassembler pane
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编面板中显示地址
 
 // LIST:339
 EN Follow in CPU Dump
-ZH Chicken chicken
+ZH 在 CPU 数据面板中跟随
 
 // LIST:339
 EN Show address in CPU Dump pane
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 数据面板中显示地址
 
 // LIST:341
 EN Follow in CPU Stack
-ZH Chicken chicken chicken
+ZH 在 CPU 堆栈面板中跟随
 
 // LIST:341
 EN Show address in CPU Stack pane
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 堆栈面板中显示地址
 
 // LIST:343
 EN Clear log
-ZH Chicken
+ZH 清除日志
 
 // LIST:343
 EN Empty log window (doesn't influence log file)
-ZH Chicken chicken (chicken'chicken chicken chicken)
+ZH 清空日志窗口 (不影响日志文件)
 
 // LIST:345
 EN Log to file...
-ZH Chicken chicken...
+ZH 记录到文件...
 
 // LIST:345
 EN Start writing new log data to the file
-ZH Chicken chicken chicken chicken chicken
+ZH 开始向文件写入新的日志数据
 
 // LIST:347
 EN Stop logging
-ZH Chicken chicken
+ZH 停止记录
 
 // LIST:347
 EN Close log file
-ZH Chicken chicken
+ZH 关闭日志文件
 
 // LIST:395
 EN Memory address associated with message
-ZH Chicken chicken chicken chicken chicken
+ZH 与消息关联的内存地址
 
 // LIST:423
 EN Log data
-ZH Chicken
+ZH 日志数据
 
 // MEMORY:264
 EN Invalidating non-flushed cache!
