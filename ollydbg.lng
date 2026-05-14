@@ -14307,47 +14307,47 @@ ZH Chic-chi!
 
 // SCANNER:123
 EN Unterminated string
-ZH Chicken chicken chicken
+ZH 字符串未终止
 
 // SCANNER:133
 EN String is too long
-ZH Chicken chicken
+ZH 字符串过长
 
 // SCANNER:149
 EN Hex escape must have two digits
-ZH Chicken chicken chicken chicken
+ZH 十六进制转义需要两位数字
 
 // SCANNER:158
 EN Unsupported escape sequence
-ZH Chicken chicken chicken chicken
+ZH 不支持的转义序列
 
 // SCANNER:166
 EN Unterminated character constant
-ZH Chicken chicken chicken chicken
+ZH 字符常量未终止
 
 // SCANNER:170
 EN UNICODE character constants are not allowed
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 不允许使用 UNICODE 字符常量
 
 // SCANNER:209
 EN End of comment outside the comment
-ZH Chicken chicken chicken chicken
+ZH 注释外出现注释结束符
 
 // SCANNER:349
 EN Masked decimal numbers are not allowed
-ZH Chicken chicken chicken chicken chicken
+ZH 不允许使用带掩码的十进制数
 
 // SCANNER:370
 EN Invalid floating-point exponent
-ZH Chicken chicken-chicken chicken
+ZH 无效的浮点指数
 
 // SCANNER:406
 EN Prefix 0x and suffix h are mutually exclusive
-ZH Chicken 0chicken chicken chicken chicken chicken
+ZH 前缀 0x 与后缀 h 互斥
 
 // SCANNER:417
 EN Invalid or out-of-range number
-ZH Chicken chicken-ch-chicken chicken
+ZH 数值无效或超出范围
 
 // SEARCH:68
 EN Address of found item
