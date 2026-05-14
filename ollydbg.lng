@@ -16111,47 +16111,47 @@ ZH Chicken
 
 // UDD:183
 EN Select .udd file
-ZH Chicken .chicken
+ZH 选择 .udd 文件
 
 // UDD:203
 EN Saving .udd data for '%s'
-ZH Chicken .chicken chicken '%s'
+ZH 正在保存 '%s' 的 .udd 数据
 
 // UDD:738
 EN Invalid or missing file '%s'
-ZH Chicken chicken chicken '%s'
+ZH 文件 '%s' 无效或不存在
 
 // UDD:741
 EN Module '%s' - loading .udd data
-ZH Chicken '%s' - chicken .chicken
+ZH 模块 '%s' - 正在加载 .udd 数据
 
 // UDD:744
 EN Module '%s' - reloading .udd data
-ZH Chicken '%s' - chicken .chicken
+ZH 模块 '%s' - 正在重新加载 .udd 数据
 
 // UDD:792
 EN Modified executable
-ZH Chicken chicken chicken
+ZH 已修改的可执行文件
 
 // UDD:796
 EN Length of file '%s' differs from that specified in .udd file. Old breakpoints, labels and comments are probably no longer valid. Do you want to use old data from the .udd file?
-ZH Chicken chicken '%s' chicken chicken chicken chicken .chicken. Chicken chicken, chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken .chicken?
+ZH 文件 '%s' 的长度与 .udd 文件中指定的长度不同。旧的断点、标签和注释可能不再有效。是否使用 .udd 文件中的旧数据？
 
 // UDD:839
 EN File '%s' was modified since last debugging session. It may happen that analysis data, breakpoints, labels and comments no longer apply. Do you want to use old data saved in the .udd file?
-ZH Chic '%s' chicken chicken chicken chicken chicken. Chicken chicken chicken chicken, chicken chicken, chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken .chicken?
+ZH 文件 '%s' 自上次调试会话以来已被修改。分析数据、断点、标签和注释可能不再适用。是否使用 .udd 文件中保存的旧数据？
 
 // UDD:1344
 EN Corrupted breakpoints
-ZH Chicken chicken chicken
+ZH 损坏的断点
 
 // UDD:1351
 EN Module '%s' contains corrupted breakpoints, where the first byte of the current command differs from that in the previous debugging session. This happens when program was recompiled, the code is self-modifiable (for example, self-extracting) or when breakpoint was set on the patched code.\n\nFor security reasons, OllyDbg will disable suspicious INT3 breakpoints. You can re-enable them in the Breakpoints window.
-ZH Chicken '%s' chicken chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken, chicken chicken-chicken (chicken chicken, chic-chicken) chicken chicken chicken chicken chicken chicken.\n\nChicken chicken chicken, Chicken chicken chicken chicken chicken3 chicken chicken. Chicken-chicken chicken chicken chicken chicken.
+ZH 模块 '%s' 中存在损坏的断点：这些断点处的指令首字节与上次调试会话中的不同。可能的原因：程序已重新编译，代码具有自修改性（例如自解压代码），或断点设置在已被修补的代码上。\n\n出于安全考虑，OllyDbg 将禁用可疑的 INT3 断点。可在断点窗口中重新启用它们。
 
 // UDD:1356
 EN Error in '%s', analysis data for module %s is incomplete (record %08X)
-ZH Chicken '%s', chicken chicken chicken %s chicken chicken (chicken %08X)
+ZH '%s' 出错, 模块 %s 的分析数据不完整 (记录 %08X)
 
 // WATCHES:132
 EN Edit watch expression
