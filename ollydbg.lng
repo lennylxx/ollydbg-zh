@@ -13271,23 +13271,23 @@ ZH Chicken chicken chicken
 
 // PLUGINS:113
 EN Plugin-specific functions
-ZH Chicken-chicken chicken
+ZH 插件专属功能
 
 // PLUGINS:280
 EN Plugin '%s' has incompatible version (%i.%02i.%04i)
-ZH Chicken '%s' chicken chicken chicken (%i.%02i.%04i)
+ZH 插件 '%s' 的版本不兼容 (%i.%02i.%04i)
 
 // PLUGINS:295
 EN Plugin '%s' (file '%s') failed to initialize
-ZH Chicken '%s' (chic '%s') chicken chicken chicken
+ZH 插件 '%s'（文件 '%s'）初始化失败
 
 // PLUGINS:387
 EN Installed plugins:
-ZH Chicken chicken:
+ZH 已安装的插件：
 
 // PLUGINS:391
 EN %s (version %s, file '%s')
-ZH %s (chicken %s, chic '%s')
+ZH %s（版本 %s，文件 '%s'）
 
 // REGS:206
 EN LastErr
