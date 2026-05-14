@@ -7179,27 +7179,27 @@ ZH , Chicken
 
 // GUIDS:248
 EN Out of memory - unable to process GUIDs in '%s.arg'
-ZH Chicken chicken - chicken chicken chicken '%s.chi'
+ZH 内存不足 - 无法处理 '%s.arg' 中的 GUID
 
 // GUIDS:283
 EN Loading GUIDs from '%s.arg'
-ZH Chicken chicken '%s.chi'
+ZH 正在从 '%s.arg' 加载 GUID
 
 // GUIDS:296
 EN GUID expected
-ZH Chicken chicken
+ZH 需要 GUID
 
 // GUIDS:299
 EN Invalid GUID
-ZH Chicken chicken
+ZH 无效的 GUID
 
 // GUIDS:303
 EN GUID name expected
-ZH Chicken chicken
+ZH 需要 GUID 名称
 
 // GUIDS:379
 EN Total number of GUIDs is %i
-ZH Chicken chicken chicken %i
+ZH GUID 总数: %i
 
 // HANDLES:165
 EN File (pipe)
