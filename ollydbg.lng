@@ -15439,23 +15439,23 @@ ZH 参数描述 (*.arg)
 
 // SUPPORT:2261
 EN Help file (*.hlp,*.chm)
-ZH Chicken (*.chi,*.chi)
+ZH 帮助文件 (*.hlp,*.chm)
 
 // SUPPORT:2263
 EN Binary file (*.bin)
-ZH Chicken chicken (*.chi)
+ZH 二进制文件 (*.bin)
 
 // SUPPORT:2265
 EN User data file (*.udd)
-ZH Chicken chicken (*.chi)
+ZH 用户数据文件 (*.udd)
 
 // SUPPORT:2267
 EN User image library (*.udl)
-ZH Chicken chicken (*.chi)
+ZH 用户映像库 (*.udl)
 
 // SUPPORT:2269
 EN Initialization file (*.ini)
-ZH Chicken chicken chicken (*.chi)
+ZH 初始化文件 (*.ini)
 
 // SUPPORT:2271
 EN %.64s file (%.64s)
@@ -16047,7 +16047,7 @@ ZH 全局分析
 
 // TRACE:1049
 EN Show profile for the whole memory
-ZH Chicken chicken chicken chicken
+ZH 显示整个内存的分析
 
 // TRACE:1205
 EN Turned off
