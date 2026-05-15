@@ -1395,243 +1395,243 @@ ZH void
 
 // CPU:55
 EN Disassembler
-ZH Chicken chicken
+ZH 反汇编
 
 // CPU:58
 EN Info
-ZH Chic
+ZH 信息
 
 // CPU:61
 EN Registers
-ZH Chicken
+ZH 寄存器
 
 // CPU:64
 EN Dump
-ZH Chic
+ZH 数据
 
 // CPU:149
 EN Modify %s
-ZH Chicken %s
+ZH 修改 %s
 
 // CPU:191
 EN Modify 3DNow! register %s
-ZH Chicken 3Chic! chicken %s
+ZH 修改 3DNow! 寄存器 %s
 
 // CPU:232
 EN Edit
-ZH Chic
+ZH 编辑
 
 // CPU:257
 EN byte at
-ZH chicken
+ZH 字节于
 
 // CPU:260
 EN word at
-ZH chicken
+ZH 字于
 
 // CPU:263
 EN dword at
-ZH chicken
+ZH 双字于
 
 // CPU:268
 EN Memory is not readable
-ZH Chicken chicken chicken
+ZH 内存不可读
 
 // CPU:282
 EN 32-bit float
-ZH 32-chicken
+ZH 32 位浮点数
 
 // CPU:285
 EN 64-bit float
-ZH 64-chicken
+ZH 64 位浮点数
 
 // CPU:288
 EN 80-bit float
-ZH 80-chicken
+ZH 80 位浮点数
 
 // CPU:290
 EN at
-ZH ch
+ZH 于
 
 // CPU:303
 EN MMX operand at
-ZH Chicken chicken
+ZH MMX 操作数于
 
 // CPU:311
 EN 3DNow! operand at
-ZH 3Chic! chicken
+ZH 3DNow! 操作数于
 
 // CPU:339
 EN SSE operand at
-ZH Chicken chicken
+ZH SSE 操作数于
 
 // CPU:361
 EN Modify FPU status register
-ZH Chicken chicken chicken
+ZH 修改 FPU 状态寄存器
 
 // CPU:369
 EN Modify FPU control register
-ZH Chicken chicken chicken chicken
+ZH 修改 FPU 控制寄存器
 
 // CPU:377
 EN Modify MXCSR
-ZH Chicken chicken
+ZH 修改 MXCSR
 
 // CPU:464
 EN Go to
-ZH Chicken
+ZH 转到
 
 // CPU:472
 EN jump
-ZH chic
+ZH 跳转
 
 // CPU:474
 EN call
-ZH chic
+ZH 调用
 
 // CPU:477
 EN from %08X
-ZH chic %08X
+ZH 来自 %08X
 
 // CPU:536
 EN Unable to show source
-ZH Chicken chicken chicken
+ZH 无法显示源代码
 
 // CPU:544
 EN Modify...
-ZH Chicken...
+ZH 修改...
 
 // CPU:544
 EN Edit contents of selected operand
-ZH Chicken chicken chicken chicken
+ZH 编辑所选操作数的内容
 
 // CPU:546
 EN Follow
-ZH Chicken
+ZH 跟随
 
 // CPU:546
 EN Follow jump or call destination in Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在反汇编器中跟随跳转或调用目标
 
 // CPU:548
 EN Follow loop
-ZH Chicken chicken
+ZH 跟随循环
 
 // CPU:548
 EN Follow loop in Disassembler
-ZH Chicken chicken chicken chicken
+ZH 在反汇编器中跟随循环
 
 // CPU:550
 EN Follow address in CPU Dump
-ZH Chicken chicken chicken
+ZH 在 CPU 数据面板中跟随地址
 
 // CPU:552
 EN Follow in Stack
-ZH Chicken chicken
+ZH 在堆栈中跟随
 
 // CPU:552
 EN Follow address in CPU Stack
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 堆栈中跟随地址
 
 // CPU:554
 EN Go to jump or call to the first selected command
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 转到跳转或调用到首条所选指令
 
 // CPU:574
 EN List jumps and calls to command...
-ZH Chicken chicken chicken chicken...
+ZH 列出指向指令的跳转和调用...
 
 // CPU:575
 EN List all known jumps and calls to the first selected command
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 列出指向首条所选指令的所有已知跳转和调用
 
 // CPU:577
 EN List destinations...
-ZH Chicken chicken...
+ZH 列出目标...
 
 // CPU:578
 EN List all known destinations of the selected switch
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 列出所选 switch 的所有已知目标
 
 // CPU:580
 EN Follow in Source code
-ZH Chicken chicken chicken
+ZH 在源代码中跟随
 
 // CPU:580
 EN Follow address in Source code window
-ZH Chicken chicken chicken chicken chicken
+ZH 在源代码窗口中跟随地址
 
 // CPU:674
 EN Jump is taken
-ZH Chicken chicken
+ZH 跳转将执行
 
 // CPU:676
 EN Jump is not taken
-ZH Chicken chicken
+ZH 跳转不执行
 
 // CPU:683
 EN Condition is met
-ZH Chicken chicken
+ZH 条件成立
 
 // CPU:685
 EN Condition is not met
-ZH Chicken chicken chicken
+ZH 条件不成立
 
 // CPU:701
 EN returned EAX =
-ZH chicken chicken =
+ZH 返回 EAX =
 
 // CPU:703
 EN Returned EAX =
-ZH Chicken chicken =
+ZH 返回 EAX =
 
 // CPU:758
 EN Jump from
-ZH Chicken
+ZH 跳转自
 
 // CPU:758
 EN Jumps from
-ZH Chicken
+ZH 跳转自
 
 // CPU:777
 EN Local call from
-ZH Chicken chicken
+ZH 本地调用自
 
 // CPU:777
 EN Local calls from
-ZH Chicken chicken
+ZH 本地调用自
 
 // CPU:811
 EN Jumps to
-ZH Chicken
+ZH 跳转至
 
 // CPU:830
 EN Call to
-ZH Chicken
+ZH 调用至
 
 // CPU:830
 EN Calls to
-ZH Chicken
+ZH 调用至
 
 // CPU:919
 EN (current memory state)
-ZH (chicken chicken chicken)
+ZH (当前内存状态)
 
 // CPU:928
 EN (current registers)
-ZH (chicken chicken)
+ZH (当前寄存器)
 
 // CPU:1144
 EN CPU
-ZH CHI
+ZH CPU
 
 // CPU:1276
 EN Run trace %i. step%s back
-ZH Chicken %i. chic%s chic
+ZH Run 跟踪回退 %i. 步%s
 
 // CPU:1290
 EN module
-ZH chicken
+ZH 模块
 
 // DATA:263
 EN Data table full, some data will be lost!
