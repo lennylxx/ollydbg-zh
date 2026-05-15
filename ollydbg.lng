@@ -9511,47 +9511,47 @@ ZH Chicken chicken
 
 // MODULES:130
 EN empty range
-ZH chicken chicken
+ZH 空范围
 
 // MODULES:132
 EN the whole memory
-ZH chicken chicken
+ZH 整个内存
 
 // MODULES:162
 EN Stack of
-ZH Chicken
+ZH 堆栈 - 
 
 // MODULES:166
 EN Data block of
-ZH Chicken chicken
+ZH 数据块 - 
 
 // MODULES:170
 EN Process Environment Block
-ZH Chicken chicken chicken
+ZH 进程环境块
 
 // MODULES:173
 EN User Shared Data
-ZH Chicken chicken
+ZH 用户共享数据
 
 // MODULES:176
 EN Process Parameters Block
-ZH Chicken chicken chicken
+ZH 进程参数块
 
 // MODULES:179
 EN Environment
-ZH Chicken chicken
+ZH 环境变量
 
 // MODULES:182
 EN GDI handles
-ZH Chicken chicken
+ZH GDI 句柄
 
 // MODULES:185
 EN Kernel memory
-ZH Chicken chicken
+ZH 内核内存
 
 // MODULES:340
 EN Unable to save .udd data for '%s'
-ZH Chicken chicken .chicken chicken '%s'
+ZH 无法为 '%s' 保存 .udd 数据
 
 // MODULES:378
 EN (main)
@@ -9559,379 +9559,379 @@ ZH (chic)
 
 // MODULES:381
 EN (loader)
-ZH (chicken)
+ZH (加载器)
 
 // MODULES:383
 EN (debugged DLL)
-ZH (chicken chicken)
+ZH (被调试 DLL)
 
 // MODULES:386
 EN (system)
-ZH (chicken)
+ZH (系统)
 
 // MODULES:406
 EN Hidden
-ZH Chicken
+ZH 隐藏
 
 // MODULES:407
 EN ,hidden
-ZH ,chicken
+ZH ,隐藏
 
 // MODULES:771
 EN Module '%s' (OllyDbg DLL loader)
-ZH Chicken '%s' (Chicken chicken)
+ZH 模块 '%s' (OllyDbg DLL 加载器)
 
 // MODULES:773
 EN Module '%s'
-ZH Chicken '%s'
+ZH 模块 '%s'
 
 // MODULES:792
 EN Module <%s> (anonymous)
-ZH Chicken <%s> (chicken)
+ZH 模块 <%s> (匿名)
 
 // MODULES:802
 EN Unable to open executable file
-ZH Chicken chicken chicken chicken
+ZH 无法打开可执行文件
 
 // MODULES:813
 EN Invalid DOS signature
-ZH Chicken chicken chicken
+ZH 无效的 DOS 签名
 
 // MODULES:818
 EN Invalid PE signature
-ZH Chicken chicken chicken
+ZH 无效的 PE 签名
 
 // MODULES:822
 EN Not an 80x86 executable
-ZH Chicken 80c86 chicken
+ZH 不是 80x86 可执行文件
 
 // MODULES:850
 EN Too short Optional Header
-ZH Chicken chicken chicken
+ZH 可选头过短
 
 // MODULES:853
 EN Size of Optional Header (%i. bytes) differs from expected (%i.)
-ZH Chicken chicken chicken (%i. chicken) chicken chicken chicken (%i.)
+ZH 可选头大小 (%i. 字节) 与预期 (%i.) 不符
 
 // MODULES:881
 EN Invalid Optional Header
-ZH Chicken chicken chicken
+ZH 无效的可选头
 
 // MODULES:884
 EN SectionAlignment in Optional Header is 0x%X bytes instead of 0x%X
-ZH Chicken chicken chicken chicken chicken 0c%X chicken chicken 0c%X
+ZH 可选头中 SectionAlignment 为 0x%X 字节而非 0x%X
 
 // MODULES:903
 EN Different PE headers in file and in memory%s, memory data will be used
-ZH Chicken chicken chicken chicken chicken%s, chicken chicken chicken
+ZH 文件中与内存中的 PE 头不同%s, 将使用内存数据
 
 // MODULES:904
 EN (pending system update?)
-ZH (chicken chicken chicken?)
+ZH (待处理的系统更新?)
 
 // MODULES:913
 EN Export table
-ZH Chicken chicken
+ZH 导出表
 
 // MODULES:914
 EN Import table
-ZH Chicken chicken
+ZH 导入表
 
 // MODULES:915
 EN Resource table
-ZH Chicken chicken
+ZH 资源表
 
 // MODULES:916
 EN Exception table
-ZH Chicken chicken
+ZH 异常表
 
 // MODULES:917
 EN Certificate table
-ZH Chicken chicken
+ZH 证书表
 
 // MODULES:918
 EN Base relocation table
-ZH Chicken chicken chicken
+ZH 基址重定位表
 
 // MODULES:919
 EN Debugging info table
-ZH Chicken chicken chicken
+ZH 调试信息表
 
 // MODULES:920
 EN TLS table
-ZH Chicken
+ZH TLS 表
 
 // MODULES:921
 EN Import address table
-ZH Chicken chicken chicken
+ZH 导入地址表
 
 // MODULES:922
 EN Delay import table
-ZH Chicken chicken
+ZH 延迟导入表
 
 // MODULES:925
 EN Different PE Data Directory in file and in memory (antivirus?)
-ZH Chicken chicken chicken chicken chicken chicken (chicken?)
+ZH 文件中与内存中的 PE 数据目录不同 (杀毒软件?)
 
 // MODULES:927
 EN %s: file (%08X,%08X), memory (%08X,%08X)
-ZH %s: chic (%08X,%08X), chicken (%08X,%08X)
+ZH %s: 文件 (%08X,%08X), 内存 (%08X,%08X)
 
 // MODULES:935
 EN File contains invalid number of sections (%i.)
-ZH Chicken chicken chicken chicken chicken (%i.)
+ZH 文件包含无效的节数 (%i.)
 
 // MODULES:943
 EN Unable to read section headers
-ZH Chicken chicken chicken chicken
+ZH 无法读取节头
 
 // MODULES:1017
 EN Entry point in PE (%08X) differs from reported by OS (%08X)
-ZH Chicken chicken (%08X) chicken chicken chicken chicken (%08X)
+ZH PE 中的入口点 (%08X) 与操作系统报告的 (%08X) 不同
 
 // MODULES:1041
 EN BaseOfCode points to end of code, corrected to section '%s'
-ZH Chicken chicken chicken chicken, chicken chicken chicken '%s'
+ZH BaseOfCode 指向代码末尾, 已修正为节 '%s'
 
 // MODULES:1074
 EN Code size in header is %08X, extended to size of section '%s' (%08X)
-ZH Chicken chicken chicken %08X, chicken chicken chicken chicken '%s' (%08X)
+ZH 头中代码大小为 %08X, 已扩展至节 '%s' 的大小 (%08X)
 
 // MODULES:1089
 EN Code start in header is %08X, extended to start of section '%s'
-ZH Chicken chicken chicken %08X, chicken chicken chicken chicken '%s'
+ZH 头中代码起始为 %08X, 已扩展至节 '%s' 的起始
 
 // MODULES:1095
 EN Code size in header is %08X, extended to end of section '%s'
-ZH Chicken chicken chicken %08X, chicken chicken chicken '%s'
+ZH 头中代码大小为 %08X, 已扩展至节 '%s' 的末尾
 
 // MODULES:1111
 EN Code size in header is 0, assumed code in section %s
-ZH Chicken chicken chicken 0, chicken chicken chicken %s
+ZH 头中代码大小为 0, 假定代码位于节 %s
 
 // MODULES:1131
 EN Code size is extended to include all sections marked as CODE
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 代码大小已扩展以包含所有标记为 CODE 的节
 
 // MODULES:1138
 EN Size of code in header is too large
-ZH Chicken chicken chicken chicken chicken
+ZH 头中代码大小过大
 
 // MODULES:1158
 EN Probably SFX file, code area extended to cover SFX placeholder '%s'
-ZH Chicken chicken, chicken chicken chicken chicken chicken chicken '%s'
+ZH 可能是 SFX 文件, 代码区域已扩展以覆盖 SFX 占位符 '%s'
 
 // MODULES:1161
 EN Probably SFX file, code area extended to cover SFX placeholders
-ZH Chicken chicken, chicken chicken chicken chicken chicken chicken
+ZH 可能是 SFX 文件, 代码区域已扩展以覆盖 SFX 占位符
 
 // MODULES:1216
 EN Unable to read export data
-ZH Chicken chicken chicken
+ZH 无法读取导出数据
 
 // MODULES:1222
 EN Invalid export data
-ZH Chicken chicken chicken
+ZH 无效的导出数据
 
 // MODULES:1233
 EN Export directory in memory is damaged
-ZH Chicken chicken chicken chicken chicken
+ZH 内存中的导出目录已损坏
 
 // MODULES:1261
 EN Invalid Image Export Directory, or system update is pending
-ZH Chicken chicken chicken chicken, chicken chicken chicken chicken
+ZH Image Export Directory 无效, 或系统更新待处理
 
 // MODULES:1263
 EN Invalid or compressed Image Export Directory
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 无效或已压缩的 Image Export Directory
 
 // MODULES:1346
 EN Export '%s' is redirected to %08X
-ZH Chicken '%s' chicken chicken %08X
+ZH 导出 '%s' 已重定向到 %08X
 
 // MODULES:1353
 EN Export #%i is redirected to %08X
-ZH Chicken #%i chicken chicken %08X
+ZH 导出 #%i 已重定向到 %08X
 
 // MODULES:1355
 EN <Original_%s>
-ZH <Chicken%s>
+ZH <原始_%s>
 
 // MODULES:1357
 EN Redirected to %s
-ZH Chicken chicken %s
+ZH 重定向到 %s
 
 // MODULES:1359
 EN Redirected from <Original_%s>
-ZH Chicken chicken <Chicken%s>
+ZH 重定向自 <原始_%s>
 
 // MODULES:1489
 EN Unable to read import data
-ZH Chicken chicken chicken
+ZH 无法读取导入数据
 
 // MODULES:1559
 EN Unable to read fixup data
-ZH Chicken chicken chicken
+ZH 无法读取重定位数据
 
 // MODULES:1562
 EN Module contains unknown or non-32bit fixups
-ZH Chicken chicken chicken chicken-32chicken
+ZH 模块包含未知或非 32 位的重定位
 
 // MODULES:1578
 EN Unable to read TLS directory
-ZH Chicken chicken chicken chicken
+ZH 无法读取 TLS 目录
 
 // MODULES:1584
 EN Unable to read TLS callback address
-ZH Chicken chicken chicken chicken chicken
+ZH 无法读取 TLS 回调地址
 
 // MODULES:1588
 EN Invalid TLS callback address
-ZH Chicken chicken chicken chicken
+ZH 无效的 TLS 回调地址
 
 // MODULES:1592
 EN Module contains TLS callback(s)
-ZH Chicken chicken chicken chicken(c)
+ZH 模块包含 TLS 回调
 
 // MODULES:1619
 EN Entry point belongs to no section
-ZH Chicken chicken chicken chicken
+ZH 入口点不属于任何节
 
 // MODULES:1626
 EN Section '%s', pointed to by entry point, is assumed to contain code
-ZH Chicken '%s', chicken chicken chicken, chicken chicken chicken
+ZH 节 '%s' (入口点指向的节) 假定包含代码
 
 // MODULES:1648
 EN Code sections '%s' and '%s' will be merged to a single memory block
-ZH Chicken chicken '%s' chi '%s' chicken chicken chicken chicken chicken
+ZH 代码节 '%s' 和 '%s' 将合并为单个内存块
 
 // MODULES:1658
 EN Error reading executable file
-ZH Chicken chicken chicken chicken
+ZH 读取可执行文件时出错
 
 // MODULES:1660
 EN Error parsing module in memory
-ZH Chicken chicken chicken chicken
+ZH 解析内存中模块时出错
 
 // MODULES:1826
 EN Limit run trace protocol to selected module
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将 Run 跟踪记录限制为所选模块
 
 // MODULES:1828
 EN Add module to run trace protocol
-ZH Chicken chicken chicken chicken
+ZH 将模块添加到 Run 跟踪记录
 
 // MODULES:1880
 EN Update contents of Modules window
-ZH Chicken chicken chicken chicken
+ZH 更新模块窗口的内容
 
 // MODULES:1882
 EN View &code in CPU
-ZH Chic &chicken chicken
+ZH 在 CPU 中查看代码(&C)
 
 // MODULES:1883
 EN Open code section in CPU window and follow entry
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 窗口中打开代码节并跟随入口
 
 // MODULES:1885
 EN View &data in CPU Dump
-ZH Chic &chicken chicken
+ZH 在 CPU 数据面板中查看数据(&D)
 
 // MODULES:1886
 EN View data section in CPU Dump pane
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 数据面板中查看数据节
 
 // MODULES:1888
 EN View &executable file
-ZH Chic &chicken chicken
+ZH 查看可执行文件(&E)
 
 // MODULES:1891
 EN Show names
-ZH Chicken
+ZH 显示名称
 
 // MODULES:1892
 EN List all names declared in the selected module
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 列出所选模块中声明的所有名称
 
 // MODULES:1894
 EN Show names in all modules
-ZH Chicken chicken chicken
+ZH 显示所有模块中的名称
 
 // MODULES:1895
 EN List names from all loaded modules
-ZH Chicken chicken chicken chicken
+ZH 列出所有已加载模块的名称
 
 // MODULES:1897
 EN Find all intermodular calls
-ZH Chicken chicken chicken chicken
+ZH 查找所有跨模块调用
 
 // MODULES:1901
 EN Add module to the run trace protocol
-ZH Chicken chicken chicken chicken chicken
+ZH 将模块添加到 Run 跟踪记录
 
 // MODULES:1904
 EN Analyse executable code in the selected module
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 分析所选模块中的可执行代码
 
 // MODULES:1906
 EN Save data to .udd file...
-ZH Chicken chicken .chicken...
+ZH 将数据保存到 .udd 文件...
 
 // MODULES:1907
 EN Save analysis and user-added data to the .udd file
-ZH Chicken chicken chicken-chicken chicken .chicken
+ZH 将分析数据和用户添加的数据保存到 .udd 文件
 
 // MODULES:1909
 EN Load data from .udd file...
-ZH Chicken chicken .chicken...
+ZH 从 .udd 文件加载数据...
 
 // MODULES:1910
 EN Load analysis and user-added data from the .udd file
-ZH Chicken chicken chicken-chicken chicken chicken .chicken
+ZH 从 .udd 文件加载分析数据和用户添加的数据
 
 // MODULES:1944
 EN Base$    (System)
-ZH Chic$    (Chicken)
+ZH 基址$    (系统)
 
 // MODULES:1945
 EN Base address and whether this is a system module
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 基址及是否为系统模块
 
 // MODULES:1949
 EN Size of memory occupied by module
-ZH Chicken chicken chicken chicken
+ZH 模块占用的内存大小
 
 // MODULES:1952
 EN Entry
-ZH Chicken
+ZH 入口
 
 // MODULES:1953
 EN Module entry point
-ZH Chicken chicken
+ZH 模块入口点
 
 // MODULES:1957
 EN Internal short module name
-ZH Chicken chicken chicken
+ZH 内部短模块名
 
 // MODULES:1961
 EN Type of the module (.NET or native)
-ZH Chicken chicken (.Chicken chicken)
+ZH 模块类型 (.NET 或 原生)
 
 // MODULES:1964
 EN File version
-ZH Chicken chicken
+ZH 文件版本
 
 // MODULES:1965
 EN Version of executable file
-ZH Chicken chicken chicken
+ZH 可执行文件版本
 
 // MODULES:1968
 EN Static links
-ZH Chicken chicken
+ZH 静态链接
 
 // MODULES:1969
 EN Modules statically linked to this module
-ZH Chicken chicken chicken chicken chicken
+ZH 静态链接到此模块的模块
 
 // MODULES:1972
 EN Path
@@ -9939,7 +9939,7 @@ ZH Chic
 
 // MODULES:1973
 EN Full name of executable file
-ZH Chicken chicken chicken chicken
+ZH 可执行文件的完整名称
 
 // NAMELIST:353
 EN Update contents of Names window
