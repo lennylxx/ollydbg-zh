@@ -291,459 +291,459 @@ ZH 内存不足, 无法自动分析
 
 // ASSEMBLE:375
 EN Only 32-bit registers can be scaled
-ZH Chic 32-chicken chicken chicken chicken
+ZH 只有 32 位寄存器可以使用比例因子
 
 // ASSEMBLE:378
 EN Expecting integer scale
-ZH Chicken chicken chicken
+ZH 需要整数比例因子
 
 // ASSEMBLE:381
 EN Zero scale is not allowed
-ZH Chicken chicken chicken
+ZH 不允许使用零比例因子
 
 // ASSEMBLE:384
 EN Invalid scale
-ZH Chicken chicken
+ZH 无效的比例因子
 
 // ASSEMBLE:396
 EN Use round parentheses, like ST(0)
-ZH Chicken chicken chicken, chicken(0)
+ZH 请使用圆括号, 例如 ST(0)
 
 // ASSEMBLE:401
 EN Expecting index of FPU register
-ZH Chicken chicken chicken chicken
+ZH 需要 FPU 寄存器索引
 
 // ASSEMBLE:404
 EN FPU register is out of range 0..7
-ZH Chicken chicken chicken chicken 0..7
+ZH FPU 寄存器超出范围 0..7
 
 // ASSEMBLE:409
 EN Expecting right parenthesis
-ZH Chicken chicken chicken chicken
+ZH 需要右圆括号
 
 // ASSEMBLE:454
 EN Duplicate SHORT specifier
-ZH Chicken chicken chicken
+ZH 重复的 SHORT 限定符
 
 // ASSEMBLE:459
 EN Duplicate LONG specifier
-ZH Chicken chicken chicken
+ZH 重复的 LONG 限定符
 
 // ASSEMBLE:464
 EN Duplicate NEAR specifier
-ZH Chicken chicken chicken
+ZH 重复的 NEAR 限定符
 
 // ASSEMBLE:469
 EN Duplicate FAR specifier
-ZH Chicken chicken chicken
+ZH 重复的 FAR 限定符
 
 // ASSEMBLE:477
 EN Conflicting SHORT and LONG specifiers
-ZH Chicken chicken chicken chicken chicken
+ZH SHORT 与 LONG 限定符冲突
 
 // ASSEMBLE:480
 EN Conflicting NEAR and FAR specifiers
-ZH Chicken chicken chicken chicken chicken
+ZH NEAR 与 FAR 限定符冲突
 
 // ASSEMBLE:483
 EN Conflicting SHORT and FAR specifiers
-ZH Chicken chicken chicken chicken chicken
+ZH SHORT 与 FAR 限定符冲突
 
 // ASSEMBLE:522
 EN Immediate selector out of range
-ZH Chicken chicken chicken chicken
+ZH 立即选择器超出范围
 
 // ASSEMBLE:529
 EN Unrecognized identifier
-ZH Chicken chicken chicken
+ZH 无法识别的标识符
 
 // ASSEMBLE:536
 EN Unrecognized label
-ZH Chicken chicken
+ZH 无法识别的标签
 
 // ASSEMBLE:546
 EN Expecting register name
-ZH Chicken chicken chicken
+ZH 需要寄存器名称
 
 // ASSEMBLE:555
 EN Invalid index register
-ZH Chicken chicken chicken
+ZH 无效的索引寄存器
 
 // ASSEMBLE:566
 EN Expecting 32-bit register
-ZH Chicken 32-chicken chicken
+ZH 需要 32 位寄存器
 
 // ASSEMBLE:599
 EN Floating-point numbers are not allowed
-ZH Chicken-chicken chicken chicken chicken
+ZH 不允许使用浮点数
 
 // ASSEMBLE:602
 EN Invalid character
-ZH Chicken chicken
+ZH 无效字符
 
 // ASSEMBLE:605
 EN Syntax error
-ZH Chicken chicken
+ZH 语法错误
 
 // ASSEMBLE:643
 EN Expecting right bracket
-ZH Chicken chicken chicken
+ZH 需要右方括号
 
 // ASSEMBLE:646
 EN Missing or incomplete operand
-ZH Chicken chicken chicken chicken
+ZH 缺少或不完整的操作数
 
 // ASSEMBLE:649
 EN Incomplete operand
-ZH Chicken chicken
+ZH 不完整的操作数
 
 // ASSEMBLE:652
 EN PTR applies only to memory
-ZH Chicken chicken chicken
+ZH PTR 仅适用于内存
 
 // ASSEMBLE:658
 EN Can't declare size of ANY operand
-ZH Chi'chicken chicken chicken chicken
+ZH 无法声明 ANY 操作数的大小
 
 // ASSEMBLE:663
 EN Invalid size of constant
-ZH Chicken chicken chicken
+ZH 无效的常量大小
 
 // ASSEMBLE:671
 EN Can't index ANY address
-ZH Chi'chicken chicken chicken
+ZH 无法索引 ANY 地址
 
 // ASSEMBLE:686
 EN Offset out of allowed range
-ZH Chicken chicken chicken chicken
+ZH 偏移超出允许范围
 
 // ASSEMBLE:690
 EN Can't scale 16-bit registers
-ZH Chi'chicken 16-chicken chicken
+ZH 无法对 16 位寄存器使用比例因子
 
 // ASSEMBLE:719
 EN Invalid indexing mode
-ZH Chicken chicken chicken
+ZH 无效的索引模式
 
 // ASSEMBLE:727
 EN Imprecise form is not allowed
-ZH Chicken chicken chicken chicken
+ZH 不允许使用不精确形式
 
 // ASSEMBLE:734
 EN Can't get offset of register
-ZH Chi'chicken chicken chicken
+ZH 无法获取寄存器的偏移
 
 // ASSEMBLE:738
 EN Don't declare size of register
-ZH Chi'chicken chicken chicken
+ZH 不要声明寄存器的大小
 
 // ASSEMBLE:740
 EN Place index registers into brackets
-ZH Chicken chicken chicken chicken chicken
+ZH 将索引寄存器放入方括号
 
 // ASSEMBLE:748
 EN Mixed 16 and 32-bit registers
-ZH Chicken 16 chi 32-chicken chicken
+ZH 16 位与 32 位寄存器混用
 
 // ASSEMBLE:751
 EN Can't subtract or negate register
-ZH Chi'chicken chicken chicken chicken
+ZH 无法对寄存器进行减法或取负操作
 
 // ASSEMBLE:754
 EN Can't OR register
-ZH Chi'chicken chicken
+ZH 无法对寄存器进行 OR 操作
 
 // ASSEMBLE:757
 EN Missing comma or operation
-ZH Chicken chicken chicken
+ZH 缺少逗号或操作
 
 // ASSEMBLE:788
 EN Illegal indexing register
-ZH Chicken chicken chicken
+ZH 非法的索引寄存器
 
 // ASSEMBLE:814
 EN Expecting colon after segment register
-ZH Chicken chicken chicken chicken chicken
+ZH 段寄存器后需要冒号
 
 // ASSEMBLE:825
 EN Misplaced segment override
-ZH Chicken chicken chicken
+ZH 段覆盖位置错误
 
 // ASSEMBLE:828
 EN Can't get offset of address
-ZH Chi'chicken chicken chicken
+ZH 无法获取地址的偏移
 
 // ASSEMBLE:831
 EN Duplicate segment override
-ZH Chicken chicken chicken
+ZH 重复的段覆盖
 
 // ASSEMBLE:866
 EN Illegal register
-ZH Chicken chicken
+ZH 非法寄存器
 
 // ASSEMBLE:871
 EN Misplaced data size declaration
-ZH Chicken chicken chicken chicken
+ZH 数据大小声明位置错误
 
 // ASSEMBLE:874
 EN Duplicate data size declaration
-ZH Chicken chicken chicken chicken
+ZH 重复的数据大小声明
 
 // ASSEMBLE:881
 EN Misplaced address size declaration
-ZH Chicken chicken chicken chicken
+ZH 地址大小声明位置错误
 
 // ASSEMBLE:884
 EN Conflicting address size declaration
-ZH Chicken chicken chicken chicken chicken
+ZH 地址大小声明冲突
 
 // ASSEMBLE:894
 EN Conflicting OFFSET and PTR
-ZH Chicken chicken chicken
+ZH OFFSET 与 PTR 冲突
 
 // ASSEMBLE:906
 EN Misplaced jump size declaration
-ZH Chicken chicken chicken chicken
+ZH 跳转大小声明位置错误
 
 // ASSEMBLE:909
 EN Conflicting OFFSET and jump size
-ZH Chicken chicken chicken chicken
+ZH OFFSET 与跳转大小冲突
 
 // ASSEMBLE:912
 EN Duplicate jump size declaration
-ZH Chicken chicken chicken chicken
+ZH 重复的跳转大小声明
 
 // ASSEMBLE:919
 EN Misplaced OFFSET
-ZH Chicken chicken
+ZH OFFSET 位置错误
 
 // ASSEMBLE:924
 EN Duplicate OFFSET
-ZH Chicken chicken
+ZH 重复的 OFFSET
 
 // ASSEMBLE:935
 EN Arithmetic with undefined operand is meaningless
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 对未定义操作数进行算术运算无意义
 
 // ASSEMBLE:978
 EN Immediate far address is not allowed
-ZH Chicken chicken chicken chicken chicken
+ZH 不允许使用立即远地址
 
 // ASSEMBLE:981
 EN Conflicting jump size specifier
-ZH Chicken chicken chicken chicken
+ZH 跳转大小限定符冲突
 
 // ASSEMBLE:997
 EN Expecting immediate constant
-ZH Chicken chicken chicken chicken
+ZH 需要立即常量
 
 // ASSEMBLE:1005
 EN Can't subtract expression in brackets
-ZH Chi'chicken chicken chicken chicken
+ZH 无法对方括号内的表达式进行减法操作
 
 // ASSEMBLE:1008
 EN Can't OR expression in brackets
-ZH Chi'chicken chicken chicken chicken
+ZH 无法对方括号内的表达式进行 OR 操作
 
 // ASSEMBLE:1011
 EN Nested brackets
-ZH Chicken chicken
+ZH 方括号嵌套
 
 // ASSEMBLE:1014
 EN Conflicting OFFSET and memory address
-ZH Chicken chicken chicken chicken chicken
+ZH OFFSET 与内存地址冲突
 
 // ASSEMBLE:1022
 EN Unmatched right bracket
-ZH Chicken chicken chicken
+ZH 右方括号不匹配
 
 // ASSEMBLE:1025
 EN Expecting register or constant
-ZH Chicken chicken chicken chicken
+ZH 需要寄存器或常量
 
 // ASSEMBLE:1028
 EN Brackets must contain register or constant
-ZH Chicken chicken chicken chicken chicken
+ZH 方括号内必须包含寄存器或常量
 
 // ASSEMBLE:1080
 EN Invalid parameters
-ZH Chicken chicken
+ZH 无效的参数
 
 // ASSEMBLE:1154
 EN Total size of the constant exceeds 16 bytes
-ZH Chicken chicken chicken chicken 16 chicken
+ZH 常量总大小超过 16 字节
 
 // ASSEMBLE:1166
 EN Integer constant must be 1, 2 or 4 bytes long
-ZH Chicken chicken chicken 1, 2 ch 4 chicken
+ZH 整数常量必须为 1、2 或 4 字节
 
 // ASSEMBLE:1182
 EN Don't mix integer and floating constants
-ZH Chi'chicken chicken chicken chicken chicken
+ZH 不要混用整数与浮点常量
 
 // ASSEMBLE:1185
 EN Floating constant must be 4, 8 or 10 bytes long
-ZH Chicken chicken chicken 4, 8 ch 10 chicken
+ZH 浮点常量必须为 4、8 或 10 字节
 
 // ASSEMBLE:1208
 EN Don't mix text and floating constants
-ZH Chi'chicken chicken chicken chicken
+ZH 不要混用文本与浮点常量
 
 // ASSEMBLE:1211
 EN Character size must be 1 or 2 bytes
-ZH Chicken chicken chicken 1 ch 2 chicken
+ZH 字符大小必须为 1 或 2 字节
 
 // ASSEMBLE:1214
 EN Emptry string
-ZH Chicken chicken
+ZH 空字符串
 
 // ASSEMBLE:1232
 EN Invalid constant
-ZH Chicken chicken
+ZH 无效的常量
 
 // ASSEMBLE:1248
 EN Duplicated REP/REPE/REPNE prefix
-ZH Chicken chicken/CHIC/Chicken chicken
+ZH 重复的 REP/REPE/REPNE 前缀
 
 // ASSEMBLE:1263
 EN Duplicated LOCK prefix
-ZH Chicken chicken chicken
+ZH 重复的 LOCK 前缀
 
 // ASSEMBLE:1268
 EN Duplicated jump hint
-ZH Chicken chicken chicken
+ZH 重复的跳转提示
 
 // ASSEMBLE:1306
 EN Command mnemonics expected
-ZH Chicken chicken chicken
+ZH 需要指令助记符
 
 // ASSEMBLE:1332
 EN HLA: right parenthesis expected
-ZH CHI: chicken chicken chicken
+ZH HLA: 需要右圆括号
 
 // ASSEMBLE:1350
 EN Invalid register operation
-ZH Chicken chicken chicken
+ZH 无效的寄存器操作
 
 // ASSEMBLE:1353
 EN Comma between operands expected
-ZH Chicken chicken chicken chicken
+ZH 操作数之间需要逗号
 
 // ASSEMBLE:1362
 EN Too many operands
-ZH Chicken chicken
+ZH 操作数过多
 
 // ASSEMBLE:2091
 EN Internal error: unknown operand type
-ZH Chicken chicken: chicken chicken chicken
+ZH 内部错误: 未知操作数类型
 
 // ASSEMBLE:2868
 EN No room for all possible forms
-ZH Chicken chicken chicken chicken
+ZH 所有可能形式的空间不足
 
 // ASSEMBLE:2878
 EN Unknown command
-ZH Chicken chicken
+ZH 未知指令
 
 // ASSEMBLE:2880
 EN Implicit operand
-ZH Chicken chicken
+ZH 隐式操作数
 
 // ASSEMBLE:2882
 EN Imprecise command
-ZH Chicken chicken
+ZH 不精确的指令
 
 // ASSEMBLE:2884
 EN Command is a standalone prefix
-ZH Chicken chicken chicken chicken
+ZH 指令是独立前缀
 
 // ASSEMBLE:2886
 EN LOCK is not allowed
-ZH Chicken chicken chicken
+ZH 不允许使用 LOCK
 
 // ASSEMBLE:2888
 EN Jump hint is not allowed
-ZH Chicken chicken chicken
+ZH 不允许使用跳转提示
 
 // ASSEMBLE:2890
 EN Prefix is not allowed
-ZH Chicken chicken chicken
+ZH 不允许使用前缀
 
 // ASSEMBLE:2892
 EN Please specify operand size
-ZH Chicken chicken chicken chicken
+ZH 请指定操作数大小
 
 // ASSEMBLE:2894
 EN Unsupported memory addressing mode
-ZH Chicken chicken chicken chicken
+ZH 不支持的内存寻址模式
 
 // ASSEMBLE:2896
 EN Conflicting data size
-ZH Chicken chicken chicken
+ZH 数据大小冲突
 
 // ASSEMBLE:2898
 EN Constant is out of range
-ZH Chicken chicken chicken
+ZH 常量超出范围
 
 // ASSEMBLE:2900
 EN Destination is out of range
-ZH Chicken chicken chicken chicken
+ZH 目标超出范围
 
 // ASSEMBLE:2902
 EN Invalid segment register
-ZH Chicken chicken chicken
+ZH 无效的段寄存器
 
 // ASSEMBLE:2904
 EN No match for specified operands
-ZH Chicken chicken chicken chicken
+ZH 找不到匹配的指定操作数
 
 // ASSEMBLE:2906
 EN Invalid operand size
-ZH Chicken chicken chicken
+ZH 无效的操作数大小
 
 // ASSEMBLE:2908
 EN Invalid jump size specifier
-ZH Chicken chicken chicken chicken
+ZH 无效的跳转大小限定符
 
 // ASSEMBLE:2910
 EN Expecting memory operand
-ZH Chicken chicken chicken
+ZH 需要内存操作数
 
 // ASSEMBLE:2912
 EN Expecting register
-ZH Chicken chicken
+ZH 需要寄存器
 
 // ASSEMBLE:2914
 EN Register is not allowed
-ZH Chicken chicken chicken
+ZH 不允许使用寄存器
 
 // ASSEMBLE:2916
 EN Wrong number of operands
-ZH Chicken chicken chicken
+ZH 操作数数量错误
 
 // ASSEMBLE:2918
 EN REP prefix is not allowed
-ZH Chicken chicken chicken
+ZH 不允许使用 REP 前缀
 
 // ASSEMBLE:2920
 EN Undocumented command
-ZH Chicken chicken chicken
+ZH 未记录的指令
 
 // ASSEMBLE:2922
 EN Invalid command
-ZH Chicken chicken
+ZH 无效的指令
 
 // ASSEMBLE:2936
 EN Extra characters on line
-ZH Chicken chicken chicken
+ZH 行末有多余字符
 
 // ASSEMBLE:2983
 EN Internal error
-ZH Chicken chicken
+ZH 内部错误
 
 // ASSEMBLE:2986
 EN No room for assembled code
-ZH Chicken chicken chicken
+ZH 汇编代码空间不足
 
 // BDISASM:1010
 EN Backspace
