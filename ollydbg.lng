@@ -3903,7 +3903,7 @@ ZH 内存范围 1 的上限 (不包含)
 
 // DIALOGS:7765
 EN on
-ZH on
+ZH  时 
 
 // DIALOGS:7768
 EN Read|Write|R/W
@@ -4599,7 +4599,7 @@ ZH 返回自
 
 // DUMP:2379
 EN to
-ZH to
+ZH  至 
 
 // DUMP:2381
 EN RETURN to
@@ -7875,7 +7875,7 @@ ZH 代码页,
 
 // MEMORY:1656
 EN of
-ZH of
+ZH  的 
 
 // MEMORY:1665
 EN Priv
