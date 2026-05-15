@@ -13291,7 +13291,7 @@ ZH %s (版本 %s, 文件 '%s')
 
 // REGS:206
 EN LastErr
-ZH Chicken
+ZH LastErr
 
 // REGS:211
 EN Tag 0
@@ -13299,7 +13299,7 @@ ZH Chi 0
 
 // REGS:212
 EN Stack 0
-ZH Chicken 0
+ZH 栈 0
 
 // REGS:215
 EN Tag 1
@@ -13307,7 +13307,7 @@ ZH Chi 1
 
 // REGS:216
 EN Stack 1
-ZH Chicken 1
+ZH 栈 1
 
 // REGS:219
 EN Tag 2
@@ -13315,7 +13315,7 @@ ZH Chi 2
 
 // REGS:220
 EN Stack 2
-ZH Chicken 2
+ZH 栈 2
 
 // REGS:223
 EN Tag 3
@@ -13323,7 +13323,7 @@ ZH Chi 3
 
 // REGS:224
 EN Stack 3
-ZH Chicken 3
+ZH 栈 3
 
 // REGS:227
 EN Tag 4
@@ -13331,7 +13331,7 @@ ZH Chi 4
 
 // REGS:228
 EN Stack 4
-ZH Chicken 4
+ZH 栈 4
 
 // REGS:231
 EN Tag 5
@@ -13339,7 +13339,7 @@ ZH Chi 5
 
 // REGS:232
 EN Stack 5
-ZH Chicken 5
+ZH 栈 5
 
 // REGS:235
 EN Tag 6
@@ -13347,7 +13347,7 @@ ZH Chi 6
 
 // REGS:236
 EN Stack 6
-ZH Chicken 6
+ZH 栈 6
 
 // REGS:239
 EN Tag 7
@@ -13355,7 +13355,7 @@ ZH Chi 7
 
 // REGS:240
 EN Stack 7
-ZH Chicken 7
+ZH 栈 7
 
 // REGS:253
 EN Err
@@ -13363,31 +13363,31 @@ ZH Chi
 
 // REGS:254
 EN Exception
-ZH Chicken
+ZH 异常
 
 // REGS:255
 EN Stack fault
-ZH Chicken chicken
+ZH 堆栈故障
 
 // REGS:256
 EN Precision
-ZH Chicken
+ZH 精度
 
 // REGS:257
 EN Underflow
-ZH Chicken
+ZH 下溢
 
 // REGS:258
 EN Overflow
-ZH Chicken
+ZH 溢出
 
 // REGS:259
 EN 0 division
-ZH 0 chicken
+ZH 除零
 
 // REGS:260
 EN Denormalized
-ZH Chicken chicken
+ZH 非规格化
 
 // REGS:266
 EN Prec
@@ -13399,35 +13399,35 @@ ZH Chic
 
 // REGS:269
 EN Precision mask
-ZH Chicken chicken
+ZH 精度掩码
 
 // REGS:270
 EN Underflow mask
-ZH Chicken chicken
+ZH 下溢掩码
 
 // REGS:271
 EN Overflow mask
-ZH Chicken chicken
+ZH 溢出掩码
 
 // REGS:272
 EN 0 division mask
-ZH 0 chicken chicken
+ZH 除零掩码
 
 // REGS:273
 EN Denormal mask
-ZH Chicken chicken
+ZH 非规格化掩码
 
 // REGS:274
 EN Invalid mask
-ZH Chicken chicken
+ZH 无效掩码
 
 // REGS:276
 EN Last cmnd
-ZH Chicken
+ZH 上条指令
 
 // REGS:277
 EN Last command
-ZH Chicken chicken
+ZH 上条指令
 
 // REGS:298
 EN MM0 high
@@ -13499,7 +13499,7 @@ ZH Chi
 
 // REGS:353
 EN Rounding
-ZH Chicken
+ZH 舍入
 
 // REGS:427
 EN XMM0 high
@@ -13567,23 +13567,23 @@ ZH CHI7 chi
 
 // REGS:699
 EN Registers (FPU)
-ZH Chicken (CHI)
+ZH 寄存器 (FPU)
 
 // REGS:702
 EN Registers (MMX)
-ZH Chicken (CHI)
+ZH 寄存器 (MMX)
 
 // REGS:705
 EN Registers (3DNow!)
-ZH Chicken (3Chic!)
+ZH 寄存器 (3DNow!)
 
 // REGS:708
 EN Registers (DR)
-ZH Chicken (CH)
+ZH 寄存器 (DR)
 
 // REGS:738
 EN Registers of
-ZH Chicken chicken
+ZH 寄存器 - 
 
 // REGS:960
 EN 32bit
@@ -13595,7 +13595,7 @@ ZH 16chi
 
 // REGS:983
 EN valid
-ZH chicken
+ZH 有效
 
 // REGS:984
 EN zero
@@ -13607,63 +13607,63 @@ ZH chi
 
 // REGS:986
 EN empty
-ZH chicken
+ZH 空
 
 // REGS:1013
 EN (Unordered)
-ZH (Chicken)
+ZH (无序)
 
 // REGS:1329
 EN Modify flags
-ZH Chicken chicken
+ZH 修改标志位
 
 // REGS:1351
 EN Change thread's last error
-ZH Chicken chicken'chicken chicken
+ZH 更改线程的最后错误
 
 // REGS:1743
 EN Help on flag
-ZH Chicken chicken
+ZH 标志位帮助
 
 // REGS:1747
 EN No help on selected item
-ZH Chicken chicken chicken
+ZH 所选项无可用帮助
 
 // REGS:1754
 EN Overflow (O)
-ZH Chicken (C)
+ZH 溢出 (O)
 
 // REGS:1755
 EN Modify flags to meet specified condition
-ZH Chicken chicken chicken chicken chicken
+ZH 修改标志位以满足指定条件
 
 // REGS:1757
 EN Not Overflow (NO)
-ZH Chicken chicken (CH)
+ZH 无溢出 (NO)
 
 // REGS:1760
 EN Below (B,C,NAE)
-ZH Chicken (C,C,CHI)
+ZH 低于 (B,C,NAE)
 
 // REGS:1763
 EN Not Below (NB,NC,AE)
-ZH Chicken (CH,CH,CH)
+ZH 不低于 (NB,NC,AE)
 
 // REGS:1766
 EN Equal (E,Z)
-ZH Chicken (C,C)
+ZH 等于 (E,Z)
 
 // REGS:1769
 EN Not Equal (NE,NZ)
-ZH Chicken (CH,CH)
+ZH 不等于 (NE,NZ)
 
 // REGS:1772
 EN Below or Equal (BE,NA)
-ZH Chicken chicken (CH,CH)
+ZH 低于或等于 (BE,NA)
 
 // REGS:1775
 EN Above (A,NBE)
-ZH Chicken (C,CHI)
+ZH 高于 (A,NBE)
 
 // REGS:1778
 EN Sign (S)
@@ -13671,15 +13671,15 @@ ZH Chic (C)
 
 // REGS:1781
 EN Not Sign (NS)
-ZH Chicken (CH)
+ZH 非符号 (NS)
 
 // REGS:1784
 EN Parity Even (PE,P)
-ZH Chicken chicken (CH,C)
+ZH 偶校验 (PE,P)
 
 // REGS:1787
 EN Parity Odd (PO,NP)
-ZH Chicken (CH,CH)
+ZH 奇校验 (PO,NP)
 
 // REGS:1790
 EN Less (L,NGE)
@@ -13687,23 +13687,23 @@ ZH Chic (C,CHI)
 
 // REGS:1793
 EN Greater or Equal (GE,NL)
-ZH Chicken chicken (CH,CH)
+ZH 大于或等于 (GE,NL)
 
 // REGS:1796
 EN Less or Equal (LE,NG)
-ZH Chicken chicken (CH,CH)
+ZH 小于或等于 (LE,NG)
 
 // REGS:1799
 EN Greater (G,NLE)
-ZH Chicken (C,CHI)
+ZH 大于 (G,NLE)
 
 // REGS:1807
 EN Greater (GT)
-ZH Chicken (CH)
+ZH 大于 (GT)
 
 // REGS:1808
 EN Modify FPU flags to meet specified condition
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 修改 FPU 标志位以满足指定条件
 
 // REGS:1810
 EN Less (LT)
@@ -13711,11 +13711,11 @@ ZH Chic (CH)
 
 // REGS:1813
 EN Equal (EQ)
-ZH Chicken (CH)
+ZH 等于 (EQ)
 
 // REGS:1816
 EN Unordered
-ZH Chicken
+ZH 无序
 
 // REGS:1827
 EN &Increment
@@ -13723,7 +13723,7 @@ ZH 递增(&I)
 
 // REGS:1828
 EN Increment register (add 1)
-ZH Chicken chicken (chi 1)
+ZH 递增寄存器 (加 1)
 
 // REGS:1830
 EN &Decrement
@@ -13731,7 +13731,7 @@ ZH 递减(&D)
 
 // REGS:1831
 EN Decrement register (subtract 1)
-ZH Chicken chicken (chicken 1)
+ZH 递减寄存器 (减 1)
 
 // REGS:1833
 EN &Zero
@@ -13739,199 +13739,199 @@ ZH &Chic
 
 // REGS:1834
 EN Set register to 0
-ZH Chicken chicken 0
+ZH 将寄存器设置为 0
 
 // REGS:1839
 EN Set to &1
-ZH Chicken &1
+ZH 设置为 1(&1)
 
 // REGS:1842
 EN &Toggle
-ZH &Chicken
+ZH 切换(&T)
 
 // REGS:1843
 EN Invert bit value (0 to 1, 1 to 0)
-ZH Chicken chicken (0 ch 1, 1 ch 0)
+ZH 反转位值 (0 变 1, 1 变 0)
 
 // REGS:1845
 EN &Modify...
-ZH &Chicken...
+ZH 修改(&M)...
 
 // REGS:1846
 EN Change contents of register
-ZH Chicken chicken chicken chicken
+ZH 更改寄存器的内容
 
 // REGS:1902
 EN Tag as valid
-ZH Chicken chicken
+ZH 标记为有效
 
 // REGS:1903
 EN Set tag associated with floating register to valid
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将浮点寄存器关联的标记设置为有效
 
 // REGS:1905
 EN Tag as zero
-ZH Chicken chicken
+ZH 标记为零
 
 // REGS:1906
 EN Set tag associated with floating register to zero
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将浮点寄存器关联的标记设置为零
 
 // REGS:1908
 EN Tag as bad
-ZH Chicken
+ZH 标记为坏
 
 // REGS:1909
 EN Set tag associated with floating register to bad
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将浮点寄存器关联的标记设置为坏
 
 // REGS:1911
 EN Tag as empty
-ZH Chicken chicken
+ZH 标记为空
 
 // REGS:1912
 EN Set tag associated with floating register to empty
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将浮点寄存器关联的标记设置为空
 
 // REGS:1914
 EN Round to nearest
-ZH Chicken chicken
+ZH 舍入到最接近值
 
 // REGS:1915
 EN Round to the closest presentable number
-ZH Chicken chicken chicken chicken chicken
+ZH 舍入到最接近的可表示数
 
 // REGS:1917
 EN Round down
-ZH Chicken
+ZH 向下舍入
 
 // REGS:1918
 EN Round toward -INF
-ZH Chicken chicken -CHI
+ZH 向 -INF 舍入
 
 // REGS:1920
 EN Round up
-ZH Chicken
+ZH 向上舍入
 
 // REGS:1921
 EN Round toward +INF
-ZH Chicken chicken +CHI
+ZH 向 +INF 舍入
 
 // REGS:1923
 EN Round toward zero
-ZH Chicken chicken
+ZH 向零舍入
 
 // REGS:1924
 EN Round to number that is smaller by absolute value
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 舍入到绝对值较小的数
 
 // REGS:1926
 EN 24-bit accuracy
-ZH 24-chicken chicken
+ZH 24 位精度
 
 // REGS:1927
 EN Set single (24-bit) FPU precision
-ZH Chicken (24-chi) Chicken chicken
+ZH 设置单精度 (24 位) FPU
 
 // REGS:1929
 EN 53-bit accuracy
-ZH 53-chicken chicken
+ZH 53 位精度
 
 // REGS:1930
 EN Set double (53-bit) FPU precision
-ZH Chicken (53-chi) Chicken chicken
+ZH 设置双精度 (53 位) FPU
 
 // REGS:1932
 EN 64-bit accuracy
-ZH 64-chicken chicken
+ZH 64 位精度
 
 // REGS:1933
 EN Set extended (64-bit) FPU precision
-ZH Chicken chicken (64-chi) Chicken chicken
+ZH 设置扩展精度 (64 位) FPU
 
 // REGS:1936
 EN Undo modification
-ZH Chicken chicken
+ZH 撤销修改
 
 // REGS:1938
 EN Copy to clipboard
-ZH Chicken chicken
+ZH 复制到剪贴板
 
 // REGS:1939
 EN Copy value of selected item to clipboard
-ZH Chicken chicken chicken chicken chicken
+ZH 将所选项的值复制到剪贴板
 
 // REGS:1941
 EN Copy all registers
-ZH Chicken chicken
+ZH 复制所有寄存器
 
 // REGS:1942
 EN Copy the whole Registers pane to clipboard
-ZH Chicken chicken chicken chicken chicken
+ZH 将整个寄存器面板复制到剪贴板
 
 // REGS:1945
 EN Decrement TOP by one
-ZH Chicken chicken chicken
+ZH TOP 递减 1
 
 // REGS:1948
 EN Increment TOP by one
-ZH Chicken chicken chicken
+ZH TOP 递增 1
 
 // REGS:1959
 EN View float registers
-ZH Chicken chicken chicken
+ZH 查看浮点寄存器
 
 // REGS:1960
 EN Show floating-point registers and flags
-ZH Chicken chicken-chicken chicken chicken
+ZH 显示浮点寄存器和标志位
 
 // REGS:1963
 EN Decode FPU registers as 64-bit MMX integers
-ZH Chicken chicken chicken 64-chicken chicken
+ZH 将 FPU 寄存器解码为 64 位 MMX 整数
 
 // REGS:1966
 EN Decode FPU registers as two 3DNow! registers
-ZH Chicken chicken chicken chicken 3Chic! chicken
+ZH 将 FPU 寄存器解码为两个 3DNow! 寄存器
 
 // REGS:1968
 EN View SSE as integers
-ZH Chicken chicken chicken
+ZH 将 SSE 视为整数
 
 // REGS:1969
 EN Decode SSE registers as 4 x 32-bit hex numbers
-ZH Chicken chicken chicken 4 c 32-chicken chicken
+ZH 将 SSE 寄存器解码为 4 个 32 位十六进制数
 
 // REGS:1971
 EN View SSE as 32-bit floats
-ZH Chicken chicken 32-chicken
+ZH 将 SSE 视为 32 位浮点数
 
 // REGS:1972
 EN Decode SSE registers as 4 x 32-bit floats
-ZH Chicken chicken chicken 4 c 32-chicken
+ZH 将 SSE 寄存器解码为 4 个 32 位浮点数
 
 // REGS:1974
 EN View SSE as 64-bit doubles
-ZH Chicken chicken 64-chicken chicken
+ZH 将 SSE 视为 64 位双精度
 
 // REGS:1975
 EN Decode SSE registers as 2 x 64-bit doubles
-ZH Chicken chicken chicken 2 c 64-chicken chicken
+ZH 将 SSE 寄存器解码为 2 个 64 位双精度数
 
 // REGS:1978
 EN Show help on selected item
-ZH Chicken chicken chicken
+ZH 显示所选项的帮助
 
 // REGS:2270
 EN Program terminated
-ZH Chicken chicken
+ZH 程序已终止
 
 // REGS:2272
 EN Program is running
-ZH Chicken chicken
+ZH 程序运行中
 
 // REGS:2312
 EN Press to toggle between FPU/MMX/3DNow!
-ZH Chicken chicken chicken chicken/CHI/3Chic!
+ZH 按下可在 FPU/MMX/3DNow! 之间切换
 
 // RUNDLL:23
 EN Processing loaddll.exe
