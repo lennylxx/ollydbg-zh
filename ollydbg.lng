@@ -16267,160 +16267,160 @@ ZH 表达式的值
 
 // WINDOWS:504
 EN Update contents of the list of windows
-ZH Chicken chicken chicken chicken chicken
+ZH 更新窗口列表的内容
 
 // WINDOWS:506
 EN Follow WinProc
-ZH Chicken chicken
+ZH 跟随 WinProc
 
 // WINDOWS:507
 EN Follow WinProc in Disassembler
-ZH Chicken chicken chicken chicken
+ZH 在反汇编器中跟随 WinProc
 
 // WINDOWS:509
 EN Breakpoint on WinProc
-ZH Chicken chicken chicken
+ZH WinProc 断点
 
 // WINDOWS:510
 EN Set unconditional breakpoint on WinProc
-ZH Chicken chicken chicken chicken chicken
+ZH 在 WinProc 上设置无条件断点
 
 // WINDOWS:513
 EN Set or edit conditional breakpoint on WinProc
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 WinProc 上设置或编辑条件断点
 
 // WINDOWS:516
 EN Set or edit conditional logging breakpoint on WinProc
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在 WinProc 上设置或编辑条件记录断点
 
 // WINDOWS:519
 EN Remove breakpoint from WinProc
-ZH Chicken chicken chicken chicken
+ZH 删除 WinProc 上的断点
 
 // WINDOWS:521
 EN Follow ClassProc
-ZH Chicken chicken
+ZH 跟随 ClassProc
 
 // WINDOWS:522
 EN Follow ClassProc in Disassembler
-ZH Chicken chicken chicken chicken
+ZH 在反汇编器中跟随 ClassProc
 
 // WINDOWS:524
 EN Breakpoint on ClassProc
-ZH Chicken chicken chicken
+ZH ClassProc 断点
 
 // WINDOWS:525
 EN Set unconditional breakpoint on ClassProc
-ZH Chicken chicken chicken chicken chicken
+ZH 在 ClassProc 上设置无条件断点
 
 // WINDOWS:528
 EN Set or edit conditional breakpoint on ClassProc
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 ClassProc 上设置或编辑条件断点
 
 // WINDOWS:531
 EN Set or edit conditional logging breakpoint on ClassProc
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在 ClassProc 上设置或编辑条件记录断点
 
 // WINDOWS:534
 EN Remove breakpoint from ClassProc
-ZH Chicken chicken chicken chicken
+ZH 删除 ClassProc 上的断点
 
 // WINDOWS:582
 EN Topmost
-ZH Chicken
+ZH 顶层
 
 // WINDOWS:584
 EN Desktop
-ZH Chicken
+ZH 桌面
 
 // WINDOWS:606
 EN %08X (menu)
-ZH %08X (chic)
+ZH %08X (菜单)
 
 // WINDOWS:689
 EN (menu)
-ZH (chic)
+ZH (菜单)
 
 // WINDOWS:691
 EN (desktop window)
-ZH (chicken chicken)
+ZH (桌面窗口)
 
 // WINDOWS:693
 EN (dialog box)
-ZH (chicken)
+ZH (对话框)
 
 // WINDOWS:695
 EN (task switch window)
-ZH (chicken chicken)
+ZH (任务切换窗口)
 
 // WINDOWS:732
 EN Window's handle
-ZH Chicken'chicken
+ZH 窗口句柄
 
 // WINDOWS:736
 EN Window's title or text
-ZH Chicken'chicken chicken
+ZH 窗口的标题或文本
 
 // WINDOWS:739
 EN Parent
-ZH Chicken
+ZH 父级
 
 // WINDOWS:740
 EN Handle of parent window
-ZH Chicken chicken chicken
+ZH 父窗口的句柄
 
 // WINDOWS:743
 EN WinProc
-ZH Chicken
+ZH WinProc
 
 // WINDOWS:744
 EN Address of window callback function
-ZH Chicken chicken chicken chicken chicken
+ZH 窗口回调函数的地址
 
 // WINDOWS:747
 EN ID/menu
-ZH CH/chic
+ZH ID/菜单
 
 // WINDOWS:748
 EN Identifier of child window or menu handle
-ZH Chicken chicken chicken chicken chicken
+ZH 子窗口标识符或菜单句柄
 
 // WINDOWS:752
 EN Window type (ASCII or UNICODE)
-ZH Chicken chicken (Chicken chicken)
+ZH 窗口类型 (ASCII 或 UNICODE)
 
 // WINDOWS:755
 EN Style
-ZH Chicken
+ZH 样式
 
 // WINDOWS:756
 EN Window style, set of WS_xxx
-ZH Chicken chicken, chicken chicken
+ZH 窗口样式, WS_xxx 集合
 
 // WINDOWS:759
 EN ExtStyle
-ZH Chicken
+ZH ExtStyle
 
 // WINDOWS:760
 EN Extended style, set of WS_EX_xxx
-ZH Chicken chicken, chicken chicken
+ZH 扩展样式, WS_EX_xxx 集合
 
 // WINDOWS:764
 EN ID of thread that owns the window
-ZH Chicken chicken chicken chicken
+ZH 拥有此窗口的线程 ID
 
 // WINDOWS:767
 EN ClsProc
-ZH Chicken
+ZH ClsProc
 
 // WINDOWS:768
 EN Address of default (class) window function
-ZH Chicken chicken (chicken) chicken chicken
+ZH 默认 (类) 窗口函数的地址
 
 // WINDOWS:771
 EN ClsName
-ZH Chicken
+ZH ClsName
 
 // WINDOWS:772
 EN Class name
-ZH Chicken
+ZH 类名
