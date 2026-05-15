@@ -747,195 +747,195 @@ ZH Chicken chicken chicken
 
 // BDISASM:1010
 EN Backspace
-ZH Chicken
+ZH 退格
 
 // BDISASM:1011
 EN TAB
-ZH CHI
+ZH TAB
 
 // BDISASM:1012
 EN Line Feed
-ZH Chicken
+ZH 换行
 
 // BDISASM:1013
 EN Form Feed
-ZH Chicken
+ZH 换页
 
 // BDISASM:1014
 EN Carriage Return
-ZH Chicken chicken
+ZH 回车
 
 // BDISASM:1015
 EN ESC
-ZH CHI
+ZH ESC
 
 // BDISASM:1018
 EN Char '%c'
-ZH Chic '%c'
+ZH 字符 '%c'
 
 // BDISASM:1019
 EN char '%c'
-ZH chic '%c'
+ZH 字符 '%c'
 
 // BDISASM:1020
 EN CHAR '%c'
-ZH CHIC '%c'
+ZH 字符 '%c'
 
 // BDISASM:1207
 EN Stack address=
-ZH Chicken chicken=
+ZH 堆栈地址=
 
 // BDISASM:1207
 EN Address=
-ZH Chicken=
+ZH 地址=
 
 // BDISASM:1221
 EN Top of stack
-ZH Chicken chicken
+ZH 堆栈顶部
 
 // BDISASM:1223
 EN Stack
-ZH Chicken
+ZH 堆栈
 
 // BDISASM:2132
 EN Dest
-ZH Chic
+ZH 目标
 
 // BDISASM:2304
 EN Imm
-ZH Chi
+ZH 立即数
 
 // BDISASM:2416
 EN %08X (decimal %i.)
-ZH %08X (chicken %i.)
+ZH %08X (十进制 %i.)
 
 // BDISASM:2419
 EN %08X (decimal %u.)
-ZH %08X (chicken %u.)
+ZH %08X (十进制 %u.)
 
 // BDISASM:2437
 EN - jumps to
-ZH - chicken
+ZH - 跳转至
 
 // BDISASM:2454
 EN Top of stack =
-ZH Chicken chicken =
+ZH 堆栈顶部 =
 
 // BDISASM:2486
 EN (decimal %i.)
-ZH (chicken %i.)
+ZH (十进制 %i.)
 
 // BDISASM:2489
 EN (decimal %u.)
-ZH (chicken %u.)
+ZH (十进制 %u.)
 
 // BDISASM:2743
 EN CONST
-ZH CHICKEN
+ZH CONST
 
 // BDISASM:2883
 EN ??? (internal error)
-ZH ??? (chicken chicken)
+ZH ??? (内部错误)
 
 // BDISASM:2891
 EN FLOAT
-ZH CHICKEN
+ZH FLOAT
 
 // BDISASM:4732
 EN Command crosses end of memory block
-ZH Chicken chicken chicken chicken chicken
+ZH 指令跨越内存块末尾
 
 // BDISASM:4734
 EN Illegal use of register
-ZH Chicken chicken chicken
+ZH 寄存器使用不合法
 
 // BDISASM:4736
 EN Memory address is not allowed
-ZH Chicken chicken chicken chicken
+ZH 不允许使用内存地址
 
 // BDISASM:4738
 EN LOCK prefix is not allowed
-ZH Chicken chicken chicken
+ZH 不允许使用 LOCK 前缀
 
 // BDISASM:4742
 EN Two prefixes from the same group
-ZH Chicken chicken chicken chicken
+ZH 同一组中存在两个前缀
 
 // BDISASM:4744
 EN More than 4 prefixes
-ZH Chicken 4 chicken
+ZH 前缀超过 4 个
 
 // BDISASM:4746
 EN Invalid CR register
-ZH Chicken chicken chicken
+ZH 无效的 CR 寄存器
 
 // BDISASM:4748
 EN Internal OllyDbg error
-ZH Chicken chicken chicken
+ZH OllyDbg 内部错误
 
 // BDISASM:4750
 EN Superfluous operand size prefix
-ZH Chicken chicken chicken chicken
+ZH 多余的操作数大小前缀
 
 // BDISASM:4752
 EN Superfluous address size prefix
-ZH Chicken chicken chicken chicken
+ZH 多余的地址大小前缀
 
 // BDISASM:4754
 EN Superfluous segment override prefix
-ZH Chicken chicken chicken chicken chicken
+ZH 多余的段覆盖前缀
 
 // BDISASM:4756
 EN Superfluous REPxx prefix
-ZH Chicken chicken chicken
+ZH 多余的 REPxx 前缀
 
 // BDISASM:4758
 EN Default segment register in prefix
-ZH Chicken chicken chicken chicken
+ZH 前缀中包含默认段寄存器
 
 // BDISASM:4760
 EN 16-bit return
-ZH 16-chicken
+ZH 16 位返回
 
 // BDISASM:4762
 EN 16-bit jump or call
-ZH 16-chicken chicken
+ZH 16 位跳转或调用
 
 // BDISASM:4764
 EN Far jump or call
-ZH Chicken chicken
+ZH 远跳转或调用
 
 // BDISASM:4766
 EN Modification of segment register
-ZH Chicken chicken chicken chicken
+ZH 修改段寄存器
 
 // BDISASM:4768
 EN Privileged instruction
-ZH Chicken chicken chicken
+ZH 特权指令
 
 // BDISASM:4770
 EN I/O command
-ZH C/Chicken
+ZH I/O 指令
 
 // BDISASM:4772
 EN Shift out of range
-ZH Chicken chicken
+ZH 移位超出范围
 
 // BDISASM:4774
 EN Command uses (valid) LOCK prefix
-ZH Chicken chicken (chicken) Chicken chicken
+ZH 指令使用 (有效的) LOCK 前缀
 
 // BDISASM:4776
 EN Unaligned stack operation
-ZH Chicken chicken chicken
+ZH 未对齐的堆栈操作
 
 // BDISASM:4778
 EN Suspicious use of stack pointer
-ZH Chicken chicken chicken chicken
+ZH 可疑的堆栈指针使用
 
 // BDISASM:4780
 EN Undocumented instruction or encoding
-ZH Chicken chicken chicken chicken chicken
+ZH 未记录的指令或编码
 
 // BPHARD:378
 EN Delete
