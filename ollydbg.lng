@@ -13195,79 +13195,79 @@ ZH Chicken chicken chicken chicken chicken %i
 
 // PATCHES:235
 EN EIP inside the patch
-ZH Chicken chicken chicken
+ZH EIP 位于补丁内
 
 // PATCHES:239
 EN There is at least one thread with EIP pointing to the patch location. Modification of code may lead to invalid functioning or crash of the debugged application. Do you still want to apply or restore patch?
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken?
+ZH 至少有一个线程的 EIP 指向补丁位置。修改代码可能导致被调试程序运行异常或崩溃。仍要应用或还原补丁吗？
 
 // PATCHES:278
 EN Scan code of all modules for possible modifications
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 扫描所有模块的代码以查找可能的修改
 
 // PATCHES:283
 EN Follow previous
-ZH Chicken chicken
+ZH 跟随上一个
 
 // PATCHES:286
 EN Follow next
-ZH Chicken chicken
+ZH 跟随下一个
 
 // PATCHES:290
 EN Apply patch to memory
-ZH Chicken chicken chicken
+ZH 将补丁应用到内存
 
 // PATCHES:295
 EN Delete record
-ZH Chicken chicken
+ZH 删除记录
 
 // PATCHES:296
 EN Delete old patch from the table
-ZH Chicken chicken chicken chicken
+ZH 从表中删除旧补丁
 
 // PATCHES:349
 EN Invalid
-ZH Chicken
+ZH 无效
 
 // PATCHES:351
 EN Applied
-ZH Chicken
+ZH 已应用
 
 // PATCHES:354
 EN Modified
-ZH Chicken
+ZH 已修改
 
 // PATCHES:400
 EN Patch address
-ZH Chicken chicken
+ZH 补丁地址
 
 // PATCHES:404
 EN Name of the module to which this patch belongs
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 此补丁所属模块的名称
 
 // PATCHES:408
 EN Size of the patch, bytes (decimal)
-ZH Chicken chicken, chicken (chicken)
+ZH 补丁大小, 字节 (十进制)
 
 // PATCHES:412
 EN Status of the patch
-ZH Chicken chicken chicken
+ZH 补丁的状态
 
 // PATCHES:415
 EN Modified command
-ZH Chicken chicken
+ZH 修改后的指令
 
 // PATCHES:416
 EN First modified command
-ZH Chicken chicken chicken
+ZH 首条修改后的指令
 
 // PATCHES:419
 EN Original command
-ZH Chicken chicken
+ZH 原始指令
 
 // PATCHES:420
 EN First original command
-ZH Chicken chicken chicken
+ZH 首条原始指令
 
 // PLUGINS:113
 EN Plugin-specific functions
