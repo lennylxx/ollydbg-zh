@@ -1715,7 +1715,7 @@ ZH 条件断点中的表达式无效: '%s'
 
 // DEBUG:888
 EN INT3:
-ZH CHI3:
+ZH INT3:
 
 // DEBUG:890
 EN MEM:
@@ -2499,7 +2499,7 @@ ZH 字符形式的低字节寄存器
 
 // DIALOGS:940
 EN OK
-ZH CH
+ZH 确定
 
 // DIALOGS:941
 EN Apply modifications
@@ -3835,7 +3835,7 @@ ZH 当前计数
 
 // DIALOGS:7221
 EN R/W:%i
-ZH C/C:%i
+ZH R/W:%i
 
 // DIALOGS:7225
 EN Empty
@@ -3903,7 +3903,7 @@ ZH 内存范围 1 的上限 (不包含)
 
 // DIALOGS:7765
 EN on
-ZH ch
+ZH on
 
 // DIALOGS:7768
 EN Read|Write|R/W
@@ -4599,7 +4599,7 @@ ZH 返回自
 
 // DUMP:2379
 EN to
-ZH ch
+ZH to
 
 // DUMP:2381
 EN RETURN to
@@ -7139,7 +7139,7 @@ ZH (窗口 %08X 的 DC
 
 // FNDATA:3851
 EN (DC)
-ZH (CH)
+ZH (DC)
 
 // FNDATA:3853
 EN (Region
@@ -7875,7 +7875,7 @@ ZH 代码页,
 
 // MEMORY:1656
 EN of
-ZH ch
+ZH of
 
 // MEMORY:1665
 EN Priv
@@ -7895,11 +7895,11 @@ ZH 内核
 
 // MEMORY:1686
 EN R
-ZH C
+ZH R
 
 // MEMORY:1688
 EN RW
-ZH CH
+ZH RW
 
 // MEMORY:1690
 EN RW  CopyOnWr
@@ -7907,7 +7907,7 @@ ZH RW  写时拷贝
 
 // MEMORY:1692
 EN E
-ZH C
+ZH E
 
 // MEMORY:1694
 EN R E
@@ -11787,7 +11787,7 @@ ZH Run 跟踪缓冲区大小
 
 // OPTIONS:1093
 EN 1 M|2 M|4 M|8 M|16 M|32 M|64 M|128 M|256 M
-ZH 1 C|2 C|4 C|8 C|16 C|32 C|64 C|128 C|256 C
+ZH 1 M|2 M|4 M|8 M|16 M|32 M|64 M|128 M|256 M
 
 // OPTIONS:1094
 EN Approximate size of run trace buffer, bytes
@@ -11859,7 +11859,7 @@ ZH 自动步进延迟
 
 // OPTIONS:1128
 EN 0 ms|20 ms|50 ms|100 ms|200 ms|500 ms|1000 ms
-ZH 0 ch|20 ch|50 ch|100 ch|200 ch|500 ch|1000 ch
+ZH 0 ms|20 ms|50 ms|100 ms|200 ms|500 ms|1000 ms
 
 // OPTIONS:1130
 EN Duration of step in 'Animate into' and 'Animate over' modi
@@ -12743,7 +12743,7 @@ ZH 闪烁持续时间
 
 // OPTIONS:1759
 EN 0.5 s|0.75 s|1 s|1.25 s|1.5 s|1.75 s|2 s|2.25 s|2.5 s
-ZH 0.5 c|0.75 c|1 c|1.25 c|1.5 c|1.75 c|2 c|2.25 c|2.5 c
+ZH 0.5 s|0.75 s|1 s|1.25 s|1.5 s|1.75 s|2 s|2.25 s|2.5 s
 
 // OPTIONS:1760
 EN Duration of flash in the status bar of main window
@@ -12759,7 +12759,7 @@ ZH 自动更新间隔
 
 // OPTIONS:1768
 EN 50 ms|100 ms|200 ms|500 ms|1 s|2 s|5 s|10 s
-ZH 50 ch|100 ch|200 ch|500 ch|1 c|2 c|5 c|10 c
+ZH 50 ms|100 ms|200 ms|500 ms|1 s|2 s|5 s|10 s
 
 // OPTIONS:1769
 EN Refresh interval for automatically updated windows
@@ -12907,7 +12907,7 @@ ZH 日志缓冲区大小
 
 // OPTIONS:1874
 EN 64 k|128 k|256 k|512 k|1 M|2 M|4 M|8 M|16 M
-ZH 64 c|128 c|256 c|512 c|1 C|2 C|4 C|8 C|16 C
+ZH 64 k|128 k|256 k|512 k|1 M|2 M|4 M|8 M|16 M
 
 // OPTIONS:1875
 EN Size of message buffer in the Log window
@@ -13587,11 +13587,11 @@ ZH 寄存器 -
 
 // REGS:960
 EN 32bit
-ZH 32chi
+ZH 32 位
 
 // REGS:960
 EN 16bit
-ZH 16chi
+ZH 16 位
 
 // REGS:983
 EN valid
