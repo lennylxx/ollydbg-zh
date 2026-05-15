@@ -3,279 +3,279 @@ ZH 简体中文 (Simplified Chinese)
 
 // ANALYSER:206
 EN Analysing %s - $ - press SPACE to interrupt
-ZH Chicken %s - $ - chicken chicken chicken
+ZH 正在分析 %s - $ - 按 SPACE 键中断
 
 // ANALYSER:227
 EN Analysis interrupted
-ZH Chicken chicken chicken
+ZH 分析已中断
 
 // ANALYSER:563
 EN Low memory, analysis is not possible
-ZH Chicken, chicken chicken chicken
+ZH 内存不足, 无法分析
 
 // ANALYSER:579
 EN Module has empty code section
-ZH Chicken chicken chicken chicken
+ZH 模块的代码节为空
 
 // ANALYSER:599
 EN Compressed code?
-ZH Chicken chicken?
+ZH 压缩代码?
 
 // ANALYSER:602
 EN Quick statistical test of module '%s' reports that its code section is either compressed, encrypted, or contains large amount of embedded data. Do you want to analyze this code?
-ZH Chicken chicken chicken chicken '%s' chicken chicken chicken chicken chicken chicken, chicken, chicken chicken chicken chicken chicken. Chicken chicken chicken chicken?
+ZH 对模块 '%s' 的快速统计测试表明，其代码节可能已被压缩、加密，或包含大量嵌入数据。是否要分析此代码？
 
 // ANALYSER:605
 EN Packed or encrypted code, code is not analysed
-ZH Chicken chicken chicken, chicken chicken chicken
+ZH 代码已被加壳或加密, 不进行分析
 
 // ANALYSER:660
 EN Struct 'IMAGE_IMPORT_DESCRIPTOR'
-ZH Chicken 'CHICKEN CHICKEN CHICKEN'
+ZH 结构 'IMAGE_IMPORT_DESCRIPTOR'
 
 // ANALYSER:671
 EN Invalid DLL name in Import Directory at %08X
-ZH Chicken chicken chicken chicken chicken %08X
+ZH 导入目录 %08X 处的 DLL 名称无效
 
 // ANALYSER:677
 EN Import lookup table for '%.200S'
-ZH Chicken chicken chicken '%.200S'
+ZH '%.200S' 的导入查找表
 
 // ANALYSER:696
 EN Invalid import name in ILT at %08X
-ZH Chicken chicken chicken chicken %08X
+ZH ILT %08X 处的导入名称无效
 
 // ANALYSER:725
 EN Struct 'IMAGE_EXPORT_DIRECTORY'
-ZH Chicken 'CHICKEN CHICKEN CHICKEN'
+ZH 结构 'IMAGE_EXPORT_DIRECTORY'
 
 // ANALYSER:741
 EN Original module name
-ZH Chicken chicken chicken
+ZH 原始模块名称
 
 // ANALYSER:745
 EN Invalid name of executable in Export Directory at %08X
-ZH Chicken chicken chicken chicken chicken chicken %08X
+ZH 导出目录 %08X 处的可执行文件名称无效
 
 // ANALYSER:751
 EN Export Address Table
-ZH Chicken chicken chicken
+ZH 导出地址表
 
 // ANALYSER:763
 EN Export Name Pointer Table
-ZH Chicken chicken chicken
+ZH 导出名称指针表
 
 // ANALYSER:775
 EN Invalid export name in Export Name Table at %08X
-ZH Chicken chicken chicken chicken chicken chicken %08X
+ZH 导出名称表 %08X 处的导出名称无效
 
 // ANALYSER:784
 EN Export Ordinal Table
-ZH Chicken chicken chicken
+ZH 导出序号表
 
 // ANALYSER:816
 EN TLS callback function
-ZH Chicken chicken chicken
+ZH TLS 回调函数
 
 // ANALYSER:820
 EN <TLSCallbacks>
-ZH <Chicken chicken>
+ZH <TLS 回调>
 
 // ANALYSER:1283
 EN Exception handler
-ZH Chicken chicken
+ZH 异常处理程序
 
 // ANALYSER:2279
 EN Invalid or unknown format of .NET structures
-ZH Chicken chicken chicken chicken .Chicken chicken
+ZH 无效或未知的 .NET 结构格式
 
 // ANALYSER:2597
 EN Signature of __except_handler2
-ZH Chicken chicken chicken chicken2
+ZH __except_handler2 的特征
 
 // ANALYSER:2598
 EN Signature of __except_handler3
-ZH Chicken chicken chicken chicken3
+ZH __except_handler3 的特征
 
 // ANALYSER:2765
 EN Invalid command in sure code
-ZH Chicken chicken chicken chicken
+ZH 确定代码中的无效指令
 
 // ANALYSER:2771
 EN Command already decoded differently
-ZH Chicken chicken chicken chicken chicken
+ZH 指令已以不同方式解码
 
 // ANALYSER:2787
 EN Data already decoded as command%s
-ZH Chicken chicken chicken chicken%s
+ZH 数据已解码为指令%s
 
 // ANALYSER:2788
 EN (self-modified code?)
-ZH (chic-chicken chicken?)
+ZH (自修改代码?)
 
 // ANALYSER:2831
 EN Jump over immediate data
-ZH Chicken chicken chicken
+ZH 跳过立即数据
 
 // ANALYSER:3075
 EN Fixup split between items
-ZH Chicken chicken chicken
+ZH 重定位被分割在不同项之间
 
 // ANALYSER:3761
 EN Tricky pattern %i: %s
-ZH Chicken chicken %i: %s
+ZH 棘手模式 %i: %s
 
 // ANALYSER:4134
 EN 1 library function from '%s'
-ZH 1 chicken chicken chicken '%s'
+ZH 来自 '%s' 的 1 个库函数
 
 // ANALYSER:4137
 EN %i library functions from '%s'
-ZH %i chicken chicken chicken '%s'
+ZH 来自 '%s' 的 %i 个库函数
 
 // ANALYSER:4982
 EN Low memory, switches are not analysed
-ZH Chicken, chicken chicken chicken
+ZH 内存不足, 不分析 switch
 
 // ANALYSER:5439
 EN Switch is too complex, some cases are lost
-ZH Chicken chicken chicken, chicken chicken chicken
+ZH switch 过于复杂, 部分分支丢失
 
 // ANALYSER:6065
 EN Low memory, unable to recognize procedures
-ZH Chicken, chicken chicken chicken chicken
+ZH 内存不足, 无法识别过程
 
 // ANALYSER:6223
 EN Loop reserves %i. bytes on the stack
-ZH Chicken chicken %i. chicken chicken
+ZH 循环在堆栈上保留 %i. 字节
 
 // ANALYSER:6243
 EN ESP may depend on execution path
-ZH Chicken chicken chicken chicken
+ZH ESP 可能取决于执行路径
 
 // ANALYSER:6284
 EN <T%X> stack alignment
-ZH <C%X> chicken chicken
+ZH <T%X> 堆栈对齐
 
 // ANALYSER:6339
 EN SE handling routine
-ZH Chicken chicken chicken
+ZH SE 处理例程
 
 // ANALYSER:6345
 EN Installs SE handler
-ZH Chicken chicken chicken
+ZH 安装 SE 处理程序
 
 // ANALYSER:6347
 EN Installs SE handler <+%X>
-ZH Chicken chicken chicken <+%X>
+ZH 安装 SE 处理程序 <+%X>
 
 // ANALYSER:6383
 EN Possible access to uninitialized part of stack (below ESP)
-ZH Chicken chicken chicken chicken chicken chicken (chicken)
+ZH 可能访问堆栈未初始化部分 (位于 ESP 下方)
 
 // ANALYSER:6392
 EN Possible manipulation of return address on the stack
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 可能操纵堆栈上的返回地址
 
 // ANALYSER:6665
 EN Large structure passed on stack or ESP manipulated
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 通过堆栈传递大型结构或操纵了 ESP
 
 // ANALYSER:6902
 EN RET is used as a jump
-ZH Chicken chicken chicken
+ZH RET 被用作跳转
 
 // ANALYSER:6904
 EN Jump to <+%X>
-ZH Chicken <+%X>
+ZH 跳转到 <+%X>
 
 // ANALYSER:7233
 EN Allocates EAX bytes on stack
-ZH Chicken chicken chicken chicken
+ZH 在堆栈上分配 EAX 字节
 
 // ANALYSER:7235
 EN Allocates %i. bytes on stack
-ZH Chicken %i. chicken chicken
+ZH 在堆栈上分配 %i. 字节
 
 // ANALYSER:7243
 EN Probes EAX bytes on stack
-ZH Chicken chicken chicken
+ZH 在堆栈上探测 EAX 字节
 
 // ANALYSER:7245
 EN Probes %i. bytes on stack
-ZH Chicken %i. chicken chicken
+ZH 在堆栈上探测 %i. 字节
 
 // ANALYSER:7504
 EN Low memory, unable to recognize loop variables
-ZH Chicken, chicken chicken chicken chicken
+ZH 内存不足, 无法识别循环变量
 
 // ANALYSER:7979
 EN Low memory, unable to save analysis data
-ZH Chicken, chicken chicken chicken chicken
+ZH 内存不足, 无法保存分析数据
 
 // ANALYSER:8043
 EN Analysing %s
-ZH Chicken %s
+ZH 正在分析 %s
 
 // ANALYSER:8045
 EN Some static imports are not yet resolved
-ZH Chicken chicken chicken chicken chicken
+ZH 部分静态导入尚未解析
 
 // ANALYSER:8286
 EN 1 %s procedure
-ZH 1 %s chicken
+ZH 1 个 %s 过程
 
 // ANALYSER:8287
 EN fuzzy
-ZH chicken
+ZH 模糊
 
 // ANALYSER:8287
 EN strict
-ZH chicken
+ZH 严格
 
 // ANALYSER:8288
 EN %i %s procedures
-ZH %i %s chicken
+ZH %i 个 %s 过程
 
 // ANALYSER:8293
 EN 1 call to known function
-ZH 1 chicken chicken chicken
+ZH 1 次对已知函数的调用
 
 // ANALYSER:8295
 EN %i calls to known functions
-ZH %i chicken chicken chicken
+ZH %i 次对已知函数的调用
 
 // ANALYSER:8299
 EN 1 call to known,
-ZH 1 chicken chicken,
+ZH 1 次对已知的调用,
 
 // ANALYSER:8300
 EN %i calls to known,
-ZH %i chicken chicken,
+ZH %i 次对已知的调用,
 
 // ANALYSER:8301
 EN 1 call to guessed functions
-ZH 1 chicken chicken chicken
+ZH 1 次对推测函数的调用
 
 // ANALYSER:8302
 EN %i calls to guessed functions
-ZH %i chicken chicken chicken
+ZH %i 次对推测函数的调用
 
 // ANALYSER:8307
 EN switch or cascaded IF
-ZH chicken chicken chicken
+ZH switch 或级联 IF
 
 // ANALYSER:8307
 EN switch
-ZH chicken
+ZH switch
 
 // ANALYSER:8310
 EN switches and cascaded IFs
-ZH chicken chicken chicken
+ZH switch 和级联 IF
 
 // ANALYSER:8310
 EN switches
-ZH chicken
+ZH switch
 
 // ANALYSER:8317
 EN 1 loop
@@ -283,11 +283,11 @@ ZH 1 chic
 
 // ANALYSER:8319
 EN %i loops
-ZH %i chicken
+ZH %i 个循环
 
 // ANALYSER:8391
 EN Low memory, automatic analysis not possible
-ZH Chicken, chicken chicken chicken chicken
+ZH 内存不足, 无法自动分析
 
 // ASSEMBLE:375
 EN Only 32-bit registers can be scaled
