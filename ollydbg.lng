@@ -15603,287 +15603,287 @@ ZH 将整表复制到剪贴板
 
 // THREADS:69
 EN NULL thread
-ZH Chicken chicken
+ZH 空线程
 
 // THREADS:70
 EN NULL
-ZH CHIC
+ZH NULL
 
 // THREADS:78
 EN Main thread
-ZH Chicken chicken
+ZH 主线程
 
 // THREADS:78
 EN main thread
-ZH chicken chicken
+ZH 主线程
 
 // THREADS:80
 EN Main
-ZH Chic
+ZH 主
 
 // THREADS:80
 EN main
-ZH chic
+ZH 主
 
 // THREADS:85
 EN .NET helper thread
-ZH .Chicken chicken
+ZH .NET 辅助线程
 
 // THREADS:87
 EN Temporary thread
-ZH Chicken chicken
+ZH 临时线程
 
 // THREADS:87
 EN temporary thread
-ZH chicken chicken
+ZH 临时线程
 
 // THREADS:89
 EN thread
-ZH chicken
+ZH 线程
 
 // THREADS:280
 EN Unable to suspend thread
-ZH Chicken chicken chicken
+ZH 无法挂起线程
 
 // THREADS:300
 EN Unable to resume thread
-ZH Chicken chicken chicken
+ZH 无法恢复线程
 
 // THREADS:341
 EN Thread Information Block of
-ZH Chicken chicken chicken chicken
+ZH 线程信息块 - 
 
 // THREADS:406
 EN You are going to kill the last thread in the debugged application. The application will close. All unsaved information will be lost and loaded DLLs will receive no notification. Kill thread anyway?
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken?
+ZH 您将要终止被调试程序中的最后一个线程。程序将关闭。所有未保存的信息将丢失，已加载的 DLL 将不会收到通知。仍要终止线程吗？
 
 // THREADS:410
 EN You are going to kill internal .NET debugging helper thread. You will be unable to continue debugging, and the application may crash. Kill thread anyway?
-ZH Chicken chicken chicken chicken .Chicken chicken chicken chicken. Chicken chicken chicken chicken chicken, chicken chicken chicken chicken. Chicken chicken?
+ZH 您将要终止 .NET 调试内部辅助线程。您将无法继续调试，程序可能崩溃。仍要终止线程吗？
 
 // THREADS:415
 EN You are going to kill main thread of debugged application. In most cases, this will make application unusable. Also note that all unsaved information in this thread will be lost and loaded DLLs will receive no notification. Kill thread anyway?
-ZH Chicken chicken chicken chicken chicken chicken chicken. Chicken chicken, chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken?
+ZH 您将要终止被调试程序的主线程。在大多数情况下，这会使程序无法使用。请注意，此线程中所有未保存的信息将丢失，已加载的 DLL 将不会收到通知。仍要终止线程吗？
 
 // THREADS:419
 EN You are going to kill thread %08X. All unsaved information in this thread will be lost and loaded DLLs will receive no notification. Kill thread anyway?
-ZH Chicken chicken chicken chicken %08X. Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken?
+ZH 您将要终止线程 %08X。此线程中所有未保存的信息将丢失，已加载的 DLL 将不会收到通知。仍要终止线程吗？
 
 // THREADS:420
 EN About to kill the thread
-ZH Chicken chicken chicken
+ZH 即将终止线程
 
 // THREADS:446
 EN You are going to assign time-critical priority to
-ZH Chicken chicken chicken chicken-chicken chicken chicken
+ZH 您将要为以下对象分配实时优先级
 
 // THREADS:450
 EN . In some cases this may slow down or practically stop OllyDbg and other applications. Continue anyway?
-ZH . Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken?
+ZH 。在某些情况下，这可能会减慢甚至几乎停止 OllyDbg 和其他程序的运行。仍要继续吗？
 
 // THREADS:452
 EN About to assign time-critical priority to thread
-ZH Chicken chicken chicken-chicken chicken chicken chicken
+ZH 即将为线程分配实时优先级
 
 // THREADS:456
 EN Unable to change priority
-ZH Chicken chicken chicken
+ZH 无法更改优先级
 
 // THREADS:462
 EN Idle
-ZH Chic
+ZH 空闲
 
 // THREADS:463
 EN Change priority of selected thread to idle
-ZH Chicken chicken chicken chicken chicken
+ZH 将所选线程的优先级更改为空闲
 
 // THREADS:465
 EN Lowest
-ZH Chicken
+ZH 最低
 
 // THREADS:466
 EN Change priority of selected thread to lowest
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将所选线程的优先级更改为最低
 
 // THREADS:468
 EN Low
-ZH Chi
+ZH 低
 
 // THREADS:469
 EN Change priority of selected thread to low
-ZH Chicken chicken chicken chicken chicken
+ZH 将所选线程的优先级更改为低
 
 // THREADS:472
 EN Change priority of selected thread to normal
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将所选线程的优先级更改为正常
 
 // THREADS:475
 EN Change priority of selected thread to high
-ZH Chicken chicken chicken chicken chicken
+ZH 将所选线程的优先级更改为高
 
 // THREADS:477
 EN Highest
-ZH Chicken
+ZH 最高
 
 // THREADS:478
 EN Change priority of selected thread to highest
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将所选线程的优先级更改为最高
 
 // THREADS:480
 EN Time critical
-ZH Chicken chicken
+ZH 实时
 
 // THREADS:481
 EN Change priority of selected thread to time critical
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 将所选线程的优先级更改为实时
 
 // THREADS:488
 EN Update contents of Threads window
-ZH Chicken chicken chicken chicken
+ZH 更新线程窗口的内容
 
 // THREADS:490
 EN &Open in CPU
-ZH &Chicken chicken
+ZH 在 CPU 中打开(&O)
 
 // THREADS:493
 EN &Dump TIB
-ZH &Chicken
+ZH 转储 TIB(&D)
 
 // THREADS:496
 EN Show registers
-ZH Chicken chicken
+ZH 显示寄存器
 
 // THREADS:497
 EN Show thread's registers in standalone window
-ZH Chicken chicken'chicken chicken chicken chicken
+ZH 在独立窗口中显示线程的寄存器
 
 // THREADS:499
 EN Set symbolic name
-ZH Chicken chicken
+ZH 设置符号名称
 
 // THREADS:500
 EN Assign symbolic name to selected thread
-ZH Chicken chicken chicken chicken chicken
+ZH 为所选线程分配符号名称
 
 // THREADS:502
 EN &Suspend
-ZH &Chicken
+ZH 挂起(&S)
 
 // THREADS:503
 EN Suspend selected thread
-ZH Chicken chicken chicken
+ZH 挂起所选线程
 
 // THREADS:505
 EN &Resume
-ZH &Chicken
+ZH 恢复(&R)
 
 // THREADS:506
 EN Resume suspended thread
-ZH Chicken chicken chicken
+ZH 恢复已挂起的线程
 
 // THREADS:508
 EN Set &priority
-ZH Chi &chicken
+ZH 设置优先级(&P)
 
 // THREADS:509
 EN Change priority of selected thread
-ZH Chicken chicken chicken chicken
+ZH 更改所选线程的优先级
 
 // THREADS:511
 EN &Kill
-ZH &Chic
+ZH 终止(&K)
 
 // THREADS:512
 EN Kill selected thread
-ZH Chicken chicken chicken
+ZH 终止所选线程
 
 // THREADS:583
 EN Debug
-ZH Chicken
+ZH 调试
 
 // THREADS:585
 EN Temp
-ZH Chic
+ZH 临时
 
 // THREADS:645
 EN %4i.%04i s
-ZH %4i.%04i c
+ZH %4i.%04i 秒
 
 // THREADS:683
 EN Ord
-ZH Chi
+ZH 序号
 
 // THREADS:684
 EN Decimal sequential number of thread in process
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 进程中线程的十进制序号
 
 // THREADS:687
 EN Ident
-ZH Chicken
+ZH 标识
 
 // THREADS:689
 EN Name (if present) and unique system-wide identifier of the thread
-ZH Chic (chicken) chicken chicken-chicken chicken chicken chicken
+ZH 线程的名称 (如果存在) 和系统范围内唯一的标识符
 
 // THREADS:692
 EN Window's title
-ZH Chicken'chicken
+ZH 窗口标题
 
 // THREADS:694
 EN Title of one of the top-level windows owned by thread
-ZH Chicken chicken chicken-chicken chicken chicken chicken
+ZH 线程拥有的某个顶层窗口的标题
 
 // THREADS:697
 EN Last error
-ZH Chicken
+ZH 最后错误
 
 // THREADS:698
 EN Last error, as returned by GetLastError()
-ZH Chicken, chicken chicken chicken chicken()
+ZH 最后错误, 由 GetLastError() 返回
 
 // THREADS:702
 EN Address of thread's entry point
-ZH Chicken chicken'chicken chicken
+ZH 线程入口点的地址
 
 // THREADS:705
 EN TIB
-ZH CHI
+ZH TIB
 
 // THREADS:706
 EN Address of Thread Information Block
-ZH Chicken chicken chicken chicken chicken
+ZH 线程信息块的地址
 
 // THREADS:709
 EN Suspend
-ZH Chicken
+ZH 挂起
 
 // THREADS:710
 EN Suspend count of the thread
-ZH Chicken chicken chicken chicken
+ZH 线程的挂起计数
 
 // THREADS:713
 EN Priority
-ZH Chicken
+ZH 优先级
 
 // THREADS:715
 EN Current thread's priority (relative to priority class of the process)
-ZH Chicken chicken'chicken (chicken chicken chicken chicken chicken)
+ZH 当前线程的优先级 (相对于进程的优先级类)
 
 // THREADS:718
 EN User time
-ZH Chicken
+ZH 用户时间
 
 // THREADS:719
 EN CPU time spent by thread in user mode
-ZH Chicken chicken chicken chicken chicken
+ZH 线程在用户模式下花费的 CPU 时间
 
 // THREADS:722
 EN System time
-ZH Chicken chicken
+ZH 系统时间
 
 // THREADS:723
 EN CPU time spent by thread in system mode
-ZH Chicken chicken chicken chicken chicken
+ZH 线程在系统模式下花费的 CPU 时间
 
 // TRACE:165
 EN Unable to allocate memory for run trace buffer
