@@ -2427,75 +2427,75 @@ ZH 未知调试事件 %08lX
 
 // DIALOGS:904
 EN Hexadecimal
-ZH Chicken chicken
+ZH 十六进制
 
 // DIALOGS:907
 EN Doubleword register in hexadecimal form
-ZH Chicken chicken chicken chicken chicken
+ZH 十六进制形式的双字寄存器
 
 // DIALOGS:909
 EN Word register in hexadecimal form
-ZH Chicken chicken chicken chicken
+ZH 十六进制形式的字寄存器
 
 // DIALOGS:911
 EN High byte register in hexadecimal form
-ZH Chicken chicken chicken chicken chicken
+ZH 十六进制形式的高字节寄存器
 
 // DIALOGS:913
 EN Low byte register in hexadecimal form
-ZH Chicken chicken chicken chicken chicken
+ZH 十六进制形式的低字节寄存器
 
 // DIALOGS:914
 EN Signed
-ZH Chicken
+ZH 有符号
 
 // DIALOGS:917
 EN Doubleword register in signed form
-ZH Chicken chicken chicken chicken
+ZH 有符号形式的双字寄存器
 
 // DIALOGS:919
 EN Word register in signed form
-ZH Chicken chicken chicken chicken
+ZH 有符号形式的字寄存器
 
 // DIALOGS:921
 EN High byte register in signed form
-ZH Chicken chicken chicken chicken
+ZH 有符号形式的高字节寄存器
 
 // DIALOGS:923
 EN Low byte register in signed form
-ZH Chicken chicken chicken chicken
+ZH 有符号形式的低字节寄存器
 
 // DIALOGS:924
 EN Unsigned
-ZH Chicken
+ZH 无符号
 
 // DIALOGS:927
 EN Doubleword register in unsigned form
-ZH Chicken chicken chicken chicken chicken
+ZH 无符号形式的双字寄存器
 
 // DIALOGS:929
 EN Word register in unsigned form
-ZH Chicken chicken chicken chicken
+ZH 无符号形式的字寄存器
 
 // DIALOGS:931
 EN High byte register in unsigned form
-ZH Chicken chicken chicken chicken chicken
+ZH 无符号形式的高字节寄存器
 
 // DIALOGS:933
 EN Low byte register in unsigned form
-ZH Chicken chicken chicken chicken
+ZH 无符号形式的低字节寄存器
 
 // DIALOGS:934
 EN Character
-ZH Chicken
+ZH 字符
 
 // DIALOGS:937
 EN High byte register in character form
-ZH Chicken chicken chicken chicken chicken
+ZH 字符形式的高字节寄存器
 
 // DIALOGS:939
 EN Low byte register in character form
-ZH Chicken chicken chicken chicken chicken
+ZH 字符形式的低字节寄存器
 
 // DIALOGS:940
 EN OK
@@ -2503,207 +2503,207 @@ ZH CH
 
 // DIALOGS:941
 EN Apply modifications
-ZH Chicken chicken chicken
+ZH 应用修改
 
 // DIALOGS:942
 EN Cancel
-ZH Chicken
+ZH 取消
 
 // DIALOGS:943
 EN Discard modifications
-ZH Chicken chicken chicken
+ZH 放弃修改
 
 // DIALOGS:944
 EN Edit register
-ZH Chicken chicken
+ZH 编辑寄存器
 
 // DIALOGS:1001
 EN Enter data in hexadecimal form
-ZH Chicken chicken chicken chicken
+ZH 以十六进制形式输入数据
 
 // DIALOGS:1005
 EN Enter data in signed decimal form
-ZH Chicken chicken chicken chicken
+ZH 以有符号十进制形式输入数据
 
 // DIALOGS:1009
 EN Enter data in unsigned decimal form
-ZH Chicken chicken chicken chicken chicken
+ZH 以无符号十进制形式输入数据
 
 // DIALOGS:1014
 EN Edit data
-ZH Chicken
+ZH 编辑数据
 
 // DIALOGS:1032
 EN Float
-ZH Chicken
+ZH 浮点
 
 // DIALOGS:1035
 EN Enter data in floating point form
-ZH Chicken chicken chicken chicken
+ZH 以浮点形式输入数据
 
 // DIALOGS:1063
 EN Enter word in hexadecimal form
-ZH Chicken chicken chicken chicken
+ZH 以十六进制形式输入字
 
 // DIALOGS:1067
 EN Enter word in signed decimal form
-ZH Chicken chicken chicken chicken
+ZH 以有符号十进制形式输入字
 
 // DIALOGS:1071
 EN Enter word in unsigned decimal form
-ZH Chicken chicken chicken chicken chicken
+ZH 以无符号十进制形式输入字
 
 // DIALOGS:1099
 EN Enter byte in hexadecimal form
-ZH Chicken chicken chicken chicken
+ZH 以十六进制形式输入字节
 
 // DIALOGS:1103
 EN Enter byte in signed decimal form
-ZH Chicken chicken chicken chicken
+ZH 以有符号十进制形式输入字节
 
 // DIALOGS:1107
 EN Enter byte in unsigned decimal form
-ZH Chicken chicken chicken chicken chicken
+ZH 以无符号十进制形式输入字节
 
 // DIALOGS:1111
 EN Enter byte as ASCII character
-ZH Chicken chicken chicken chicken
+ZH 以 ASCII 字符形式输入字节
 
 // DIALOGS:1136
 EN Last error (hex)
-ZH Chicken (chi)
+ZH 最后错误 (十六进制)
 
 // DIALOGS:1139
 EN Enter last threas's error in hexadecimal form
-ZH Chicken chicken'chicken chicken chicken chicken
+ZH 以十六进制形式输入线程的最后错误
 
 // DIALOGS:1141
 EN Select new last thread's error from the list
-ZH Chicken chicken chicken'chicken chicken chicken
+ZH 从列表选择新的线程最后错误
 
 // DIALOGS:1143
 EN Sort by name
-ZH Chicken chicken
+ZH 按名称排序
 
 // DIALOGS:1144
 EN Check to sort error list by name
-ZH Chicken chicken chicken chicken
+ZH 选中按名称排序错误列表
 
 // DIALOGS:1150
 EN Change last error
-ZH Chicken chicken
+ZH 更改最后错误
 
 // DIALOGS:1569
 EN First address in the range
-ZH Chicken chicken chicken
+ZH 范围内的起始地址
 
 // DIALOGS:1571
 EN Select or type in the first address in the range
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择或输入范围内的起始地址
 
 // DIALOGS:1573
 EN Last address in the range (included)
-ZH Chicken chicken chicken (chicken)
+ZH 范围内的结束地址 (包含)
 
 // DIALOGS:1575
 EN Select or type in the last address in the range
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择或输入范围内的结束地址
 
 // DIALOGS:1579
 EN Select range
-ZH Chicken chicken
+ZH 选择范围
 
 // DIALOGS:1581
 EN Discard action
-ZH Chicken chicken
+ZH 放弃操作
 
 // DIALOGS:1583
 EN Select address range
-ZH Chicken chicken chicken
+ZH 选择地址范围
 
 // DIALOGS:1624
 EN First address: %s
-ZH Chicken chicken: %s
+ZH 起始地址: %s
 
 // DIALOGS:1630
 EN First address: Integer expression expected
-ZH Chicken chicken: Chicken chicken chicken chicken
+ZH 起始地址: 需要整数表达式
 
 // DIALOGS:1638
 EN Last address: %s
-ZH Chicken chicken: %s
+ZH 结束地址: %s
 
 // DIALOGS:1644
 EN Last address: Integer expression expected
-ZH Chicken chicken: Chicken chicken chicken chicken
+ZH 结束地址: 需要整数表达式
 
 // DIALOGS:1650
 EN First address exceeds last address
-ZH Chicken chicken chicken chicken
+ZH 起始地址超过结束地址
 
 // DIALOGS:1704
 EN First exception in the range
-ZH Chicken chicken chicken chicken
+ZH 范围内的起始异常
 
 // DIALOGS:1706
 EN Select or type in the first exception in the range
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择或输入范围内的起始异常
 
 // DIALOGS:1708
 EN Last exception in the range (included)
-ZH Chicken chicken chicken chicken (chicken)
+ZH 范围内的结束异常 (包含)
 
 // DIALOGS:1710
 EN Select or type in the last exception in the range
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择或输入范围内的结束异常
 
 // DIALOGS:1716
 EN Select range of exception codes
-ZH Chicken chicken chicken chicken
+ZH 选择异常代码范围
 
 // DIALOGS:1734
 EN Same as above
-ZH Chicken chicken
+ZH 与上面相同
 
 // DIALOGS:1806
 EN Select type of the structure
-ZH Chicken chicken chicken chicken
+ZH 选择结构类型
 
 // DIALOGS:1808
 EN Confirm selection
-ZH Chicken chicken
+ZH 确认选择
 
 // DIALOGS:1812
 EN Select structure
-ZH Chicken chicken
+ZH 选择结构
 
 // DIALOGS:1822
 EN Exactly one structure
-ZH Chicken chicken chicken
+ZH 仅一个结构
 
 // DIALOGS:1823
 EN Set dump size to the size of the structure
-ZH Chicken chicken chicken chicken chicken
+ZH 将数据大小设置为结构大小
 
 // DIALOGS:1825
 EN Specify count:
-ZH Chicken chicken:
+ZH 指定数量:
 
 // DIALOGS:1826
 EN Specify how many instances of the structure to decode
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 指定要解码的结构实例数
 
 // DIALOGS:1847
 EN Fill selection
-ZH Chicken chicken
+ZH 填充所选内容
 
 // DIALOGS:1848
 EN Fill selection with the packed structures
-ZH Chicken chicken chicken chicken chicken
+ZH 用打包的结构填充所选内容
 
 // DIALOGS:2013
 EN Floating-point register in decimal form
-ZH Chicken-chicken chicken chicken chicken
+ZH 十进制形式的浮点寄存器
 
 // DIALOGS:2014
 EN Hex
@@ -2711,119 +2711,119 @@ ZH Chi
 
 // DIALOGS:2017
 EN Floating-point register in hexadecimal form
-ZH Chicken-chicken chicken chicken chicken
+ZH 十六进制形式的浮点寄存器
 
 // DIALOGS:2019
 EN Modify associated tag
-ZH Chicken chicken chicken
+ZH 修改关联的标记
 
 // DIALOGS:2020
 EN Modify tag associated with register according to new contents
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 根据新内容修改与寄存器关联的标记
 
 // DIALOGS:2031
 EN High part
-ZH Chicken
+ZH 高位部分
 
 // DIALOGS:2033
 EN Low part
-ZH Chicken
+ZH 低位部分
 
 // DIALOGS:2038
 EN High part of 3DNow! operand in decimal form
-ZH Chicken chicken 3Chic! chicken chicken chicken
+ZH 十进制形式的 3DNow! 操作数高位部分
 
 // DIALOGS:2040
 EN Low part of 3DNow! operand in decimal form
-ZH Chicken chicken 3Chic! chicken chicken chicken
+ZH 十进制形式的 3DNow! 操作数低位部分
 
 // DIALOGS:2044
 EN High part of 3DNow! operand in hexadecimal form
-ZH Chicken chicken 3Chic! chicken chicken chicken chicken
+ZH 十六进制形式的 3DNow! 操作数高位部分
 
 // DIALOGS:2046
 EN Low part of 3DNow! operand in hexadecimal form
-ZH Chicken chicken 3Chic! chicken chicken chicken chicken
+ZH 十六进制形式的 3DNow! 操作数低位部分
 
 // DIALOGS:2052
 EN Edit 3DNow! operand
-ZH Chic 3Chic! chicken
+ZH 编辑 3DNow! 操作数
 
 // DIALOGS:2060
 EN 32-bit floating-point number in decimal form
-ZH 32-chicken chicken-chicken chicken chicken chicken
+ZH 十进制形式的 32 位浮点数
 
 // DIALOGS:2064
 EN 32-bit floating-point number in hexadecimal form
-ZH 32-chicken chicken-chicken chicken chicken chicken
+ZH 十六进制形式的 32 位浮点数
 
 // DIALOGS:2070
 EN Edit 32-bit float
-ZH Chic 32-chicken
+ZH 编辑 32 位浮点数
 
 // DIALOGS:2078
 EN 64-bit floating-point number in decimal form
-ZH 64-chicken chicken-chicken chicken chicken chicken
+ZH 十进制形式的 64 位浮点数
 
 // DIALOGS:2082
 EN 64-bit floating-point number in hexadecimal form
-ZH 64-chicken chicken-chicken chicken chicken chicken
+ZH 十六进制形式的 64 位浮点数
 
 // DIALOGS:2088
 EN Edit 64-bit float
-ZH Chic 64-chicken
+ZH 编辑 64 位浮点数
 
 // DIALOGS:2096
 EN 80-bit floating-point number in decimal form
-ZH 80-chicken chicken-chicken chicken chicken chicken
+ZH 十进制形式的 80 位浮点数
 
 // DIALOGS:2100
 EN 80-bit floating-point number in hexadecimal form
-ZH 80-chicken chicken-chicken chicken chicken chicken
+ZH 十六进制形式的 80 位浮点数
 
 // DIALOGS:2106
 EN Edit 80-bit float
-ZH Chic 80-chicken
+ZH 编辑 80 位浮点数
 
 // DIALOGS:2114
 EN Floating-point number in decimal form
-ZH Chicken-chicken chicken chicken chicken
+ZH 十进制形式的浮点数
 
 // DIALOGS:2116
 EN Entire block
-ZH Chicken chicken
+ZH 整个块
 
 // DIALOGS:2117
 EN Search forward from the beginning of the block
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 从块起始处向前搜索
 
 // DIALOGS:2118
 EN Forward
-ZH Chicken
+ZH 向前
 
 // DIALOGS:2119
 EN Search forward from the current selection
-ZH Chicken chicken chicken chicken chicken
+ZH 从当前所选位置向前搜索
 
 // DIALOGS:2120
 EN Backward
-ZH Chicken
+ZH 向后
 
 // DIALOGS:2121
 EN Search backward from the current selection
-ZH Chicken chicken chicken chicken chicken
+ZH 从当前所选位置向后搜索
 
 // DIALOGS:2123
 EN Aligned search
-ZH Chicken chicken
+ZH 对齐搜索
 
 // DIALOGS:2124
 EN Search only at addresses aligned with dump
-ZH Chicken chicken chicken chicken chicken
+ZH 仅在与数据对齐的地址搜索
 
 // DIALOGS:2125
 EN Accuracy:
-ZH Chicken:
+ZH 精度:
 
 // DIALOGS:2128
 EN High
@@ -2831,27 +2831,27 @@ ZH Chic
 
 // DIALOGS:2130
 EN Search with 1 (float) or 2 (double, long double) least significant digit accuracy
-ZH Chicken chicken 1 (chicken) ch 2 (chicken, chicken chicken) chicken chicken chicken chicken
+ZH 以 1 位 (float) 或 2 位 (double, long double) 最低有效位精度搜索
 
 // DIALOGS:2132
 EN Search with 0.01% (1.0e-4) accuracy
-ZH Chicken chicken 0.01% (1.0e-4) chicken
+ZH 以 0.01% (1.0e-4) 精度搜索
 
 // DIALOGS:2134
 EN Search with 1% (1.0e-2) accuracy
-ZH Chicken chicken 1% (1.0e-2) chicken
+ZH 以 1% (1.0e-2) 精度搜索
 
 // DIALOGS:2136
 EN Start search
-ZH Chicken chicken
+ZH 开始搜索
 
 // DIALOGS:2138
 EN Cancel search
-ZH Chicken chicken
+ZH 取消搜索
 
 // DIALOGS:2140
 EN Enter floating-point number to search
-ZH Chicken chicken-chicken chicken chicken
+ZH 输入要搜索的浮点数
 
 // DIALOGS:2453
 EN Byte
@@ -2859,35 +2859,35 @@ ZH Chic
 
 // DIALOGS:2455
 EN Most significant byte of MMX operand
-ZH Chicken chicken chicken chicken chicken
+ZH MMX 操作数最高有效字节
 
 // DIALOGS:2457
 EN Byte 6 of MMX operand
-ZH Chic 6 chicken chicken
+ZH MMX 操作数字节 6
 
 // DIALOGS:2459
 EN Byte 5 of MMX operand
-ZH Chic 5 chicken chicken
+ZH MMX 操作数字节 5
 
 // DIALOGS:2461
 EN Byte 4 of MMX operand
-ZH Chic 4 chicken chicken
+ZH MMX 操作数字节 4
 
 // DIALOGS:2463
 EN Byte 3 of MMX operand
-ZH Chic 3 chicken chicken
+ZH MMX 操作数字节 3
 
 // DIALOGS:2465
 EN Byte 2 of MMX operand
-ZH Chic 2 chicken chicken
+ZH MMX 操作数字节 2
 
 // DIALOGS:2467
 EN Byte 1 of MMX operand
-ZH Chic 1 chicken chicken
+ZH MMX 操作数字节 1
 
 // DIALOGS:2469
 EN Least significant byte of MMX operand
-ZH Chicken chicken chicken chicken chicken
+ZH MMX 操作数最低有效字节
 
 // DIALOGS:2471
 EN Word
@@ -2895,247 +2895,247 @@ ZH Chic
 
 // DIALOGS:2473
 EN Most significant word of MMX operand
-ZH Chicken chicken chicken chicken chicken
+ZH MMX 操作数最高有效字
 
 // DIALOGS:2475
 EN Word 2 of MMX operand
-ZH Chic 2 chicken chicken
+ZH MMX 操作数字 2
 
 // DIALOGS:2477
 EN Word 1 of MMX operand
-ZH Chic 1 chicken chicken
+ZH MMX 操作数字 1
 
 // DIALOGS:2479
 EN Least significant word of MMX operand
-ZH Chicken chicken chicken chicken chicken
+ZH MMX 操作数最低有效字
 
 // DIALOGS:2481
 EN Doubleword
-ZH Chicken
+ZH 双字
 
 // DIALOGS:2483
 EN High doubleword of MMX operand
-ZH Chicken chicken chicken chicken
+ZH MMX 操作数高位双字
 
 // DIALOGS:2485
 EN Low doubleword of MMX operand
-ZH Chicken chicken chicken chicken
+ZH MMX 操作数低位双字
 
 // DIALOGS:2487
 EN Display data in hexadecimal format
-ZH Chicken chicken chicken chicken
+ZH 以十六进制格式显示数据
 
 // DIALOGS:2489
 EN Display data in signed decimal format
-ZH Chicken chicken chicken chicken chicken
+ZH 以有符号十进制格式显示数据
 
 // DIALOGS:2491
 EN Display data in unsigned decimal format
-ZH Chicken chicken chicken chicken chicken
+ZH 以无符号十进制格式显示数据
 
 // DIALOGS:2496
 EN Edit MMX operand
-ZH Chicken chicken
+ZH 编辑 MMX 操作数
 
 // DIALOGS:2711
 EN Most significant word of SSE operand
-ZH Chicken chicken chicken chicken chicken
+ZH SSE 操作数最高有效字
 
 // DIALOGS:2713
 EN Word 6 of SSE operand
-ZH Chic 6 chicken chicken
+ZH SSE 操作数字 6
 
 // DIALOGS:2715
 EN Word 5 of SSE operand
-ZH Chic 5 chicken chicken
+ZH SSE 操作数字 5
 
 // DIALOGS:2717
 EN Word 4 of SSE operand
-ZH Chic 4 chicken chicken
+ZH SSE 操作数字 4
 
 // DIALOGS:2719
 EN Word 3 of SSE operand
-ZH Chic 3 chicken chicken
+ZH SSE 操作数字 3
 
 // DIALOGS:2721
 EN Word 2 of SSE operand
-ZH Chic 2 chicken chicken
+ZH SSE 操作数字 2
 
 // DIALOGS:2723
 EN Word 1 of SSE operand
-ZH Chic 1 chicken chicken
+ZH SSE 操作数字 1
 
 // DIALOGS:2725
 EN Least significant word of SSE operand
-ZH Chicken chicken chicken chicken chicken
+ZH SSE 操作数最低有效字
 
 // DIALOGS:2729
 EN Most significant doubleword of SSE operand
-ZH Chicken chicken chicken chicken chicken
+ZH SSE 操作数最高有效双字
 
 // DIALOGS:2731
 EN Doubleword 2 of SSE operand
-ZH Chicken 2 chicken chicken
+ZH SSE 操作数双字 2
 
 // DIALOGS:2733
 EN Doubleword 1 of SSE operand
-ZH Chicken 1 chicken chicken
+ZH SSE 操作数双字 1
 
 // DIALOGS:2735
 EN Least significant doubleword of SSE operand
-ZH Chicken chicken chicken chicken chicken chicken
+ZH SSE 操作数最低有效双字
 
 // DIALOGS:2739
 EN Most significant float of SSE operand
-ZH Chicken chicken chicken chicken chicken
+ZH SSE 操作数最高有效浮点
 
 // DIALOGS:2741
 EN Float 2 of SSE operand
-ZH Chicken 2 chicken chicken
+ZH SSE 操作数浮点 2
 
 // DIALOGS:2743
 EN Float 1 of SSE operand
-ZH Chicken 1 chicken chicken
+ZH SSE 操作数浮点 1
 
 // DIALOGS:2745
 EN Least significant float of SSE operand
-ZH Chicken chicken chicken chicken chicken
+ZH SSE 操作数最低有效浮点
 
 // DIALOGS:2747
 EN Double
-ZH Chicken
+ZH 双精度
 
 // DIALOGS:2749
 EN High quadword of SSE operand as floating-point number
-ZH Chicken chicken chicken chicken chicken-chicken chicken
+ZH SSE 操作数高位四字 (浮点数)
 
 // DIALOGS:2751
 EN Low quadword of SSE operand as floating-point number
-ZH Chicken chicken chicken chicken chicken-chicken chicken
+ZH SSE 操作数低位四字 (浮点数)
 
 // DIALOGS:2754
 EN Display integer data in hexadecimal format
-ZH Chicken chicken chicken chicken chicken
+ZH 以十六进制格式显示整数数据
 
 // DIALOGS:2756
 EN Display integer data in signed decimal format
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 以有符号十进制格式显示整数数据
 
 // DIALOGS:2758
 EN Display integer data in unsigned decimal format
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 以无符号十进制格式显示整数数据
 
 // DIALOGS:2763
 EN Edit SSE operand
-ZH Chicken chicken
+ZH 编辑 SSE 操作数
 
 // DIALOGS:2984
 EN Type or select string here
-ZH Chicken chicken chicken
+ZH 在此输入或选择字符串
 
 // DIALOGS:2988
 EN Close dialog
-ZH Chicken chicken
+ZH 关闭对话框
 
 // DIALOGS:2989
 EN Enter string
-ZH Chicken chicken
+ZH 输入字符串
 
 // DIALOGS:2996
 EN Type or select expression here
-ZH Chicken chicken chicken chicken
+ZH 在此输入或选择表达式
 
 // DIALOGS:3010
 EN Type or select search string here
-ZH Chicken chicken chicken chicken
+ZH 在此输入或选择搜索字符串
 
 // DIALOGS:3012
 EN Search direction:
-ZH Chicken chicken:
+ZH 搜索方向:
 
 // DIALOGS:3021
 EN Ignore case
-ZH Chicken chicken
+ZH 忽略大小写
 
 // DIALOGS:3022
 EN Ignore case while searching for text
-ZH Chicken chicken chicken chicken chicken
+ZH 搜索文本时忽略大小写
 
 // DIALOGS:3028
 EN Enter search string
-ZH Chicken chicken chicken
+ZH 输入搜索字符串
 
 // DIALOGS:3037
 EN Search:
-ZH Chicken:
+ZH 搜索:
 
 // DIALOGS:3081
 EN Enter address expression:
-ZH Chicken chicken chicken:
+ZH 输入地址表达式:
 
 // DIALOGS:3083
 EN Type or select label or expression here
-ZH Chicken chicken chicken chicken chicken
+ZH 在此输入或选择标签或表达式
 
 // DIALOGS:3085
 EN Matching labels:
-ZH Chicken chicken:
+ZH 匹配的标签:
 
 // DIALOGS:3088
 EN Labels in all modules that match entered string, doubleclick to select, Enter to follow
-ZH Chicken chicken chicken chicken chicken chicken, chicken chicken chicken, Chicken chicken
+ZH 所有模块中与输入字符串匹配的标签, 双击选择, 按 Enter 跟随
 
 // DIALOGS:3102
 EN Executable from History:
-ZH Chicken chicken chicken:
+ZH 历史中的可执行文件:
 
 // DIALOGS:3104
 EN Name of the recently opened executable file
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 最近打开的可执行文件名称
 
 // DIALOGS:3106
 EN New arguments:
-ZH Chicken chicken:
+ZH 新参数:
 
 // DIALOGS:3108
 EN Type or select new arguments here
-ZH Chicken chicken chicken chicken
+ZH 在此输入或选择新参数
 
 // DIALOGS:3110
 EN New current directory:
-ZH Chicken chicken chicken:
+ZH 新的当前目录:
 
 // DIALOGS:3112
 EN Type or select new current directory here
-ZH Chicken chicken chicken chicken chicken
+ZH 在此输入或选择新的当前目录
 
 // DIALOGS:3114
 EN Browse for current directory
-ZH Chicken chicken chicken chicken
+ZH 浏览当前目录
 
 // DIALOGS:3120
 EN Enter new command line arguments
-ZH Chicken chicken chicken chicken
+ZH 输入新的命令行参数
 
 // DIALOGS:3166
 EN Follow label
-ZH Chicken chicken
+ZH 跟随标签
 
 // DIALOGS:3168
 EN Follow expression
-ZH Chicken chicken
+ZH 跟随表达式
 
 // DIALOGS:3295
 EN Select current directory for executable
-ZH Chicken chicken chicken chicken chicken
+ZH 为可执行文件选择当前目录
 
 // DIALOGS:3317
 EN Integer expression expected
-ZH Chicken chicken chicken chicken
+ZH 需要整数表达式
 
 // DIALOGS:3323
 EN Result doesn't fit into 16 bits
-ZH Chicken chicken'chicken 16 chic
+ZH 结果无法容纳在 16 位内
 
 // DIALOGS:3522
 EN Name
@@ -3143,43 +3143,43 @@ ZH Chic
 
 // DIALOGS:3586
 EN Drive
-ZH Chicken
+ZH 驱动器
 
 // DIALOGS:3589
 EN Select local drive
-ZH Chicken chicken
+ZH 选择本地驱动器
 
 // DIALOGS:3590
 EN Volume name
-ZH Chicken chicken
+ZH 卷标名称
 
 // DIALOGS:3593
 EN Volume name of the selected disk
-ZH Chicken chicken chicken chicken
+ZH 所选磁盘的卷标名称
 
 // DIALOGS:3594
 EN File system
-ZH Chicken chicken
+ZH 文件系统
 
 // DIALOGS:3597
 EN File system on the selected disk
-ZH Chicken chicken chicken chicken
+ZH 所选磁盘上的文件系统
 
 // DIALOGS:3598
 EN Offset
-ZH Chicken
+ZH 偏移
 
 // DIALOGS:3601
 EN Offset in bytes
-ZH Chicken chicken
+ZH 以字节为单位的偏移
 
 // DIALOGS:3603
 EN Offset in sectors
-ZH Chicken chicken
+ZH 以扇区为单位的偏移
 
 // DIALOGS:3605
 EN Offset in clusters
-ZH Chicken chicken
+ZH 以簇为单位的偏移
 
 // DIALOGS:3606
 EN Size
@@ -3187,159 +3187,159 @@ ZH Chic
 
 // DIALOGS:3609
 EN Size in bytes
-ZH Chicken chicken
+ZH 以字节为单位的大小
 
 // DIALOGS:3611
 EN Size in sectors
-ZH Chicken chicken
+ZH 以扇区为单位的大小
 
 // DIALOGS:3613
 EN Size in clusters
-ZH Chicken chicken
+ZH 以簇为单位的大小
 
 // DIALOGS:3614
 EN bytes
-ZH chicken
+ZH 字节
 
 // DIALOGS:3616
 EN sectors
-ZH chicken
+ZH 扇区
 
 // DIALOGS:3618
 EN clusters
-ZH chicken
+ZH 簇
 
 // DIALOGS:3621
 EN Dump specified extent
-ZH Chicken chicken chicken
+ZH 转储指定区域
 
 // DIALOGS:3626
 EN Drive extent
-ZH Chicken chicken
+ZH 驱动器区域
 
 // DIALOGS:3765
 EN Data extends beyond the disk size
-ZH Chicken chicken chicken chicken
+ZH 数据超出磁盘大小
 
 // DIALOGS:3767
 EN Data offset exceeds disk size
-ZH Chicken chicken chicken chicken
+ZH 数据偏移超出磁盘大小
 
 // DIALOGS:3769
 EN Negative offsets are not allowed
-ZH Chicken chicken chicken chicken
+ZH 不允许使用负偏移
 
 // DIALOGS:3771
 EN Negative size is not allowed
-ZH Chicken chicken chicken chicken
+ZH 不允许使用负大小
 
 // DIALOGS:3773
 EN Zero size is not allowed
-ZH Chicken chicken chicken
+ZH 不允许使用零大小
 
 // DIALOGS:3775
 EN Data size exceeds 256 Mb
-ZH Chicken chicken 256 Ch
+ZH 数据大小超过 256 Mb
 
 // DIALOGS:3856
 EN Unable to open specified drive
-ZH Chicken chicken chicken chicken
+ZH 无法打开指定驱动器
 
 // DIALOGS:3862
 EN Low memory
-ZH Chicken
+ZH 内存不足
 
 // DIALOGS:3870
 EN Unable to read data
-ZH Chicken chicken chicken
+ZH 无法读取数据
 
 // DIALOGS:3892
 EN Drive %s%08LX..%08X
-ZH Chicken %s%08LX..%08X
+ZH 驱动器 %s%08LX..%08X
 
 // DIALOGS:3896
 EN Unable to create dump window
-ZH Chicken chicken chicken chicken
+ZH 无法创建数据窗口
 
 // DIALOGS:3923
 EN Specify physical drive extent
-ZH Chicken chicken chicken chicken
+ZH 指定物理驱动器区域
 
 // DIALOGS:3953
 EN Type or select next Assembler command
-ZH Chicken chicken chicken chicken chicken
+ZH 输入或选择下一条汇编指令
 
 // DIALOGS:3957
 EN Keep size
-ZH Chicken
+ZH 保持大小
 
 // DIALOGS:3958
 EN Don't modify code outside the initial selection
-ZH Chi'chicken chicken chicken chicken chicken chicken
+ZH 不修改初始所选之外的代码
 
 // DIALOGS:3960
 EN Fill rest with NOPs
-ZH Chicken chicken chicken
+ZH 用 NOP 填充剩余
 
 // DIALOGS:3961
 EN If new command is shorter than old, fill rest with NOPs
-ZH Chicken chicken chicken chicken, chicken chicken chicken
+ZH 如果新指令比旧指令短, 用 NOP 填充剩余
 
 // DIALOGS:3962
 EN Assemble
-ZH Chicken
+ZH 汇编
 
 // DIALOGS:3963
 EN Add typed command
-ZH Chicken chicken
+ZH 添加输入的指令
 
 // DIALOGS:3964
 EN Close
-ZH Chicken
+ZH 关闭
 
 // DIALOGS:4072
 EN No room for this command
-ZH Chicken chicken chicken
+ZH 此指令空间不足
 
 // DIALOGS:4208
 EN Command search pattern. To search for several patterns at once, separate them with semicolon
-ZH Chicken chicken chicken. Chicken chicken chicken chicken chicken, chicken chicken chicken chicken
+ZH 指令搜索模式. 要一次搜索多个模式, 请用分号分隔
 
 // DIALOGS:4211
 EN Search
-ZH Chicken
+ZH 搜索
 
 // DIALOGS:4215
 EN Command search
-ZH Chicken chicken
+ZH 指令搜索
 
 // DIALOGS:4346
 EN Commands:
-ZH Chicken:
+ZH 指令:
 
 // DIALOGS:4349
 EN Enter the sequence of commands to search for
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 输入要搜索的指令序列
 
 // DIALOGS:4352
 EN Options:
-ZH Chicken:
+ZH 选项:
 
 // DIALOGS:4355
 EN Allow intermediate commands
-ZH Chicken chicken chicken chicken
+ZH 允许中间指令
 
 // DIALOGS:4356
 EN Allow commands that do not influence the final result
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 允许不影响最终结果的指令
 
 // DIALOGS:4358
 EN Allow jumps from outside
-ZH Chicken chicken chicken
+ZH 允许来自外部的跳转
 
 // DIALOGS:4359
 EN Allow jumps and calls from outside into the specified sequence
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 允许来自外部的跳转和调用进入指定序列
 
 // DIALOGS:4360
 EN << Prev
@@ -3347,7 +3347,7 @@ ZH << Chic
 
 // DIALOGS:4361
 EN Previous pattern
-ZH Chicken chicken
+ZH 上一个模式
 
 // DIALOGS:4362
 EN Next >>
@@ -3355,23 +3355,23 @@ ZH Chic >>
 
 // DIALOGS:4363
 EN Next pattern
-ZH Chicken chicken
+ZH 下一个模式
 
 // DIALOGS:4369
 EN Search for the sequence of commands
-ZH Chicken chicken chicken chicken chicken
+ZH 搜索指令序列
 
 // DIALOGS:4495
 EN No commands
-ZH Chicken chicken
+ZH 无指令
 
 // DIALOGS:4591
 EN Enter search pattern as ASCII text using specified codepage
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 使用指定代码页以 ASCII 文本形式输入搜索模式
 
 // DIALOGS:4596
 EN Enter search pattern as multibyte text using specified codepage
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 使用指定代码页以多字节文本形式输入搜索模式
 
 // DIALOGS:4597
 EN UNICODE
@@ -3379,7 +3379,7 @@ ZH CHICKEN
 
 // DIALOGS:4600
 EN Enter search pattern as UNICODE text
-ZH Chicken chicken chicken chicken chicken
+ZH 以 UNICODE 文本形式输入搜索模式
 
 // DIALOGS:4601
 EN HEX
@@ -3387,43 +3387,43 @@ ZH CHI
 
 // DIALOGS:4605
 EN Enter search pattern in hexadecimal form, question mark means any 4-bit nibble
-ZH Chicken chicken chicken chicken chicken, chicken chicken chicken 4-chicken
+ZH 以十六进制形式输入搜索模式, 问号表示任意 4 位
 
 // DIALOGS:4608
 EN Toggles data entering mode (INS - insert, OVR - overwrite)
-ZH Chicken chicken chicken (CHI - chicken, CHI - chicken)
+ZH 切换数据输入模式 (INS - 插入, OVR - 覆盖)
 
 // DIALOGS:4620
 EN Ignore case, does not work with UNICODE!
-ZH Chicken chicken, chicken chicken chicken!
+ZH 忽略大小写, 对 UNICODE 无效!
 
 // DIALOGS:4629
 EN Search for data
-ZH Chicken chicken
+ZH 搜索数据
 
 // DIALOGS:4677
 EN Edit data as ASCII text using specified codepage
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 使用指定代码页以 ASCII 文本形式编辑数据
 
 // DIALOGS:4682
 EN Edit data as multibyte text using specified codepage
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 使用指定代码页以多字节文本形式编辑数据
 
 // DIALOGS:4686
 EN Edit data as UNICODE text
-ZH Chicken chicken chicken
+ZH 以 UNICODE 文本形式编辑数据
 
 // DIALOGS:4690
 EN Edit data in hexadecimal form
-ZH Chicken chicken chicken chicken
+ZH 以十六进制形式编辑数据
 
 // DIALOGS:4692
 EN Toggles editing mode (INS - insert, OVR - overwrite)
-ZH Chicken chicken chicken (CHI - chicken, CHI - chicken)
+ZH 切换编辑模式 (INS - 插入, OVR - 覆盖)
 
 // DIALOGS:4695
 EN Do not extend size of data over the initial selection
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 不要将数据大小扩展到初始所选之外
 
 // DIALOGS:4820
 EN &Undo
@@ -3431,7 +3431,7 @@ ZH &Chic
 
 // DIALOGS:4820
 EN Undo modifications in selected area
-ZH Chicken chicken chicken chicken chicken
+ZH 撤销所选区域中的修改
 
 // DIALOGS:4822
 EN Cu&t
@@ -3439,7 +3439,7 @@ ZH Ch&c
 
 // DIALOGS:4822
 EN Cut selection to clipboard
-ZH Chicken chicken chicken
+ZH 将所选内容剪切到剪贴板
 
 // DIALOGS:4824
 EN &Copy
@@ -3447,35 +3447,35 @@ ZH &Chic
 
 // DIALOGS:4824
 EN Copy selection to clipboard
-ZH Chicken chicken chicken chicken
+ZH 将所选内容复制到剪贴板
 
 // DIALOGS:4826
 EN &Paste
-ZH &Chicken
+ZH 粘贴(&P)
 
 // DIALOGS:4826
 EN Insert contents of clipboard
-ZH Chicken chicken chicken chicken
+ZH 插入剪贴板内容
 
 // DIALOGS:4828
 EN Select &all
-ZH Chicken &chi
+ZH 全选(&A)
 
 // DIALOGS:4828
 EN Select all data
-ZH Chicken chicken
+ZH 选择所有数据
 
 // DIALOGS:4830
 EN &Zero selection
-ZH &Chicken chicken
+ZH 所选清零(&Z)
 
 // DIALOGS:4830
 EN Set selected bytes to zero
-ZH Chicken chicken chicken
+ZH 将所选字节设置为零
 
 // DIALOGS:5184
 EN Unable to allocate %li. bytes of memory
-ZH Chicken chicken %li. chicken chicken
+ZH 无法分配 %li. 字节内存
 
 // DIALOGS:5465
 EN HEX +%02X
@@ -3503,335 +3503,335 @@ ZH CHIC
 
 // DIALOGS:5766
 EN Assumed by expression
-ZH Chicken chicken chicken
+ZH 由表达式推断
 
 // DIALOGS:5767
 EN Boolean value (TRUE/FALSE)
-ZH Chicken chicken (CHIC/CHICKEN)
+ZH 布尔值 (TRUE/FALSE)
 
 // DIALOGS:5768
 EN Window handle
-ZH Chicken chicken
+ZH 窗口句柄
 
 // DIALOGS:5769
 EN Message code (WM_xxx)
-ZH Chicken chicken (Chicken)
+ZH 消息代码 (WM_xxx)
 
 // DIALOGS:5778
 EN Automatic
-ZH Chicken
+ZH 自动
 
 // DIALOGS:5858
 EN Condition:
-ZH Chicken:
+ZH 条件:
 
 // DIALOGS:5861
 EN Set conditional expression
-ZH Chicken chicken chicken
+ZH 设置条件表达式
 
 // DIALOGS:5863
 EN Deactivate breakpoint but keep its data
-ZH Chicken chicken chicken chicken chicken
+ZH 停用断点但保留其数据
 
 // DIALOGS:5867
 EN Set breakpoint
-ZH Chicken chicken
+ZH 设置断点
 
 // DIALOGS:5869
 EN Do nothing
-ZH Chicken
+ZH 不执行任何操作
 
 // DIALOGS:5881
 EN Expressions (name=expr, name=expr...):
-ZH Chicken chicken (chic=chic, chic=chic...):
+ZH 表达式 (name=expr, name=expr...):
 
 // DIALOGS:5885
 EN Expressions to protocol (separate multiple expressions with comma)
-ZH Chicken chicken chicken (chicken chicken chicken chicken chicken)
+ZH 要记录的表达式 (多个表达式用逗号分隔)
 
 // DIALOGS:5887
 EN Decode expressions as:
-ZH Chicken chicken chicken:
+ZH 解码表达式为:
 
 // DIALOGS:5889
 EN Select how to decode the values of expressions
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择如何解码表达式的值
 
 // DIALOGS:5891
 EN Assume function of type:
-ZH Chicken chicken chicken:
+ZH 假定函数类型为:
 
 // DIALOGS:5893
 EN Select predefined decoding of call arguments
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择调用参数的预定义解码
 
 // DIALOGS:5894
 EN Never
-ZH Chicken
+ZH 从不
 
 // DIALOGS:5896
 EN On condition
-ZH Chicken chicken
+ZH 条件成立时
 
 // DIALOGS:5898
 EN Always
-ZH Chicken
+ZH 始终
 
 // DIALOGS:5901
 EN Pause program:
-ZH Chicken chicken:
+ZH 暂停程序:
 
 // DIALOGS:5903
 EN Never pause on this breakpoint
-ZH Chicken chicken chicken chicken
+ZH 从不在此断点处暂停
 
 // DIALOGS:5905
 EN Pause on this breakpoint if condition is TRUE
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 如果条件为 TRUE 则在此断点处暂停
 
 // DIALOGS:5907
 EN Always pause on this breakpoint
-ZH Chicken chicken chicken chicken
+ZH 始终在此断点处暂停
 
 // DIALOGS:5909
 EN Log value of expressions:
-ZH Chicken chicken chicken:
+ZH 记录表达式的值:
 
 // DIALOGS:5911
 EN Never log values of expressions on this breakpoint
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 从不在此断点处记录表达式的值
 
 // DIALOGS:5913
 EN Log values of expressions if condition is TRUE
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 如果条件为 TRUE 则记录表达式的值
 
 // DIALOGS:5915
 EN Always log values of expressions on this breakpoint
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 始终在此断点处记录表达式的值
 
 // DIALOGS:5917
 EN Log function arguments:
-ZH Chicken chicken chicken:
+ZH 记录函数参数:
 
 // DIALOGS:5919
 EN Never log function arguments on this breakpoint
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 从不在此断点处记录函数参数
 
 // DIALOGS:5921
 EN Log function arguments if condition is TRUE
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 如果条件为 TRUE 则记录函数参数
 
 // DIALOGS:5923
 EN Always log function arguments on this breakpoint
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 始终在此断点处记录函数参数
 
 // DIALOGS:5925
 EN Log returned value:
-ZH Chicken chicken:
+ZH 记录返回值:
 
 // DIALOGS:5927
 EN Never log value returned by function
-ZH Chicken chicken chicken chicken chicken
+ZH 从不记录函数返回的值
 
 // DIALOGS:5929
 EN Log value returned by function if condition is TRUE
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 如果条件为 TRUE 则记录函数返回的值
 
 // DIALOGS:5931
 EN Always log value returned by functiont
-ZH Chicken chicken chicken chicken chicken
+ZH 始终记录函数返回的值
 
 // DIALOGS:5935
 EN Pass count (dec.)
-ZH Chicken (chi.)
+ZH 通过计数 (十进制)
 
 // DIALOGS:5938
 EN Skip specified number of breaks (decimal notation)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 跳过指定次数的中断 (十进制)
 
 // DIALOGS:5939
 EN Actual count
-ZH Chicken chicken
+ZH 实际计数
 
 // DIALOGS:5942
 EN Number of breaks skipped so far (decimal notation)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 到目前为止跳过的中断次数 (十进制)
 
 // DIALOGS:5943
 EN Periodical
-ZH Chicken
+ZH 周期性
 
 // DIALOGS:5944
 EN Check to break on each passcount-th breakpoint
-ZH Chicken chicken chicken chicken-chicken chicken
+ZH 选中以在每第 passcount 个断点处中断
 
 // DIALOGS:6129
 EN Breakpoint specifies no action and will be removed!
-ZH Chicken chicken chicken chicken chicken chicken!
+ZH 断点未指定任何操作, 将被删除!
 
 // DIALOGS:6141
 EN Condition: %s
-ZH Chicken: %s
+ZH 条件: %s
 
 // DIALOGS:6157
 EN Expression: %s
-ZH Chicken: %s
+ZH 表达式: %s
 
 // DIALOGS:6230
 EN Set breakpoint at
-ZH Chicken chicken
+ZH 在以下位置设置断点
 
 // DIALOGS:6232
 EN Edit breakpoint at
-ZH Chicken chicken
+ZH 在以下位置编辑断点
 
 // DIALOGS:6237
 EN Set breakpoints at
-ZH Chicken chicken
+ZH 在以下位置设置断点
 
 // DIALOGS:6239
 EN Edit breakpoints at
-ZH Chicken chicken chicken
+ZH 在以下位置编辑断点
 
 // DIALOGS:6458
 EN Break on:
-ZH Chicken:
+ZH 中断条件:
 
 // DIALOGS:6460
 EN Read access
-ZH Chicken chicken
+ZH 读取访问
 
 // DIALOGS:6461
 EN Break when memory range is accessed for read
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 内存范围被读取访问时中断
 
 // DIALOGS:6462
 EN Write access
-ZH Chicken chicken
+ZH 写入访问
 
 // DIALOGS:6463
 EN Break when memory range is accessed for write
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 内存范围被写入访问时中断
 
 // DIALOGS:6464
 EN Execution
-ZH Chicken
+ZH 执行
 
 // DIALOGS:6465
 EN Break when command from the memory range is executed
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 执行内存范围中的指令时中断
 
 // DIALOGS:6782
 EN Set memory breakpoint at
-ZH Chicken chicken chicken
+ZH 在以下位置设置内存断点
 
 // DIALOGS:6784
 EN Edit memory breakpoint at
-ZH Chicken chicken chicken
+ZH 在以下位置编辑内存断点
 
 // DIALOGS:6928
 EN Break when command at the specified address is executed
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 执行指定地址的指令时中断
 
 // DIALOGS:6929
 EN Access (R/W)
-ZH Chicken (C/C)
+ZH 访问 (读/写)
 
 // DIALOGS:6930
 EN Break when data is accessed (but not executed)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 数据被访问 (但不执行) 时中断
 
 // DIALOGS:6931
 EN Write
-ZH Chicken
+ZH 写入
 
 // DIALOGS:6932
 EN Break when data is written to the specified location
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 数据被写入指定位置时中断
 
 // DIALOGS:6935
 EN Data size:
-ZH Chicken:
+ZH 数据大小:
 
 // DIALOGS:6938
 EN Break only on the specified address
-ZH Chicken chicken chicken chicken chicken
+ZH 仅在指定地址中断
 
 // DIALOGS:6940
 EN Breakpoint is 2 bytes long
-ZH Chicken chicken 2 chicken
+ZH 断点长度为 2 字节
 
 // DIALOGS:6941
 EN Dword
-ZH Chicken
+ZH 双字
 
 // DIALOGS:6942
 EN Breakpoint is 4 bytes long
-ZH Chicken chicken 4 chicken
+ZH 断点长度为 4 字节
 
 // DIALOGS:6945
 EN Hardware slot:
-ZH Chicken chicken:
+ZH 硬件槽位:
 
 // DIALOGS:6948
 EN Check to use hardware breakpoint 1
-ZH Chicken chicken chicken chicken 1
+ZH 选中以使用硬件断点 1
 
 // DIALOGS:6950
 EN Current type of hardware breakpoint 1
-ZH Chicken chicken chicken chicken chicken 1
+ZH 硬件断点 1 的当前类型
 
 // DIALOGS:6952
 EN Current address of hardware breakpoint 1
-ZH Chicken chicken chicken chicken chicken 1
+ZH 硬件断点 1 的当前地址
 
 // DIALOGS:6954
 EN Check to use hardware breakpoint 2
-ZH Chicken chicken chicken chicken 2
+ZH 选中以使用硬件断点 2
 
 // DIALOGS:6956
 EN Current type of hardware breakpoint 2
-ZH Chicken chicken chicken chicken chicken 2
+ZH 硬件断点 2 的当前类型
 
 // DIALOGS:6958
 EN Current address of hardware breakpoint 2
-ZH Chicken chicken chicken chicken chicken 2
+ZH 硬件断点 2 的当前地址
 
 // DIALOGS:6960
 EN Check to use hardware breakpoint 3
-ZH Chicken chicken chicken chicken 3
+ZH 选中以使用硬件断点 3
 
 // DIALOGS:6962
 EN Current type of hardware breakpoint 3
-ZH Chicken chicken chicken chicken chicken 3
+ZH 硬件断点 3 的当前类型
 
 // DIALOGS:6964
 EN Current address of hardware breakpoint 3
-ZH Chicken chicken chicken chicken chicken 3
+ZH 硬件断点 3 的当前地址
 
 // DIALOGS:6966
 EN Check to use hardware breakpoint 4
-ZH Chicken chicken chicken chicken 4
+ZH 选中以使用硬件断点 4
 
 // DIALOGS:6968
 EN Current type of hardware breakpoint 4
-ZH Chicken chicken chicken chicken chicken 4
+ZH 硬件断点 4 的当前类型
 
 // DIALOGS:6970
 EN Current address of hardware breakpoint 4
-ZH Chicken chicken chicken chicken chicken 4
+ZH 硬件断点 4 的当前地址
 
 // DIALOGS:7071
 EN Log values of expressions:
-ZH Chicken chicken chicken:
+ZH 记录表达式的值:
 
 // DIALOGS:7093
 EN Always log value returned by function
-ZH Chicken chicken chicken chicken chicken
+ZH 始终记录函数返回的值
 
 // DIALOGS:7100
 EN Current count
-ZH Chicken chicken
+ZH 当前计数
 
 // DIALOGS:7221
 EN R/W:%i
@@ -3839,67 +3839,67 @@ ZH C/C:%i
 
 // DIALOGS:7225
 EN Empty
-ZH Chicken
+ZH 空
 
 // DIALOGS:7533
 EN Hardware breakpoint %i at
-ZH Chicken chicken chicken %i ch
+ZH 硬件断点 %i 位于
 
 // DIALOGS:7535
 EN Hardware breakpoint at
-ZH Chicken chicken chicken
+ZH 硬件断点位于
 
 // DIALOGS:7729
 EN Pause run trace when any checked condition is met:
-ZH Chicken chicken chicken chicken chicken chicken:
+ZH 任何选中的条件满足时暂停 Run 跟踪:
 
 // DIALOGS:7734
 EN Pause run trace when program enters specified range
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 程序进入指定范围时暂停 Run 跟踪
 
 // DIALOGS:7736
 EN Low limit of in range (hexadecimal)
-ZH Chicken chicken chicken (chicken chicken)
+ZH 范围内下限 (十六进制)
 
 // DIALOGS:7740
 EN High limit of in range (hexadecimal, not included)
-ZH Chicken chicken chicken (chicken chicken, chicken chicken)
+ZH 范围内上限 (十六进制, 不包含)
 
 // DIALOGS:7743
 EN Pause run trace when program leaves specified range
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 程序离开指定范围时暂停 Run 跟踪
 
 // DIALOGS:7745
 EN Low limit of out range (hexadecimal)
-ZH Chicken chicken chicken (chicken chicken)
+ZH 范围外下限 (十六进制)
 
 // DIALOGS:7749
 EN High limit of out range (hexadecimal, not included)
-ZH Chicken chicken chicken (chicken chicken, chicken chicken)
+ZH 范围外上限 (十六进制, 不包含)
 
 // DIALOGS:7752
 EN EIP points to modified command (backup necessary!)
-ZH Chicken chicken chicken chicken (chicken chicken!)
+ZH EIP 指向已修改的指令 (需要备份!)
 
 // DIALOGS:7754
 EN Don't forget to create backup when tracing self-modified code!
-ZH Chi'chicken chicken chicken chicken chicken chicken-chicken chicken!
+ZH 跟踪自修改代码时, 别忘了创建备份!
 
 // DIALOGS:7757
 EN Memory range 1 accessed
-ZH Chicken chicken 1 chicken
+ZH 已访问内存范围 1
 
 // DIALOGS:7758
 EN Pause run trace when memory range 1 is accessed
-ZH Chicken chicken chicken chicken 1 chicken chicken
+ZH 内存范围 1 被访问时暂停 Run 跟踪
 
 // DIALOGS:7760
 EN Low limit of memory range 1 (hexadecimal)
-ZH Chicken chicken chicken 1 (chicken chicken)
+ZH 内存范围 1 的下限 (十六进制)
 
 // DIALOGS:7764
 EN High limit of memory range 1 (not included)
-ZH Chicken chicken chicken 1 (chicken chicken)
+ZH 内存范围 1 的上限 (不包含)
 
 // DIALOGS:7765
 EN on
@@ -3907,347 +3907,347 @@ ZH ch
 
 // DIALOGS:7768
 EN Read|Write|R/W
-ZH Chic|Chicken|C/C
+ZH 读取|写入|读/写
 
 // DIALOGS:7769
 EN Type of memory access to memory range 1
-ZH Chicken chicken chicken chicken chicken 1
+ZH 对内存范围 1 的访问类型
 
 // DIALOGS:7771
 EN Memory range 2 accessed
-ZH Chicken chicken 2 chicken
+ZH 已访问内存范围 2
 
 // DIALOGS:7772
 EN Pause run trace when memory range 2 is accessed
-ZH Chicken chicken chicken chicken 2 chicken chicken
+ZH 内存范围 2 被访问时暂停 Run 跟踪
 
 // DIALOGS:7774
 EN Low limit of memory range 2 (hexadecimal)
-ZH Chicken chicken chicken 2 (chicken chicken)
+ZH 内存范围 2 的下限 (十六进制)
 
 // DIALOGS:7778
 EN High limit of memory range 2 (not included)
-ZH Chicken chicken chicken 2 (chicken chicken)
+ZH 内存范围 2 的上限 (不包含)
 
 // DIALOGS:7783
 EN Type of memory access to memory range 2
-ZH Chicken chicken chicken chicken chicken 2
+ZH 对内存范围 2 的访问类型
 
 // DIALOGS:7786
 EN Condition 1 is true
-ZH Chicken 1 chicken
+ZH 条件 1 为真
 
 // DIALOGS:7787
 EN Pause run trace when condition 1 is true
-ZH Chicken chicken chicken chicken 1 chicken
+ZH 条件 1 为真时暂停 Run 跟踪
 
 // DIALOGS:7789
 EN Condition 1
-ZH Chicken 1
+ZH 条件 1
 
 // DIALOGS:7791
 EN Condition 2 is true
-ZH Chicken 2 chicken
+ZH 条件 2 为真
 
 // DIALOGS:7792
 EN Pause run trace when condition 2 is true
-ZH Chicken chicken chicken chicken 2 chicken
+ZH 条件 2 为真时暂停 Run 跟踪
 
 // DIALOGS:7794
 EN Condition 2
-ZH Chicken 2
+ZH 条件 2
 
 // DIALOGS:7796
 EN Condition 3 is true
-ZH Chicken 3 chicken
+ZH 条件 3 为真
 
 // DIALOGS:7797
 EN Pause run trace when condition 3 is true
-ZH Chicken chicken chicken chicken 3 chicken
+ZH 条件 3 为真时暂停 Run 跟踪
 
 // DIALOGS:7799
 EN Condition 3
-ZH Chicken 3
+ZH 条件 3
 
 // DIALOGS:7801
 EN Condition 4 is true
-ZH Chicken 4 chicken
+ZH 条件 4 为真
 
 // DIALOGS:7802
 EN Pause run trace when condition 4 is true
-ZH Chicken chicken chicken chicken 4 chicken
+ZH 条件 4 为真时暂停 Run 跟踪
 
 // DIALOGS:7804
 EN Condition 4
-ZH Chicken 4
+ZH 条件 4
 
 // DIALOGS:7807
 EN Command count is
-ZH Chicken chicken
+ZH 指令计数为
 
 // DIALOGS:7808
 EN Pause run trace after specified (decimal) number of commands are traced
-ZH Chicken chicken chicken chicken (chicken) chicken chicken chicken chicken
+ZH 跟踪指定 (十进制) 数量的指令后暂停 Run 跟踪
 
 // DIALOGS:7810
 EN Number of commands to trace (decimal)
-ZH Chicken chicken chicken chicken (chicken)
+ZH 要跟踪的指令数 (十进制)
 
 // DIALOGS:7811
 EN (Current
-ZH (Chicken
+ZH (当前
 
 // DIALOGS:7814
 EN Current number of traced commands (decimal)
-ZH Chicken chicken chicken chicken (chicken)
+ZH 当前已跟踪的指令数 (十进制)
 
 // DIALOGS:7817
 EN Reset
-ZH Chicken
+ZH 重置
 
 // DIALOGS:7818
 EN Reset number of commands traced so far
-ZH Chicken chicken chicken chicken chicken
+ZH 重置到目前为止已跟踪的指令数
 
 // DIALOGS:7821
 EN Command is (1)
-ZH Chicken (1)
+ZH 指令为 (1)
 
 // DIALOGS:7822
 EN Pause run trace when command to be executed is same as specified
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 将要执行的指令与指定指令相同时暂停 Run 跟踪
 
 // DIALOGS:7825
 EN Command 1 (pseudooperands are allowed, use semicolon to separate multiple patterns)
-ZH Chicken 1 (chicken chicken chicken, chicken chicken chicken chicken chicken chicken)
+ZH 指令 1 (允许使用伪操作数, 多个模式用分号分隔)
 
 // DIALOGS:7827
 EN Command is (2)
-ZH Chicken (2)
+ZH 指令为 (2)
 
 // DIALOGS:7831
 EN Command 2 (pseudooperands are allowed, use semicolon to separate multiple patterns)
-ZH Chicken 2 (chicken chicken chicken, chicken chicken chicken chicken chicken chicken)
+ZH 指令 2 (允许使用伪操作数, 多个模式用分号分隔)
 
 // DIALOGS:7836
 EN Set condition
-ZH Chicken chicken
+ZH 设置条件
 
 // DIALOGS:7840
 EN Condition to pause run or hit trace
-ZH Chicken chicken chicken chicken chicken
+ZH 暂停 Run 或 Hit 跟踪的条件
 
 // DIALOGS:7985
 EN Invalid low in range limit
-ZH Chicken chicken chicken
+ZH 范围内下限无效
 
 // DIALOGS:7988
 EN Invalid high in range limit
-ZH Chicken chicken chicken chicken
+ZH 范围内上限无效
 
 // DIALOGS:7991
 EN Empty in range
-ZH Chicken chicken
+ZH 范围内为空
 
 // DIALOGS:7994
 EN Low in limit exceeds high limit
-ZH Chicken chicken chicken chicken
+ZH 范围内下限超过上限
 
 // DIALOGS:8005
 EN Invalid low out range limit
-ZH Chicken chicken chicken chicken
+ZH 范围外下限无效
 
 // DIALOGS:8008
 EN Invalid high out range limit
-ZH Chicken chicken chicken chicken
+ZH 范围外上限无效
 
 // DIALOGS:8011
 EN Empty out range
-ZH Chicken chicken
+ZH 范围外为空
 
 // DIALOGS:8014
 EN Low out limit exceeds high limit
-ZH Chicken chicken chicken chicken
+ZH 范围外下限超过上限
 
 // DIALOGS:8025
 EN Memory range %i:
-ZH Chicken chicken %i:
+ZH 内存范围 %i:
 
 // DIALOGS:8027
 EN Invalid low limit
-ZH Chicken chicken
+ZH 无效的下限
 
 // DIALOGS:8030
 EN Invalid high limit
-ZH Chicken chicken
+ZH 无效的上限
 
 // DIALOGS:8033
 EN Empty range
-ZH Chicken chicken
+ZH 空范围
 
 // DIALOGS:8035
 EN Low limit exceeds high limit
-ZH Chicken chicken chicken chicken
+ZH 下限超过上限
 
 // DIALOGS:8049
 EN Condition %i:
-ZH Chicken %i:
+ZH 条件 %i:
 
 // DIALOGS:8063
 EN Invalid count
-ZH Chicken chicken
+ZH 无效的计数
 
 // DIALOGS:8066
 EN Count is zero
-ZH Chicken chicken
+ZH 计数为零
 
 // DIALOGS:8070
 EN Count is same as or lower than actual count
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 计数等于或小于实际计数
 
 // DIALOGS:8085
 EN Command %i:
-ZH Chicken %i:
+ZH 指令 %i:
 
 // DIALOGS:8171
 EN Protocol the following commands:
-ZH Chicken chicken chicken chicken:
+ZH 记录以下指令:
 
 // DIALOGS:8173
 EN All commands
-ZH Chicken chicken
+ZH 所有指令
 
 // DIALOGS:8173
 EN Protocol all commands
-ZH Chicken chicken chicken
+ZH 记录所有指令
 
 // DIALOGS:8175
 EN Taken jumps, calls, returns and their destinations
-ZH Chicken chicken, chicken, chicken chicken chicken chicken
+ZH 已执行的跳转、调用、返回及其目标
 
 // DIALOGS:8177
 EN Protocol all control transfer commands and their destinations
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 记录所有控制转移指令及其目标
 
 // DIALOGS:8179
 EN Call destinations
-ZH Chicken chicken
+ZH 调用目标
 
 // DIALOGS:8180
 EN Protocol only entry points of called subroutines
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 仅记录被调用子程序的入口点
 
 // DIALOGS:8182
 EN Commands that access the following memory ranges:
-ZH Chicken chicken chicken chicken chicken chicken:
+ZH 访问以下内存范围的指令:
 
 // DIALOGS:8183
 EN Protocol only commands accessing specified memory
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 仅记录访问指定内存的指令
 
 // DIALOGS:8185
 EN Range 1
-ZH Chicken 1
+ZH 范围 1
 
 // DIALOGS:8186
 EN Protocol commands that access memory range 1
-ZH Chicken chicken chicken chicken chicken 1
+ZH 记录访问内存范围 1 的指令
 
 // DIALOGS:8199
 EN Range 2
-ZH Chicken 2
+ZH 范围 2
 
 // DIALOGS:8200
 EN Protocol commands that access memory range 2
-ZH Chicken chicken chicken chicken chicken 2
+ZH 记录访问内存范围 2 的指令
 
 // DIALOGS:8213
 EN Protocol only the following EIP ranges:
-ZH Chicken chicken chicken chicken chicken:
+ZH 仅记录以下 EIP 范围:
 
 // DIALOGS:8214
 EN Limit protocolling to the specified pieces of code
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将记录限制为指定的代码片段
 
 // DIALOGS:8217
 EN List of EIP ranges to protocol, second address is not included
-ZH Chicken chicken chicken chicken, chicken chicken chicken chicken
+ZH 要记录的 EIP 范围列表, 第二个地址不包含
 
 // DIALOGS:8218
 EN Add range
-ZH Chicken
+ZH 添加范围
 
 // DIALOGS:8219
 EN Add range of addresses
-ZH Chicken chicken chicken
+ZH 添加地址范围
 
 // DIALOGS:8220
 EN Follow in CPU
-ZH Chicken chicken
+ZH 在 CPU 中跟随
 
 // DIALOGS:8221
 EN Follow selected range in the CPU Disassembler pane
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编面板中跟随所选范围
 
 // DIALOGS:8222
 EN Delete range
-ZH Chicken chicken
+ZH 删除范围
 
 // DIALOGS:8223
 EN Delete selected range of addresses
-ZH Chicken chicken chicken chicken
+ZH 删除所选地址范围
 
 // DIALOGS:8224
 EN Clear list
-ZH Chicken
+ZH 清除列表
 
 // DIALOGS:8225
 EN Delete all ranges
-ZH Chicken chicken
+ZH 删除所有范围
 
 // DIALOGS:8227
 EN Symbolic
-ZH Chicken
+ZH 符号化
 
 // DIALOGS:8227
 EN Show symbolic names if available
-ZH Chicken chicken chicken chicken
+ZH 如有可用则显示符号名称
 
 // DIALOGS:8231
 EN Set protocolling mode
-ZH Chicken chicken chicken
+ZH 设置记录模式
 
 // DIALOGS:8233
 EN Discard all modifications
-ZH Chicken chicken chicken
+ZH 放弃所有修改
 
 // DIALOGS:8235
 EN Commands protocolled by run trace
-ZH Chicken chicken chicken chicken
+ZH 由 Run 跟踪记录的指令
 
 // DIALOGS:8376
 EN Add address range to protocol
-ZH Chicken chicken chicken chicken
+ZH 添加要记录的地址范围
 
 // DIALOGS:8393
 EN Edit address range to protocol
-ZH Chicken chicken chicken chicken
+ZH 编辑要记录的地址范围
 
 // DIALOGS:8457
 EN All memory ranges are disabled
-ZH Chicken chicken chicken chicken
+ZH 所有内存范围已禁用
 
 // DIALOGS:8540
 EN Check to allow debuggee execution on this CPU
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选中以允许被调试程序在此 CPU 上执行
 
 // DIALOGS:8604
 EN Accept affinity
-ZH Chicken chicken
+ZH 接受亲和性
 
 // DIALOGS:8608
 EN Select affinity mask
-ZH Chicken chicken chicken
+ZH 选择亲和性掩码
 
 // DIALOGS:8622
 EN CPU %i
@@ -4255,35 +4255,35 @@ ZH CPU %i
 
 // DIALOGS:8653
 EN Set affinity mask
-ZH Chicken chicken
+ZH 设置亲和性掩码
 
 // DIALOGS:8677
 EN List of found items
-ZH Chicken chicken chicken
+ZH 找到项列表
 
 // DIALOGS:8679
 EN Go to the specified location
-ZH Chicken chicken chicken chicken
+ZH 转到指定位置
 
 // DIALOGS:8681
 EN Go back to the original command
-ZH Chicken chicken chicken chicken
+ZH 返回原始指令
 
 // DIALOGS:8683
 EN Known jumps and calls
-ZH Chicken chicken chicken
+ZH 已知跳转和调用
 
 // DIALOGS:8689
 EN List of code locations
-ZH Chicken chicken chicken
+ZH 代码位置列表
 
 // DIALOGS:8693
 EN Cancel code browsing
-ZH Chicken chicken chicken
+ZH 取消代码浏览
 
 // DIALOGS:8695
 EN Browse code locations
-ZH Chicken chicken chicken
+ZH 浏览代码位置
 
 // DIALOGS:8747
 EN Jump
@@ -4291,7 +4291,7 @@ ZH Chic
 
 // DIALOGS:8750
 EN Table jump
-ZH Chicken
+ZH 跳转表
 
 // DIALOGS:8753
 EN RET
@@ -4303,15 +4303,15 @@ ZH Chic
 
 // DIALOGS:8759
 EN Table call
-ZH Chicken
+ZH 调用表
 
 // DIALOGS:8793
 EN Switch origin
-ZH Chicken chicken
+ZH switch 起点
 
 // DIALOGS:8803
 EN default case
-ZH chicken chicken
+ZH 默认分支
 
 // DIALOGS:8806
 EN case
@@ -4319,43 +4319,43 @@ ZH chic
 
 // DIALOGS:8808
 EN cases
-ZH chicken
+ZH 分支
 
 // DIALOGS:8833
 EN and others
-ZH chicken
+ZH 及其他
 
 // DIALOGS:8936
 EN Known calls from
-ZH Chicken chicken
+ZH 已知调用来自
 
 // DIALOGS:8938
 EN Known jumps from
-ZH Chicken chicken
+ZH 已知跳转来自
 
 // DIALOGS:8957
 EN All known jumps and calls to
-ZH Chicken chicken chicken chicken
+ZH 对以下位置的所有已知跳转和调用
 
 // DIALOGS:8959
 EN Local jumps and calls to
-ZH Chicken chicken chicken
+ZH 对以下位置的本地跳转和调用
 
 // DIALOGS:8990
 EN Cases of switch
-ZH Chicken chicken
+ZH switch 的分支
 
 // DIALOGS:9208
 EN Code page
-ZH Chicken
+ZH 代码页
 
 // DIALOGS:9235
 EN Select multibyte code page
-ZH Chicken chicken chicken
+ZH 选择多字节代码页
 
 // DIALOGS:9237
 EN Select code page
-ZH Chicken chicken
+ZH 选择代码页
 
 // DUMP:107
 EN Source
