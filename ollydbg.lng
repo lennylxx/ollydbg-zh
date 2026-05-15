@@ -10783,55 +10783,55 @@ ZH 内存不足, 无法初始化内部结构
 
 // OPTIONS:157
 EN System colours:
-ZH Chicken chicken:
+ZH 系统颜色:
 
 // OPTIONS:159
 EN Customizable colours:
-ZH Chicken chicken chicken:
+ZH 可自定义的颜色:
 
 // OPTIONS:189
 EN Highlighted text
-ZH Chicken chicken
+ZH 高亮文本
 
 // OPTIONS:193
 EN Selected line
-ZH Chicken chicken
+ZH 所选行
 
 // OPTIONS:213
 EN EIP at breakpoint
-ZH Chicken chicken
+ZH 断点处的 EIP
 
 // OPTIONS:217
 EN Grayed text
-ZH Chicken chicken
+ZH 灰色文本
 
 // OPTIONS:221
 EN Normal text
-ZH Chicken chicken
+ZH 正常文本
 
 // OPTIONS:290
 EN Font parameters:
-ZH Chicken chicken:
+ZH 字体参数:
 
 // OPTIONS:304
 EN Height:
-ZH Chicken:
+ZH 高度:
 
 // OPTIONS:305
 EN %i pixels
-ZH %i chicken
+ZH %i 像素
 
 // OPTIONS:308
 EN Width:
-ZH Chicken:
+ZH 宽度:
 
 // OPTIONS:312
 EN Style:
-ZH Chicken:
+ZH 样式:
 
 // OPTIONS:313
 EN Normal
-ZH Chicken
+ZH 正常
 
 // OPTIONS:314
 EN Bold
@@ -10839,23 +10839,23 @@ ZH Chic
 
 // OPTIONS:315
 EN Weight=%i
-ZH Chicken=%i
+ZH 粗细=%i
 
 // OPTIONS:316
 EN , Italic
-ZH , Chicken
+ZH , 斜体
 
 // OPTIONS:317
 EN , Underline
-ZH , Chicken
+ZH , 下划线
 
 // OPTIONS:318
 EN , Strikeout
-ZH , Chicken
+ZH , 删除线
 
 // OPTIONS:321
 EN Charset:
-ZH Chicken:
+ZH 字符集:
 
 // OPTIONS:323
 EN ANSI
@@ -10863,11 +10863,11 @@ ZH CHIC
 
 // OPTIONS:325
 EN Default
-ZH Chicken
+ZH 默认
 
 // OPTIONS:327
 EN Symbol
-ZH Chicken
+ZH 符号
 
 // OPTIONS:329
 EN OEM
@@ -10875,7 +10875,7 @@ ZH CHI
 
 // OPTIONS:331
 EN Other
-ZH Chicken
+ZH 其他
 
 // OPTIONS:334
 EN Face:
@@ -10887,143 +10887,143 @@ ZH Chic
 
 // OPTIONS:476
 EN Code options
-ZH Chicken chicken
+ZH 代码选项
 
 // OPTIONS:482
 EN Disassembling syntax:
-ZH Chicken chicken chicken:
+ZH 反汇编语法:
 
 // OPTIONS:485
 EN MASM (Microsoft)
-ZH CHIC (Chicken)
+ZH MASM (Microsoft)
 
 // OPTIONS:486
 EN Disassemble in MASM format
-ZH Chicken chicken chicken
+ZH 以 MASM 格式反汇编
 
 // OPTIONS:488
 EN IDEAL (Borland)
-ZH CHICKEN (Chicken)
+ZH IDEAL (Borland)
 
 // OPTIONS:489
 EN Disassemble in Borland's IDEAL format
-ZH Chicken chicken chicken'chicken chicken
+ZH 以 Borland IDEAL 格式反汇编
 
 // OPTIONS:491
 EN HLA (Randall Hyde)
-ZH CHI (Chicken chicken)
+ZH HLA (Randall Hyde)
 
 // OPTIONS:492
 EN Disassemble in High Level Assembly format
-ZH Chicken chicken chicken chicken chicken
+ZH 以高级汇编格式反汇编
 
 // OPTIONS:494
 EN Linux (AT&&T) - only disassembly!
-ZH Chicken (CH&&C) - chicken chicken!
+ZH Linux (AT&&T) - 仅反汇编!
 
 // OPTIONS:495
 EN Disassemble in AT&T format, unsupported by Assembler!
-ZH Chicken chicken&Chicken, chicken chicken chicken!
+ZH 以 AT&T 格式反汇编, 汇编器不支持!
 
 // OPTIONS:497
 EN Disassemble in lowercase
-ZH Chicken chicken chicken
+ZH 以小写反汇编
 
 // OPTIONS:498
 EN Display mnemonics, registers and keywords in lowercase
-ZH Chicken chicken, chicken chicken chicken chicken chicken
+ZH 以小写显示助记符、寄存器和关键字
 
 // OPTIONS:500
 EN Tab between mnemonics and arguments
-ZH Chicken chicken chicken chicken chicken
+ZH 助记符和参数间使用 Tab
 
 // OPTIONS:501
 EN Start operands from the 9th character position
-ZH Chicken chicken chicken 9chicken chicken chicken
+ZH 从第 9 个字符位置开始操作数
 
 // OPTIONS:503
 EN Extra space between arguments
-ZH Chicken chicken chicken chicken
+ZH 参数之间添加额外空格
 
 // OPTIONS:504
 EN Insert additional space character between arguments
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在参数之间插入额外空格字符
 
 // OPTIONS:506
 EN Show default segments
-ZH Chicken chicken chicken
+ZH 显示默认段
 
 // OPTIONS:507
 EN Show implicit segment registers in memory addresses
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在内存地址中显示隐式段寄存器
 
 // OPTIONS:509
 EN Always show size of memory operands
-ZH Chicken chicken chicken chicken chicken
+ZH 始终显示内存操作数大小
 
 // OPTIONS:510
 EN Show size of memory operand even if it is unambiguous
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 即使明确也显示内存操作数大小
 
 // OPTIONS:512
 EN Show NEAR jump modifiers
-ZH Chicken chicken chicken
+ZH 显示 NEAR 跳转修饰符
 
 // OPTIONS:513
 EN Mark indirect intrasegment jumps as NEAR
-ZH Chicken chicken chicken chicken chicken
+ZH 将间接段内跳转标记为 NEAR
 
 // OPTIONS:515
 EN Show local module name
-ZH Chicken chicken chicken
+ZH 显示本地模块名
 
 // OPTIONS:516
 EN Precede local addresses with the name of the module
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在本地地址前加上模块名
 
 // OPTIONS:518
 EN Show symbolic addresses
-ZH Chicken chicken chicken
+ZH 显示符号地址
 
 // OPTIONS:519
 EN Show known symbolic addresses instead of constants
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 用已知符号地址代替常量
 
 // OPTIONS:521
 EN Demangle symbolic names
-ZH Chicken chicken chicken
+ZH 解码符号名称
 
 // OPTIONS:522
 EN Convert encoded C++ names into the readable form
-ZH Chicken chicken++ chicken chicken chicken chicken
+ZH 将编码的 C++ 名称转换为可读形式
 
 // OPTIONS:525
 EN Apply selected options
-ZH Chicken chicken chicken
+ZH 应用所选选项
 
 // OPTIONS:528
 EN Undo modifications
-ZH Chicken chicken
+ZH 撤销修改
 
 // OPTIONS:530
 EN Options
-ZH Chicken
+ZH 选项
 
 // OPTIONS:534
 EN Mnemonics
-ZH Chicken
+ZH 助记符
 
 // OPTIONS:543
 EN Guess alternative forms of conditional commands
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 推测条件指令的替代形式
 
 // OPTIONS:544
 EN Like JZ, JC instead of JE, JAE. Analysis necessary!
-ZH Chicken, Chicken chicken, CHI. Chicken chicken!
+ZH 如用 JZ、JC 替代 JE、JAE. 需要分析!
 
 // OPTIONS:546
 EN Form of string commands:
-ZH Chicken chicken chicken:
+ZH 字符串指令的形式:
 
 // OPTIONS:549
 EN Long (MOVS [DWORD EDI],[DWORD ESI]...)
@@ -11031,251 +11031,251 @@ ZH Chic (CHIC [CHICKEN],[CHICKEN]...)
 
 // OPTIONS:550
 EN State assumed string operands explicitly
-ZH Chicken chicken chicken chicken chicken
+ZH 显式指明假定的字符串操作数
 
 // OPTIONS:552
 EN Short (MOVSB...)
-ZH Chicken (CHICKEN...)
+ZH 短形式 (MOVSB...)
 
 // OPTIONS:553
 EN Do not specify assumed string operands
-ZH Chicken chicken chicken chicken chicken
+ZH 不指明假定的字符串操作数
 
 // OPTIONS:555
 EN Decode near returns as:
-ZH Chicken chicken chicken:
+ZH 近返回解码为:
 
 // OPTIONS:559
 EN Emphasize that return is near
-ZH Chicken chicken chicken chicken
+ZH 强调返回是近返回
 
 // OPTIONS:562
 EN Almost all returns are near in flat mode applications
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在扁平模式程序中几乎所有返回都是近返回
 
 // OPTIONS:564
 EN Decode size-sensitive 16/32-bit mnemonics like:
-ZH Chicken chicken-chicken 16/32-chicken chicken:
+ZH 对大小敏感的 16/32 位助记符解码为:
 
 // OPTIONS:568
 EN No suffix for 16-bit, suffix D for 32-bit mnemonics
-ZH Chicken chicken 16-chi, chicken chicken 32-chicken chicken
+ZH 16 位无后缀, 32 位助记符后缀 D
 
 // OPTIONS:571
 EN Suffix W for 16-bit, suffix D for 32-bit mnemonics
-ZH Chicken chicken 16-chi, chicken chicken 32-chicken chicken
+ZH 16 位后缀 W, 32 位助记符后缀 D
 
 // OPTIONS:574
 EN Suffix W for 16-bit, no suffix for 32-bit mnemonics
-ZH Chicken chicken 16-chi, chicken chicken 32-chicken chicken
+ZH 16 位后缀 W, 32 位助记符无后缀
 
 // OPTIONS:576
 EN Decode jump hints as:
-ZH Chicken chicken chicken:
+ZH 跳转提示解码为:
 
 // OPTIONS:580
 EN Plus if jump is mainly taken, minus if not
-ZH Chicken chicken chicken chicken, chicken chicken
+ZH 主要执行跳转用加号, 否则减号
 
 // OPTIONS:583
 EN Prefixes 'Branch Hint Taken', 'Branch Hint Not Taken'
-ZH Chicken 'Chicken chicken', 'Chicken chicken chicken'
+ZH 前缀 'Branch Hint Taken'、'Branch Hint Not Taken'
 
 // OPTIONS:595
 EN Operands
-ZH Chicken
+ZH 操作数
 
 // OPTIONS:604
 EN Decode top of FPU stack as:
-ZH Chicken chicken chicken:
+ZH FPU 堆栈顶部解码为:
 
 // OPTIONS:608
 EN Decode top of FPU stack as ST(0) (full form)
-ZH Chicken chicken chicken chicken(0) (chicken)
+ZH 将 FPU 堆栈顶部解码为 ST(0) (完整形式)
 
 // OPTIONS:611
 EN Decode top of FPU stack as ST (simplified form)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 将 FPU 堆栈顶部解码为 ST (简化形式)
 
 // OPTIONS:613
 EN Decode size of 16/32-byte SSE operands as:
-ZH Chicken chicken 16/32-chicken chicken chicken:
+ZH 16/32 字节 SSE 操作数大小解码为:
 
 // OPTIONS:616
 EN DQWORD/QQWORD (Double/Quad Quadword)
-ZH CHICKEN/CHICKEN (Chicken/Chicken chicken)
+ZH DQWORD/QQWORD (双/四四字)
 
 // OPTIONS:617
 EN Decode SSE memory operands like [DQWORD EDX]
-ZH Chicken chicken chicken chicken [CHICKEN]
+ZH 将 SSE 内存操作数解码为如 [DQWORD EDX]
 
 // OPTIONS:619
 EN XMMWORD/YMMWORD (as XMM/YMM registers)
-ZH CHICKEN/CHICKEN (chicken/Chicken chicken)
+ZH XMMWORD/YMMWORD (作为 XMM/YMM 寄存器)
 
 // OPTIONS:620
 EN Decode SSE memory operands like [XMMWORD EDX]
-ZH Chicken chicken chicken chicken [CHICKEN CHICKEN]
+ZH 将 SSE 内存操作数解码为如 [XMMWORD EDX]
 
 // OPTIONS:641
 EN Underline fixups
-ZH Chicken chicken
+ZH 重定位下划线
 
 // OPTIONS:642
 EN Underline fixups in dump columns or windows
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在数据列或窗口中用下划线标记重定位
 
 // OPTIONS:644
 EN Use wide characters in UNICODE && multibyte dumps
-ZH Chicken chicken chicken chicken && chicken chicken
+ZH 在 UNICODE 和多字节数据中使用宽字符
 
 // OPTIONS:645
 EN So that Kanji symbols are not clipped
-ZH Chicken chicken chicken chicken chicken
+ZH 以免汉字符号被裁剪
 
 // OPTIONS:647
 EN Disable GDI scripting support
-ZH Chicken chicken chicken chicken
+ZH 禁用 GDI 脚本支持
 
 // OPTIONS:649
 EN Gets rid of dump artefacts, but some UNICODE characters may be replaced by spaceholders
-ZH Chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 消除数据显示伪影, 但部分 UNICODE 字符可能被占位符替代
 
 // OPTIONS:651
 EN Replace non-printable ASCII characters with dots
-ZH Chicken chicken-chicken chicken chicken chicken chicken
+ZH 用点替换不可打印的 ASCII 字符
 
 // OPTIONS:652
 EN Do not display non-printable ASCII characters in dump
-ZH Chicken chicken-chicken chicken chicken chicken
+ZH 数据中不显示不可打印的 ASCII 字符
 
 // OPTIONS:654
 EN Display addresses in address column as:
-ZH Chicken chicken chicken chicken chicken:
+ZH 地址列中的地址显示为:
 
 // OPTIONS:657
 EN Hex, Symbol
-ZH Chi, Chicken
+ZH 十六进制, 符号
 
 // OPTIONS:658
 EN Hex address, followed by symbolic name, if available
-ZH Chicken chicken, chicken chicken chicken, chicken chicken
+ZH 十六进制地址, 后跟符号名 (如有)
 
 // OPTIONS:660
 EN Symbol, Hex
-ZH Chicken, Chi
+ZH 符号, 十六进制
 
 // OPTIONS:661
 EN If symbolic name is available, put it first
-ZH Chicken chicken chicken chicken, chicken chicken
+ZH 如有符号名则放在前面
 
 // OPTIONS:663
 EN Symbol or Hex
-ZH Chicken chicken
+ZH 符号或十六进制
 
 // OPTIONS:665
 EN If symbolic name is available, show name, otherwise hexadecimal address
-ZH Chicken chicken chicken chicken, chicken, chicken chicken chicken chicken
+ZH 如有符号名则显示名称, 否则显示十六进制地址
 
 // OPTIONS:667
 EN Highlight symbolic names in address column
-ZH Chicken chicken chicken chicken chicken
+ZH 在地址列中高亮符号名
 
 // OPTIONS:670
 EN Doubleclick on address:
-ZH Chicken chicken chicken:
+ZH 双击地址:
 
 // OPTIONS:673
 EN Sets relative addressing
-ZH Chicken chicken chicken
+ZH 设置相对寻址
 
 // OPTIONS:674
 EN Doubleclick on address to toggle relative addressing
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 双击地址切换相对寻址
 
 // OPTIONS:676
 EN Labels address
-ZH Chicken chicken
+ZH 标记地址
 
 // OPTIONS:677
 EN Doubleclick on address to place user-defined label
-ZH Chicken chicken chicken chicken chicken-chicken chicken
+ZH 双击地址放置用户定义的标签
 
 // OPTIONS:679
 EN ASCII code page
-ZH Chicken chicken
+ZH ASCII 代码页
 
 // OPTIONS:683
 EN Code page used in ASCII dumps and data input dialogs
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH ASCII 数据和数据输入对话框中使用的代码页
 
 // OPTIONS:685
 EN Multibyte code page
-ZH Chicken chicken chicken
+ZH 多字节代码页
 
 // OPTIONS:690
 EN Code page used in multibyte character dumps and data input dialogs
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 多字节字符数据和数据输入对话框中使用的代码页
 
 // OPTIONS:702
 EN Strings
-ZH Chicken
+ZH 字符串
 
 // OPTIONS:711
 EN Decode Pascal-style string constants
-ZH Chicken chicken-chicken chicken chicken
+ZH 解码 Pascal 风格字符串常量
 
 // OPTIONS:712
 EN Pascal strings are preceded with the character count
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH Pascal 字符串前带有字符计数
 
 // OPTIONS:714
 EN Allow diacritical symbols (à,ñ,ø...)
-ZH Chicken chicken chicken (à,ñ,ø...)
+ZH 允许变音符号 (à,ñ,ø...)
 
 // OPTIONS:715
 EN Increases number of improperly recognized strings
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 增加识别错误的字符串数量
 
 // OPTIONS:717
 EN To recognize UNICODE strings:
-ZH Chicken chicken chicken chicken:
+ZH 识别 UNICODE 字符串:
 
 // OPTIONS:720
 EN Use internal heuristics (ASCII subset)
-ZH Chicken chicken chicken (Chicken chicken)
+ZH 使用内部启发式 (ASCII 子集)
 
 // OPTIONS:721
 EN Search is limited to extended ASCII subset only
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 搜索仅限于扩展 ASCII 子集
 
 // OPTIONS:723
 EN Use IsTextUnicode()
-ZH Chicken chicken()
+ZH 使用 IsTextUnicode()
 
 // OPTIONS:725
 EN Let Windows determine if valid UNICODE string. ATTENTION, danger of misinterpretations!
-ZH Chicken chicken chicken chicken chicken chicken. CHICKEN, chicken chicken chicken chicken!
+ZH 让 Windows 判断是否为有效 UNICODE 字符串. 注意, 可能误判!
 
 // OPTIONS:727
 EN Mode of string decoding:
-ZH Chicken chicken chicken:
+ZH 字符串解码模式:
 
 // OPTIONS:730
 EN Plain ("abcdef")
-ZH Chicken ("chichi")
+ZH 纯文本 ("abcdef")
 
 // OPTIONS:731
 EN Display text strings without conversion
-ZH Chicken chicken chicken chicken chicken
+ZH 不转换地显示文本字符串
 
 // OPTIONS:733
 EN Assembler ("abc",LF,"def")
-ZH Chicken ("chi",CH,"chi")
+ZH 汇编 ("abc",LF,"def")
 
 // OPTIONS:734
 EN Convert strings to more or less MASM-compatible form
-ZH Chicken chicken chicken chicken chicken-chicken chicken
+ZH 将字符串转换为大致与 MASM 兼容的形式
 
 // OPTIONS:736
 EN C ("abc\\ndef")
@@ -11283,323 +11283,323 @@ ZH C ("chi\\chic")
 
 // OPTIONS:737
 EN Convert recognized strings to C-compatible form
-ZH Chicken chicken chicken chicken-chicken chicken
+ZH 将识别的字符串转换为 C 兼容形式
 
 // OPTIONS:749
 EN Debugging
-ZH Chicken
+ZH 调试
 
 // OPTIONS:752
 EN Debugging options
-ZH Chicken chicken
+ZH 调试选项
 
 // OPTIONS:758
 EN Assume flat selectors
-ZH Chicken chicken chicken
+ZH 假定使用扁平选择器
 
 // OPTIONS:759
 EN Assume that CS, DS, SS and ES always have zero offset
-ZH Chicken chicken, CH, Chicken chicken chicken chicken
+ZH 假定 CS、DS、SS 和 ES 始终偏移为零
 
 // OPTIONS:761
 EN After Execute till return, step over RET
-ZH Chicken chicken chicken, chicken chicken
+ZH 执行到返回后, 步过 RET
 
 // OPTIONS:762
 EN When return is reached, execute it
-ZH Chicken chicken chicken, chicken
+ZH 到达返回时, 执行它
 
 // OPTIONS:764
 EN Allow fast command emulation
-ZH Chicken chicken chicken chicken
+ZH 允许快速指令仿真
 
 // OPTIONS:765
 EN Emulate execution of commands in OllyDbg
-ZH Chicken chicken chicken chicken chicken
+ZH 在 OllyDbg 中仿真执行指令
 
 // OPTIONS:767
 EN Auto backup user code
-ZH Chicken chicken chicken
+ZH 自动备份用户代码
 
 // OPTIONS:768
 EN Create backups of non-system code sections
-ZH Chicken chicken chicken-chicken chicken chicken
+ZH 创建非系统代码节的备份
 
 // OPTIONS:770
 EN Use HW breakpoints for stepping
-ZH Chicken chicken chicken chicken
+ZH 单步执行时使用硬件断点
 
 // OPTIONS:771
 EN Use less invasive hardware breakpoints instead of INT3
-ZH Chicken chicken chicken chicken chicken chicken chicken3
+ZH 使用侵入性较小的硬件断点代替 INT3
 
 // OPTIONS:773
 EN Hide unimportant handles
-ZH Chicken chicken chicken
+ZH 隐藏不重要的句柄
 
 // OPTIONS:775
 EN Don't list unimportant standard handles in the Handles window
-ZH Chi'chicken chicken chicken chicken chicken chicken chicken
+ZH 不在句柄窗口列出不重要的标准句柄
 
 // OPTIONS:777
 EN Set permanent breakpoints on system calls
-ZH Chicken chicken chicken chicken chicken
+ZH 在系统调用上设置永久断点
 
 // OPTIONS:779
 EN Set INT3 on ZwContinue(), UnhandledExceptionFilter(), KiUserExceptionDispatcher() etc.
-ZH Chicken3 chicken chicken(), Chicken chicken chicken(), Chicken chicken chicken() chi.
+ZH 在 ZwContinue()、UnhandledExceptionFilter()、KiUserExceptionDispatcher() 等上设置 INT3
 
 // OPTIONS:781
 EN To pause running application:
-ZH Chicken chicken chicken chicken:
+ZH 暂停运行中的程序:
 
 // OPTIONS:784
 EN Set breakpoint in every thread
-ZH Chicken chicken chicken chicken
+ZH 在每个线程中设置断点
 
 // OPTIONS:785
 EN Set memory traps or single-step breaks in every thread
-ZH Chicken chicken chicken-chicken chicken chicken chicken
+ZH 在每个线程中设置内存陷阱或单步中断
 
 // OPTIONS:787
 EN Call DebugBreakProcess()
-ZH Chicken chicken chicken()
+ZH 调用 DebugBreakProcess()
 
 // OPTIONS:788
 EN Use this special system call (if supported by OS)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 使用此特殊系统调用 (如系统支持)
 
 // OPTIONS:790
 EN When terminating the running application:
-ZH Chicken chicken chicken chicken chicken:
+ZH 终止运行中的程序时:
 
 // OPTIONS:793
 EN Immediately call TerminateProcess()
-ZH Chicken chicken chicken chicken()
+ZH 立即调用 TerminateProcess()
 
 // OPTIONS:794
 EN Works fast, but open files may get corrupted
-ZH Chicken, chicken chicken chicken chicken
+ZH 速度快, 但已打开的文件可能损坏
 
 // OPTIONS:796
 EN Try to use ExitProcess() first
-ZH Chicken chicken chicken() chicken
+ZH 先尝试使用 ExitProcess()
 
 // OPTIONS:797
 EN Tricky, but a bit safer
-ZH Chicken, chicken chicken
+ZH 复杂但更安全
 
 // OPTIONS:799
 EN Command used as a soft breakpoint (experimental):
-ZH Chicken chicken chicken chicken (chicken chicken):
+ZH 用作软断点的指令 (实验性):
 
 // OPTIONS:804
 EN Select command used as a soft breakpoint. Use INT3 if in doubt!
-ZH Chicken chicken chicken chicken chicken. Chicken3 chicken chicken!
+ZH 选择用作软断点的指令. 如不确定, 请使用 INT3!
 
 // OPTIONS:816
 EN Debugging data
-ZH Chicken chicken
+ZH 调试数据
 
 // OPTIONS:825
 EN Use debugging data
-ZH Chicken chicken
+ZH 使用调试数据
 
 // OPTIONS:826
 EN Allow DBGHELP.DLL
-ZH Chicken chicken.CHI
+ZH 允许 DBGHELP.DLL
 
 // OPTIONS:828
 EN Use dbghelp.dll for stack walk
-ZH Chicken chicken.chicken chicken
+ZH 使用 dbghelp.dll 进行堆栈漫游
 
 // OPTIONS:829
 EN Use DBGHELP.StackWalk64() to walk CPU stack
-ZH Chicken chicken.Chicken64() chicken chicken
+ZH 使用 DBGHELP.StackWalk64() 漫游 CPU 堆栈
 
 // OPTIONS:831
 EN Directories containing debugging data (.pdb,.dbg...).
-ZH Chicken chicken chicken chicken chicken (.chi,.chi...).
+ZH 包含调试数据 (.pdb,.dbg...) 的目录.
 
 // OPTIONS:834
 EN Dbghelp.dll will also recurse into subdirectories:
-ZH Chicken.chicken chicken chicken chicken chicken:
+ZH Dbghelp.dll 还会递归进入子目录:
 
 // OPTIONS:838
 EN Directory containing debugging data (.pdb,.dbg...)
-ZH Chicken chicken chicken chicken chicken (.chi,.chi...)
+ZH 包含调试数据 (.pdb,.dbg...) 的目录
 
 // OPTIONS:841
 EN Select directory where debugging data is kept
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择存放调试数据的目录
 
 // OPTIONS:855
 EN Allow access to Microsoft Symbol Server
-ZH Chicken chicken chicken chicken chicken
+ZH 允许访问 Microsoft 符号服务器
 
 // OPTIONS:857
 EN Download debugging data for system DLLs from Internet (http://msdl.microsoft.com/download/symbols)
-ZH Chicken chicken chicken chicken chicken chicken chicken (chic://chic.chicken.chi/chicken/chicken)
+ZH 从 Internet (http://msdl.microsoft.com/download/symbols) 下载系统 DLL 的调试数据
 
 // OPTIONS:859
 EN Don't list missing source files
-ZH Chi'chicken chicken chicken chicken
+ZH 不列出缺失的源文件
 
 // OPTIONS:860
 EN For example, those used to build system libraries
-ZH Chicken chicken, chicken chicken chicken chicken chicken
+ZH 例如用于构建系统库的源文件
 
 // OPTIONS:862
 EN Don't list internal compiler labels
-ZH Chi'chicken chicken chicken chicken
+ZH 不列出编译器内部标签
 
 // OPTIONS:863
 EN Constant strings, floating constants, imports etc.
-ZH Chicken chicken, chicken chicken, chicken chicken.
+ZH 常量字符串、浮点常量、导入等
 
 // OPTIONS:865
 EN Skip leading spaces from source lines in comments
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在注释中跳过源代码行的前导空格
 
 // OPTIONS:866
 EN Only affects Disassembler comments
-ZH Chicken chicken chicken chicken
+ZH 仅影响反汇编器注释
 
 // OPTIONS:870
 EN WARNING: Microsoft Symbol Server sends and receives data over the Internet!\nModifications made on this page will take full effect only after restart.
-ZH CHICKEN: Chicken chicken chicken chicken chicken chicken chicken chicken!\nChicken chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH 警告: Microsoft 符号服务器通过 Internet 收发数据!\n此页面的修改仅在重新启动后完全生效.
 
 // OPTIONS:882
 EN Start
-ZH Chicken
+ZH 启动
 
 // OPTIONS:891
 EN When starting application, make first pause at:
-ZH Chicken chicken chicken, chicken chicken chicken:
+ZH 启动程序时首次暂停位置:
 
 // OPTIONS:895
 EN Make first pause when OS executes DbgBreakPoint()
-ZH Chicken chicken chicken chicken chicken chicken()
+ZH 操作系统执行 DbgBreakPoint() 时首次暂停
 
 // OPTIONS:897
 EN TLS callback (if defined)
-ZH Chicken chicken (chicken)
+ZH TLS 回调 (如已定义)
 
 // OPTIONS:899
 EN Make first pause at TLS callback, or at entry point of main module if callbacks are absent
-ZH Chicken chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken
+ZH 在 TLS 回调处首次暂停, 如不存在回调则在主模块入口点暂停
 
 // OPTIONS:902
 EN Make first pause at entry point of main module
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在主模块入口点首次暂停
 
 // OPTIONS:904
 EN WinMain (if location is known)
-ZH Chicken (chicken chicken chicken)
+ZH WinMain (如位置已知)
 
 // OPTIONS:906
 EN Make first pause at WinMain, or at entry point of main module if WinMain is unknown
-ZH Chicken chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken
+ZH 在 WinMain 处首次暂停, 如 WinMain 未知则在主模块入口点暂停
 
 // OPTIONS:908
 EN No pause
-ZH Chicken
+ZH 不暂停
 
 // OPTIONS:909
 EN Make no pause, immediately run application
-ZH Chicken chicken, chicken chicken chicken chicken
+ZH 不暂停, 立即运行程序
 
 // OPTIONS:911
 EN When attaching to application, make first pause at:
-ZH Chicken chicken chicken chicken, chicken chicken chicken:
+ZH 附加到程序时首次暂停位置:
 
 // OPTIONS:916
 EN When attaching, pause application on system breakpoint in the temporary thread
-ZH Chicken chicken, chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 附加时在临时线程的系统断点处暂停程序
 
 // OPTIONS:918
 EN Application code
-ZH Chicken chicken
+ZH 程序代码
 
 // OPTIONS:919
 EN When attaching, pause on application code
-ZH Chicken chicken, chicken chicken chicken
+ZH 附加时在程序代码处暂停
 
 // OPTIONS:922
 EN When attaching, run application without pause
-ZH Chicken chicken, chicken chicken chicken chicken
+ZH 附加时不暂停运行程序
 
 // OPTIONS:924
 EN When loading DLL, make first pause at:
-ZH Chicken chicken, chicken chicken chicken:
+ZH 加载 DLL 时首次暂停位置:
 
 // OPTIONS:929
 EN When loading DLL, pause application on the entry point of DLL loader
-ZH Chicken chicken, chicken chicken chicken chicken chicken chicken
+ZH 加载 DLL 时在 DLL 加载器入口点暂停程序
 
 // OPTIONS:931
 EN DLL entry point (if defined)
-ZH Chicken chicken (chicken)
+ZH DLL 入口点 (如已定义)
 
 // OPTIONS:933
 EN When loading DLL, pause application on the DLL entry point (also known as DllMain() or DllEntryPoint())
-ZH Chicken chicken, chicken chicken chicken chicken chicken (chicken chicken chicken() chicken chicken())
+ZH 加载 DLL 时在 DLL 入口点 (也称 DllMain() 或 DllEntryPoint()) 暂停程序
 
 // OPTIONS:935
 EN After call to LoadLibrary()
-ZH Chicken chicken chicken()
+ZH 在调用 LoadLibrary() 后
 
 // OPTIONS:937
 EN When loading DLL, pause after return from call to LoadLibrary() in LOADDLL.EXE
-ZH Chicken chicken, chicken chicken chicken chicken chicken chicken() chicken.CHI
+ZH 加载 DLL 时, 在 LOADDLL.EXE 中调用 LoadLibrary() 返回后暂停
 
 // OPTIONS:940
 EN When loading DLL, run LOADDLL.EXE without pause
-ZH Chicken chicken, chicken chicken.Chicken chicken
+ZH 加载 DLL 时不暂停运行 LOADDLL.EXE
 
 // OPTIONS:952
 EN Events
-ZH Chicken
+ZH 事件
 
 // OPTIONS:955
 EN Debugging events
-ZH Chicken chicken
+ZH 调试事件
 
 // OPTIONS:961
 EN Warn on frequent events
-ZH Chicken chicken chicken
+ZH 频繁事件时警告
 
 // OPTIONS:962
 EN Flash warning if debugging events are frequent
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 调试事件频繁时闪烁警告
 
 // OPTIONS:964
 EN Pause on new module (DLL)
-ZH Chicken chicken chicken (CHI)
+ZH 新模块 (DLL) 加载时暂停
 
 // OPTIONS:966
 EN When new DLL loads, pause on entry point (if available)
-ZH Chicken chicken, chicken chicken chicken (chicken chicken)
+ZH 新 DLL 加载时在入口点暂停 (如有)
 
 // OPTIONS:968
 EN Pause on module (DLL) unloading
-ZH Chicken chicken (CHI) chicken
+ZH 模块 (DLL) 卸载时暂停
 
 // OPTIONS:969
 EN Pause when DLL is removed from the memory
-ZH Chicken chicken chicken chicken chicken
+ZH DLL 从内存移除时暂停
 
 // OPTIONS:971
 EN Only on the following modules:
-ZH Chicken chicken chicken chicken:
+ZH 仅以下模块:
 
 // OPTIONS:972
 EN Pause only on listed new/unloading modules
-ZH Chicken chicken chicken/chicken chicken
+ZH 仅在所列新加载/卸载模块时暂停
 
 // OPTIONS:975
 EN Full path, file.ext, file or internal module name
-ZH Chicken, chic.chi, chicken chicken chicken chicken
+ZH 完整路径、file.ext、文件或内部模块名
 
 // OPTIONS:977
 EN Add
@@ -11607,183 +11607,183 @@ ZH Chi
 
 // OPTIONS:978
 EN Add module to the list
-ZH Chicken chicken chicken
+ZH 将模块添加到列表
 
 // OPTIONS:980
 EN Remove
-ZH Chicken
+ZH 删除
 
 // OPTIONS:981
 EN Remove selected module from the list
-ZH Chicken chicken chicken chicken chicken
+ZH 从列表中删除所选模块
 
 // OPTIONS:983
 EN Pause on new thread
-ZH Chicken chicken chicken
+ZH 新线程时暂停
 
 // OPTIONS:984
 EN When new thread starts, pause on its entry point
-ZH Chicken chicken chicken, chicken chicken chicken
+ZH 新线程启动时在其入口点暂停
 
 // OPTIONS:986
 EN Pause on thread end
-ZH Chicken chicken chicken
+ZH 线程结束时暂停
 
 // OPTIONS:987
 EN Pause when thread terminates
-ZH Chicken chicken chicken chicken
+ZH 线程终止时暂停
 
 // OPTIONS:989
 EN Pause on debug string
-ZH Chicken chicken chicken
+ZH 调试字符串时暂停
 
 // OPTIONS:990
 EN Pause when application emits debug string
-ZH Chicken chicken chicken chicken chicken
+ZH 程序发出调试字符串时暂停
 
 // OPTIONS:992
 EN Debug child processes
-ZH Chicken chicken chicken
+ZH 调试子进程
 
 // OPTIONS:994
 EN Start new OllyDbg instance for processes spawned by Debuggee
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 为被调试程序派生的进程启动新的 OllyDbg 实例
 
 // OPTIONS:998
 EN WARNING: debugging of child processes is possible only when Debuggee was created by OllyDbg and only if option 'Debug child processes' was active.
-ZH CHICKEN: chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken 'Chicken chicken chicken' chicken.
+ZH 警告: 仅当被调试程序由 OllyDbg 创建且 '调试子进程' 选项已激活时, 才可调试子进程.
 
 // OPTIONS:1010
 EN Exceptions
-ZH Chicken
+ZH 异常
 
 // OPTIONS:1013
 EN Ignored exceptions
-ZH Chicken chicken
+ZH 忽略的异常
 
 // OPTIONS:1019
 EN Ignore memory access violations in KERNEL32
-ZH Chicken chicken chicken chicken chicken32
+ZH 忽略 KERNEL32 中的内存访问冲突
 
 // OPTIONS:1020
 EN May occur in KERNEL32.IsBadReadPtr() and similar APIs
-ZH Chicken chicken chicken32.Chicken chicken() chicken chicken
+ZH 可能发生于 KERNEL32.IsBadReadPtr() 等 API
 
 // OPTIONS:1022
 EN Step over INT3 breaks in MSCORWKS
-ZH Chicken chicken3 chicken chicken
+ZH 步过 MSCORWKS 中的 INT3 中断
 
 // OPTIONS:1023
 EN In this way .NET engine alerts Debugger to events
-ZH Chicken chicken .Chicken chicken chicken chicken chicken
+ZH .NET 引擎以此方式向调试器报告事件
 
 // OPTIONS:1025
 EN Ignore (pass to debugged program) following exceptions:
-ZH Chicken (chicken chicken chicken) chicken chicken chicken:
+ZH 忽略 (传递给被调试程序) 以下异常:
 
 // OPTIONS:1028
 EN INT3 breaks
-ZH CHI3 chicken
+ZH INT3 中断
 
 // OPTIONS:1029
 EN Let program process breaks on INT3 set by program
-ZH Chicken chicken chicken chicken3 chicken chicken
+ZH 让程序处理由程序设置的 INT3 中断
 
 // OPTIONS:1031
 EN Single-step breaks
-ZH Chicken-chicken chicken
+ZH 单步中断
 
 // OPTIONS:1032
 EN Let program process breaks on TRAP bit set by program
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 让程序处理由程序设置的 TRAP 位中断
 
 // OPTIONS:1034
 EN Memory access violations
-ZH Chicken chicken chicken
+ZH 内存访问冲突
 
 // OPTIONS:1035
 EN Let program process breaks on invalid memory access
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 让程序处理无效内存访问的中断
 
 // OPTIONS:1037
 EN Integer division by 0
-ZH Chicken chicken chicken 0
+ZH 整数除零
 
 // OPTIONS:1038
 EN Let program process breaks on integer division by zero
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 让程序处理整数除零的中断
 
 // OPTIONS:1040
 EN Invalid or privileged instructions
-ZH Chicken chicken chicken chicken
+ZH 无效或特权指令
 
 // OPTIONS:1041
 EN Let program process breaks on invalid instruction
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 让程序处理无效指令的中断
 
 // OPTIONS:1043
 EN All FPU exceptions
-ZH Chicken chicken
+ZH 所有 FPU 异常
 
 // OPTIONS:1044
 EN Let program process breaks on all FPU exceptions
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 让程序处理所有 FPU 异常的中断
 
 // OPTIONS:1046
 EN All service exceptions
-ZH Chicken chicken chicken
+ZH 所有服务异常
 
 // OPTIONS:1047
 EN Process exceptions (mis)used by OS
-ZH Chicken chicken (chi)chicken
+ZH 处理被操作系统 (滥) 用的异常
 
 // OPTIONS:1049
 EN Ignore also the following custom exceptions or ranges:
-ZH Chicken chicken chicken chicken chicken chicken chicken:
+ZH 同时忽略以下自定义异常或范围:
 
 // OPTIONS:1050
 EN Activate list of custom exceptions
-ZH Chicken chicken chicken chicken
+ZH 激活自定义异常列表
 
 // OPTIONS:1053
 EN List of custom exceptions to be passed to debuggee
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 要传递给被调试程序的自定义异常列表
 
 // OPTIONS:1055
 EN Add current
-ZH Chicken chicken
+ZH 添加当前
 
 // OPTIONS:1056
 EN Add exception that paused the debugged application
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 添加导致被调试程序暂停的异常
 
 // OPTIONS:1059
 EN Add range of exceptions
-ZH Chicken chicken chicken
+ZH 添加异常范围
 
 // OPTIONS:1062
 EN Remove selected exception or range from the list
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 从列表中删除所选异常或范围
 
 // OPTIONS:1065
 EN Pass unprocessed exceptions to Unhandled Exception Filter
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 将未处理的异常传递给未处理异常过滤器
 
 // OPTIONS:1066
 EN Note: program may terminate if custom filter is not installed!
-ZH Chic: chicken chicken chicken chicken chicken chicken chicken!
+ZH 注意: 如未安装自定义过滤器, 程序可能终止!
 
 // OPTIONS:1068
 EN Report ignored exceptions to log
-ZH Chicken chicken chicken chicken
+ZH 将忽略的异常报告到日志
 
 // OPTIONS:1069
 EN Report ignored (passed to debuggee) exceptions to log
-ZH Chicken chicken (chicken chicken) chicken chicken
+ZH 将忽略 (传递给被调试程序) 的异常报告到日志
 
 // OPTIONS:1090
 EN Size of run trace buffer
-ZH Chicken chicken chicken
+ZH Run 跟踪缓冲区大小
 
 // OPTIONS:1093
 EN 1 M|2 M|4 M|8 M|16 M|32 M|64 M|128 M|256 M
@@ -11791,71 +11791,71 @@ ZH 1 C|2 C|4 C|8 C|16 C|32 C|64 C|128 C|256 C
 
 // OPTIONS:1094
 EN Approximate size of run trace buffer, bytes
-ZH Chicken chicken chicken chicken chicken, chicken
+ZH Run 跟踪缓冲区的大致大小, 字节
 
 // OPTIONS:1098
 EN Trace all threads
-ZH Chicken chicken
+ZH 跟踪所有线程
 
 // OPTIONS:1100
 EN If multithread application, switch between threads every 50 ms when tracing
-ZH Chicken chicken chicken, chicken chicken chicken chicken 50 chicken chicken
+ZH 如果是多线程程序, 跟踪时每 50 毫秒在线程间切换
 
 // OPTIONS:1104
 EN When tracing or animating into:
-ZH Chicken chicken chicken chicken:
+ZH 跟踪或自动步入时:
 
 // OPTIONS:1107
 EN Don't enter system DLLs
-ZH Chi'chicken chicken chicken
+ZH 不进入系统 DLL
 
 // OPTIONS:1108
 EN In automatic mode, always trace over API calls
-ZH Chicken chicken, chicken chicken chicken chicken
+ZH 自动模式下, 始终步过 API 调用
 
 // OPTIONS:1110
 EN Always trace over string commands
-ZH Chicken chicken chicken chicken
+ZH 始终步过字符串指令
 
 // OPTIONS:1111
 EN In automatic mode, execute string commands at once
-ZH Chicken chicken, chicken chicken chicken chicken
+ZH 自动模式下, 一次性执行字符串指令
 
 // OPTIONS:1113
 EN Remember commands
-ZH Chicken chicken
+ZH 记住指令
 
 // OPTIONS:1114
 EN Facilitates debugging of self-modifiable code
-ZH Chicken chicken chicken chicken-chicken chicken
+ZH 便于调试自修改代码
 
 // OPTIONS:1116
 EN Remember memory
-ZH Chicken chicken
+ZH 记住内存
 
 // OPTIONS:1117
 EN Save accessed memory to run trace
-ZH Chicken chicken chicken chicken
+ZH 将访问的内存保存到 Run 跟踪
 
 // OPTIONS:1119
 EN Remember FPU registers
-ZH Chicken chicken chicken
+ZH 记住 FPU 寄存器
 
 // OPTIONS:1120
 EN Save FPU registers to run trace
-ZH Chicken chicken chicken chicken
+ZH 将 FPU 寄存器保存到 Run 跟踪
 
 // OPTIONS:1122
 EN Synchronize CPU and run trace
-ZH Chicken chicken chicken chicken
+ZH 同步 CPU 和 Run 跟踪
 
 // OPTIONS:1123
 EN Synchronize CPU display and run trace selection
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 同步 CPU 显示和 Run 跟踪选择
 
 // OPTIONS:1125
 EN Animation delay
-ZH Chicken chicken
+ZH 自动步进延迟
 
 // OPTIONS:1128
 EN 0 ms|20 ms|50 ms|100 ms|200 ms|500 ms|1000 ms
@@ -11863,95 +11863,95 @@ ZH 0 ch|20 ch|50 ch|100 ch|200 ch|500 ch|1000 ch
 
 // OPTIONS:1130
 EN Duration of step in 'Animate into' and 'Animate over' modi
-ZH Chicken chicken chicken 'Chicken chicken' chi 'Chicken chicken' chic
+ZH '自动步入' 和 '自动步过' 模式下每步的持续时间
 
 // OPTIONS:1133
 EN WARNING: some run trace options will take effect only after clearing the trace buffer.
-ZH CHICKEN: chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH 警告: 部分 Run 跟踪选项仅在清除跟踪缓冲区后生效.
 
 // OPTIONS:1154
 EN When starting hit test:
-ZH Chicken chicken chicken:
+ZH 开始 Hit 测试时:
 
 // OPTIONS:1157
 EN Set breakpoints on known callbacks
-ZH Chicken chicken chicken chicken
+ZH 在已知回调上设置断点
 
 // OPTIONS:1158
 EN According to the system DLL entering mode
-ZH Chicken chicken chicken chicken chicken
+ZH 根据系统 DLL 进入模式
 
 // OPTIONS:1160
 EN When indirect or table-based jump or call is hit:
-ZH Chicken chicken chicken-chicken chicken chicken:
+ZH 命中间接或基于表的跳转或调用时:
 
 // OPTIONS:1163
 EN Check destination each time
-ZH Chicken chicken chicken chicken
+ZH 每次检查目标
 
 // OPTIONS:1164
 EN Keep trace breakpoint set (slow but reliable method)
-ZH Chicken chicken chicken (chicken chicken chicken)
+ZH 保留跟踪断点设置 (慢但可靠的方法)
 
 // OPTIONS:1166
 EN Use analysis data to guess destinations
-ZH Chicken chicken chicken chicken chicken
+ZH 使用分析数据推测目标
 
 // OPTIONS:1168
 EN Use destinations found by Analyzer (fast but may be unreliable)
-ZH Chicken chicken chicken chicken (chicken chicken chicken)
+ZH 使用分析器找到的目标 (快但可能不可靠)
 
 // OPTIONS:1170
 EN When next destination is analysed as data:
-ZH Chicken chicken chicken chicken chicken:
+ZH 下一目标被分析为数据时:
 
 // OPTIONS:1173
 EN Continue hit trace
-ZH Chicken chicken
+ZH 继续 Hit 跟踪
 
 // OPTIONS:1174
 EN Ignore analysis and continue hit trace in standard way
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 忽略分析, 以标准方式继续 Hit 跟踪
 
 // OPTIONS:1176
 EN Pause hit trace
-ZH Chicken chicken
+ZH 暂停 Hit 跟踪
 
 // OPTIONS:1177
 EN Pause hit trace if next destination is data
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 如下一目标是数据则暂停 Hit 跟踪
 
 // OPTIONS:1179
 EN When next destination is outside the code section:
-ZH Chicken chicken chicken chicken chicken chicken:
+ZH 下一目标在代码节外时:
 
 // OPTIONS:1183
 EN Continue hit trace outside the code in a standard way
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 以标准方式在代码外继续 Hit 跟踪
 
 // OPTIONS:1186
 EN Pause hit trace if command is outside the code section
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 如指令在代码节外则暂停 Hit 跟踪
 
 // OPTIONS:1188
 EN Trace code command by command
-ZH Chicken chicken chicken chicken
+ZH 逐条指令跟踪代码
 
 // OPTIONS:1189
 EN Run trace commands outside the code section
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 对代码节外的指令运行跟踪
 
 // OPTIONS:1191
 EN Keep hit trace between sessions
-ZH Chicken chicken chicken chicken
+ZH 会话间保留 Hit 跟踪
 
 // OPTIONS:1192
 EN Dangerous if code is self-modifiable
-ZH Chicken chicken chicken-chicken
+ZH 如果代码自修改则危险
 
 // OPTIONS:1195
 EN WARNING: keeping hit trace between sessions may lead to crash if debugged application is self-modifiable.
-ZH CHICKEN: chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken-chicken.
+ZH 警告: 如果被调试程序自修改, 会话间保留 Hit 跟踪可能导致崩溃.
 
 // OPTIONS:1208
 EN SFX
@@ -11959,47 +11959,47 @@ ZH CHI
 
 // OPTIONS:1211
 EN Self-extractable modules
-ZH Chic-chicken chicken chicken
+ZH 自解压模块
 
 // OPTIONS:1217
 EN Unpack SFX modules automatically
-ZH Chicken chicken chicken chicken
+ZH 自动脱壳 SFX 模块
 
 // OPTIONS:1218
 EN When module is recognized as SFX, unpack it automatically
-ZH Chicken chicken chicken chicken, chicken chicken chicken
+ZH 当模块被识别为 SFX 时, 自动脱壳
 
 // OPTIONS:1220
 EN Use hit trace (fast!)
-ZH Chicken chicken (chic!)
+ZH 使用 Hit 跟踪 (快!)
 
 // OPTIONS:1221
 EN Much faster but can be easily fooled
-ZH Chicken chicken chicken chicken chicken
+ZH 快得多但易被欺骗
 
 // OPTIONS:1223
 EN Use run trace (reliable)
-ZH Chicken chicken (chicken)
+ZH 使用 Run 跟踪 (可靠)
 
 // OPTIONS:1224
 EN Slow but more reliable than hit trace
-ZH Chicken chicken chicken chicken chicken
+ZH 比 Hit 跟踪慢但更可靠
 
 // OPTIONS:1226
 EN Use real entry from previous run
-ZH Chicken chicken chicken chicken
+ZH 使用上次运行的真实入口
 
 // OPTIONS:1227
 EN Accelerate SFX extraction if real entry point is already known
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 如真实入口点已知, 加速 SFX 解压
 
 // OPTIONS:1229
 EN Pass exceptions to SFX extractor
-ZH Chicken chicken chicken chicken
+ZH 将异常传递给 SFX 解压器
 
 // OPTIONS:1230
 EN Ignore (pass to extractor) all exceptions during extraction
-ZH Chicken (chicken chicken) chicken chicken chicken chicken
+ZH 解压过程中忽略 (传递给解压器) 所有异常
 
 // OPTIONS:1242
 EN Just-in-time
@@ -12007,75 +12007,75 @@ ZH Chic-ch-chic
 
 // OPTIONS:1245
 EN Just-in-time debugging
-ZH Chic-ch-chicken chicken
+ZH 即时调试
 
 // OPTIONS:1251
 EN Current just-in-time debugger:
-ZH Chicken chicken-ch-chicken chicken:
+ZH 当前即时调试器:
 
 // OPTIONS:1255
 EN Name of current just-in-time debugger
-ZH Chicken chicken chicken-ch-chicken chicken
+ZH 当前即时调试器的名称
 
 // OPTIONS:1257
 EN Set OllyDbg
-ZH Chicken chicken
+ZH 设置 OllyDbg
 
 // OPTIONS:1258
 EN Press to set OllyDbg as active just-in-time debugger
-ZH Chicken chicken chicken chicken chicken-ch-chicken chicken
+ZH 按下将 OllyDbg 设置为活动即时调试器
 
 // OPTIONS:1260
 EN Previous just-in-time debugger:
-ZH Chicken chicken-ch-chicken chicken:
+ZH 之前的即时调试器:
 
 // OPTIONS:1264
 EN Name of previous just-in-time debugger
-ZH Chicken chicken chicken-ch-chicken chicken
+ZH 之前即时调试器的名称
 
 // OPTIONS:1266
 EN Restore
-ZH Chicken
+ZH 还原
 
 // OPTIONS:1267
 EN Press to restore previous just-in-time debugger
-ZH Chicken chicken chicken chicken-ch-chicken chicken
+ZH 按下还原之前的即时调试器
 
 // OPTIONS:1269
 EN Confirm before attaching
-ZH Chicken chicken chicken
+ZH 附加前确认
 
 // OPTIONS:1270
 EN Whether OS should ask before calling JIT debugger
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 操作系统调用 JIT 调试器前是否询问
 
 // OPTIONS:1285
 EN Analysis options
-ZH Chicken chicken
+ZH 分析选项
 
 // OPTIONS:1291
 EN Recognition of procedures:
-ZH Chicken chicken chicken:
+ZH 函数识别:
 
 // OPTIONS:1294
 EN Strict
-ZH Chicken
+ZH 严格
 
 // OPTIONS:1295
 EN Allow only sure procedures to be recognized as such
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 仅允许将确定的函数识别为函数
 
 // OPTIONS:1297
 EN Fuzzy
-ZH Chicken
+ZH 模糊
 
 // OPTIONS:1298
 EN Recognize any linked piece of code as procedure
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将任何关联的代码片段识别为函数
 
 // OPTIONS:1300
 EN Automatical module analysis:
-ZH Chicken chicken chicken chicken:
+ZH 自动模块分析:
 
 // OPTIONS:1303
 EN Off
@@ -12083,167 +12083,167 @@ ZH Chi
 
 // OPTIONS:1304
 EN No automatical analysis
-ZH Chicken chicken chicken
+ZH 不自动分析
 
 // OPTIONS:1306
 EN Main module
-ZH Chicken chicken
+ZH 主模块
 
 // OPTIONS:1307
 EN Only main module is analysed automatically
-ZH Chicken chicken chicken chicken chicken
+ZH 仅自动分析主模块
 
 // OPTIONS:1309
 EN Non-system modules
-ZH Chi-chicken chicken
+ZH 非系统模块
 
 // OPTIONS:1311
 EN All modules outside the system directory will be analysed
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 分析系统目录之外的所有模块
 
 // OPTIONS:1313
 EN All modules
-ZH Chicken chicken
+ZH 所有模块
 
 // OPTIONS:1314
 EN Analyse all modules as they are loaded
-ZH Chicken chicken chicken chicken chicken
+ZH 在加载时分析所有模块
 
 // OPTIONS:1316
 EN Show predicted register values
-ZH Chicken chicken chicken chicken
+ZH 显示预测的寄存器值
 
 // OPTIONS:1317
 EN Show contents of registers predicted by Analyser
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 显示分析器预测的寄存器内容
 
 // OPTIONS:1319
 EN Don't predict register contents for system DLLs
-ZH Chi'chicken chicken chicken chicken chicken chicken
+ZH 不预测系统 DLL 的寄存器内容
 
 // OPTIONS:1321
 EN Spares memory, but no ARGs, LOCALs and unreliable stack walk
-ZH Chicken chicken, chicken chicken, Chicken chicken chicken chicken
+ZH 节省内存, 但没有 ARG、LOCAL 且堆栈漫游不可靠
 
 // OPTIONS:1323
 EN Show recognized ARGs and LOCALs in disassembly
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在反汇编中显示已识别的 ARG 和 LOCAL
 
 // OPTIONS:1325
 EN Display arguments and local variables in disassembled code
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在反汇编代码中显示参数和局部变量
 
 // OPTIONS:1327
 EN Show recognized ARGs and LOCALs in comments
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在注释中显示已识别的 ARG 和 LOCAL
 
 // OPTIONS:1328
 EN Display arguments and local variables in comments
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在注释中显示参数和局部变量
 
 // OPTIONS:1330
 EN Use symbolic names for ARGs, if known
-ZH Chicken chicken chicken chicken, chicken
+ZH 如已知, 为 ARG 使用符号名称
 
 // OPTIONS:1331
 EN Like ARG.hCurrInstance instead of ARG.1 in WinMain
-ZH Chicken.chicken chicken chicken chicken.1 chicken
+ZH 如在 WinMain 中用 ARG.hCurrInstance 替代 ARG.1
 
 // OPTIONS:1343
 EN Advanced
-ZH Chicken
+ZH 高级
 
 // OPTIONS:1346
 EN Advanced analysis
-ZH Chicken chicken
+ZH 高级分析
 
 // OPTIONS:1352
 EN Decode tricky code sequences
-ZH Chicken chicken chicken chicken
+ZH 解码棘手的代码序列
 
 // OPTIONS:1353
 EN Decode tricky (mostly hand-written) code sequences
-ZH Chicken chicken (chicken chicken-chicken) chicken chicken
+ZH 解码棘手 (多为手写) 的代码序列
 
 // OPTIONS:1355
 EN Decode cascaded IFs as switches
-ZH Chicken chicken chicken chicken
+ZH 将级联 IF 解码为 switch
 
 // OPTIONS:1357
 EN Treat 'IF i==1 ... ELSEIF i==2 ... ELSE ...' as a switch
-ZH Chicken 'Chic==1 ... Chicken==2 ... CHIC ...' chicken chicken
+ZH 将 'IF i==1 ... ELSEIF i==2 ... ELSE ...' 视为 switch
 
 // OPTIONS:1359
 EN Allow arguments renaming for known functions
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 允许已知函数的参数重命名
 
 // OPTIONS:1361
 EN Rename arguments which meaning depends on other argument
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 重命名含义依赖于其他参数的参数
 
 // OPTIONS:1363
 EN Guess number of arguments of unknown functions
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 推测未知函数的参数数量
 
 // OPTIONS:1364
 EN Guess number of argument directly from machine code
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 直接从机器码推测参数数量
 
 // OPTIONS:1366
 EN Extract arguments from mangled names
-ZH Chicken chicken chicken chicken chicken
+ZH 从修饰名提取参数
 
 // OPTIONS:1368
 EN Use information hidden in mangled names to guess arguments
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 使用修饰名中隐藏的信息推测参数
 
 // OPTIONS:1370
 EN Guess meaning of unknown arguments
-ZH Chicken chicken chicken chicken
+ZH 推测未知参数的含义
 
 // OPTIONS:1372
 EN Try to recognize format strings, windows functions etc.
-ZH Chicken chicken chicken chicken, chicken chicken chicken.
+ZH 尝试识别格式字符串、Windows 函数等
 
 // OPTIONS:1374
 EN Show arguments even if their number varies
-ZH Chicken chicken chicken chicken chicken
+ZH 即使参数数量不同也显示参数
 
 // OPTIONS:1376
 EN I.e. number of recognized arguments in different calls is different
-ZH C.c. chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 即不同调用中识别的参数数量不同
 
 // OPTIONS:1378
 EN Detect standard library functions (*.udl)
-ZH Chicken chicken chicken chicken (*.chi)
+ZH 检测标准库函数 (*.udl)
 
 // OPTIONS:1380
 EN Prepare .udl files via main menu, Debug -> Create function library
-ZH Chicken .chicken chicken chicken, Chicken -> Chicken chicken chicken
+ZH 通过主菜单 调试 -> 创建函数库 准备 .udl 文件
 
 // OPTIONS:1382
 EN Comment constant operands of known functions:
-ZH Chicken chicken chicken chicken chicken chicken:
+ZH 注释已知函数的常量操作数:
 
 // OPTIONS:1385
 EN All known
-ZH Chicken
+ZH 所有已知
 
 // OPTIONS:1386
 EN Comment all known constant operands
-ZH Chicken chicken chicken chicken chicken
+ZH 注释所有已知常量操作数
 
 // OPTIONS:1388
 EN Only those marked as important
-ZH Chicken chicken chicken chicken
+ZH 仅标记为重要的
 
 // OPTIONS:1389
 EN Comment only operands marked as important
-ZH Chicken chicken chicken chicken chicken
+ZH 仅注释标记为重要的操作数
 
 // OPTIONS:1391
 EN Unknown functions preserve registers:
-ZH Chicken chicken chicken chicken chicken:
+ZH 未知函数保留的寄存器:
 
 // OPTIONS:1394
 EN None
@@ -12251,7 +12251,7 @@ ZH Chic
 
 // OPTIONS:1395
 EN Unknown functions may modify any register
-ZH Chicken chicken chicken chicken chicken
+ZH 未知函数可能修改任何寄存器
 
 // OPTIONS:1397
 EN EBP
@@ -12259,487 +12259,487 @@ ZH CHI
 
 // OPTIONS:1398
 EN Unknown functions preserve EBP (frame pointer)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 未知函数保留 EBP (帧指针)
 
 // OPTIONS:1400
 EN EBX, EBP, ESI and EDI
-ZH CHI, CHI, Chicken chicken
+ZH EBX、EBP、ESI 和 EDI
 
 // OPTIONS:1401
 EN Unknown functions follow stdcall convention
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 未知函数遵循 stdcall 约定
 
 // OPTIONS:1403
 EN Ignore braces in .udd path
-ZH Chicken chicken .chicken
+ZH 忽略 .udd 路径中的大括号
 
 // OPTIONS:1405
 EN Ignore parts of path enclosed into braces when opening .udd file
-ZH Chicken chicken chicken chicken chicken chicken chicken .chicken
+ZH 打开 .udd 文件时忽略括在大括号中的路径部分
 
 // OPTIONS:1417
 EN Invalid commands
-ZH Chicken chicken
+ZH 无效指令
 
 // OPTIONS:1426
 EN Accept following potentially invalid commands:
-ZH Chicken chicken chicken chicken chicken chicken:
+ZH 接受以下可能无效的指令:
 
 // OPTIONS:1429
 EN Far calls and returns
-ZH Chicken chicken chicken
+ZH 远调用和返回
 
 // OPTIONS:1431
 EN Far calls and returns are unnecessary in flat Win32 model
-ZH Chicken chicken chicken chicken chicken chicken32 chicken
+ZH 在扁平 Win32 模型中, 远调用和返回不必要
 
 // OPTIONS:1433
 EN Modifications of segment registers
-ZH Chicken chicken chicken chicken
+ZH 段寄存器的修改
 
 // OPTIONS:1434
 EN Segment registers are fixed in flat Win32 model
-ZH Chicken chicken chicken chicken chicken32 chicken
+ZH 在扁平 Win32 模型中, 段寄存器固定
 
 // OPTIONS:1436
 EN Privileged commands
-ZH Chicken chicken chicken
+ZH 特权指令
 
 // OPTIONS:1437
 EN Privileged commands are not allowed in user mode
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 用户模式下不允许特权指令
 
 // OPTIONS:1439
 EN I/O commands
-ZH C/Chicken
+ZH I/O 指令
 
 // OPTIONS:1440
 EN Direct access to hardware under Windows is deprecated
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH Windows 下直接访问硬件已弃用
 
 // OPTIONS:1442
 EN Commands equivalent to NOP
-ZH Chicken chicken chicken
+ZH 等价于 NOP 的指令
 
 // OPTIONS:1443
 EN Optimizing compilers do not emit executable NOPs
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 优化编译器不发出可执行 NOP
 
 // OPTIONS:1445
 EN Shifts out of range 1..31
-ZH Chicken chicken chicken 1..31
+ZH 移位超出范围 1..31
 
 // OPTIONS:1447
 EN Shift count out of the main range is allowed but unusual
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 移位计数超出主范围是允许的但不常见
 
 // OPTIONS:1449
 EN Superfluous prefixes
-ZH Chicken chicken chicken
+ZH 多余的前缀
 
 // OPTIONS:1450
 EN Compilers never emit unnecessary prefixes
-ZH Chicken chicken chicken chicken chicken
+ZH 编译器从不发出不必要的前缀
 
 // OPTIONS:1452
 EN LOCK prefixes
-ZH Chicken chicken
+ZH LOCK 前缀
 
 // OPTIONS:1453
 EN LOCK is used mainly in system routines
-ZH Chicken chicken chicken chicken chicken
+ZH LOCK 主要用于系统例程
 
 // OPTIONS:1455
 EN Default selectors
-ZH Chicken chicken
+ZH 默认选择器
 
 // OPTIONS:1457
 EN Explicitly used default selectors slow down the execution
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 显式使用默认选择器会减慢执行速度
 
 // OPTIONS:1459
 EN Unaligned stack operations
-ZH Chicken chicken chicken
+ZH 未对齐的堆栈操作
 
 // OPTIONS:1460
 EN Win32 programs usually keep stack doubleword-aligned
-ZH Chi32 chicken chicken chicken chicken chicken-chicken
+ZH Win32 程序通常保持堆栈双字对齐
 
 // OPTIONS:1462
 EN Suspicious ESP modifications
-ZH Chicken chicken chicken chicken
+ZH 可疑的 ESP 修改
 
 // OPTIONS:1463
 EN Invalid ESP may lead to crash
-ZH Chicken chicken chicken chicken
+ZH 无效的 ESP 可能导致崩溃
 
 // OPTIONS:1465
 EN Undocumented commands
-ZH Chicken chicken chicken
+ZH 未公开的指令
 
 // OPTIONS:1466
 EN Sane compilers never use undocumented commands
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 正常编译器从不使用未公开指令
 
 // OPTIONS:1468
 EN Access to nonexisting memory
-ZH Chicken chicken chicken chicken
+ZH 访问不存在的内存
 
 // OPTIONS:1469
 EN Access to nonexisting memory will throw exception
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 访问不存在的内存将抛出异常
 
 // OPTIONS:1471
 EN Interrupt commands
-ZH Chicken chicken
+ZH 中断指令
 
 // OPTIONS:1472
 EN INT commands in user mode are seldom
-ZH Chicken chicken chicken chicken chicken
+ZH 用户模式下 INT 指令很少见
 
 // OPTIONS:1487
 EN Search options
-ZH Chicken chicken
+ZH 搜索选项
 
 // OPTIONS:1493
 EN Use predictions in search
-ZH Chicken chicken chicken
+ZH 在搜索中使用预测
 
 // OPTIONS:1495
 EN Use predicted contents of registers in search operations
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在搜索操作中使用预测的寄存器内容
 
 // OPTIONS:1497
 EN Include indirect call/jump destinations in references
-ZH Chicken chicken chicken/chicken chicken chicken chicken
+ZH 在引用中包含间接调用/跳转目标
 
 // OPTIONS:1499
 EN For example, call to jump to import will be listed as a reference to the import
-ZH Chicken chicken, chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 例如, 调用到跳转再到导入将被列为对导入的引用
 
 // OPTIONS:1501
 EN Add origin to the list of found commands
-ZH Chicken chicken chicken chicken chicken
+ZH 将起点添加到找到的指令列表
 
 // OPTIONS:1503
 EN Add it, even if command doesn't meet the search criterium
-ZH Chicken, chicken chicken chicken'chicken chicken chicken chicken
+ZH 添加它, 即使指令不满足搜索条件
 
 // OPTIONS:1505
 EN Preferable language of resource data:
-ZH Chicken chicken chicken chicken chicken:
+ZH 资源数据的首选语言:
 
 // OPTIONS:1510
 EN If resource exists in several languages, show this language first
-ZH Chicken chicken chicken chicken chicken, chicken chicken chicken
+ZH 如资源存在多种语言, 优先显示此语言
 
 // OPTIONS:1525
 EN CPU window options
-ZH Chicken chicken
+ZH CPU 窗口选项
 
 // OPTIONS:1531
 EN Gray inactive panes
-ZH Chicken chicken chicken
+ZH 灰显非活动面板
 
 // OPTIONS:1532
 EN Gray text in CPU panes without focus
-ZH Chicken chicken chicken chicken chicken
+ZH 无焦点的 CPU 面板中的文本灰显
 
 // OPTIONS:1534
 EN Gray register names
-ZH Chicken chicken chicken
+ZH 灰显寄存器名称
 
 // OPTIONS:1535
 EN Gray names of registers in the Registers pane
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在寄存器面板中灰显寄存器名称
 
 // OPTIONS:1537
 EN Show direction of jumps
-ZH Chicken chicken chicken
+ZH 显示跳转方向
 
 // OPTIONS:1538
 EN Draw small arrows indicating direction of jump
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 绘制指示跳转方向的小箭头
 
 // OPTIONS:1540
 EN Show jump path
-ZH Chicken chicken
+ZH 显示跳转路径
 
 // OPTIONS:1541
 EN Draw arrows showing jumps to or from selected location
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 绘制显示从/到所选位置的跳转的箭头
 
 // OPTIONS:1543
 EN Show grayed path if jump is not taken
-ZH Chicken chicken chicken chicken chicken
+ZH 如跳转不执行则灰显路径
 
 // OPTIONS:1545
 EN Draw arrow showing jump from selected location in gray if jump is not taken
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 如跳转不执行, 以灰色绘制从所选位置出发的跳转箭头
 
 // OPTIONS:1547
 EN Enable SSE registers
-ZH Chicken chicken chicken
+ZH 启用 SSE 寄存器
 
 // OPTIONS:1549
 EN Use and display SSE registers (if supported by CPU and OS)
-ZH Chicken chicken chicken chicken (chicken chicken chicken)
+ZH 使用并显示 SSE 寄存器 (如 CPU 和操作系统支持)
 
 // OPTIONS:1551
 EN Decode contents of registers:
-ZH Chicken chicken chicken chicken:
+ZH 解码寄存器内容:
 
 // OPTIONS:1554
 EN Only for current EIP
-ZH Chicken chicken chicken
+ZH 仅当前 EIP
 
 // OPTIONS:1556
 EN Registers are volatile, use them only to decode currently executed command (pointed by EIP)
-ZH Chicken chicken chicken, chicken chicken chicken chicken chicken chicken (chicken chicken)
+ZH 寄存器易变, 仅用它们解码当前执行的指令 (EIP 指向)
 
 // OPTIONS:1558
 EN For EIP and selected command
-ZH Chicken chicken chicken chicken
+ZH EIP 和所选指令
 
 // OPTIONS:1560
 EN Although registers are volatile, use them as a hint to decode operands of the selected command
-ZH Chicken chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 尽管寄存器易变, 仍将它们用作所选指令操作数的解码提示
 
 // OPTIONS:1562
 EN For any command
-ZH Chicken chicken
+ZH 任何指令
 
 // OPTIONS:1564
 EN Use current registers to decode all commands, not only pointed by EIP. Note that this may be highly misleading!
-ZH Chicken chicken chicken chicken chicken chicken, chicken chicken chicken. Chicken chicken chicken chicken chicken!
+ZH 使用当前寄存器解码所有指令, 不仅是 EIP 指向的. 注意, 这可能极具误导性!
 
 // OPTIONS:1566
 EN Hide 'current registers' warning
-ZH Chic 'chicken chicken' chicken
+ZH 隐藏 '当前寄存器' 警告
 
 // OPTIONS:1567
 EN I am experienced, don't annoy me
-ZH Chicken chicken, chi'chicken
+ZH 我是熟练用户, 不要打扰我
 
 // OPTIONS:1569
 EN Automatic FPU/MMX/3DNow! registers:
-ZH Chicken chicken/CHI/3Chic! chicken:
+ZH 自动 FPU/MMX/3DNow! 寄存器:
 
 // OPTIONS:1573
 EN Let user decide how to decode FPU registers
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 让用户决定如何解码 FPU 寄存器
 
 // OPTIONS:1575
 EN On events
-ZH Chicken
+ZH 事件时
 
 // OPTIONS:1577
 EN Set mode according to command at EIP when execution pauses
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 执行暂停时根据 EIP 处的指令设置模式
 
 // OPTIONS:1581
 EN Set mode depending on the command selected in Disassembler
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 根据反汇编器中所选指令设置模式
 
 // OPTIONS:1593
 EN More CPU
-ZH Chicken
+ZH 更多 CPU
 
 // OPTIONS:1596
 EN More CPU window options
-ZH Chicken chicken chicken
+ZH 更多 CPU 窗口选项
 
 // OPTIONS:1602
 EN When letter key is pressed in Disassembler:
-ZH Chicken chicken chicken chicken chicken:
+ZH 在反汇编器中按字母键时:
 
 // OPTIONS:1605
 EN Add label
-ZH Chicken
+ZH 添加标签
 
 // OPTIONS:1606
 EN When letter key is pressed, add user-defined label
-ZH Chicken chicken chicken, chicken-chicken chicken
+ZH 按字母键时, 添加用户定义的标签
 
 // OPTIONS:1608
 EN Assemble command
-ZH Chicken chicken
+ZH 汇编指令
 
 // OPTIONS:1609
 EN When letter key is pressed, assemble command
-ZH Chicken chicken chicken, chicken chicken
+ZH 按字母键时, 汇编指令
 
 // OPTIONS:1611
 EN Add comment
-ZH Chicken chicken
+ZH 添加注释
 
 // OPTIONS:1612
 EN When letter key is pressed, add user-defined comment
-ZH Chicken chicken chicken, chicken-chicken chicken
+ZH 按字母键时, 添加用户定义的注释
 
 // OPTIONS:1614
 EN Repeat last action
-ZH Chicken chicken
+ZH 重复上次操作
 
 // OPTIONS:1616
 EN When letter key is pressed, repeat the most recent action
-ZH Chicken chicken chicken, chicken chicken chicken chicken
+ZH 按字母键时, 重复最近的操作
 
 // OPTIONS:1628
 EN Directories
-ZH Chicken chicken
+ZH 目录
 
 // OPTIONS:1637
 EN Directory for .udd files:
-ZH Chicken chicken .chicken:
+ZH .udd 文件的目录:
 
 // OPTIONS:1641
 EN Directory where .udd files are kept
-ZH Chicken chicken .chicken chicken
+ZH 存放 .udd 文件的目录
 
 // OPTIONS:1644
 EN Select directory where user data files are kept
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择存放用户数据文件的目录
 
 // OPTIONS:1646
 EN Directory for standard function libraries (.udl):
-ZH Chicken chicken chicken chicken chicken (.chi):
+ZH 标准函数库 (.udl) 的目录:
 
 // OPTIONS:1650
 EN Directory where .udl files are kept
-ZH Chicken chicken .chicken chicken
+ZH 存放 .udl 文件的目录
 
 // OPTIONS:1654
 EN Select directory where standard function libraries are kept
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 选择存放标准函数库的目录
 
 // OPTIONS:1656
 EN Plugin directory:
-ZH Chicken chicken:
+ZH 插件目录:
 
 // OPTIONS:1660
 EN Directory where plugins are kept
-ZH Chicken chicken chicken chicken
+ZH 存放插件的目录
 
 // OPTIONS:1663
 EN Select directory where plugins files are kept
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择存放插件文件的目录
 
 // OPTIONS:1665
 EN Location of API help file (.hlp or .chm):
-ZH Chicken chicken chicken (.chicken .chi):
+ZH API 帮助文件 (.hlp 或 .chm) 的位置:
 
 // OPTIONS:1670
 EN Location of file with help on Windows API (either in .hlp or .chm format)
-ZH Chicken chicken chicken chicken chicken (chicken .chicken .chicken)
+ZH Windows API 帮助文件的位置 (.hlp 或 .chm 格式)
 
 // OPTIONS:1673
 EN Select file with help on Windows API
-ZH Chicken chicken chicken chicken chicken
+ZH 选择 Windows API 帮助文件
 
 // OPTIONS:1685
 EN Errors and warnings
-ZH Chicken chicken chicken
+ZH 错误和警告
 
 // OPTIONS:1694
 EN Warn if not administrator
-ZH Chicken chicken chicken
+ZH 非管理员时警告
 
 // OPTIONS:1696
 EN Some debugging operations require administrator rights
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 某些调试操作需要管理员权限
 
 // OPTIONS:1698
 EN Restore all errors and warnings
-ZH Chicken chicken chicken chicken
+ZH 还原所有错误和警告
 
 // OPTIONS:1700
 EN Re-enable all messages that were hidden on your request
-ZH Ch-chicken chicken chicken chicken chicken chicken chicken
+ZH 重新启用所有由您请求隐藏的消息
 
 // OPTIONS:1702
 EN Restore all actions
-ZH Chicken chicken chicken
+ZH 还原所有操作
 
 // OPTIONS:1704
 EN Re-enable all questions that were hidden on your request
-ZH Ch-chicken chicken chicken chicken chicken chicken chicken
+ZH 重新启用所有由您请求隐藏的询问
 
 // OPTIONS:1706
 EN WARNING: You can't undo errors, warnings and actions.
-ZH CHICKEN: Chicken'chicken chicken, chicken chicken chicken.
+ZH 警告: 您无法撤销错误、警告和操作.
 
 // OPTIONS:1719
 EN Appearance
-ZH Chicken
+ZH 外观
 
 // OPTIONS:1722
 EN Appearance options
-ZH Chicken chicken
+ZH 外观选项
 
 // OPTIONS:1728
 EN Bring OllyDbg to top on pause
-ZH Chicken chicken chicken chicken
+ZH 暂停时将 OllyDbg 置于最前
 
 // OPTIONS:1729
 EN When Debuggee pauses, bring OllyDbg window to top
-ZH Chicken chicken chicken, chicken chicken chicken chicken
+ZH 被调试程序暂停时, 将 OllyDbg 窗口置于最前
 
 // OPTIONS:1731
 EN Keep between sessions:
-ZH Chicken chicken chicken:
+ZH 会话间保留:
 
 // OPTIONS:1734
 EN Position and appearance of tables
-ZH Chicken chicken chicken chicken
+ZH 表格的位置和外观
 
 // OPTIONS:1735
 EN Restore position and appearance of table windows
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 还原表格窗口的位置和外观
 
 // OPTIONS:1737
 EN Width of columns
-ZH Chicken chicken
+ZH 列宽
 
 // OPTIONS:1738
 EN Restore width of columns in table windows
-ZH Chicken chicken chicken chicken chicken
+ZH 还原表格窗口中的列宽
 
 // OPTIONS:1740
 EN Sorting column
-ZH Chicken chicken
+ZH 排序列
 
 // OPTIONS:1741
 EN Restore sorting column in table windows
-ZH Chicken chicken chicken chicken chicken
+ZH 还原表格窗口中的排序列
 
 // OPTIONS:1743
 EN Snow-free drawing (slow on very old systems)
-ZH Chic-chicken chicken (chicken chicken chicken)
+ZH 无闪烁绘制 (旧系统上慢)
 
 // OPTIONS:1745
 EN Activate if tables are snowy when scrolling or redrawing
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 如表格滚动或重绘时有闪烁则启用
 
 // OPTIONS:1747
 EN Highlight bar in sorted column
-ZH Chicken chicken chicken chicken
+ZH 高亮排序列的标题栏
 
 // OPTIONS:1748
 EN Highlight bar button in column used to sort table data
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 高亮用于排序表格数据的列的标题栏按钮
 
 // OPTIONS:1750
 EN UNICODE edit font
-ZH Chicken chicken
+ZH UNICODE 编辑字体
 
 // OPTIONS:1754
 EN Font used in UNICODE edit controls
-ZH Chicken chicken chicken chicken
+ZH UNICODE 编辑控件中使用的字体
 
 // OPTIONS:1756
 EN Duration of flash
-ZH Chicken chicken
+ZH 闪烁持续时间
 
 // OPTIONS:1759
 EN 0.5 s|0.75 s|1 s|1.25 s|1.5 s|1.75 s|2 s|2.25 s|2.5 s
@@ -12747,15 +12747,15 @@ ZH 0.5 c|0.75 c|1 c|1.25 c|1.5 c|1.75 c|2 c|2.25 c|2.5 c
 
 // OPTIONS:1760
 EN Duration of flash in the status bar of main window
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 主窗口状态栏中闪烁的持续时间
 
 // OPTIONS:1763
 EN Test duration of flash warning
-ZH Chicken chicken chicken chicken
+ZH 测试闪烁警告的持续时间
 
 // OPTIONS:1765
 EN Autoupdate interval
-ZH Chicken chicken chicken
+ZH 自动更新间隔
 
 // OPTIONS:1768
 EN 50 ms|100 ms|200 ms|500 ms|1 s|2 s|5 s|10 s
@@ -12763,11 +12763,11 @@ ZH 50 ch|100 ch|200 ch|500 ch|1 c|2 c|5 c|10 c
 
 // OPTIONS:1769
 EN Refresh interval for automatically updated windows
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 自动更新窗口的刷新间隔
 
 // OPTIONS:1771
 EN Visible lines
-ZH Chicken chicken
+ZH 可见行数
 
 // OPTIONS:1774
 EN 0|1|2|3|4|5
@@ -12775,135 +12775,135 @@ ZH 0|1|2|3|4|5
 
 // OPTIONS:1775
 EN Number of visible lines before and after cursor in Disassembler when scrolling by keyboard
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 反汇编器中键盘滚动时光标前后的可见行数
 
 // OPTIONS:1787
 EN Defaults
-ZH Chicken
+ZH 默认值
 
 // OPTIONS:1790
 EN Default settings
-ZH Chicken chicken
+ZH 默认设置
 
 // OPTIONS:1796
 EN Default font
-ZH Chicken chicken
+ZH 默认字体
 
 // OPTIONS:1800
 EN Default font for new OllyDbg windows
-ZH Chicken chicken chicken chicken chicken
+ZH 新 OllyDbg 窗口的默认字体
 
 // OPTIONS:1802
 EN Default colour scheme
-ZH Chicken chicken chicken
+ZH 默认配色方案
 
 // OPTIONS:1806
 EN Default colour scheme for new OllyDbg windows
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 新 OllyDbg 窗口的默认配色方案
 
 // OPTIONS:1808
 EN Horizontal scroll by default
-ZH Chicken chicken chicken chicken
+ZH 默认水平滚动
 
 // OPTIONS:1809
 EN Show horizontal scroll in new OllyDbg windows
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在新 OllyDbg 窗口中显示水平滚动
 
 // OPTIONS:1813
 EN WARNING: Default settings apply only to the newly created windows, and only if their appearance is not restored from the initialization file.
-ZH CHICKEN: Chicken chicken chicken chicken chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH 警告: 默认设置仅适用于新创建的窗口, 且仅当其外观未从初始化文件还原时.
 
 // OPTIONS:1825
 EN Startup
-ZH Chicken
+ZH 启动
 
 // OPTIONS:1828
 EN Startup options
-ZH Chicken chicken
+ZH 启动选项
 
 // OPTIONS:1834
 EN Use system colours
-ZH Chicken chicken
+ZH 使用系统颜色
 
 // OPTIONS:1835
 EN Influences main window, toolbar and table bars
-ZH Chicken chicken chicken, chicken chicken chicken
+ZH 影响主窗口、工具栏和表格栏
 
 // OPTIONS:1837
 EN Layout of main window:
-ZH Chicken chicken chicken:
+ZH 主窗口布局:
 
 // OPTIONS:1840
 EN Non-scrollable MDI
-ZH Chi-chicken chicken
+ZH 不可滚动的 MDI
 
 // OPTIONS:1841
 EN Data windows are placed inside the fixed main window
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 数据窗口放置在固定的主窗口内
 
 // OPTIONS:1843
 EN Scrollable MDI
-ZH Chicken chicken
+ZH 可滚动的 MDI
 
 // OPTIONS:1845
 EN Data windows are placed inside the scrollable main window
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 数据窗口放置在可滚动的主窗口内
 
 // OPTIONS:1847
 EN Independent windows
-ZH Chicken chicken chicken
+ZH 独立窗口
 
 // OPTIONS:1848
 EN Data windows are placed directly on the desktop
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 数据窗口直接放置在桌面上
 
 // OPTIONS:1850
 EN Toolbar:
-ZH Chicken:
+ZH 工具栏:
 
 // OPTIONS:1854
 EN Do not show toolbar at all
-ZH Chicken chicken chicken
+ZH 完全不显示工具栏
 
 // OPTIONS:1856
 EN Horizontal
-ZH Chicken
+ZH 水平
 
 // OPTIONS:1857
 EN Show toolbar on the top of the main window
-ZH Chicken chicken chicken chicken chicken
+ZH 在主窗口顶部显示工具栏
 
 // OPTIONS:1859
 EN Vertical
-ZH Chicken
+ZH 垂直
 
 // OPTIONS:1860
 EN Show toolbar on the left side of the main window
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在主窗口左侧显示工具栏
 
 // OPTIONS:1862
 EN Display run status of the application in the:
-ZH Chicken chicken chicken chicken chicken chicken:
+ZH 在以下位置显示程序运行状态:
 
 // OPTIONS:1865
 EN Info bar
-ZH Chicken
+ZH 信息栏
 
 // OPTIONS:1866
 EN Display status in the status bar (bottom right corner)
-ZH Chicken chicken chicken chicken (chicken chicken chicken)
+ZH 在状态栏 (右下角) 显示状态
 
 // OPTIONS:1868
 EN Horizontal toolbar
-ZH Chicken chicken
+ZH 水平工具栏
 
 // OPTIONS:1869
 EN Display status in the toolbar (top left corner)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 在工具栏 (左上角) 显示状态
 
 // OPTIONS:1871
 EN Size of log buffer
-ZH Chicken chicken
+ZH 日志缓冲区大小
 
 // OPTIONS:1874
 EN 64 k|128 k|256 k|512 k|1 M|2 M|4 M|8 M|16 M
@@ -12911,23 +12911,23 @@ ZH 64 c|128 c|256 c|512 c|1 C|2 C|4 C|8 C|16 C
 
 // OPTIONS:1875
 EN Size of message buffer in the Log window
-ZH Chicken chicken chicken chicken chicken
+ZH 日志窗口中消息缓冲区的大小
 
 // OPTIONS:1877
 EN Scan registry for GUIDs
-ZH Chicken chicken chicken
+ZH 扫描注册表中的 GUID
 
 // OPTIONS:1879
 EN Adds registered GUIDs to the list of known GUIDs. If activated, makes startup significantly slower!
-ZH Chicken chicken chicken chicken chicken chicken. Chicken chicken, chicken chicken chicken chicken!
+ZH 将注册的 GUID 添加到已知 GUID 列表. 如启用, 将显著减慢启动!
 
 // OPTIONS:1882
 EN WARNING: modifications made on this page will take effect only after restart.
-ZH CHICKEN: chicken chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH 警告: 此页面的修改仅在重新启动后生效.
 
 // OPTIONS:1894
 EN Fonts
-ZH Chicken
+ZH 字体
 
 // OPTIONS:1903
 EN Font:
@@ -12935,231 +12935,231 @@ ZH Chic:
 
 // OPTIONS:1907
 EN Font selected for edit
-ZH Chicken chicken chicken
+ZH 选择要编辑的字体
 
 // OPTIONS:1909
 EN Rename
-ZH Chicken
+ZH 重命名
 
 // OPTIONS:1910
 EN Press to rename actually selected font
-ZH Chicken chicken chicken chicken chicken
+ZH 按下重命名当前所选字体
 
 // OPTIONS:1912
 EN Change
-ZH Chicken
+ZH 更改
 
 // OPTIONS:1913
 EN Press to edit font properties
-ZH Chicken chicken chicken chicken
+ZH 按下编辑字体属性
 
 // OPTIONS:1916
 EN Information about currently selected font
-ZH Chicken chicken chicken chicken chicken
+ZH 当前所选字体的信息
 
 // OPTIONS:1918
 EN Height adjust: top
-ZH Chicken chicken: chi
+ZH 高度调整: 顶部
 
 // OPTIONS:1922
 EN -5 pixels|-4 pixels|-3 pixels|-2 pixels|-1 pixel|None|+1 pixel|+2 pixels|+3 pixels|+4 pixels|+5 pixels
-ZH -5 chicken|-4 chicken|-3 chicken|-2 chicken|-1 chicken|Chic|+1 chicken|+2 chicken|+3 chicken|+4 chicken|+5 chicken
+ZH -5 像素|-4 像素|-3 像素|-2 像素|-1 像素|无|+1 像素|+2 像素|+3 像素|+4 像素|+5 像素
 
 // OPTIONS:1924
 EN Adjusts space on the top of the lines in the table
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 调整表格中行顶部的间距
 
 // OPTIONS:1926
 EN , bottom
-ZH , chicken
+ZH , 底部
 
 // OPTIONS:1932
 EN Adjusts space on the bottom of the lines in the table
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 调整表格中行底部的间距
 
 // OPTIONS:1934
 EN Example:
-ZH Chicken:
+ZH 示例:
 
 // OPTIONS:1938
 EN Sample colouring
-ZH Chicken chicken
+ZH 示例配色
 
 // OPTIONS:1941
 EN Restore default font
-ZH Chicken chicken chicken
+ZH 还原默认字体
 
 // OPTIONS:1953
 EN Colours
-ZH Chicken
+ZH 颜色
 
 // OPTIONS:1962
 EN Scheme:
-ZH Chicken:
+ZH 方案:
 
 // OPTIONS:1966
 EN Colour scheme selected for edit
-ZH Chicken chicken chicken chicken
+ZH 选择要编辑的配色方案
 
 // OPTIONS:1969
 EN Press to rename actually selected colour scheme
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 按下重命名当前所选配色方案
 
 // OPTIONS:1971
 EN Elements of selected scheme:
-ZH Chicken chicken chicken chicken:
+ZH 所选方案的元素:
 
 // OPTIONS:1977
 EN Normal text|Highlighted text|Grayed text|Current EIP|Unconditional breakpoint|Conditional breakpoint|Disabled breakpoint|Breakpoint at EIP|Auxiliary elements|Underline & select
-ZH Chicken chicken|Chicken chicken|Chicken chicken|Chicken chicken|Chicken chicken chicken|Chicken chicken chicken|Chicken chicken chicken|Chicken chicken|Chicken chicken|Chicken & chicken
+ZH 正常文本|高亮文本|灰色文本|当前 EIP|无条件断点|条件断点|已禁用断点|EIP 处断点|辅助元素|下划线和选择
 
 // OPTIONS:1978
 EN Select element of colour scheme to edit
-ZH Chicken chicken chicken chicken chicken
+ZH 选择要编辑的配色方案元素
 
 // OPTIONS:1988
 EN Left click selects text colour, right - background. To edit custom colour, doubleclick it.
-ZH Chicken chicken chicken chicken, chicken - chicken. Chicken chicken chicken, chicken chicken.
+ZH 左键选择文本颜色, 右键选择背景. 双击编辑自定义颜色.
 
 // OPTIONS:1991
 EN Restore colours default for selected scheme
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 还原所选方案的默认颜色
 
 // OPTIONS:2003
 EN Code highlighting
-ZH Chicken chicken
+ZH 代码高亮
 
 // OPTIONS:2016
 EN Code highlighting scheme selected for edit
-ZH Chicken chicken chicken chicken chicken
+ZH 选择要编辑的代码高亮方案
 
 // OPTIONS:2019
 EN Press to rename actually selected highlighting scheme
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 按下重命名当前所选高亮方案
 
 // OPTIONS:2029
 EN Plain commands|Unconditional jumps|Conditional jumps|PUSH/POP commands|Calls|Returns|FPU/MMX/SSE commands|Bad/system/privileged commands|Fillings|Modified commands|General registers|FPU/MMX/SSE registers|Selectors and system registers|Stack memory|Other memory|Constants pointing to memory|Other constants
-ZH Chicken chicken|Chicken chicken chicken|Chicken chicken|CHIC/Chicken chicken|Chicken|Chicken|CHI/CHI/Chicken chicken|Chi/chicken/chicken chicken chicken|Chicken|Chicken chicken|Chicken chicken|CHI/CHI/Chicken chicken|Chicken chicken chicken chicken|Chicken chicken|Chicken chicken|Chicken chicken chicken chicken|Chicken chicken
+ZH 普通指令|无条件跳转|条件跳转|PUSH/POP 指令|调用|返回|FPU/MMX/SSE 指令|错误/系统/特权指令|填充|已修改的指令|通用寄存器|FPU/MMX/SSE 寄存器|选择器和系统寄存器|堆栈内存|其他内存|指向内存的常量|其他常量
 
 // OPTIONS:2030
 EN Select element of highlighting scheme to edit
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选择要编辑的高亮方案元素
 
 // OPTIONS:2032
 EN Highlight operands
-ZH Chicken chicken
+ZH 高亮操作数
 
 // OPTIONS:2033
 EN Check to allow separate highlighting of operands
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选中以允许单独高亮操作数
 
 // OPTIONS:2035
 EN Highlight modified
-ZH Chicken chicken
+ZH 高亮已修改
 
 // OPTIONS:2036
 EN Check to allow highlighting of modified commands
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 选中以允许高亮已修改的指令
 
 // OPTIONS:2041
 EN Left click selects text colour, right - background, last custom colour is transparent. To edit custom colour, doubleclick it.
-ZH Chicken chicken chicken chicken, chicken - chicken, chicken chicken chicken chicken. Chicken chicken chicken, chicken chicken.
+ZH 左键选择文本颜色, 右键选择背景, 最后一种自定义颜色为透明. 双击编辑自定义颜色.
 
 // OPTIONS:2045
 EN Restore default colours for selected highlighting scheme
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 还原所选高亮方案的默认颜色
 
 // OPTIONS:2057
 EN Text-to-speech
-ZH Chic-ch-chicken
+ZH 文本朗读
 
 // OPTIONS:2066
 EN Activate text-to-speech
-ZH Chicken chicken-ch-chicken
+ZH 激活文本朗读
 
 // OPTIONS:2067
 EN Requires SAPI 5.0 or higher
-ZH Chicken chicken 5.0 chicken
+ZH 需要 SAPI 5.0 或更高
 
 // OPTIONS:2069
 EN Translate commands and registers
-ZH Chicken chicken chicken chicken
+ZH 翻译指令和寄存器
 
 // OPTIONS:2070
 EN For example, 'jump if not equal' instead of JNE
-ZH Chicken chicken, 'chicken chicken' chicken chicken
+ZH 例如用 'jump if not equal' 替代 JNE
 
 // OPTIONS:2072
 EN Skip leading zeros in hex numbers
-ZH Chicken chicken chicken chicken
+ZH 跳过十六进制数中的前导零
 
 // OPTIONS:2073
 EN Makes reading a bit faster
-ZH Chicken chicken chicken
+ZH 使朗读稍快
 
 // OPTIONS:2076
 EN WARNING: Text-to-speech expects that Microsoft Speech API 5.0 or higher is installed.
-ZH CHICKEN: Chic-ch-chicken chicken chicken chicken chicken 5.0 chicken chicken chicken.
+ZH 警告: 文本朗读要求已安装 Microsoft Speech API 5.0 或更高.
 
 // OPTIONS:2088
 EN Miscellaneous
-ZH Chicken chicken
+ZH 杂项
 
 // OPTIONS:2091
 EN Miscellaneous options
-ZH Chicken chicken chicken
+ZH 杂项选项
 
 // OPTIONS:2097
 EN Replace graphical symbols in text/clipboard by:
-ZH Chicken chicken chicken chicken/chicken chicken:
+ZH 用以下替换文本/剪贴板中的图形符号:
 
 // OPTIONS:2100
 EN Spaces
-ZH Chicken
+ZH 空格
 
 // OPTIONS:2101
 EN Replace graphical symbols with spaces
-ZH Chicken chicken chicken chicken chicken
+ZH 用空格替换图形符号
 
 // OPTIONS:2103
 EN Similarly looking ASCII characters
-ZH Chicken chicken chicken chicken
+ZH 外观相似的 ASCII 字符
 
 // OPTIONS:2104
 EN Replace graphical symbols with ASCII characters
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 用 ASCII 字符替换图形符号
 
 // OPTIONS:2106
 EN DOS box characters
-ZH Chicken chicken
+ZH DOS 制表符
 
 // OPTIONS:2107
 EN Replace graphical symbols with DOS box characters
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 用 DOS 制表符替换图形符号
 
 // OPTIONS:2109
 EN UNICODE box characters
-ZH Chicken chicken chicken
+ZH UNICODE 制表符
 
 // OPTIONS:2110
 EN Replace graphical symbols with UNICODE box characters
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 用 UNICODE 制表符替换图形符号
 
 // OPTIONS:2113
 EN Apply options
-ZH Chicken chicken
+ZH 应用选项
 
 // OPTIONS:2131
 EN Apply options to plugins
-ZH Chicken chicken chicken
+ZH 将选项应用到插件
 
 // OPTIONS:2136
 EN Plugin options
-ZH Chicken chicken
+ZH 插件选项
 
 // OPTIONS:2287
 EN <This copy of OllyDbg>
-ZH <Chicken chicken chicken>
+ZH <此 OllyDbg 副本>
 
 // OPTIONS:2333
 EN <none>
@@ -13167,31 +13167,31 @@ ZH <chic>
 
 // OPTIONS:2571
 EN Flash test
-ZH Chicken
+ZH 闪烁测试
 
 // OPTIONS:2580
 EN Specify module name
-ZH Chicken chicken chicken
+ZH 指定模块名称
 
 // OPTIONS:2609
 EN Select range of exceptions
-ZH Chicken chicken chicken
+ZH 选择异常范围
 
 // OPTIONS:2666
 EN Enter new name for font %i
-ZH Chicken chicken chicken %i
+ZH 为字体 %i 输入新名称
 
 // OPTIONS:2690
 EN Unable to create specified font
-ZH Chicken chicken chicken chicken
+ZH 无法创建指定字体
 
 // OPTIONS:2717
 EN Enter new name for colour scheme %i
-ZH Chicken chicken chicken chicken %i
+ZH 为配色方案 %i 输入新名称
 
 // OPTIONS:2743
 EN Enter new name for highlighting scheme %i
-ZH Chicken chicken chicken chicken chicken %i
+ZH 为高亮方案 %i 输入新名称
 
 // PATCHES:235
 EN EIP inside the patch
