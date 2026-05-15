@@ -14351,103 +14351,103 @@ ZH 数值无效或超出范围
 
 // SEARCH:68
 EN Address of found item
-ZH Chicken chicken chicken
+ZH 找到项目的地址
 
 // SEARCH:83
 EN Address of found sequence
-ZH Chicken chicken chicken
+ZH 找到的序列地址
 
 // SEARCH:86
 EN First command
-ZH Chicken chicken
+ZH 首条指令
 
 // SEARCH:87
 EN Disassembled first command in the sequence
-ZH Chicken chicken chicken chicken chicken
+ZH 序列中第一条反汇编指令
 
 // SEARCH:98
 EN Address of switch
-ZH Chicken chicken
+ZH switch 的地址
 
 // SEARCH:106
 EN Suggested type of switch
-ZH Chicken chicken chicken
+ZH 建议的 switch 类型
 
 // SEARCH:109
 EN Branches
-ZH Chicken
+ZH 分支
 
 // SEARCH:110
 EN Number of branches
-ZH Chicken chicken
+ZH 分支数量
 
 // SEARCH:114
 EN List of cases
-ZH Chicken chicken
+ZH 分支列表
 
 // SEARCH:133
 EN Address of call destination
-ZH Chicken chicken chicken chicken
+ZH 调用目标的地址
 
 // SEARCH:136
 EN Dest name
-ZH Chicken
+ZH 目标名称
 
 // SEARCH:141
 EN Comments and important call arguments
-ZH Chicken chicken chicken chicken chicken
+ZH 注释和重要的调用参数
 
 // SEARCH:148
 EN Address of found modification
-ZH Chicken chicken chicken chicken
+ZH 找到的修改地址
 
 // SEARCH:167
 EN Address of found procedure (entry point)
-ZH Chicken chicken chicken (chicken chicken)
+ZH 找到的过程地址 (入口点)
 
 // SEARCH:174
 EN Local
-ZH Chicken
+ZH 本地
 
 // SEARCH:175
 EN Number of local calls (from the same module)
-ZH Chicken chicken chicken (chicken chicken chicken)
+ZH 本地调用次数 (来自同一模块)
 
 // SEARCH:178
 EN Global
-ZH Chicken
+ZH 全局
 
 // SEARCH:179
 EN Number of intermodular calls
-ZH Chicken chicken chicken chicken
+ZH 跨模块调用次数
 
 // SEARCH:213
 EN No items found
-ZH Chicken chicken
+ZH 未找到项目
 
 // SEARCH:277
 EN No search results
-ZH Chicken chicken
+ZH 无搜索结果
 
 // SEARCH:424
 EN Searching -
-ZH Chicken -
+ZH 正在搜索 -
 
 // SEARCH:428
 EN Search interrupted
-ZH Chicken chicken
+ZH 搜索已中断
 
 // SEARCH:563
 EN Found 1 reference
-ZH Chicken 1 chicken
+ZH 找到 1 个引用
 
 // SEARCH:565
 EN Found %i references
-ZH Chicken %i chicken
+ZH 找到 %i 个引用
 
 // SEARCH:567
 EN (incomplete)
-ZH (chicken)
+ZH (不完整)
 
 // SEARCH:568
 EN Refs %s
@@ -14455,103 +14455,103 @@ ZH Chic %s
 
 // SEARCH:756
 EN Found 1 string
-ZH Chicken 1 chicken
+ZH 找到 1 个字符串
 
 // SEARCH:758
 EN Found %i strings and references
-ZH Chicken %i chicken chicken chicken
+ZH 找到 %i 个字符串和引用
 
 // SEARCH:761
 EN Strings %s
-ZH Chicken %s
+ZH 字符串 %s
 
 // SEARCH:935
 EN GUIDs %s
-ZH Chicken %s
+ZH GUID %s
 
 // SEARCH:978
 EN Found 1 comment
-ZH Chicken 1 chicken
+ZH 找到 1 条注释
 
 // SEARCH:980
 EN Found %i comments
-ZH Chicken %i chicken
+ZH 找到 %i 条注释
 
 // SEARCH:1051
 EN Found 1 known procedure
-ZH Chicken 1 chicken chicken
+ZH 找到 1 个已知过程
 
 // SEARCH:1053
 EN Found %i procedures
-ZH Chicken %i chicken
+ZH 找到 %i 个过程
 
 // SEARCH:1054
 EN Procedures %s
-ZH Chicken %s
+ZH 过程 %s
 
 // SEARCH:1099
 EN Found 1 switch
-ZH Chicken 1 chicken
+ZH 找到 1 个 switch
 
 // SEARCH:1101
 EN Found %i switches
-ZH Chicken %i chicken
+ZH 找到 %i 个 switch
 
 // SEARCH:1102
 EN Switches %s
-ZH Chicken %s
+ZH switch %s
 
 // SEARCH:1283
 EN Floats %s
-ZH Chicken %s
+ZH 浮点数 %s
 
 // SEARCH:1413
 EN Enter floating-point constant to search for
-ZH Chicken chicken-chicken chicken chicken chicken
+ZH 输入要搜索的浮点常量
 
 // SEARCH:1886
 EN Specify assembler search model
-ZH Chicken chicken chicken chicken
+ZH 指定汇编搜索模式
 
 // SEARCH:1889
 EN Specify sequence of assembler search models
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 指定汇编搜索模式序列
 
 // SEARCH:2000
 EN Found 1 command
-ZH Chicken 1 chicken
+ZH 找到 1 条指令
 
 // SEARCH:2001
 EN Found %i commands
-ZH Chicken %i chicken
+ZH 找到 %i 条指令
 
 // SEARCH:2003
 EN Found 1 sequence
-ZH Chicken 1 chicken
+ZH 找到 1 个序列
 
 // SEARCH:2004
 EN Found %i sequencess
-ZH Chicken %i chicken
+ZH 找到 %i 个序列
 
 // SEARCH:2008
 EN Commands %s
-ZH Chicken %s
+ZH 指令 %s
 
 // SEARCH:2011
 EN Sequences %s
-ZH Chicken %s
+ZH 序列 %s
 
 // SEARCH:2308
 EN Module is not backuped
-ZH Chicken chicken chicken
+ZH 模块未备份
 
 // SEARCH:2418
 EN Found 1 modification
-ZH Chicken 1 chicken chicken
+ZH 找到 1 处修改
 
 // SEARCH:2420
 EN Found %i modifications
-ZH Chicken %i chicken chicken
+ZH 找到 %i 处修改
 
 // SEARCH:2423
 EN Mods %s
@@ -14559,159 +14559,159 @@ ZH Chic %s
 
 // SEARCH:2454
 EN No backup
-ZH Chicken
+ZH 无备份
 
 // SEARCH:2686
 EN Intermodular calls in %s
-ZH Chicken chicken chicken %s
+ZH %s 中的跨模块调用
 
 // SEARCH:2688
 EN Found 1 intermodular call
-ZH Chicken 1 chicken chicken
+ZH 找到 1 次跨模块调用
 
 // SEARCH:2690
 EN Found %i intermodular calls
-ZH Chicken %i chicken chicken
+ZH 找到 %i 次跨模块调用
 
 // SEARCH:2693
 EN Calls %s
-ZH Chicken %s
+ZH 调用 %s
 
 // SEARCH:2743
 EN Enter search pattern
-ZH Chicken chicken chicken
+ZH 输入搜索模式
 
 // SEARCH:2795
 EN Searching - $ - press SPACE to interrupt
-ZH Chicken - $ - chicken chicken chicken
+ZH 正在搜索 - $ - 按 SPACE 键中断
 
 // SEARCH:3228
 EN Unable to set all breakpoints
-ZH Chicken chicken chicken chicken
+ZH 无法设置所有断点
 
 // SEARCH:3260
 EN Unable to remove all breakpoints
-ZH Chicken chicken chicken chicken
+ZH 无法删除所有断点
 
 // SEARCH:3400
 EN Follow selected item in CPU Disassembler pane
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编面板中跟随所选项
 
 // SEARCH:3403
 EN Follow previous item in CPU Disassembler pane
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编面板中跟随上一项
 
 // SEARCH:3406
 EN Follow next item in CPU Disassembler pane
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编面板中跟随下一项
 
 // SEARCH:3408
 EN Search for text
-ZH Chicken chicken
+ZH 搜索文本
 
 // SEARCH:3409
 EN Find text substring in the referenced strings
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在引用的字符串中查找文本子串
 
 // SEARCH:3418
 EN Set unconditional breakpoint on selected command
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在所选指令上设置无条件断点
 
 // SEARCH:3427
 EN Remove breakpoint from selected command
-ZH Chicken chicken chicken chicken chicken
+ZH 删除所选指令上的断点
 
 // SEARCH:3430
 EN Temporarily disable breakpoint on selected command
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 临时禁用所选指令上的断点
 
 // SEARCH:3433
 EN Re-enable breakpoint on selected command
-ZH Ch-chicken chicken chicken chicken chicken
+ZH 重新启用所选指令上的断点
 
 // SEARCH:3435
 EN Breakpoint on all commands
-ZH Chicken chicken chicken
+ZH 所有指令断点
 
 // SEARCH:3438
 EN Conditional breakpoint on all commands
-ZH Chicken chicken chicken chicken chicken
+ZH 所有指令的条件断点
 
 // SEARCH:3439
 EN Set or edit conditional breakpoint on all found commands
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在所有找到的指令上设置或编辑条件断点
 
 // SEARCH:3441
 EN Conditional log on all commands
-ZH Chicken chicken chicken chicken
+ZH 所有指令的条件记录
 
 // SEARCH:3442
 EN Set or edit conditional logging breakpoint on all found commands
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在所有找到的指令上设置或编辑条件记录断点
 
 // SEARCH:3444
 EN Remove breakpoint from all commands
-ZH Chicken chicken chicken chicken chicken
+ZH 删除所有指令上的断点
 
 // SEARCH:3445
 EN Remove breakpoint from all found commands
-ZH Chicken chicken chicken chicken chicken
+ZH 删除所有找到的指令上的断点
 
 // SEARCH:3447
 EN Breakpoint on all calls to
-ZH Chicken chicken chicken
+ZH 对以下函数的所有调用断点
 
 // SEARCH:3449
 EN Set unconditional breakpoint on all found calls to selected function
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在所有找到的对所选函数的调用上设置无条件断点
 
 // SEARCH:3451
 EN Conditional breakpoint on all calls to
-ZH Chicken chicken chicken chicken chicken
+ZH 对以下函数的所有调用的条件断点
 
 // SEARCH:3453
 EN Set or edit conditional breakpoint on all found calls to selected function
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在所有找到的对所选函数的调用上设置或编辑条件断点
 
 // SEARCH:3455
 EN Conditional log on all calls to
-ZH Chicken chicken chicken chicken
+ZH 对以下函数的所有调用的条件记录
 
 // SEARCH:3457
 EN Set or edit conditional logging breakpoint on all found calls to selected function
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在所有找到的对所选函数的调用上设置或编辑条件记录断点
 
 // SEARCH:3459
 EN Remove breakpoint from all calls to
-ZH Chicken chicken chicken chicken chicken
+ZH 删除对以下函数的所有调用上的断点
 
 // SEARCH:3460
 EN Remove breakpoint from all found calls to selected function
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 删除所有找到的对所选函数的调用上的断点
 
 // SEARCH:3506
 EN Delete tab
-ZH Chicken
+ZH 删除标签页
 
 // SEARCH:3507
 EN Delete tab from the search window
-ZH Chicken chicken chicken chicken
+ZH 从搜索窗口删除标签页
 
 // SEARCH:3509
 EN Move tab to front
-ZH Chicken chicken
+ZH 移动标签页到前面
 
 // SEARCH:3510
 EN Move tab into the first position
-ZH Chicken chicken chicken chicken
+ZH 移动标签页到第一位
 
 // SEARCH:3708
 EN Messages
-ZH Chicken
+ZH 消息
 
 // SEARCH:3760
 EN Original selection
-ZH Chicken chicken
+ZH 原始选择
 
 // SEH:139
 EN Update contents of the VEH/SEH chain window
