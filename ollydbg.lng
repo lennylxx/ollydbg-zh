@@ -15479,127 +15479,127 @@ ZH Chicken %i: %.3lf c, %7i chicken (%.3lf ch/chic)
 
 // TABLE:718
 EN ATTENTION, snow-free drawing is not possible!
-ZH CHICKEN, chic-chicken chicken chicken chicken!
+ZH 注意, 无法实现无闪烁绘制!
 
 // TABLE:2792
 EN Unnamed table
-ZH Chicken chicken
+ZH 未命名表
 
 // TABLE:2793
 EN , item %i
-ZH , chic %i
+ZH , 项 %i
 
 // TABLE:3259
 EN Whole line
-ZH Chicken
+ZH 整行
 
 // TABLE:3260
 EN Copy selected line to clipboard
-ZH Chicken chicken chicken chicken
+ZH 将所选行复制到剪贴板
 
 // TABLE:3262
 EN Whole table
-ZH Chicken chicken
+ZH 整表
 
 // TABLE:3263
 EN Copy whole table to clipboard, preserving column widths
-ZH Chicken chicken chicken chicken, chicken chicken chicken
+ZH 将整表复制到剪贴板, 保留列宽
 
 // TABLE:3266
 EN Copy selected item in  named column to clipboard
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将命名列中的所选项复制到剪贴板
 
 // TABLE:3322
 EN Select sorting criterium
-ZH Chicken chicken chicken
+ZH 选择排序条件
 
 // TABLE:3357
 EN Select font
-ZH Chicken chicken
+ZH 选择字体
 
 // TABLE:3386
 EN Select colour scheme
-ZH Chicken chicken chicken
+ZH 选择配色方案
 
 // TABLE:3418
 EN Select highlighting scheme
-ZH Chicken chicken chicken
+ZH 选择高亮方案
 
 // TABLE:3443
 EN Always on top
-ZH Chicken chicken
+ZH 总在最前
 
 // TABLE:3444
 EN Make this MDI window topmost
-ZH Chicken chicken chicken chicken
+ZH 将此 MDI 窗口置顶
 
 // TABLE:3447
 EN Make this window topmost
-ZH Chicken chicken chicken
+ZH 将此窗口置顶
 
 // TABLE:3449
 EN Autoupdate
-ZH Chicken
+ZH 自动更新
 
 // TABLE:3450
 EN Periodically update the contents of the window
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 定期更新窗口内容
 
 // TABLE:3452
 EN Hide bar
-ZH Chicken
+ZH 隐藏栏
 
 // TABLE:3453
 EN Hide bar with column names on the top of the table
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 隐藏表格顶部带列名的栏
 
 // TABLE:3455
 EN Show bar
-ZH Chicken
+ZH 显示栏
 
 // TABLE:3456
 EN Display bar with column names on the top of the table
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在表格顶部显示带列名的栏
 
 // TABLE:3458
 EN Hide horizontal scroll
-ZH Chicken chicken chicken
+ZH 隐藏水平滚动栏
 
 // TABLE:3459
 EN Hide horizontal scrollbar
-ZH Chicken chicken chicken
+ZH 隐藏水平滚动栏
 
 // TABLE:3461
 EN Show horizontal scroll
-ZH Chicken chicken chicken
+ZH 显示水平滚动栏
 
 // TABLE:3462
 EN Show horizontal scrollbar
-ZH Chicken chicken chicken
+ZH 显示水平滚动栏
 
 // TABLE:3464
 EN Default columns
-ZH Chicken chicken
+ZH 默认列
 
 // TABLE:3467
 EN Font
-ZH Chic
+ZH 字体
 
 // TABLE:3473
 EN Highlighting
-ZH Chicken chicken
+ZH 高亮
 
 // TABLE:3483
 EN Sort by
-ZH Chicken
+ZH 排序方式
 
 // TABLE:3487
 EN Appearance, fonts, colours...
-ZH Chicken, chicken, chicken...
+ZH 外观、字体、颜色...
 
 // TABLE:3494
 EN Copy the whole table to clipboard
-ZH Chicken chicken chicken chicken
+ZH 将整表复制到剪贴板
 
 // THREADS:69
 EN NULL thread
