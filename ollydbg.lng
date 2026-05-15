@@ -279,7 +279,7 @@ ZH switch
 
 // ANALYSER:8317
 EN 1 loop
-ZH 1 chic
+ZH 1 个循环
 
 // ANALYSER:8319
 EN %i loops
@@ -1703,7 +1703,7 @@ ZH 已修改的调试寄存器 -
 
 // DEBUG:410
 EN DR%i: old %08X, new %08X
-ZH CH%i: chi %08X, chi %08X
+ZH DR%i: 旧 %08X, 新 %08X
 
 // DEBUG:861
 EN Immediate string is not a valid condition
@@ -1719,15 +1719,15 @@ ZH CHI3:
 
 // DEBUG:890
 EN MEM:
-ZH CHI:
+ZH 内存:
 
 // DEBUG:892
 EN HARD:
-ZH CHIC:
+ZH 硬件:
 
 // DEBUG:894
 EN COND:
-ZH CHIC:
+ZH 条件:
 
 // DEBUG:918
 EN Structure
@@ -1763,7 +1763,7 @@ ZH 调用 %s
 
 // DEBUG:1046
 EN from
-ZH chic
+ZH 来自
 
 // DEBUG:1082
 EN Return from %s
@@ -2707,7 +2707,7 @@ ZH 十进制形式的浮点寄存器
 
 // DIALOGS:2014
 EN Hex
-ZH Chi
+ZH 十六进制
 
 // DIALOGS:2017
 EN Floating-point register in hexadecimal form
@@ -2827,7 +2827,7 @@ ZH 精度:
 
 // DIALOGS:2128
 EN High
-ZH Chic
+ZH 高位
 
 // DIALOGS:2130
 EN Search with 1 (float) or 2 (double, long double) least significant digit accuracy
@@ -2855,7 +2855,7 @@ ZH 输入要搜索的浮点数
 
 // DIALOGS:2453
 EN Byte
-ZH Chic
+ZH 字节
 
 // DIALOGS:2455
 EN Most significant byte of MMX operand
@@ -2891,7 +2891,7 @@ ZH MMX 操作数最低有效字节
 
 // DIALOGS:2471
 EN Word
-ZH Chic
+ZH 字
 
 // DIALOGS:2473
 EN Most significant word of MMX operand
@@ -3139,7 +3139,7 @@ ZH 结果无法容纳在 16 位内
 
 // DIALOGS:3522
 EN Name
-ZH Chic
+ZH 名称
 
 // DIALOGS:3586
 EN Drive
@@ -3183,7 +3183,7 @@ ZH 以簇为单位的偏移
 
 // DIALOGS:3606
 EN Size
-ZH Chic
+ZH 大小
 
 // DIALOGS:3609
 EN Size in bytes
@@ -3343,7 +3343,7 @@ ZH 允许来自外部的跳转和调用进入指定序列
 
 // DIALOGS:4360
 EN << Prev
-ZH << Chic
+ZH << 上一个
 
 // DIALOGS:4361
 EN Previous pattern
@@ -3351,7 +3351,7 @@ ZH 上一个模式
 
 // DIALOGS:4362
 EN Next >>
-ZH Chic >>
+ZH 下一个 >>
 
 // DIALOGS:4363
 EN Next pattern
@@ -3375,7 +3375,7 @@ ZH 使用指定代码页以多字节文本形式输入搜索模式
 
 // DIALOGS:4597
 EN UNICODE
-ZH CHICKEN
+ZH UNICODE
 
 // DIALOGS:4600
 EN Enter search pattern as UNICODE text
@@ -3383,7 +3383,7 @@ ZH 以 UNICODE 文本形式输入搜索模式
 
 // DIALOGS:4601
 EN HEX
-ZH CHI
+ZH HEX
 
 // DIALOGS:4605
 EN Enter search pattern in hexadecimal form, question mark means any 4-bit nibble
@@ -3427,7 +3427,7 @@ ZH 不要将数据大小扩展到初始所选之外
 
 // DIALOGS:4820
 EN &Undo
-ZH &Chic
+ZH 撤销(&U)
 
 // DIALOGS:4820
 EN Undo modifications in selected area
@@ -3435,7 +3435,7 @@ ZH 撤销所选区域中的修改
 
 // DIALOGS:4822
 EN Cu&t
-ZH Ch&c
+ZH 剪切(&T)
 
 // DIALOGS:4822
 EN Cut selection to clipboard
@@ -3443,7 +3443,7 @@ ZH 将所选内容剪切到剪贴板
 
 // DIALOGS:4824
 EN &Copy
-ZH &Chic
+ZH 复制(&C)
 
 // DIALOGS:4824
 EN Copy selection to clipboard
@@ -3479,27 +3479,27 @@ ZH 无法分配 %li. 字节内存
 
 // DIALOGS:5465
 EN HEX +%02X
-ZH CHI +%02X
+ZH HEX +%02X
 
 // DIALOGS:5468
 EN INS
-ZH CHI
+ZH INS
 
 // DIALOGS:5468
 EN OVR
-ZH CHI
+ZH OVR
 
 // DIALOGS:5545
 EN ASCII
-ZH CHICKEN
+ZH ASCII
 
 // DIALOGS:5552
 EN UTF-8
-ZH CHI-8
+ZH UTF-8
 
 // DIALOGS:5554
 EN MBCS
-ZH CHIC
+ZH MBCS
 
 // DIALOGS:5766
 EN Assumed by expression
@@ -4287,7 +4287,7 @@ ZH 浏览代码位置
 
 // DIALOGS:8747
 EN Jump
-ZH Chic
+ZH 跳转
 
 // DIALOGS:8750
 EN Table jump
@@ -4295,11 +4295,11 @@ ZH 跳转表
 
 // DIALOGS:8753
 EN RET
-ZH CHI
+ZH RET
 
 // DIALOGS:8756
 EN Call
-ZH Chic
+ZH 调用
 
 // DIALOGS:8759
 EN Table call
@@ -4315,7 +4315,7 @@ ZH 默认分支
 
 // DIALOGS:8806
 EN case
-ZH chic
+ZH 分支
 
 // DIALOGS:8808
 EN cases
@@ -4579,7 +4579,7 @@ ZH 断点
 
 // DUMP:1193
 EN Dump -
-ZH Chic -
+ZH 数据 -
 
 // DUMP:2296
 EN End of SEH chain
@@ -4667,7 +4667,7 @@ ZH 无法创建文件 '%s'. 请尝试其他名称
 
 // DUMP:3206
 EN File %s
-ZH Chic %s
+ZH 文件 %s
 
 // DUMP:3209
 EN Error saving file '%s'. Please try another name
@@ -4755,7 +4755,7 @@ ZH 编辑以下地址的数据
 
 // DUMP:4452
 EN word
-ZH chic
+ZH 字
 
 // DUMP:4453
 EN doubleword
@@ -6143,7 +6143,7 @@ ZH 备份功能
 
 // DUMP:7296
 EN &Edit
-ZH &Chic
+ZH 编辑(&E)
 
 // DUMP:7297
 EN Select, copy and edit functions
@@ -6387,7 +6387,7 @@ ZH 将数据显示为十六进制字节序列
 
 // DUMP:7416
 EN Text
-ZH Chic
+ZH 文本
 
 // DUMP:7417
 EN Display data as a text
@@ -7031,11 +7031,11 @@ ZH 意外的关键字
 
 // FNDATA:2459
 EN Line %i. %s (%s)
-ZH Chic %i. %s (%s)
+ZH 行 %i. %s (%s)
 
 // FNDATA:2461
 EN Line %i. %s
-ZH Chic %i. %s
+ZH 行 %i. %s
 
 // FNDATA:2471
 EN Redefined constant '%s'
@@ -7075,7 +7075,7 @@ ZH %i 个结构
 
 // FNDATA:2494
 EN 1 type
-ZH 1 chic
+ZH 1 种类型
 
 // FNDATA:2495
 EN %i types
@@ -7103,11 +7103,11 @@ ZH 已知数据总大小为 %i 字节
 
 // FNDATA:3442
 EN Low: %08X
-ZH Chi: %08X
+ZH 低: %08X
 
 // FNDATA:3450
 EN High: %08X
-ZH Chic: %08X
+ZH 高: %08X
 
 // FNDATA:3636
 EN Middle: %08X
@@ -7119,7 +7119,7 @@ ZH , 类 =
 
 // FNDATA:3720
 EN , text =
-ZH , chic =
+ZH , 文本 =
 
 // FNDATA:3781
 EN (DC or Memory DC)
@@ -7151,7 +7151,7 @@ ZH (位图)
 
 // FNDATA:3871
 EN (Path)
-ZH (Chic)
+ZH (路径)
 
 // FNDATA:3873
 EN (Palette)
@@ -7163,7 +7163,7 @@ ZH (色彩空间)
 
 // FNDATA:3877
 EN (Font)
-ZH (Chic)
+ZH (字体)
 
 // FNDATA:3879
 EN (Brush
@@ -7171,7 +7171,7 @@ ZH (画刷
 
 // FNDATA:3897
 EN (Pen)
-ZH (Chi)
+ZH (画笔)
 
 // FNDATA:3975
 EN , Debuggee
@@ -7687,7 +7687,7 @@ ZH 允许对所选内存块的执行/读访问
 
 // MEMORY:1441
 EN &Full
-ZH &Chic
+ZH 完全(&F)
 
 // MEMORY:1442
 EN Allow full access to selected memory block
@@ -7775,11 +7775,11 @@ ZH 设置允许对所选内存块的访问类型
 
 // MEMORY:1584
 EN (self)
-ZH (chic)
+ZH (自身)
 
 // MEMORY:1593
 EN Free
-ZH Chic
+ZH 空闲
 
 // MEMORY:1595
 EN Reserved
@@ -7787,15 +7787,15 @@ ZH 已保留
 
 // MEMORY:1599
 EN code,
-ZH chic,
+ZH 代码,
 
 // MEMORY:1601
 EN data,
-ZH chic,
+ZH 数据,
 
 // MEMORY:1603
 EN SFX,
-ZH CHI,
+ZH SFX,
 
 // MEMORY:1605
 EN default heap,
@@ -7803,7 +7803,7 @@ ZH 默认堆,
 
 // MEMORY:1607
 EN heap,
-ZH chic,
+ZH 堆,
 
 // MEMORY:1609
 EN imports,
@@ -7879,19 +7879,19 @@ ZH ch
 
 // MEMORY:1665
 EN Priv
-ZH Chic
+ZH 私有
 
 // MEMORY:1666
 EN Map
-ZH Chi
+ZH 映射
 
 // MEMORY:1667
 EN Img
-ZH Chi
+ZH 映像
 
 // MEMORY:1668
 EN Kern
-ZH Chic
+ZH 内核
 
 // MEMORY:1686
 EN R
@@ -7911,11 +7911,11 @@ ZH C
 
 // MEMORY:1694
 EN R E
-ZH CHI
+ZH R E
 
 // MEMORY:1696
 EN RWE
-ZH CHI
+ZH RWE
 
 // MEMORY:1698
 EN RWE CopyOnWr
@@ -8315,7 +8315,7 @@ ZH 切换备份显示
 
 // MENU:306
 EN Dump: Edit
-ZH Chic: Chic
+ZH 数据: 编辑
 
 // MENU:312
 EN Copy data in hexadecimal format
@@ -8575,7 +8575,7 @@ ZH 从模块中删除分析
 
 // MENU:493
 EN Dump: Help
-ZH Chic: Chic
+ZH 数据: 帮助
 
 // MENU:500
 EN Dump: Data presentation
@@ -9247,7 +9247,7 @@ ZH 空格
 
 // MENU:932
 EN Plus (+)
-ZH Chic (+)
+ZH 加号 (+)
 
 // MENU:934
 EN Minus (-)
@@ -9287,27 +9287,27 @@ ZH Insert
 
 // MENU:967
 EN Gray *
-ZH Chic *
+ZH 小键盘 *
 
 // MENU:969
 EN Gray +
-ZH Chic +
+ZH 小键盘 +
 
 // MENU:971
 EN Gray -
-ZH Chic -
+ZH 小键盘 -
 
 // MENU:973
 EN Gray /
-ZH Chic /
+ZH 小键盘 /
 
 // MENU:975
 EN Del
-ZH Chi
+ZH Del
 
 // MENU:977
 EN Tab
-ZH Chi
+ZH Tab
 
 // MENU:979
 EN UpArrow
@@ -9327,19 +9327,19 @@ ZH 右箭头
 
 // MENU:987
 EN PgUp
-ZH Chic
+ZH PgUp
 
 // MENU:989
 EN PgDn
-ZH Chic
+ZH PgDn
 
 // MENU:991
 EN Home
-ZH Chic
+ZH Home
 
 // MENU:993
 EN End
-ZH Chi
+ZH End
 
 // MENU:1274
 EN Shortcut:
@@ -9395,7 +9395,7 @@ ZH 快捷键的有效性
 
 // MENU:1298
 EN Load
-ZH Chic
+ZH 加载
 
 // MENU:1299
 EN Load shortcuts from file
@@ -9555,7 +9555,7 @@ ZH 无法为 '%s' 保存 .udd 数据
 
 // MODULES:378
 EN (main)
-ZH (chic)
+ZH (主)
 
 // MODULES:381
 EN (loader)
@@ -9935,7 +9935,7 @@ ZH 静态链接到此模块的模块
 
 // MODULES:1972
 EN Path
-ZH Chic
+ZH 路径
 
 // MODULES:1973
 EN Full name of executable file
@@ -10547,7 +10547,7 @@ ZH 选择初始化文件
 
 // OLLYMAIN:1648
 EN Top
-ZH Chi
+ZH 顶部
 
 // OLLYMAIN:1657
 EN Ready
@@ -10663,19 +10663,19 @@ ZH Lucida (UNICODE)
 
 // OLLYMAIN:3015
 EN Font 4
-ZH Chic 4
+ZH 字体 4
 
 // OLLYMAIN:3018
 EN Font 5
-ZH Chic 5
+ZH 字体 5
 
 // OLLYMAIN:3020
 EN Font 6
-ZH Chic 6
+ZH 字体 6
 
 // OLLYMAIN:3022
 EN Font 7
-ZH Chic 7
+ZH 字体 7
 
 // OLLYMAIN:3124
 EN Black on white
@@ -10835,7 +10835,7 @@ ZH 正常
 
 // OPTIONS:314
 EN Bold
-ZH Chic
+ZH 粗体
 
 // OPTIONS:315
 EN Weight=%i
@@ -10859,7 +10859,7 @@ ZH 字符集:
 
 // OPTIONS:323
 EN ANSI
-ZH CHIC
+ZH ANSI
 
 // OPTIONS:325
 EN Default
@@ -10871,7 +10871,7 @@ ZH 符号
 
 // OPTIONS:329
 EN OEM
-ZH CHI
+ZH OEM
 
 // OPTIONS:331
 EN Other
@@ -10879,11 +10879,11 @@ ZH 其他
 
 // OPTIONS:334
 EN Face:
-ZH Chic:
+ZH 字样:
 
 // OPTIONS:473
 EN Code
-ZH Chic
+ZH 代码
 
 // OPTIONS:476
 EN Code options
@@ -11027,7 +11027,7 @@ ZH 字符串指令的形式:
 
 // OPTIONS:549
 EN Long (MOVS [DWORD EDI],[DWORD ESI]...)
-ZH Chic (CHIC [CHICKEN],[CHICKEN]...)
+ZH 长形式 (MOVS [DWORD EDI],[DWORD ESI]...)
 
 // OPTIONS:550
 EN State assumed string operands explicitly
@@ -11279,7 +11279,7 @@ ZH 将字符串转换为大致与 MASM 兼容的形式
 
 // OPTIONS:736
 EN C ("abc\\ndef")
-ZH C ("chi\\chic")
+ZH C ("abc\\ndef")
 
 // OPTIONS:737
 EN Convert recognized strings to C-compatible form
@@ -11603,7 +11603,7 @@ ZH 完整路径、file.ext、文件或内部模块名
 
 // OPTIONS:977
 EN Add
-ZH Chi
+ZH 添加
 
 // OPTIONS:978
 EN Add module to the list
@@ -11955,7 +11955,7 @@ ZH 警告: 如果被调试程序自修改, 会话间保留 Hit 跟踪可能导�
 
 // OPTIONS:1208
 EN SFX
-ZH CHI
+ZH SFX
 
 // OPTIONS:1211
 EN Self-extractable modules
@@ -12003,7 +12003,7 @@ ZH 解压过程中忽略 (传递给解压器) 所有异常
 
 // OPTIONS:1242
 EN Just-in-time
-ZH Chic-ch-chic
+ZH 即时
 
 // OPTIONS:1245
 EN Just-in-time debugging
@@ -12079,7 +12079,7 @@ ZH 自动模块分析:
 
 // OPTIONS:1303
 EN Off
-ZH Chi
+ZH 关闭
 
 // OPTIONS:1304
 EN No automatical analysis
@@ -12247,7 +12247,7 @@ ZH 未知函数保留的寄存器:
 
 // OPTIONS:1394
 EN None
-ZH Chic
+ZH 无
 
 // OPTIONS:1395
 EN Unknown functions may modify any register
@@ -12255,7 +12255,7 @@ ZH 未知函数可能修改任何寄存器
 
 // OPTIONS:1397
 EN EBP
-ZH CHI
+ZH EBP
 
 // OPTIONS:1398
 EN Unknown functions preserve EBP (frame pointer)
@@ -12931,7 +12931,7 @@ ZH 字体
 
 // OPTIONS:1903
 EN Font:
-ZH Chic:
+ZH 字体:
 
 // OPTIONS:1907
 EN Font selected for edit
@@ -13163,7 +13163,7 @@ ZH <此 OllyDbg 副本>
 
 // OPTIONS:2333
 EN <none>
-ZH <chic>
+ZH <无>
 
 // OPTIONS:2571
 EN Flash test
@@ -13295,7 +13295,7 @@ ZH LastErr
 
 // REGS:211
 EN Tag 0
-ZH Chi 0
+ZH 标记 0
 
 // REGS:212
 EN Stack 0
@@ -13303,7 +13303,7 @@ ZH 栈 0
 
 // REGS:215
 EN Tag 1
-ZH Chi 1
+ZH 标记 1
 
 // REGS:216
 EN Stack 1
@@ -13311,7 +13311,7 @@ ZH 栈 1
 
 // REGS:219
 EN Tag 2
-ZH Chi 2
+ZH 标记 2
 
 // REGS:220
 EN Stack 2
@@ -13319,7 +13319,7 @@ ZH 栈 2
 
 // REGS:223
 EN Tag 3
-ZH Chi 3
+ZH 标记 3
 
 // REGS:224
 EN Stack 3
@@ -13327,7 +13327,7 @@ ZH 栈 3
 
 // REGS:227
 EN Tag 4
-ZH Chi 4
+ZH 标记 4
 
 // REGS:228
 EN Stack 4
@@ -13335,7 +13335,7 @@ ZH 栈 4
 
 // REGS:231
 EN Tag 5
-ZH Chi 5
+ZH 标记 5
 
 // REGS:232
 EN Stack 5
@@ -13343,7 +13343,7 @@ ZH 栈 5
 
 // REGS:235
 EN Tag 6
-ZH Chi 6
+ZH 标记 6
 
 // REGS:236
 EN Stack 6
@@ -13351,7 +13351,7 @@ ZH 栈 6
 
 // REGS:239
 EN Tag 7
-ZH Chi 7
+ZH 标记 7
 
 // REGS:240
 EN Stack 7
@@ -13359,7 +13359,7 @@ ZH 栈 7
 
 // REGS:253
 EN Err
-ZH Chi
+ZH 错误
 
 // REGS:254
 EN Exception
@@ -13391,11 +13391,11 @@ ZH 非规格化
 
 // REGS:266
 EN Prec
-ZH Chic
+ZH 精度
 
 // REGS:268
 EN Mask
-ZH Chic
+ZH 掩码
 
 // REGS:269
 EN Precision mask
@@ -13431,71 +13431,71 @@ ZH 上条指令
 
 // REGS:298
 EN MM0 high
-ZH CH0 chic
+ZH MM0 高
 
 // REGS:299
 EN MM0 low
-ZH CH0 chi
+ZH MM0 低
 
 // REGS:301
 EN MM1 high
-ZH CH1 chic
+ZH MM1 高
 
 // REGS:302
 EN MM1 low
-ZH CH1 chi
+ZH MM1 低
 
 // REGS:304
 EN MM2 high
-ZH CH2 chic
+ZH MM2 高
 
 // REGS:305
 EN MM2 low
-ZH CH2 chi
+ZH MM2 低
 
 // REGS:307
 EN MM3 high
-ZH CH3 chic
+ZH MM3 高
 
 // REGS:308
 EN MM3 low
-ZH CH3 chi
+ZH MM3 低
 
 // REGS:310
 EN MM4 high
-ZH CH4 chic
+ZH MM4 高
 
 // REGS:311
 EN MM4 low
-ZH CH4 chi
+ZH MM4 低
 
 // REGS:313
 EN MM5 high
-ZH CH5 chic
+ZH MM5 高
 
 // REGS:314
 EN MM5 low
-ZH CH5 chi
+ZH MM5 低
 
 // REGS:316
 EN MM6 high
-ZH CH6 chic
+ZH MM6 高
 
 // REGS:317
 EN MM6 low
-ZH CH6 chi
+ZH MM6 低
 
 // REGS:319
 EN MM7 high
-ZH CH7 chic
+ZH MM7 高
 
 // REGS:320
 EN MM7 low
-ZH CH7 chi
+ZH MM7 低
 
 // REGS:352
 EN Rnd
-ZH Chi
+ZH 舍入
 
 // REGS:353
 EN Rounding
@@ -13503,67 +13503,67 @@ ZH 舍入
 
 // REGS:427
 EN XMM0 high
-ZH CHI0 chic
+ZH XMM0 高
 
 // REGS:428
 EN XMM0 low
-ZH CHI0 chi
+ZH XMM0 低
 
 // REGS:430
 EN XMM1 high
-ZH CHI1 chic
+ZH XMM1 高
 
 // REGS:431
 EN XMM1 low
-ZH CHI1 chi
+ZH XMM1 低
 
 // REGS:433
 EN XMM2 high
-ZH CHI2 chic
+ZH XMM2 高
 
 // REGS:434
 EN XMM2 low
-ZH CHI2 chi
+ZH XMM2 低
 
 // REGS:436
 EN XMM3 high
-ZH CHI3 chic
+ZH XMM3 高
 
 // REGS:437
 EN XMM3 low
-ZH CHI3 chi
+ZH XMM3 低
 
 // REGS:439
 EN XMM4 high
-ZH CHI4 chic
+ZH XMM4 高
 
 // REGS:440
 EN XMM4 low
-ZH CHI4 chi
+ZH XMM4 低
 
 // REGS:442
 EN XMM5 high
-ZH CHI5 chic
+ZH XMM5 高
 
 // REGS:443
 EN XMM5 low
-ZH CHI5 chi
+ZH XMM5 低
 
 // REGS:445
 EN XMM6 high
-ZH CHI6 chic
+ZH XMM6 高
 
 // REGS:446
 EN XMM6 low
-ZH CHI6 chi
+ZH XMM6 低
 
 // REGS:448
 EN XMM7 high
-ZH CHI7 chic
+ZH XMM7 高
 
 // REGS:449
 EN XMM7 low
-ZH CHI7 chi
+ZH XMM7 低
 
 // REGS:699
 EN Registers (FPU)
@@ -13599,11 +13599,11 @@ ZH 有效
 
 // REGS:984
 EN zero
-ZH chic
+ZH 零
 
 // REGS:985
 EN bad
-ZH chi
+ZH 坏
 
 // REGS:986
 EN empty
@@ -13667,7 +13667,7 @@ ZH 高于 (A,NBE)
 
 // REGS:1778
 EN Sign (S)
-ZH Chic (C)
+ZH 符号 (S)
 
 // REGS:1781
 EN Not Sign (NS)
@@ -13683,7 +13683,7 @@ ZH 奇校验 (PO,NP)
 
 // REGS:1790
 EN Less (L,NGE)
-ZH Chic (C,CHI)
+ZH 小于 (L,NGE)
 
 // REGS:1793
 EN Greater or Equal (GE,NL)
@@ -13707,7 +13707,7 @@ ZH 修改 FPU 标志位以满足指定条件
 
 // REGS:1810
 EN Less (LT)
-ZH Chic (CH)
+ZH 小于 (LT)
 
 // REGS:1813
 EN Equal (EQ)
@@ -13735,7 +13735,7 @@ ZH 递减寄存器 (减 1)
 
 // REGS:1833
 EN &Zero
-ZH &Chic
+ZH 清零(&Z)
 
 // REGS:1834
 EN Set register to 0
@@ -14183,7 +14183,7 @@ ZH 内存不足, 部分导出将被遗漏
 
 // RUNDLL:573
 EN ATTENTION! %i ARGUMENTS!
-ZH CHICKEN! %i CHICKEN!
+ZH 注意! %i 个参数!
 
 // RUNDLL:576
 EN Callback,
@@ -14279,7 +14279,7 @@ ZH , 持续 %.3f 微秒
 
 // RUNDLL:1057
 EN EAX = %s
-ZH CHI = %s
+ZH EAX = %s
 
 // RUNDLL:1062
 EN Subroutine removed %i doublewords from stack
@@ -14303,7 +14303,7 @@ ZH 你好。语音接口已开启。
 
 // SAPI:69
 EN Good-bye!
-ZH Chic-chi!
+ZH 再见!
 
 // SCANNER:123
 EN Unterminated string
@@ -14451,7 +14451,7 @@ ZH (不完整)
 
 // SEARCH:568
 EN Refs %s
-ZH Chic %s
+ZH 引用 %s
 
 // SEARCH:756
 EN Found 1 string
@@ -14555,7 +14555,7 @@ ZH 找到 %i 处修改
 
 // SEARCH:2423
 EN Mods %s
-ZH Chic %s
+ZH 修改 %s
 
 // SEARCH:2454
 EN No backup
