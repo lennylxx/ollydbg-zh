@@ -82,6 +82,8 @@ Descriptive feature/view/window names and verbs:
 |---|---|---|
 | command (= x86 instruction) | 指令 | OllyDbg's terminology; covers "Command help", "Invalid command", etc. |
 | command (= user/menu action) | 命令 | Only when clearly menu/shell context |
+| Dump (window / pane name) | 数据 | `CPU Dump pane` → `CPU 数据面板`, `Dump window` → `数据窗口` |
+| dump (verb — show in Dump view) | 转储 | `Dump file` (menu) → `转储文件`; `Unable to dump file '%s'` → `无法转储文件 '%s'` |
 | jump table | 跳转表 | Not 跳跃表 (= "skip list", different concept) |
 | jump path | 跳转路径 | |
 | call tree | 调用树 | |
