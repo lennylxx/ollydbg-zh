@@ -6583,451 +6583,451 @@ ZH 不允许多个表达式
 
 // FNDATA:522
 EN Saving known data to file
-ZH Chicken chicken chicken
+ZH 正在将已知数据保存到文件
 
 // FNDATA:566
 EN Error saving data to file '%s'
-ZH Chicken chicken chicken '%s'
+ZH 保存数据到文件 '%s' 时出错
 
 // FNDATA:568
 EN File '%s' created successfully
-ZH Chic '%s' chicken chicken chicken
+ZH 文件 '%s' 创建成功
 
 // FNDATA:641
 EN Decoding of known functions is not possible due to lack of memory
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 由于内存不足, 无法解码已知函数
 
 // FNDATA:787
 EN Corrupt API data, known functions and constants are unavailable
-ZH Chicken chicken, chicken chicken chicken chicken chicken chicken
+ZH API 数据损坏, 已知函数和常量不可用
 
 // FNDATA:908
 EN Integer constant expected
-ZH Chicken chicken chicken
+ZH 需要整数常量
 
 // FNDATA:912
 EN Bad constant name
-ZH Chicken chicken
+ZH 错误的常量名称
 
 // FNDATA:914
 EN Constant ends with vertical line
-ZH Chicken chicken chicken chicken
+ZH 常量以竖线结尾
 
 // FNDATA:919
 EN Low memory, processing interrupted
-ZH Chicken, chicken chicken chicken
+ZH 内存不足, 处理已中断
 
 // FNDATA:938
 EN Bad group name
-ZH Chicken chicken
+ZH 错误的组名
 
 // FNDATA:940
 EN Length of group name is limited to 31 character
-ZH Chicken chicken chicken chicken 31 chicken
+ZH 组名长度限制为 31 个字符
 
 // FNDATA:946
 EN Too many groups
-ZH Chicken chicken
+ZH 组过多
 
 // FNDATA:948
 EN Redefined group '%s'
-ZH Chicken chicken '%s'
+ZH 重复定义的组 '%s'
 
 // FNDATA:964
 EN Expecting CONST or END
-ZH Chicken chicken chicken
+ZH 需要 CONST 或 END
 
 // FNDATA:1024
 EN Bad name of translator
-ZH Chicken chicken chicken
+ZH 错误的转换器名称
 
 // FNDATA:1026
 EN Length of translator name is limited to 30 characters
-ZH Chicken chicken chicken chicken chicken 30 chicken
+ZH 转换器名称长度限制为 30 个字符
 
 // FNDATA:1033
 EN Too many translators
-ZH Chicken chicken chicken
+ZH 转换器过多
 
 // FNDATA:1035
 EN Redefined translator '%s'
-ZH Chicken chicken chicken '%s'
+ZH 重复定义的转换器 '%s'
 
 // FNDATA:1053
 EN Expecting translation record or END
-ZH Chicken chicken chicken chicken chicken
+ZH 需要转换记录或 END
 
 // FNDATA:1057
 EN Too many translation records
-ZH Chicken chicken chicken chicken
+ZH 转换记录过多
 
 // FNDATA:1062
 EN Missing equal sign between names
-ZH Chicken chicken chicken chicken
+ZH 名称之间缺少等号
 
 // FNDATA:1065
 EN Expecting output name
-ZH Chicken chicken chicken
+ZH 需要输出名称
 
 // FNDATA:1073
 EN Empty translator
-ZH Chicken chicken
+ZH 空转换器
 
 // FNDATA:1081
 EN Repeating input name '%s'
-ZH Chicken chicken chicken '%s'
+ZH 重复的输入名称 '%s'
 
 // FNDATA:1109
 EN Bad type name
-ZH Chicken chicken
+ZH 错误的类型名称
 
 // FNDATA:1111
 EN Length of type name is limited to 30 characters
-ZH Chicken chicken chicken chicken 30 chicken
+ZH 类型名称长度限制为 30 个字符
 
 // FNDATA:1125
 EN Type description is too long
-ZH Chicken chicken chicken chicken
+ZH 类型描述过长
 
 // FNDATA:1131
 EN Keyword expected
-ZH Chicken chicken
+ZH 需要关键字
 
 // FNDATA:1136
 EN ENDSEL expected
-ZH Chicken chicken
+ZH 需要 ENDSEL
 
 // FNDATA:1138
 EN ENDIF expected
-ZH Chicken chicken
+ZH 需要 ENDIF
 
 // FNDATA:1148
 EN Nesting of SELECT blocks is not allowed
-ZH Chicken chicken chicken chicken chicken
+ZH 不允许嵌套 SELECT 块
 
 // FNDATA:1150
 EN Too deep block nesting
-ZH Chicken chicken chicken
+ZH 块嵌套过深
 
 // FNDATA:1161
 EN Expecting MASK, FIELD or SIGFIELD
-ZH Chicken chicken, Chicken chicken
+ZH 需要 MASK、FIELD 或 SIGFIELD
 
 // FNDATA:1164
 EN Constant expected
-ZH Chicken chicken
+ZH 需要常量
 
 // FNDATA:1172
 EN ENDSEL without corresponding SELECT
-ZH Chicken chicken chicken chicken chicken
+ZH ENDSEL 没有对应的 SELECT
 
 // FNDATA:1175
 EN ENDSEL where ENDIF is expected
-ZH Chicken chicken chicken chicken
+ZH 应为 ENDIF 处出现了 ENDSEL
 
 // FNDATA:1184
 EN Too deep nesting
-ZH Chicken chicken
+ZH 嵌套过深
 
 // FNDATA:1190
 EN ELSEIF without corresponding IF
-ZH Chicken chicken chicken chicken
+ZH ELSEIF 没有对应的 IF
 
 // FNDATA:1192
 EN ELSEIF where ENDSEL is expected
-ZH Chicken chicken chicken chicken
+ZH 应为 ENDSEL 处出现了 ELSEIF
 
 // FNDATA:1194
 EN ELSEIF after ELSE
-ZH Chicken chicken
+ZH ELSE 之后出现 ELSEIF
 
 // FNDATA:1199
 EN Too many ELSEIF statements
-ZH Chicken chicken chicken
+ZH ELSEIF 语句过多
 
 // FNDATA:1248
 EN 'EQ' or 'NE' expected
-ZH 'CH' ch 'CH' chicken
+ZH 需要 'EQ' 或 'NE'
 
 // FNDATA:1274
 EN Operation or constant expected
-ZH Chicken chicken chicken chicken
+ZH 需要操作或常量
 
 // FNDATA:1282
 EN ELSE without corresponding IF
-ZH Chicken chicken chicken chicken
+ZH ELSE 没有对应的 IF
 
 // FNDATA:1284
 EN ELSE where ENDSEL is expected
-ZH Chicken chicken chicken chicken
+ZH 应为 ENDSEL 处出现了 ELSE
 
 // FNDATA:1286
 EN ELSE after ELSE
-ZH Chicken chicken
+ZH ELSE 之后又出现 ELSE
 
 // FNDATA:1300
 EN ENDIF without corresponding IF
-ZH Chicken chicken chicken chicken
+ZH ENDIF 没有对应的 IF
 
 // FNDATA:1303
 EN ENDIF where ENDSEL is expected
-ZH Chicken chicken chicken chicken
+ZH 应为 ENDSEL 处出现了 ENDIF
 
 // FNDATA:1320
 EN Text expected
-ZH Chicken chicken
+ZH 需要文本
 
 // FNDATA:1353
 EN Name expected
-ZH Chicken chicken
+ZH 需要名称
 
 // FNDATA:1381
 EN OUT applies only to pointers
-ZH Chicken chicken chicken chicken
+ZH OUT 仅适用于指针
 
 // FNDATA:1577
 EN Invalid or unexpected keyword
-ZH Chicken chicken chicken chicken
+ZH 无效或意外的关键字
 
 // FNDATA:1598
 EN Redefined type '%s'
-ZH Chicken chicken '%s'
+ZH 重复定义的类型 '%s'
 
 // FNDATA:1627
 EN Bad structure name
-ZH Chicken chicken
+ZH 错误的结构名称
 
 // FNDATA:1629
 EN Length of structure name is limited to 30 characters
-ZH Chicken chicken chicken chicken chicken 30 chicken
+ZH 结构名称长度限制为 30 个字符
 
 // FNDATA:1640
 EN Expecting field size or END
-ZH Chicken chicken chicken chicken
+ZH 需要字段大小或 END
 
 // FNDATA:1643
 EN Empty structures are not allowed
-ZH Chicken chicken chicken chicken
+ZH 不允许使用空结构
 
 // FNDATA:1663
 EN Redefined structure '%s'
-ZH Chicken chicken chicken '%s'
+ZH 重复定义的结构 '%s'
 
 // FNDATA:1685
 EN Too many items
-ZH Chicken chicken
+ZH 项过多
 
 // FNDATA:1699
 EN Field size expected
-ZH Chicken chicken chicken
+ZH 需要字段大小
 
 // FNDATA:1703
 EN Invalid repeat count
-ZH Chicken chicken chicken
+ZH 无效的重复计数
 
 // FNDATA:1705
 EN Repeat count outside of allowed limits
-ZH Chicken chicken chicken chicken chicken
+ZH 重复计数超出允许范围
 
 // FNDATA:1710
 EN Type name expected
-ZH Chicken chicken
+ZH 需要类型名称
 
 // FNDATA:1723
 EN Invalid size of FLOAT
-ZH Chicken chicken chicken
+ZH 无效的 FLOAT 大小
 
 // FNDATA:1726
 EN Invalid size of DOUBLE
-ZH Chicken chicken chicken
+ZH 无效的 DOUBLE 大小
 
 // FNDATA:1729
 EN Invalid size of LDOUBLE
-ZH Chicken chicken chicken
+ZH 无效的 LDOUBLE 大小
 
 // FNDATA:1742
 EN Invalid pointer size
-ZH Chicken chicken chicken
+ZH 无效的指针大小
 
 // FNDATA:1759
 EN Pointer to undefined type or structure
-ZH Chicken chicken chicken chicken chicken
+ZH 指向未定义类型或结构的指针
 
 // FNDATA:1769
 EN Bad item name
-ZH Chicken chicken
+ZH 错误的项名
 
 // FNDATA:1776
 EN Undefined type
-ZH Chicken chicken
+ZH 未定义的类型
 
 // FNDATA:1793
 EN Child structure is too comlex
-ZH Chicken chicken chicken chicken
+ZH 子结构过于复杂
 
 // FNDATA:1795
 EN Size of field is not multiple of child structure
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 字段大小不是子结构的倍数
 
 // FNDATA:1797
 EN Unable to get description of child structure
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 无法获取子结构的描述
 
 // FNDATA:1805
 EN Resulting name of child structure member is too long
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 子结构成员的最终名称过长
 
 // FNDATA:1823
 EN Undefined child member type
-ZH Chicken chicken chicken chicken
+ZH 未定义的子成员类型
 
 // FNDATA:1849
 EN Bad module name
-ZH Chicken chicken
+ZH 错误的模块名
 
 // FNDATA:1851
 EN Length of module name is limited to 31 character
-ZH Chicken chicken chicken chicken chicken 31 chicken
+ZH 模块名长度限制为 31 个字符
 
 // FNDATA:1858
 EN Point after module name expected
-ZH Chicken chicken chicken chicken
+ZH 模块名后需要点号
 
 // FNDATA:1864
 EN Bad function name
-ZH Chicken chicken
+ZH 错误的函数名
 
 // FNDATA:1866
 EN Too long function name
-ZH Chicken chicken chicken
+ZH 函数名过长
 
 // FNDATA:1877
 EN Variable number of arguments is not allowed for PASCAL or STDFUNC
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH PASCAL 或 STDFUNC 不允许使用可变参数
 
 // FNDATA:1879
 EN Ellipsis (...) as first and only argument is not allowed
-ZH Chicken (...) chicken chicken chicken chicken chicken
+ZH 不允许将省略号 (...) 作为唯一的首个参数
 
 // FNDATA:1881
 EN Duplicated ellipsis
-ZH Chicken chicken chicken
+ZH 重复的省略号
 
 // FNDATA:1884
 EN Keyword or name of type expected
-ZH Chicken chicken chicken chicken
+ZH 需要关键字或类型名称
 
 // FNDATA:1888
 EN Function contains too many formats
-ZH Chicken chicken chicken chicken
+ZH 函数包含的格式过多
 
 // FNDATA:1925
 EN Redefined procedure '%s'
-ZH Chicken chicken chicken '%s'
+ZH 重复定义的过程 '%s'
 
 // FNDATA:1938
 EN Duplicated RETURNS
-ZH Chicken chicken
+ZH 重复的 RETURNS
 
 // FNDATA:1946
 EN Return type expected
-ZH Chicken chicken chicken
+ZH 需要返回类型
 
 // FNDATA:1951
 EN Undefined return type or structure
-ZH Chicken chicken chicken chicken
+ZH 未定义的返回类型或结构
 
 // FNDATA:1953
 EN Can't return structure, only pointer to structure
-ZH Chi'chicken chicken, chicken chicken chicken
+ZH 无法返回结构, 只能返回结构指针
 
 // FNDATA:1962
 EN Duplicated PRESERVES
-ZH Chicken chicken chicken
+ZH 重复的 PRESERVES
 
 // FNDATA:1966
 EN Register name expected
-ZH Chicken chicken chicken
+ZH 需要寄存器名称
 
 // FNDATA:1976
 EN Comma between register names expected
-ZH Chicken chicken chicken chicken chicken
+ZH 寄存器名称之间需要逗号
 
 // FNDATA:1982
 EN Ellipsis (...) must be last in the list of arguments
-ZH Chicken (...) chicken chicken chicken chicken chicken
+ZH 省略号 (...) 必须位于参数列表末尾
 
 // FNDATA:1984
 EN Too many arguments
-ZH Chicken chicken
+ZH 参数过多
 
 // FNDATA:2020
 EN Structure is not allowed, only pointer to structure
-ZH Chicken chicken chicken, chicken chicken chicken
+ZH 不允许使用结构, 只能使用结构指针
 
 // FNDATA:2030
 EN Bad parameter name
-ZH Chicken chicken
+ZH 错误的参数名
 
 // FNDATA:2170
 EN Bad name of data block
-ZH Chicken chicken chicken
+ZH 错误的数据块名称
 
 // FNDATA:2172
 EN Length of data name is limited to 30 characters
-ZH Chicken chicken chicken chicken 30 chicken
+ZH 数据名称长度限制为 30 个字符
 
 // FNDATA:2194
 EN Data expected
-ZH Chicken chicken
+ZH 需要数据
 
 // FNDATA:2197
 EN Size of raw data exceeds allowed limit
-ZH Chicken chicken chicken chicken chicken
+ZH 原始数据大小超过允许的限制
 
 // FNDATA:2214
 EN Empty raw data block
-ZH Chicken chicken chicken
+ZH 空的原始数据块
 
 // FNDATA:2234
 EN Redefined data block '%s'
-ZH Chicken chicken chicken '%s'
+ZH 重复定义的数据块 '%s'
 
 // FNDATA:2256
 EN Duplicated FEATURES
-ZH Chicken chicken chicken
+ZH 重复的 FEATURES
 
 // FNDATA:2277
 EN Unrecognized constant or keyword
-ZH Chicken chicken chicken chicken
+ZH 无法识别的常量或关键字
 
 // FNDATA:2284
 EN Byte data expected
-ZH Chicken chicken
+ZH 需要字节数据
 
 // FNDATA:2307
 EN Syntax error in raw data description
-ZH Chicken chicken chicken chicken chicken
+ZH 原始数据描述中存在语法错误
 
 // FNDATA:2335
 EN Out of memory - unable to process descriptions in '%s.arg'
-ZH Chicken chicken - chicken chicken chicken chicken '%s.chi'
+ZH 内存不足 - 无法处理 '%s.arg' 中的描述
 
 // FNDATA:2342
 EN File '%s.arg' has unsupported UNICODE big endian format
-ZH Chic '%s.chi' chicken chicken chicken chicken chicken
+ZH 文件 '%s.arg' 使用了不支持的 UNICODE 大端格式
 
 // FNDATA:2368
 EN Loading function descriptions from '%s.arg'
-ZH Chicken chicken chicken chicken '%s.chi'
+ZH 正在从 '%s.arg' 加载函数描述
 
 // FNDATA:2388
 EN Invalid type modifier(s)
-ZH Chicken chicken chicken(c)
+ZH 无效的类型修饰符
 
 // FNDATA:2437
 EN Unexpected keyword
-ZH Chicken chicken
+ZH 意外的关键字
 
 // FNDATA:2459
 EN Line %i. %s (%s)
@@ -7039,39 +7039,39 @@ ZH Chic %i. %s
 
 // FNDATA:2471
 EN Redefined constant '%s'
-ZH Chicken chicken '%s'
+ZH 重复定义的常量 '%s'
 
 // FNDATA:2478
 EN 1 constant
-ZH 1 chicken
+ZH 1 个常量
 
 // FNDATA:2479
 EN %i constants
-ZH %i chicken
+ZH %i 个常量
 
 // FNDATA:2482
 EN 1 group
-ZH 1 chicken
+ZH 1 个组
 
 // FNDATA:2483
 EN %i groups
-ZH %i chicken
+ZH %i 个组
 
 // FNDATA:2486
 EN 1 translator
-ZH 1 chicken
+ZH 1 个转换器
 
 // FNDATA:2487
 EN %i translators
-ZH %i chicken chicken
+ZH %i 个转换器
 
 // FNDATA:2490
 EN 1 structure
-ZH 1 chicken
+ZH 1 个结构
 
 // FNDATA:2491
 EN %i structures
-ZH %i chicken
+ZH %i 个结构
 
 // FNDATA:2494
 EN 1 type
@@ -7079,27 +7079,27 @@ ZH 1 chic
 
 // FNDATA:2495
 EN %i types
-ZH %i chicken
+ZH %i 个类型
 
 // FNDATA:2498
 EN 1 function
-ZH 1 chicken
+ZH 1 个函数
 
 // FNDATA:2499
 EN %i functions
-ZH %i chicken
+ZH %i 个函数
 
 // FNDATA:2502
 EN 1 data block
-ZH 1 chicken
+ZH 1 个数据块
 
 // FNDATA:2503
 EN %i data blocks
-ZH %i chicken chicken
+ZH %i 个数据块
 
 // FNDATA:2511
 EN Total size of known data is %i bytes
-ZH Chicken chicken chicken chicken %i chicken
+ZH 已知数据总大小为 %i 字节
 
 // FNDATA:3442
 EN Low: %08X
@@ -7111,11 +7111,11 @@ ZH Chic: %08X
 
 // FNDATA:3636
 EN Middle: %08X
-ZH Chicken: %08X
+ZH 中间: %08X
 
 // FNDATA:3716
 EN , class =
-ZH , chicken =
+ZH , 类 =
 
 // FNDATA:3720
 EN , text =
@@ -7123,19 +7123,19 @@ ZH , chic =
 
 // FNDATA:3781
 EN (DC or Memory DC)
-ZH (Chicken chicken)
+ZH (DC 或内存 DC)
 
 // FNDATA:3783
 EN (Metafile)
-ZH (Chicken)
+ZH (图元文件)
 
 // FNDATA:3785
 EN (Memory DC)
-ZH (Chicken)
+ZH (内存 DC)
 
 // FNDATA:3789
 EN (DC of window %08X
-ZH (Chicken chicken %08X
+ZH (窗口 %08X 的 DC
 
 // FNDATA:3851
 EN (DC)
@@ -7143,11 +7143,11 @@ ZH (CH)
 
 // FNDATA:3853
 EN (Region
-ZH (Chicken
+ZH (区域
 
 // FNDATA:3869
 EN (Bitmap)
-ZH (Chicken)
+ZH (位图)
 
 // FNDATA:3871
 EN (Path)
@@ -7155,11 +7155,11 @@ ZH (Chic)
 
 // FNDATA:3873
 EN (Palette)
-ZH (Chicken)
+ZH (调色板)
 
 // FNDATA:3875
 EN (Color space)
-ZH (Chicken chicken)
+ZH (色彩空间)
 
 // FNDATA:3877
 EN (Font)
@@ -7167,7 +7167,7 @@ ZH (Chic)
 
 // FNDATA:3879
 EN (Brush
-ZH (Chicken
+ZH (画刷
 
 // FNDATA:3897
 EN (Pen)
@@ -7175,7 +7175,7 @@ ZH (Chi)
 
 // FNDATA:3975
 EN , Debuggee
-ZH , Chicken
+ZH , 被调试程序
 
 // GUIDS:248
 EN Out of memory - unable to process GUIDs in '%s.arg'
