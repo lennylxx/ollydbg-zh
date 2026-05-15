@@ -7203,135 +7203,135 @@ ZH GUID 总数: %i
 
 // HANDLES:165
 EN File (pipe)
-ZH Chic (chic)
+ZH 文件 (管道)
 
 // HANDLES:168
 EN File (char)
-ZH Chic (chic)
+ZH 文件 (字符)
 
 // HANDLES:184
 EN File (dev)
-ZH Chic (chi)
+ZH 文件 (设备)
 
 // HANDLES:208
 EN File (dir)
-ZH Chic (chi)
+ZH 文件 (目录)
 
 // HANDLES:211
 EN File (sys)
-ZH Chic (chi)
+ZH 文件 (系统)
 
 // HANDLES:214
 EN File (temp)
-ZH Chic (chic)
+ZH 文件 (临时)
 
 // HANDLES:324
 EN Original name
-ZH Chicken chicken
+ZH 原始名称
 
 // HANDLES:325
 EN Original name associated with the handle
-ZH Chicken chicken chicken chicken chicken
+ZH 与句柄关联的原始名称
 
 // HANDLES:327
 EN Translated name
-ZH Chicken chicken
+ZH 转换后的名称
 
 // HANDLES:328
 EN Handle Name converted to user-friendly form
-ZH Chicken chicken chicken chicken-chicken chicken
+ZH 转换为友好形式的句柄名称
 
 // HANDLES:399
 EN &Update
-ZH &Chicken
+ZH 更新(&U)
 
 // HANDLES:400
 EN Update contents of Handles window
-ZH Chicken chicken chicken chicken
+ZH 更新句柄窗口的内容
 
 // HANDLES:402
 EN Tag all handles
-ZH Chicken chicken
+ZH 标记所有句柄
 
 // HANDLES:403
 EN User-defined tag allows to distinguish new handles from old
-ZH Chic-chicken chicken chicken chicken chicken chicken chicken
+ZH 用户定义的标记可用于区分新旧句柄
 
 // HANDLES:405
 EN Untag all handles
-ZH Chicken chicken
+ZH 取消标记所有句柄
 
 // HANDLES:408
 EN Show original names
-ZH Chicken chicken chicken
+ZH 显示原始名称
 
 // HANDLES:409
 EN Show handle names as reported by Windows
-ZH Chicken chicken chicken chicken chicken
+ZH 显示 Windows 报告的句柄名称
 
 // HANDLES:411
 EN Show translated names
-ZH Chicken chicken chicken
+ZH 显示转换后的名称
 
 // HANDLES:412
 EN Show handle names converted to user-friendlier form
-ZH Chicken chicken chicken chicken chicken-chicken chicken
+ZH 以更友好的形式显示句柄名称
 
 // HANDLES:414
 EN Dump file
-ZH Chicken
+ZH 转储文件
 
 // HANDLES:415
 EN Open file associated with the handle in a separate Dump window
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在单独的数据窗口中打开与句柄关联的文件
 
 // HANDLES:536
 EN Size %i., pointer %i.
-ZH Chic %i., chicken %i.
+ZH 大小 %i., 指针 %i.
 
 // HANDLES:538
 EN Count %i. of %i.
-ZH Chicken %i. ch %i.
+ZH 计数 %i. / %i.
 
 // HANDLES:577
 EN Handle
-ZH Chicken
+ZH 句柄
 
 // HANDLES:578
 EN Handle in the context of debugged application
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 被调试程序上下文中的句柄
 
 // HANDLES:582
 EN Type of the handle
-ZH Chicken chicken
+ZH 句柄类型
 
 // HANDLES:585
 EN Refs
-ZH Chic
+ZH 引用
 
 // HANDLES:586
 EN Reference count
-ZH Chicken chicken
+ZH 引用计数
 
 // HANDLES:589
 EN Access
-ZH Chicken
+ZH 权限
 
 // HANDLES:590
 EN Access rights
-ZH Chicken chicken
+ZH 访问权限
 
 // HANDLES:593
 EN Tag
-ZH Chi
+ZH 标记
 
 // HANDLES:594
 EN Allows to distinguish new handles from old
-ZH Chicken chicken chicken chicken chicken
+ZH 可用于区分新旧句柄
 
 // HANDLES:598
 EN Handle-related information
-ZH Chicken-chicken chicken chicken
+ZH 句柄相关信息
 
 // HANDLES:621
 EN Handles
