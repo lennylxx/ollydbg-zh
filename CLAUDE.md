@@ -92,7 +92,8 @@ Descriptive feature/view/window names and verbs:
 | handle | 句柄 | |
 | breakpoint | 断点 | |
 | trace | 跟踪 | |
-| procedure | 过程 | Distinct from "function" in OllyDbg's analyzer |
+| procedure | 函数 | RE community convention; OllyDbg's procedure/function distinction flattens to 函数 in actual usage. Older translations used 过程 — retranslated 2026-05-14 |
+| subroutine | 子程序 | x86 CALL-target idiom; kept distinct from `procedure → 函数` per RE community usage |
 | exception handler | 异常处理程序 | |
 | native debugging | 原生调试 | |
 | symbol server | 符号服务器 | |
