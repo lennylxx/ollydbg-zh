@@ -4359,223 +4359,223 @@ ZH 选择代码页
 
 // DUMP:107
 EN Source
-ZH Chicken
+ZH 源代码
 
 // DUMP:108
 EN Source code
-ZH Chicken chicken
+ZH 源代码
 
 // DUMP:111
 EN Profile  Comments
-ZH Chicken chicken
+ZH 分析  注释
 
 // DUMP:112
 EN Profile and comments
-ZH Chicken chicken chicken
+ZH 分析和注释
 
 // DUMP:115
 EN Profile  Source
-ZH Chicken chicken
+ZH 分析  源代码
 
 // DUMP:116
 EN Profile and source code
-ZH Chicken chicken chicken
+ZH 分析和源代码
 
 // DUMP:119
 EN Comments
-ZH Chicken
+ZH 注释
 
 // DUMP:148
 EN Locked
-ZH Chicken
+ZH 已锁定
 
 // DUMP:149
 EN Press to allow automatic repositioning
-ZH Chicken chicken chicken chicken chicken
+ZH 按下以允许自动重新定位
 
 // DUMP:151
 EN Backup
-ZH Chicken
+ZH 备份
 
 // DUMP:152
 EN Press to view current data
-ZH Chicken chicken chicken
+ZH 按下以查看当前数据
 
 // DUMP:155
 EN Address of first displayed byte in a row
-ZH Chicken chicken chicken chicken chicken
+ZH 行中首个显示字节的地址
 
 // DUMP:173
 EN Hex dump
-ZH Chicken
+ZH 十六进制数据
 
 // DUMP:174
 EN Hexadecimal dump, press to change dump type
-ZH Chicken chicken, chicken chicken chicken
+ZH 十六进制数据, 按下更改显示类型
 
 // DUMP:178
 EN ASCII dump, press to toggle between UNICODE and ASCII
-ZH Chicken, chicken chicken chicken chicken chicken
+ZH ASCII 数据, 按下在 UNICODE 和 ASCII 之间切换
 
 // DUMP:191
 EN UNICODE dump, press to toggle between UNICODE and ASCII
-ZH Chicken chicken, chicken chicken chicken chicken chicken
+ZH UNICODE 数据, 按下在 UNICODE 和 ASCII 之间切换
 
 // DUMP:202
 EN Multibyte
-ZH Chicken
+ZH 多字节
 
 // DUMP:204
 EN Multibyte text, press to change to UNICODE or ASCII
-ZH Chicken chicken, chicken chicken chicken chicken chicken
+ZH 多字节文本, 按下切换为 UNICODE 或 ASCII
 
 // DUMP:211
 EN ASCII dump
-ZH Chicken
+ZH ASCII 数据
 
 // DUMP:212
 EN ASCII dump, press to change dump type
-ZH Chicken, chicken chicken chicken
+ZH ASCII 数据, 按下更改显示类型
 
 // DUMP:219
 EN UNICODE dump
-ZH Chicken chicken
+ZH UNICODE 数据
 
 // DUMP:220
 EN UNICODE dump, press to change dump type
-ZH Chicken chicken, chicken chicken chicken
+ZH UNICODE 数据, 按下更改显示类型
 
 // DUMP:227
 EN 16-bit signed decimal dump
-ZH 16-chicken chicken chicken
+ZH 16 位有符号十进制数据
 
 // DUMP:229
 EN 16-bit signed decimal dump, press to change dump type
-ZH 16-chicken chicken chicken, chicken chicken chicken
+ZH 16 位有符号十进制数据, 按下更改显示类型
 
 // DUMP:232
 EN 32-bit signed decimal dump
-ZH 32-chicken chicken chicken
+ZH 32 位有符号十进制数据
 
 // DUMP:234
 EN 32-bit signed decimal dump, press to change dump type
-ZH 32-chicken chicken chicken, chicken chicken chicken
+ZH 32 位有符号十进制数据, 按下更改显示类型
 
 // DUMP:242
 EN 16-bit unsigned decimal dump
-ZH 16-chicken chicken chicken
+ZH 16 位无符号十进制数据
 
 // DUMP:244
 EN 16-bit unsigned decimal dump, press to change dump type
-ZH 16-chicken chicken chicken, chicken chicken chicken
+ZH 16 位无符号十进制数据, 按下更改显示类型
 
 // DUMP:247
 EN 32-bit unsigned decimal dump
-ZH 32-chicken chicken chicken
+ZH 32 位无符号十进制数据
 
 // DUMP:249
 EN 32-bit unsigned decimal dump, press to change dump type
-ZH 32-chicken chicken chicken, chicken chicken chicken
+ZH 32 位无符号十进制数据, 按下更改显示类型
 
 // DUMP:257
 EN 16-bit hex dump
-ZH 16-chicken chicken
+ZH 16 位十六进制数据
 
 // DUMP:258
 EN 16-bit hexadecimal dump, press to change dump type
-ZH 16-chicken chicken chicken, chicken chicken chicken
+ZH 16 位十六进制数据, 按下更改显示类型
 
 // DUMP:261
 EN 32-bit hex dump
-ZH 32-chicken chicken
+ZH 32 位十六进制数据
 
 // DUMP:262
 EN 32-bit hexadecimal dump, press to change dump type
-ZH 32-chicken chicken chicken, chicken chicken chicken
+ZH 32 位十六进制数据, 按下更改显示类型
 
 // DUMP:272
 EN 32-bit floating-point dump
-ZH 32-chicken chicken-chicken
+ZH 32 位浮点数据
 
 // DUMP:274
 EN 32-bit floating-point numbers, press to change dump type
-ZH 32-chicken chicken-chicken chicken, chicken chicken chicken
+ZH 32 位浮点数, 按下更改显示类型
 
 // DUMP:277
 EN 64-bit floating-point dump
-ZH 64-chicken chicken-chicken
+ZH 64 位浮点数据
 
 // DUMP:279
 EN 64-bit floating-point numbers, press to change dump type
-ZH 64-chicken chicken-chicken chicken, chicken chicken chicken
+ZH 64 位浮点数, 按下更改显示类型
 
 // DUMP:282
 EN 80-bit floating-point dump
-ZH 80-chicken chicken-chicken
+ZH 80 位浮点数据
 
 // DUMP:284
 EN 80-bit floating-point numbers, press to change dump type
-ZH 80-chicken chicken-chicken chicken, chicken chicken chicken
+ZH 80 位浮点数, 按下更改显示类型
 
 // DUMP:294
 EN Value
-ZH Chicken
+ZH 值
 
 // DUMP:295
 EN 32-bit address, press to change dump type
-ZH 32-chicken chicken, chicken chicken chicken
+ZH 32 位地址, 按下更改显示类型
 
 // DUMP:299
 EN Address-related comments
-ZH Chicken-chicken chicken
+ZH 地址相关注释
 
 // DUMP:340
 EN Hexadecimal dump of disassembled commands
-ZH Chicken chicken chicken chicken chicken
+ZH 反汇编指令的十六进制数据
 
 // DUMP:343
 EN Command
-ZH Chicken
+ZH 指令
 
 // DUMP:344
 EN Disassembled commands
-ZH Chicken chicken chicken
+ZH 反汇编指令
 
 // DUMP:358
 EN Hexadecimal dump of decoded data
-ZH Chicken chicken chicken chicken
+ZH 解码数据的十六进制数据
 
 // DUMP:361
 EN Decoded data
-ZH Chicken chicken
+ZH 已解码数据
 
 // DUMP:992
 EN Selection %08X..%08X (1. byte)
-ZH Chicken %08X..%08X (1. chic)
+ZH 所选 %08X..%08X (1. 字节)
 
 // DUMP:994
 EN Selection %08X..%08X (%i. bytes)
-ZH Chicken %08X..%08X (%i. chicken)
+ZH 所选 %08X..%08X (%i. 字节)
 
 // DUMP:1020
 EN Current EIP
-ZH Chicken chicken
+ZH 当前 EIP
 
 // DUMP:1024
 EN Current ESP
-ZH Chicken chicken
+ZH 当前 ESP
 
 // DUMP:1028
 EN Disabled breakpoint
-ZH Chicken chicken chicken
+ZH 已禁用断点
 
 // DUMP:1030
 EN Conditional breakpoint
-ZH Chicken chicken chicken
+ZH 条件断点
 
 // DUMP:1032
 EN Breakpoint
-ZH Chicken
+ZH 断点
 
 // DUMP:1193
 EN Dump -
@@ -4583,19 +4583,19 @@ ZH Chic -
 
 // DUMP:2296
 EN End of SEH chain
-ZH Chicken chicken
+ZH SEH 链末尾
 
 // DUMP:2298
 EN Pointer to next SEH record
-ZH Chicken chicken chicken
+ZH 指向下一条 SEH 记录的指针
 
 // DUMP:2301
 EN SE handler
-ZH Chicken
+ZH SE 处理程序
 
 // DUMP:2376
 EN RETURN from
-ZH Chicken chicken
+ZH 返回自
 
 // DUMP:2379
 EN to
@@ -4603,67 +4603,67 @@ ZH ch
 
 // DUMP:2381
 EN RETURN to
-ZH Chicken
+ZH 返回至
 
 // DUMP:3095
 EN This dump is read only
-ZH Chicken chicken chicken
+ZH 此数据为只读
 
 // DUMP:3095
 EN Read only dump
-ZH Chicken chicken
+ZH 只读数据
 
 // DUMP:3131
 EN Internal copy of file '%s' is not modified. Do you really want to save unchanged dump to disk?
-ZH Chicken chicken chicken '%s' chicken chicken. Chicken chicken chicken chicken chicken chicken?
+ZH 文件 '%s' 的内部副本未修改。确定要将未修改的数据保存到磁盘吗？
 
 // DUMP:3132
 EN File unchanged
-ZH Chicken chicken
+ZH 文件未更改
 
 // DUMP:3138
 EN File '%s' on the disk is lost or unreadable. Do you want to save the internal copy back to disk?
-ZH Chic '%s' chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken?
+ZH 磁盘上的文件 '%s' 丢失或不可读。是否将内部副本保存回磁盘？
 
 // DUMP:3139
 EN Original file lost
-ZH Chicken chicken
+ZH 原始文件丢失
 
 // DUMP:3142
 EN Internal copy of file '%s' differs from original. Do you want to save modified file back to disk?
-ZH Chicken chicken chicken '%s' chicken chicken chicken. Chicken chicken chicken chicken chicken chicken?
+ZH 文件 '%s' 的内部副本与原始文件不同。是否将修改后的文件保存回磁盘？
 
 // DUMP:3143
 EN File changed
-ZH Chicken chicken
+ZH 文件已更改
 
 // DUMP:3147
 EN Size of file '%s' on the disk differs from the size of its internal copy. Probably disk file was modified. Do you want to save the internal copy?
-ZH Chicken chicken '%s' chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken. Chicken chicken chicken chicken chicken?
+ZH 磁盘上的文件 '%s' 大小与其内部副本大小不同。磁盘文件可能已修改。是否保存内部副本？
 
 // DUMP:3151
 EN If you answer 'Yes', you will be asked for the filename. If you answer 'No', you will lose any changes you have made. Press 'Cancel' to keep
-ZH Chicken chicken 'Chi', chicken chicken chicken chicken. Chicken chicken 'Ch', chicken chicken chicken chicken chicken. Chicken 'Chicken' chicken
+ZH 如果选择 'Yes', 将提示输入文件名。如果选择 'No', 将丢失所有修改。按 'Cancel' 保持
 
 // DUMP:3153
 EN dump window open.
-ZH chicken chicken.
+ZH 数据窗口打开。
 
 // DUMP:3155
 EN OllyDbg running.
-ZH Chicken chicken.
+ZH OllyDbg 运行中。
 
 // DUMP:3173
 EN Save file as
-ZH Chicken chicken
+ZH 另存为
 
 // DUMP:3193
 EN Unable to backup file '%s'. Please try another name
-ZH Chicken chicken chicken '%s'. Chicken chicken chicken
+ZH 无法备份文件 '%s'. 请尝试其他名称
 
 // DUMP:3200
 EN Unable to create file '%s'. Please try another name
-ZH Chicken chicken chicken '%s'. Chicken chicken chicken
+ZH 无法创建文件 '%s'. 请尝试其他名称
 
 // DUMP:3206
 EN File %s
@@ -4671,87 +4671,87 @@ ZH Chic %s
 
 // DUMP:3209
 EN Error saving file '%s'. Please try another name
-ZH Chicken chicken '%s'. Chicken chicken chicken
+ZH 保存文件 '%s' 时出错. 请尝试其他名称
 
 // DUMP:3312
 EN Huge clipboard data size
-ZH Chicken chicken chicken
+ZH 剪贴板数据大小过大
 
 // DUMP:3316
 EN Estimated size of clipboard buffer is %i. MB. Data at the end of the selection may get lost. Do you want to continue?\n\nTip: If you need all the selected data, try to reduce width of some columns, or save data directly to file.
-ZH Chicken chicken chicken chicken chicken %i. CH. Chicken chicken chicken chicken chicken chicken. Chicken chicken chicken?\n\nChi: Chicken chicken chicken chicken, chicken chicken chicken chicken chicken, chicken chicken chicken chicken.
+ZH 预计剪贴板缓冲区大小为 %i. MB。所选末尾的数据可能丢失。是否继续？\n\n提示: 如果需要所有所选数据，请尝试减小某些列的宽度，或直接将数据保存到文件。
 
 // DUMP:3386
 EN Unable to copy the whole selection to the clipboard
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 无法将整个所选内容复制到剪贴板
 
 // DUMP:3905
 EN Memory list has changed, dump no longer corresponds to memory block
-ZH Chicken chicken chicken, chicken chicken chicken chicken chicken
+ZH 内存列表已更改, 数据不再对应内存块
 
 // DUMP:3938
 EN Unable to create backup
-ZH Chicken chicken chicken
+ZH 无法创建备份
 
 // DUMP:4025
 EN Load backup from file
-ZH Chicken chicken chicken
+ZH 从文件加载备份
 
 // DUMP:4027
 EN Save backup to file
-ZH Chicken chicken chicken
+ZH 将备份保存到文件
 
 // DUMP:4029
 EN Save current data to file
-ZH Chicken chicken chicken
+ZH 将当前数据保存到文件
 
 // DUMP:4036
 EN Unable to open or read file '%s'.
-ZH Chicken chicken chicken chicken '%s'.
+ZH 无法打开或读取文件 '%s'.
 
 // DUMP:4040
 EN File size does not match
-ZH Chicken chicken chicken
+ZH 文件大小不匹配
 
 // DUMP:4042
 EN Size of backup file '%s' (%i. bytes) differs from the size of dump (%i. bytes). Load anyway and %s?
-ZH Chicken chicken chicken '%s' (%i. chicken) chicken chicken chicken chicken (%i. chicken). Chicken chicken %s?
+ZH 备份文件 '%s' 大小 (%i. 字节) 与数据大小 (%i. 字节) 不同。仍要加载并 %s？
 
 // DUMP:4043
 EN fill the rest of backup with current data
-ZH chicken chicken chicken chicken chicken
+ZH 用当前数据填充备份其余部分
 
 // DUMP:4044
 EN truncate the file
-ZH chicken chicken
+ZH 截断文件
 
 // DUMP:4075
 EN Unable to create file '%s'
-ZH Chicken chicken chicken '%s'
+ZH 无法创建文件 '%s'
 
 // DUMP:4080
 EN Error writing backup to file '%s'
-ZH Chicken chicken chicken chicken '%s'
+ZH 向文件 '%s' 写入备份时出错
 
 // DUMP:4107
 EN Error writing data to file '%s'
-ZH Chicken chicken chicken '%s'
+ZH 向文件 '%s' 写入数据时出错
 
 // DUMP:4172
 EN Unable to copy
-ZH Chicken chicken
+ZH 无法复制
 
 // DUMP:4325
 EN Edit file at offset %08X
-ZH Chicken chicken chicken %08X
+ZH 编辑偏移 %08X 处的文件
 
 // DUMP:4330
 EN Edit code at address
-ZH Chicken chicken chicken
+ZH 编辑以下地址的代码
 
 // DUMP:4332
 EN Edit data at address
-ZH Chicken chicken chicken
+ZH 编辑以下地址的数据
 
 // DUMP:4452
 EN word
@@ -4759,1387 +4759,1387 @@ ZH chic
 
 // DUMP:4453
 EN doubleword
-ZH chicken
+ZH 双字
 
 // DUMP:4455
 EN at offset %08X
-ZH chicken %08X
+ZH 于偏移 %08X
 
 // DUMP:4639
 EN Unable to locate executable file
-ZH Chicken chicken chicken chicken
+ZH 无法定位可执行文件
 
 // DUMP:4653
 EN Copy to Import Address Table
-ZH Chicken chicken chicken chicken
+ZH 复制到导入地址表
 
 // DUMP:4657
 EN You are going to copy modifications back to the Import Address Table. This is usually bad idea because IAT in memory is updated by the Process Loader and differs from that in the executable file. Do you still want to copy selection to the executable file?
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken?
+ZH 您将要把修改复制回导入地址表。这通常不是个好主意，因为内存中的 IAT 由进程加载器更新，与可执行文件中的不同。仍要将所选内容复制到可执行文件吗？
 
 // DUMP:4664
 EN Unable to copy selection
-ZH Chicken chicken chicken
+ZH 无法复制所选内容
 
 // DUMP:4668
 EN Some fixups are only partially selected. OllyDbg is unable to copy them to the executable file. File dump was not modified.%s
-ZH Chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken.%s
+ZH 部分重定位仅被部分选中。OllyDbg 无法将它们复制到可执行文件。文件数据未修改。%s
 
 // DUMP:4670
 EN To visualize fixups, please check 'Underline fixups' in Code dump options.
-ZH Chicken chicken chicken, chicken chicken 'Chicken chicken' chicken chicken chicken.
+ZH 要可视化重定位，请在代码数据选项中选中 'Underline fixups'.
 
 // DUMP:4673
 EN Selection contains modified fixups.
-ZH Chicken chicken chicken chicken.
+ZH 所选内容包含已修改的重定位。
 
 // DUMP:4676
 EN It is hardly possible that main program will be loaded on different base addres. However, should it happen,
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken, chicken chicken,
+ZH 主程序几乎不可能加载到不同的基址。但如果发生这种情况，
 
 // DUMP:4679
 EN Please keep in mind that in the case that this DLL will be loaded on different base address,
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken,
+ZH 请注意，如果此 DLL 加载到不同的基址，
 
 // DUMP:4682
 EN OS will adjust fixups, thus modifying your code. Were you not carefull enough, this may have disastrous effects on the debugged application.
-ZH Chicken chicken chicken, chicken chicken chicken. Chicken chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH 操作系统将调整重定位, 从而修改您的代码。如不够谨慎，可能对被调试程序造成灾难性影响。
 
 // DUMP:4683
 EN Modified fixups
-ZH Chicken chicken
+ZH 已修改的重定位
 
 // DUMP:4685
 EN Modified file
-ZH Chicken chicken
+ZH 已修改的文件
 
 // DUMP:4687
 EN Internal copy of file '%s' was modified. Choose 'Save file' from popup menu if you want to save modifications to disk.
-ZH Chicken chicken chicken '%s' chicken chicken. Chicken 'Chicken' chicken chicken chicken chicken chicken chicken chicken.
+ZH 文件 '%s' 的内部副本已被修改。如要将修改保存到磁盘，请从弹出菜单选择 'Save file'.
 
 // DUMP:4718
 EN Unable to read memory of debugged process
-ZH Chicken chicken chicken chicken chicken
+ZH 无法读取被调试进程的内存
 
 // DUMP:4740
 EN You are going to copy modifications back to the Import Address Table. This is usually bad idea because IAT in memory is updated by the Process Loader and differs from that in the executable file. IAT will be excluded from Copy all modifications.
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken.
+ZH 您将要把修改复制回导入地址表。这通常不是个好主意，因为内存中的 IAT 由进程加载器更新，与可执行文件中的不同。IAT 将从 '复制所有修改' 中排除。
 
 // DUMP:4815
 EN Some fixups are only partially available. OllyDbg is unable to copy them to the executable file. File dump was not modified. Remaining modifications, if any, will not be saved.%s
-ZH Chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken. Chicken chicken chicken, chicken, chicken chicken.%s
+ZH 部分重定位仅部分可用。OllyDbg 无法将它们复制到可执行文件。文件数据未修改。其余修改 (如有) 将不会保存。%s
 
 // DUMP:4821
 EN Unable to copy selection to the executable file. Search stopped. Remaining modifications, if any, will not be saved.
-ZH Chicken chicken chicken chicken chicken chicken. Chicken chicken. Chicken chicken chicken, chicken, chicken chicken.
+ZH 无法将所选内容复制到可执行文件。搜索已停止。其余修改 (如有) 将不会保存。
 
 // DUMP:4830
 EN Memory block and its backup copy are identical
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 内存块与其备份副本完全相同
 
 // DUMP:4833
 EN Memory block contains modified fixups.
-ZH Chicken chicken chicken chicken chicken.
+ZH 内存块包含已修改的重定位。
 
 // DUMP:4873
 EN Unable to access stack memory
-ZH Chicken chicken chicken chicken
+ZH 无法访问堆栈内存
 
 // DUMP:4875
 EN Enter value to push
-ZH Chicken chicken chicken
+ZH 输入要压入的值
 
 // DUMP:4947
 EN Unable to set temporary breakpoint
-ZH Chicken chicken chicken chicken
+ZH 无法设置临时断点
 
 // DUMP:5117
 EN Limit run trace protocol to selection
-ZH Chicken chicken chicken chicken chicken
+ZH 将 Run 跟踪记录限制为所选内容
 
 // DUMP:5119
 EN Limit run trace protocol to current procedure
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将 Run 跟踪记录限制为当前函数
 
 // DUMP:5123
 EN Add selection to run trace protocol
-ZH Chicken chicken chicken chicken chicken
+ZH 将所选内容添加到 Run 跟踪记录
 
 // DUMP:5125
 EN Add procedure to run trace protocol
-ZH Chicken chicken chicken chicken chicken
+ZH 将函数添加到 Run 跟踪记录
 
 // DUMP:5174
 EN Add label at
-ZH Chicken chicken
+ZH 在以下位置添加标签
 
 // DUMP:5176
 EN Add comment at
-ZH Chicken chicken
+ZH 在以下位置添加注释
 
 // DUMP:5178
 EN Edit label at
-ZH Chicken chicken
+ZH 在以下位置编辑标签
 
 // DUMP:5180
 EN Edit comment at
-ZH Chicken chicken
+ZH 在以下位置编辑注释
 
 // DUMP:5253
 EN Suspicious location
-ZH Chicken chicken chicken
+ZH 可疑位置
 
 // DUMP:5255
 EN You are going to set execution point at the location %08X which is probably not the first byte of the command. Are you sure?
-ZH Chicken chicken chicken chicken chicken chicken chicken %08X chicken chicken chicken chicken chicken chicken chicken. Chicken chicken?
+ZH 您将要在位置 %08X 设置执行点, 该位置可能不是指令的首字节。确定吗？
 
 // DUMP:5484
 EN Enter expression to follow
-ZH Chicken chicken chicken
+ZH 输入要跟随的表达式
 
 // DUMP:5494
 EN Offset beyond the end of file
-ZH Chicken chicken chicken chicken
+ZH 偏移超出文件末尾
 
 // DUMP:5496
 EN No memory at the specified address
-ZH Chicken chicken chicken chicken
+ZH 指定地址没有内存
 
 // DUMP:5812
 EN Decode memory area starting at address %08X as a structure of the following type:
-ZH Chicken chicken chicken chicken chicken %08X chicken chicken chicken chicken chicken:
+ZH 将从地址 %08X 开始的内存区域解码为以下类型的结构:
 
 // DUMP:5867
 EN Item not found
-ZH Chicken chicken
+ZH 未找到项目
 
 // DUMP:6083
 EN Commands found in
-ZH Chicken chicken
+ZH 在以下位置找到的指令
 
 // DUMP:6085
 EN Command sequences found in
-ZH Chicken chicken chicken
+ZH 在以下位置找到的指令序列
 
 // DUMP:6108
 EN References to
-ZH Chicken chicken
+ZH 对以下的引用
 
 // DUMP:6154
 EN References to constant
-ZH Chicken chicken chicken
+ZH 对常量的引用
 
 // DUMP:6178
 EN Enter constant or expression to search for
-ZH Chicken chicken chicken chicken chicken
+ZH 输入要搜索的常量或表达式
 
 // DUMP:6200
 EN Modifications in module
-ZH Chicken chicken chicken
+ZH 模块中的修改
 
 // DUMP:6238
 EN Text strings referenced in
-ZH Chicken chicken chicken
+ZH 在以下位置引用的文本字符串
 
 // DUMP:6254
 EN GUIDs referenced in
-ZH Chicken chicken chicken
+ZH 在以下位置引用的 GUID
 
 // DUMP:6268
 EN All user-defined comments
-ZH Chicken-chicken chicken
+ZH 所有用户定义的注释
 
 // DUMP:6282
 EN Procedures in
-ZH Chicken chicken
+ZH 在以下位置的函数
 
 // DUMP:6298
 EN Switches in
-ZH Chicken chicken
+ZH 在以下位置的 switch
 
 // DUMP:6316
 EN Floating-point constants referenced in
-ZH Chicken-chicken chicken chicken chicken
+ZH 在以下位置引用的浮点常量
 
 // DUMP:6341
 EN No record found
-ZH Chicken chicken
+ZH 未找到记录
 
 // DUMP:6567
 EN No help on selected command
-ZH Chicken chicken chicken chicken
+ZH 所选指令无可用帮助
 
 // DUMP:6641
 EN Decode as a structure of the following type:
-ZH Chicken chicken chicken chicken chicken chicken:
+ZH 解码为以下类型的结构:
 
 // DUMP:6712
 EN Create backup
-ZH Chicken chicken
+ZH 创建备份
 
 // DUMP:6713
 EN Create backup copy of data displayed in dump window
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 创建数据窗口中显示数据的备份副本
 
 // DUMP:6715
 EN Read executable file
-ZH Chicken chicken chicken
+ZH 读取可执行文件
 
 // DUMP:6716
 EN Create backup from the section images in executable file
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 从可执行文件中的节映像创建备份
 
 // DUMP:6718
 EN View backup
-ZH Chicken chicken
+ZH 查看备份
 
 // DUMP:6719
 EN View backup copy of data displayed in dump window
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 查看数据窗口中显示数据的备份副本
 
 // DUMP:6721
 EN View current data
-ZH Chicken chicken
+ZH 查看当前数据
 
 // DUMP:6722
 EN Finish backup view and display current data
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 结束备份查看并显示当前数据
 
 // DUMP:6724
 EN Update backup
-ZH Chicken chicken
+ZH 更新备份
 
 // DUMP:6725
 EN Update backup copy of data displayed in dump window
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 更新数据窗口中显示数据的备份副本
 
 // DUMP:6727
 EN Delete backup
-ZH Chicken chicken
+ZH 删除备份
 
 // DUMP:6728
 EN Delete backup copy of data displayed in dump window
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 删除数据窗口中显示数据的备份副本
 
 // DUMP:6730
 EN Load backup from file...
-ZH Chicken chicken chicken...
+ZH 从文件加载备份...
 
 // DUMP:6731
 EN Read old backup from the disk
-ZH Chicken chicken chicken chicken
+ZH 从磁盘读取旧备份
 
 // DUMP:6733
 EN Save backup to file...
-ZH Chicken chicken chicken...
+ZH 将备份保存到文件...
 
 // DUMP:6734
 EN Save backup to file in binary format
-ZH Chicken chicken chicken chicken chicken
+ZH 以二进制格式将备份保存到文件
 
 // DUMP:6736
 EN Save data to file...
-ZH Chicken chicken...
+ZH 将数据保存到文件...
 
 // DUMP:6737
 EN Save current data to file in binary format
-ZH Chicken chicken chicken chicken chicken
+ZH 以二进制格式将当前数据保存到文件
 
 // DUMP:6743
 EN Undo selection
-ZH Chicken chicken
+ZH 撤销所选
 
 // DUMP:6744
 EN Undo modifications within selected block
-ZH Chicken chicken chicken chicken chicken
+ZH 撤销所选块内的修改
 
 // DUMP:6746
 EN &Copy as table
-ZH &Chicken chicken
+ZH 复制为表格(&C)
 
 // DUMP:6747
 EN Copy selection to clipboard as seen on the screen
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 按屏幕显示将所选内容复制到剪贴板
 
 // DUMP:6749
 EN &Copy backup as table
-ZH &Chicken chicken chicken
+ZH 将备份复制为表格(&C)
 
 // DUMP:6752
 EN Copy address
-ZH Chicken chicken
+ZH 复制地址
 
 // DUMP:6753
 EN Copy address of selection to clipboard
-ZH Chicken chicken chicken chicken chicken
+ZH 将所选内容的地址复制到剪贴板
 
 // DUMP:6755
 EN &Binary copy
-ZH &Chicken chicken
+ZH 二进制复制(&B)
 
 // DUMP:6756
 EN Copy selected data to clipboard in hexadecimal format
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 以十六进制格式将所选数据复制到剪贴板
 
 // DUMP:6758
 EN &Binary copy of backup
-ZH &Chicken chicken chicken
+ZH 二进制复制备份(&B)
 
 // DUMP:6761
 EN Binary &paste
-ZH Chicken &chicken
+ZH 二进制粘贴(&P)
 
 // DUMP:6762
 EN Paste data from clipboard in hexadecimal format
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 以十六进制格式从剪贴板粘贴数据
 
 // DUMP:6764
 EN Edit word...
-ZH Chicken...
+ZH 编辑字...
 
 // DUMP:6765
 EN Edit first selected word
-ZH Chicken chicken chicken
+ZH 编辑首个所选字
 
 // DUMP:6767
 EN Edit doubleword...
-ZH Chicken chicken...
+ZH 编辑双字...
 
 // DUMP:6768
 EN Edit first selected doubleword
-ZH Chicken chicken chicken chicken
+ZH 编辑首个所选双字
 
 // DUMP:6770
 EN Edit 32-bit float...
-ZH Chic 32-chicken...
+ZH 编辑 32 位浮点数...
 
 // DUMP:6771
 EN Edit selected 32-bit floating-point number
-ZH Chicken chicken 32-chicken chicken-chicken chicken
+ZH 编辑所选 32 位浮点数
 
 // DUMP:6773
 EN Edit 64-bit float...
-ZH Chic 64-chicken...
+ZH 编辑 64 位浮点数...
 
 // DUMP:6774
 EN Edit selected 64-bit floating-point number
-ZH Chicken chicken 64-chicken chicken-chicken chicken
+ZH 编辑所选 64 位浮点数
 
 // DUMP:6776
 EN Edit 80-bit float...
-ZH Chic 80-chicken...
+ZH 编辑 80 位浮点数...
 
 // DUMP:6777
 EN Edit 80-bit (long double) floating-point number
-ZH Chic 80-chi (chicken chicken) chicken-chicken chicken
+ZH 编辑 80 位 (long double) 浮点数
 
 // DUMP:6779
 EN Binary &edit...
-ZH Chicken &chic...
+ZH 二进制编辑(&E)...
 
 // DUMP:6780
 EN Edit selection in text and binary forms
-ZH Chicken chicken chicken chicken chicken
+ZH 以文本和二进制形式编辑所选内容
 
 // DUMP:6782
 EN Fill with &zeros
-ZH Chicken &chicken
+ZH 用零填充(&Z)
 
 // DUMP:6783
 EN Fill selection with zeros
-ZH Chicken chicken chicken
+ZH 用零填充所选内容
 
 // DUMP:6785
 EN Fill with &NOPs
-ZH Chicken &Chic
+ZH 用 NOP 填充(&N)
 
 // DUMP:6786
 EN Fill selection with NOPs
-ZH Chicken chicken chicken
+ZH 用 NOP 填充所选内容
 
 // DUMP:6788
 EN Fill with &FF's
-ZH Chicken &CH'c
+ZH 用 FF 填充(&F)
 
 // DUMP:6789
 EN Fill selection with codes 0xFF
-ZH Chicken chicken chicken 0chi
+ZH 用代码 0xFF 填充所选内容
 
 // DUMP:6792
 EN Select whole data
-ZH Chicken chicken
+ZH 选择整个数据
 
 // DUMP:6794
 EN Select &procedure
-ZH Chicken &chicken
+ZH 选择函数(&P)
 
 // DUMP:6795
 EN Select current procedure
-ZH Chicken chicken chicken
+ZH 选择当前函数
 
 // DUMP:6797
 EN Select &structure
-ZH Chicken &chicken
+ZH 选择结构(&S)
 
 // DUMP:6798
 EN Select current structure
-ZH Chicken chicken chicken
+ZH 选择当前结构
 
 // DUMP:6800
 EN Copy to executable
-ZH Chicken chicken
+ZH 复制到可执行文件
 
 // DUMP:6801
 EN Copy selection to executable file
-ZH Chicken chicken chicken chicken
+ZH 将所选内容复制到可执行文件
 
 // DUMP:6803
 EN Copy all modifications to executable
-ZH Chicken chicken chicken chicken chicken
+ZH 将所有修改复制到可执行文件
 
 // DUMP:6804
 EN Copy all modifications from memory block to executable file
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 将所有修改从内存块复制到可执行文件
 
 // DUMP:6810
 EN Toggle
-ZH Chicken
+ZH 切换
 
 // DUMP:6811
 EN Toggle INT3 breakpoint
-ZH Chicken3 chicken
+ZH 切换 INT3 断点
 
 // DUMP:6813
 EN Conditional...
-ZH Chicken chicken...
+ZH 条件...
 
 // DUMP:6814
 EN Set or edit conditional INT3 breakpoint
-ZH Chicken chicken chicken chicken3 chicken
+ZH 设置或编辑条件 INT3 断点
 
 // DUMP:6816
 EN Conditional log...
-ZH Chicken chicken...
+ZH 条件记录...
 
 // DUMP:6817
 EN Set or edit conditional logging INT3 breakpoint
-ZH Chicken chicken chicken chicken chicken3 chicken
+ZH 设置或编辑条件记录 INT3 断点
 
 // DUMP:6819
 EN Run to selection
-ZH Chicken chicken
+ZH 运行到所选位置
 
 // DUMP:6820
 EN Run application till the first selected command is hit
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 运行程序直到命中首个所选指令
 
 // DUMP:6823
 EN Temporarily disable selected INT3 breakpoint
-ZH Chicken chicken chicken chicken3 chicken
+ZH 临时禁用所选 INT3 断点
 
 // DUMP:6826
 EN Re-enable selected INT3 breakpoint
-ZH Ch-chicken chicken chicken3 chicken
+ZH 重新启用所选 INT3 断点
 
 // DUMP:6828
 EN Memory...
-ZH Chicken...
+ZH 内存...
 
 // DUMP:6829
 EN Set simple memory breakpoint
-ZH Chicken chicken chicken chicken
+ZH 设置简单内存断点
 
 // DUMP:6831
 EN Memory log...
-ZH Chicken...
+ZH 内存记录...
 
 // DUMP:6832
 EN Set or edit conditional logging memory breakpoint
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 设置或编辑条件记录内存断点
 
 // DUMP:6834
 EN Memory disable
-ZH Chicken chicken
+ZH 禁用内存断点
 
 // DUMP:6835
 EN Temporarily disable the selected memory breakpoint
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 临时禁用所选内存断点
 
 // DUMP:6837
 EN Memory enable
-ZH Chicken chicken
+ZH 启用内存断点
 
 // DUMP:6838
 EN Re-enable the selected memory breakpoint
-ZH Ch-chicken chicken chicken chicken chicken
+ZH 重新启用所选内存断点
 
 // DUMP:6840
 EN Memory delete
-ZH Chicken chicken
+ZH 删除内存断点
 
 // DUMP:6841
 EN Remove selected memory breakpoint
-ZH Chicken chicken chicken chicken
+ZH 删除所选内存断点
 
 // DUMP:6843
 EN Hardware...
-ZH Chicken...
+ZH 硬件...
 
 // DUMP:6844
 EN Set simple hardware breakpoint
-ZH Chicken chicken chicken chicken
+ZH 设置简单硬件断点
 
 // DUMP:6846
 EN Hardware log...
-ZH Chicken chicken...
+ZH 硬件记录...
 
 // DUMP:6847
 EN Set or edit conditional logging hardware breakpoint
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 设置或编辑条件记录硬件断点
 
 // DUMP:6849
 EN Hardware disable
-ZH Chicken chicken
+ZH 禁用硬件断点
 
 // DUMP:6850
 EN Temporarily disable selected hardware breakpoint
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 临时禁用所选硬件断点
 
 // DUMP:6852
 EN Hardware enable
-ZH Chicken chicken
+ZH 启用硬件断点
 
 // DUMP:6853
 EN Re-enable the selected hardware breakpoint
-ZH Ch-chicken chicken chicken chicken chicken
+ZH 重新启用所选硬件断点
 
 // DUMP:6855
 EN Hardware delete
-ZH Chicken chicken
+ZH 删除硬件断点
 
 // DUMP:6856
 EN Remove selected hardware breakpoint
-ZH Chicken chicken chicken chicken chicken
+ZH 删除所选硬件断点
 
 // DUMP:6859
 EN Add selection to the run trace protocol
-ZH Chicken chicken chicken chicken chicken
+ZH 将所选内容添加到 Run 跟踪记录
 
 // DUMP:6862
 EN Add procedure that contains selection to the run trace protocol
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 将包含所选内容的函数添加到 Run 跟踪记录
 
 // DUMP:6868
 EN Memory &address
-ZH Chicken &chicken
+ZH 内存地址(&A)
 
 // DUMP:6869
 EN Follow address of memory operand in CPU Dump
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随内存操作数地址
 
 // DUMP:6871
 EN String &source
-ZH Chicken &chicken
+ZH 字符串源(&S)
 
 // DUMP:6872
 EN Follow register ESI (string source) in CPU Dump
-ZH Chicken chicken chicken (chicken chicken) chicken chicken
+ZH 在 CPU 数据中跟随 ESI 寄存器 (字符串源)
 
 // DUMP:6874
 EN String destination
-ZH Chicken chicken
+ZH 字符串目标
 
 // DUMP:6875
 EN Follow register EDI (string destination) in CPU Dump
-ZH Chicken chicken chicken (chicken chicken) chicken chicken
+ZH 在 CPU 数据中跟随 EDI 寄存器 (字符串目标)
 
 // DUMP:6877
 EN Address &constant
-ZH Chicken &chicken
+ZH 地址常量(&C)
 
 // DUMP:6878
 EN Follow address constant in CPU Dump
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随地址常量
 
 // DUMP:6880
 EN &Immediate constant
-ZH &Chicken chicken
+ZH 立即常量(&I)
 
 // DUMP:6881
 EN Follow immediate constant in CPU Dump
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随立即常量
 
 // DUMP:6883
 EN &Address
-ZH &Chicken
+ZH 地址(&A)
 
 // DUMP:6886
 EN Selection
-ZH Chicken
+ZH 所选内容
 
 // DUMP:6887
 EN Repeat selection in CPU Dump
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 数据中重复所选内容
 
 // DUMP:6893
 EN Origin
-ZH Chicken
+ZH 起点
 
 // DUMP:6894
 EN Follow EIP of current thread
-ZH Chicken chicken chicken chicken
+ZH 跟随当前线程的 EIP
 
 // DUMP:6896
 EN Expression...
-ZH Chicken...
+ZH 表达式...
 
 // DUMP:6897
 EN Specify location to follow
-ZH Chicken chicken chicken
+ZH 指定要跟随的位置
 
 // DUMP:6899
 EN Jump or call to selection...
-ZH Chicken chicken chicken...
+ZH 跳转或调用到所选位置...
 
 // DUMP:6900
 EN Follow one of known jumps or calls to the selected command
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 跟随到所选指令的已知跳转或调用之一
 
 // DUMP:6902
 EN Table jump destination...
-ZH Chicken chicken chicken...
+ZH 跳转表目标...
 
 // DUMP:6903
 EN Follow one of known table jump destinations
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 跟随至已知跳转表目标之一
 
 // DUMP:6905
 EN Switch case...
-ZH Chicken chicken...
+ZH switch 分支...
 
 // DUMP:6906
 EN Follow one of known switch cases
-ZH Chicken chicken chicken chicken
+ZH 跟随至已知 switch 分支之一
 
 // DUMP:6908
 EN Previous location
-ZH Chicken chicken
+ZH 上一个位置
 
 // DUMP:6909
 EN Go to the previous location in the history list
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 转到历史列表中的上一个位置
 
 // DUMP:6911
 EN Next location
-ZH Chicken chicken
+ZH 下一个位置
 
 // DUMP:6912
 EN Go to the next location in the history list
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 转到历史列表中的下一个位置
 
 // DUMP:6914
 EN Previous run trace record
-ZH Chicken chicken chicken
+ZH 上一条 Run 跟踪记录
 
 // DUMP:6915
 EN Go to the previous location in the run trace
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 转到 Run 跟踪中的上一个位置
 
 // DUMP:6917
 EN Next run trace record
-ZH Chicken chicken chicken
+ZH 下一条 Run 跟踪记录
 
 // DUMP:6918
 EN Go to the next location in the run trace
-ZH Chicken chicken chicken chicken chicken
+ZH 转到 Run 跟踪中的下一个位置
 
 // DUMP:6920
 EN MSIL code
-ZH Chicken
+ZH MSIL 代码
 
 // DUMP:6921
 EN Go to the MSIL code from which selection was JIT-compiled
-ZH Chicken chicken chicken chicken chicken chicken-chicken
+ZH 转到所选内容 JIT 编译来源的 MSIL 代码
 
 // DUMP:6923
 EN Native code
-ZH Chicken chicken
+ZH 原生代码
 
 // DUMP:6924
 EN Go to the native code that was JIT-compiled from the selection
-ZH Chicken chicken chicken chicken-chicken chicken chicken chicken
+ZH 转到从所选内容 JIT 编译出的原生代码
 
 // DUMP:6926
 EN Previous procedure
-ZH Chicken chicken
+ZH 上一个函数
 
 // DUMP:6927
 EN Go to the beginning of the previous procedure
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 转到上一个函数的开头
 
 // DUMP:6929
 EN Next procedure
-ZH Chicken chicken
+ZH 下一个函数
 
 // DUMP:6930
 EN Go to the beginning of the next procedure
-ZH Chicken chicken chicken chicken chicken
+ZH 转到下一个函数的开头
 
 // DUMP:6932
 EN Previous structure
-ZH Chicken chicken
+ZH 上一个结构
 
 // DUMP:6933
 EN Go to the beginning of the previous structure
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 转到上一个结构的开头
 
 // DUMP:6935
 EN Next structure
-ZH Chicken chicken
+ZH 下一个结构
 
 // DUMP:6936
 EN Go to the beginning of the next structure
-ZH Chicken chicken chicken chicken chicken
+ZH 转到下一个结构的开头
 
 // DUMP:6938
 EN Previous frame
-ZH Chicken chicken
+ZH 上一个堆栈帧
 
 // DUMP:6939
 EN Go to the beginning of the previous stack frame
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 转到上一个堆栈帧的开头
 
 // DUMP:6941
 EN Next frame
-ZH Chicken
+ZH 下一个堆栈帧
 
 // DUMP:6942
 EN Go to the beginning of the next stack frame
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 转到下一个堆栈帧的开头
 
 // DUMP:6944
 EN Previous found item
-ZH Chicken chicken chicken
+ZH 上一个找到项
 
 // DUMP:6945
 EN Go to the previous found item
-ZH Chicken chicken chicken chicken
+ZH 转到上一个找到项
 
 // DUMP:6947
 EN Next found item
-ZH Chicken chicken
+ZH 下一个找到项
 
 // DUMP:6948
 EN Go to the next found item
-ZH Chicken chicken chicken
+ZH 转到下一个找到项
 
 // DUMP:6951
 EN Go to the current stack pointer location
-ZH Chicken chicken chicken chicken chicken
+ZH 转到当前堆栈指针位置
 
 // DUMP:6954
 EN Go to the current stack frame location
-ZH Chicken chicken chicken chicken chicken
+ZH 转到当前堆栈帧位置
 
 // DUMP:6956
 EN Executable file
-ZH Chicken chicken
+ZH 可执行文件
 
 // DUMP:6957
 EN Follow selection in the executable file
-ZH Chicken chicken chicken chicken chicken
+ZH 在可执行文件中跟随所选内容
 
 // DUMP:6963
 EN Names
-ZH Chicken
+ZH 名称
 
 // DUMP:6964
 EN Show all names declared in the current module
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 显示当前模块中声明的所有名称
 
 // DUMP:6966
 EN Command...
-ZH Chicken...
+ZH 指令...
 
 // DUMP:6967
 EN Find command that matches specified pattern
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 查找匹配指定模式的指令
 
 // DUMP:6969
 EN Sequence of commands...
-ZH Chicken chicken chicken...
+ZH 指令序列...
 
 // DUMP:6970
 EN Find sequence of commands that matches specified pattern
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 查找匹配指定模式的指令序列
 
 // DUMP:6972
 EN Constant...
-ZH Chicken...
+ZH 常量...
 
 // DUMP:6973
 EN Find command that references supplied constant or expression
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 查找引用指定常量或表达式的指令
 
 // DUMP:6975
 EN Integer...
-ZH Chicken...
+ZH 整数...
 
 // DUMP:6976
 EN Find integer number
-ZH Chicken chicken chicken
+ZH 查找整数
 
 // DUMP:6978
 EN Floating-point number...
-ZH Chicken-chicken chicken...
+ZH 浮点数...
 
 // DUMP:6979
 EN Find floating-point number
-ZH Chicken chicken-chicken chicken
+ZH 查找浮点数
 
 // DUMP:6981
 EN Binary string...
-ZH Chicken chicken...
+ZH 二进制字符串...
 
 // DUMP:6982
 EN Find binary data that matches specified pattern
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 查找匹配指定模式的二进制数据
 
 // DUMP:6984
 EN Modification
-ZH Chicken chicken
+ZH 修改
 
 // DUMP:6985
 EN Find modified data
-ZH Chicken chicken
+ZH 查找已修改的数据
 
 // DUMP:6987
 EN Search again
-ZH Chicken chicken
+ZH 再次搜索
 
 // DUMP:6988
 EN Repeat search in the specified direction
-ZH Chicken chicken chicken chicken chicken
+ZH 在指定方向重复搜索
 
 // DUMP:6990
 EN Search reverse
-ZH Chicken chicken
+ZH 反向搜索
 
 // DUMP:6991
 EN Repeat search in the direction opposite to specified
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在与指定方向相反的方向重复搜索
 
 // DUMP:6993
 EN All intermodular calls
-ZH Chicken chicken chicken
+ZH 所有跨模块调用
 
 // DUMP:6994
 EN Find all calls to outside the module
-ZH Chicken chicken chicken chicken chicken
+ZH 查找所有对模块外部的调用
 
 // DUMP:6996
 EN All commands...
-ZH Chicken chicken...
+ZH 所有指令...
 
 // DUMP:6997
 EN Find all commands that match specified pattern
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 查找所有匹配指定模式的指令
 
 // DUMP:6999
 EN All command sequences...
-ZH Chicken chicken chicken...
+ZH 所有指令序列...
 
 // DUMP:7000
 EN Find all sequences of commands that match specified pattern
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 查找所有匹配指定模式的指令序列
 
 // DUMP:7002
 EN All constants...
-ZH Chicken chicken...
+ZH 所有常量...
 
 // DUMP:7004
 EN Find all commands that refer to the supplied constant or expression
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 查找所有引用指定常量或表达式的指令
 
 // DUMP:7006
 EN All modifications
-ZH Chicken chicken
+ZH 所有修改
 
 // DUMP:7007
 EN Find all modifications within the code sections of current module
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 查找当前模块代码节中的所有修改
 
 // DUMP:7009
 EN All referenced strings
-ZH Chicken chicken chicken
+ZH 所有引用的字符串
 
 // DUMP:7010
 EN Find all referenced ASCII and UNICODE strings
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 查找所有引用的 ASCII 和 UNICODE 字符串
 
 // DUMP:7012
 EN All referenced GUIDs
-ZH Chicken chicken chicken
+ZH 所有引用的 GUID
 
 // DUMP:7013
 EN Find all referenced GUIDs
-ZH Chicken chicken chicken
+ZH 查找所有引用的 GUID
 
 // DUMP:7015
 EN All user comments
-ZH Chicken chicken
+ZH 所有用户注释
 
 // DUMP:7016
 EN List all user-defined comments
-ZH Chicken chicken-chicken chicken
+ZH 列出所有用户定义的注释
 
 // DUMP:7018
 EN All found procedures
-ZH Chicken chicken chicken
+ZH 所有找到的函数
 
 // DUMP:7019
 EN List call destinations found by Analyser
-ZH Chicken chicken chicken chicken chicken
+ZH 列出分析器找到的调用目标
 
 // DUMP:7021
 EN All found switches
-ZH Chicken chicken
+ZH 所有找到的 switch
 
 // DUMP:7022
 EN List all switches and cascaded ifs found by Analyser
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 列出分析器找到的所有 switch 和级联 if
 
 // DUMP:7024
 EN All floating constants
-ZH Chicken chicken chicken
+ZH 所有浮点常量
 
 // DUMP:7026
 EN Find all referenced floating-point constants that reside directly in the code section
-ZH Chicken chicken chicken chicken-chicken chicken chicken chicken chicken chicken chicken
+ZH 查找所有直接位于代码节中的引用浮点常量
 
 // DUMP:7028
 EN Last record in run trace
-ZH Chicken chicken chicken
+ZH Run 跟踪中的最后一条记录
 
 // DUMP:7029
 EN Find last record in the run trace for the selected command
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 查找 Run 跟踪中所选指令的最后一条记录
 
 // DUMP:7032
 EN Find last record in the run trace for the selected command range
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 查找 Run 跟踪中所选指令范围的最后一条记录
 
 // DUMP:7038
 EN Selected command
-ZH Chicken chicken
+ZH 所选指令
 
 // DUMP:7039
 EN Find all commands that refer to the selected command
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 查找所有引用所选指令的指令
 
 // DUMP:7041
 EN Selected block
-ZH Chicken chicken
+ZH 所选块
 
 // DUMP:7042
 EN Find all commands that refer to the selected range
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 查找所有引用所选范围的指令
 
 // DUMP:7044
 EN Immediate constant
-ZH Chicken chicken
+ZH 立即常量
 
 // DUMP:7045
 EN Find all commands that refer to the same immediate constant
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 查找所有引用相同立即常量的指令
 
 // DUMP:7047
 EN Jump destination
-ZH Chicken chicken
+ZH 跳转目标
 
 // DUMP:7049
 EN Find all commands that refer to the address of the jump destination
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 查找所有引用跳转目标地址的指令
 
 // DUMP:7051
 EN Call destination
-ZH Chicken chicken
+ZH 调用目标
 
 // DUMP:7053
 EN Find all commands that refer to the address of the call destination
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 查找所有引用调用目标地址的指令
 
 // DUMP:7055
 EN Address constant
-ZH Chicken chicken
+ZH 地址常量
 
 // DUMP:7056
 EN Find all commands that refer to the constant part of address
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 查找所有引用地址常量部分的指令
 
 // DUMP:7062
 EN Stop highlighting
-ZH Chicken chicken
+ZH 停止高亮
 
 // DUMP:7063
 EN Stop register highlighting
-ZH Chicken chicken chicken
+ZH 停止寄存器高亮
 
 // DUMP:7066
 EN Highlight operands that use EAX, AX, AH or AL
-ZH Chicken chicken chicken chicken, CH, Chicken
+ZH 高亮使用 EAX、AX、AH 或 AL 的操作数
 
 // DUMP:7069
 EN Highlight operands that use ECX, CX, CH or CL
-ZH Chicken chicken chicken chicken, CH, Chicken
+ZH 高亮使用 ECX、CX、CH 或 CL 的操作数
 
 // DUMP:7072
 EN Highlight operands that use EDX, DX, DH or DL
-ZH Chicken chicken chicken chicken, CH, Chicken
+ZH 高亮使用 EDX、DX、DH 或 DL 的操作数
 
 // DUMP:7075
 EN Highlight operands that use EBX, BX, BH or BL
-ZH Chicken chicken chicken chicken, CH, Chicken
+ZH 高亮使用 EBX、BX、BH 或 BL 的操作数
 
 // DUMP:7078
 EN Highlight operands that use ESP (stack pointer)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 高亮使用 ESP (堆栈指针) 的操作数
 
 // DUMP:7081
 EN Highlight operands that use EBP (frame pointer)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 高亮使用 EBP (帧指针) 的操作数
 
 // DUMP:7084
 EN Highlight operands that use ESI or SI
-ZH Chicken chicken chicken chicken chicken
+ZH 高亮使用 ESI 或 SI 的操作数
 
 // DUMP:7087
 EN Highlight operands that use EDI or DI
-ZH Chicken chicken chicken chicken chicken
+ZH 高亮使用 EDI 或 DI 的操作数
 
 // DUMP:7093
 EN Absolute
-ZH Chicken
+ZH 绝对
 
 // DUMP:7094
 EN Show absolute addresses
-ZH Chicken chicken chicken
+ZH 显示绝对地址
 
 // DUMP:7096
 EN Relative to selection
-ZH Chicken chicken chicken
+ZH 相对于所选内容
 
 // DUMP:7097
 EN Show offsets from current selection
-ZH Chicken chicken chicken chicken chicken
+ZH 显示相对于当前所选内容的偏移
 
 // DUMP:7099
 EN Relative to ESP
-ZH Chicken chicken
+ZH 相对于 ESP
 
 // DUMP:7100
 EN Show offsets relative to current value of ESP
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 显示相对于 ESP 当前值的偏移
 
 // DUMP:7102
 EN Relative to EBP
-ZH Chicken chicken
+ZH 相对于 EBP
 
 // DUMP:7103
 EN Show offsets relative to current value of EBP
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 显示相对于 EBP 当前值的偏移
 
 // DUMP:7105
 EN Relative to module base
-ZH Chicken chicken chicken
+ZH 相对于模块基址
 
 // DUMP:7106
 EN Show offsets from the beginning of the module
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 显示相对于模块起始的偏移
 
 // DUMP:7112
 EN Show comments
-ZH Chicken chicken
+ZH 显示注释
 
 // DUMP:7113
 EN Show standard comments in the comments column
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在注释列显示标准注释
 
 // DUMP:7115
 EN Show source
-ZH Chicken chicken
+ZH 显示源代码
 
 // DUMP:7116
 EN Show source code (if available) in the comments column
-ZH Chicken chicken (chicken chicken) chicken chicken chicken
+ZH 在注释列显示源代码 (如有)
 
 // DUMP:7118
 EN Hide profile
-ZH Chicken chicken
+ZH 隐藏分析
 
 // DUMP:7119
 EN Hide run trace profile counts in the comments column
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在注释列隐藏 Run 跟踪分析计数
 
 // DUMP:7121
 EN Show profile
-ZH Chicken chicken
+ZH 显示分析
 
 // DUMP:7122
 EN Show run trace profile counts in the comments column
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在注释列显示 Run 跟踪分析计数
 
 // DUMP:7128
 EN Analyse code
-ZH Chicken chicken
+ZH 分析代码
 
 // DUMP:7129
 EN Analyse executable code and SFX in the current module
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 分析当前模块中的可执行代码和 SFX
 
 // DUMP:7131
 EN Analyse PE header
-ZH Chicken chicken
+ZH 分析 PE 头
 
 // DUMP:7134
 EN Analyse TIB
-ZH Chicken chicken
+ZH 分析 TIB
 
 // DUMP:7135
 EN Analyse Thread Information Block
-ZH Chicken chicken chicken chicken
+ZH 分析线程信息块
 
 // DUMP:7137
 EN Analyse Process Parameters Block
-ZH Chicken chicken chicken chicken
+ZH 分析进程参数块
 
 // DUMP:7140
 EN Analyse PEB
-ZH Chicken chicken
+ZH 分析 PEB
 
 // DUMP:7141
 EN Analyse Process Environment Block
-ZH Chicken chicken chicken chicken
+ZH 分析进程环境块
 
 // DUMP:7143
 EN Analyse User Shared Data
-ZH Chicken chicken chicken
+ZH 分析用户共享数据
 
 // DUMP:7144
 EN Analyse User Shared Data structure
-ZH Chicken chicken chicken chicken
+ZH 分析用户共享数据结构
 
 // DUMP:7146
 EN Analyse GDI Handle Table
-ZH Chicken chicken chicken
+ZH 分析 GDI 句柄表
 
 // DUMP:7147
 EN Analyse shared table of GDI handles
-ZH Chicken chicken chicken chicken chicken
+ZH 分析共享的 GDI 句柄表
 
 // DUMP:7149
 EN Remove analysis from selection
-ZH Chicken chicken chicken chicken
+ZH 从所选内容中删除分析
 
 // DUMP:7150
 EN Remove analysis data from the selection
-ZH Chicken chicken chicken chicken chicken
+ZH 从所选内容中删除分析数据
 
 // DUMP:7152
 EN Remove analysis from module
-ZH Chicken chicken chicken chicken
+ZH 从模块中删除分析
 
 // DUMP:7153
 EN Remove analysis from the currently selected module
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 从当前所选模块中删除分析
 
 // DUMP:7159
 EN Hex/ASCII (16 bytes)
-ZH Chi/CHICKEN (16 chicken)
+ZH 十六进制/ASCII (16 字节)
 
 // DUMP:7160
 EN Hex bytes (16 per line) and ASCII characters
-ZH Chicken (16 chicken) chicken chicken chicken
+ZH 十六进制字节 (每行 16) 和 ASCII 字符
 
 // DUMP:7162
 EN Hex/ASCII (8 bytes)
-ZH Chi/CHICKEN (8 chicken)
+ZH 十六进制/ASCII (8 字节)
 
 // DUMP:7163
 EN Hex bytes (8 per line) and ASCII characters
-ZH Chicken (8 chicken) chicken chicken chicken
+ZH 十六进制字节 (每行 8) 和 ASCII 字符
 
 // DUMP:7165
 EN Hex/UNICODE (16 bytes)
-ZH Chi/CHICKEN (16 chicken)
+ZH 十六进制/UNICODE (16 字节)
 
 // DUMP:7166
 EN Hex bytes (16 per line) and UNICODE characters
-ZH Chicken (16 chicken) chicken chicken chicken
+ZH 十六进制字节 (每行 16) 和 UNICODE 字符
 
 // DUMP:7168
 EN Hex/UNICODE (8 bytes)
-ZH Chi/CHICKEN (8 chicken)
+ZH 十六进制/UNICODE (8 字节)
 
 // DUMP:7169
 EN Hex bytes (8 per line) and UNICODE characters
-ZH Chicken (8 chicken) chicken chicken chicken
+ZH 十六进制字节 (每行 8) 和 UNICODE 字符
 
 // DUMP:7171
 EN Hex/multibyte (16 bytes)
-ZH Chi/chicken (16 chicken)
+ZH 十六进制/多字节 (16 字节)
 
 // DUMP:7172
 EN Hex bytes (at most 16 per line) and multibyte characters
-ZH Chicken (chicken 16 chicken) chicken chicken chicken
+ZH 十六进制字节 (每行最多 16) 和多字节字符
 
 // DUMP:7174
 EN Hex/multibyte (8 bytes)
-ZH Chi/chicken (8 chicken)
+ZH 十六进制/多字节 (8 字节)
 
 // DUMP:7175
 EN Hex bytes (at most 8 per line) and multibyte characters
-ZH Chicken (chicken 8 chicken) chicken chicken chicken
+ZH 十六进制字节 (每行最多 8) 和多字节字符
 
 // DUMP:7181
 EN ASCII (64 chars)
-ZH CHICKEN (64 chicken)
+ZH ASCII (64 字符)
 
 // DUMP:7182
 EN ASCII characters (64 per line)
-ZH Chicken chicken (64 chicken)
+ZH ASCII 字符 (每行 64)
 
 // DUMP:7184
 EN ASCII (32 chars)
-ZH CHICKEN (32 chicken)
+ZH ASCII (32 字符)
 
 // DUMP:7185
 EN ASCII characters (32 per line)
-ZH Chicken chicken (32 chicken)
+ZH ASCII 字符 (每行 32)
 
 // DUMP:7187
 EN UNICODE (64 chars)
-ZH CHICKEN (64 chicken)
+ZH UNICODE (64 字符)
 
 // DUMP:7188
 EN UNICODE characters (64 per line)
-ZH Chicken chicken (64 chicken)
+ZH UNICODE 字符 (每行 64)
 
 // DUMP:7190
 EN UNICODE (32 chars)
-ZH CHICKEN (32 chicken)
+ZH UNICODE (32 字符)
 
 // DUMP:7191
 EN UNICODE characters (32 per line)
-ZH Chicken chicken (32 chicken)
+ZH UNICODE 字符 (每行 32)
 
 // DUMP:7193
 EN UNICODE (16 chars)
-ZH CHICKEN (16 chicken)
+ZH UNICODE (16 字符)
 
 // DUMP:7194
 EN UNICODE characters (16 per line)
-ZH Chicken chicken (16 chicken)
+ZH UNICODE 字符 (每行 16)
 
 // DUMP:7200
 EN Short signed
-ZH Chicken chicken
+ZH 短有符号
 
 // DUMP:7201
 EN 16-bit signed decimal numbers
-ZH 16-chicken chicken chicken
+ZH 16 位有符号十进制数
 
 // DUMP:7206
 EN Short unsigned
-ZH Chicken chicken
+ZH 短无符号
 
 // DUMP:7207
 EN 16-bit unsigned decimal numbers
-ZH 16-chicken chicken chicken chicken
+ZH 16 位无符号十进制数
 
 // DUMP:7212
 EN Short hex
-ZH Chicken
+ZH 短十六进制
 
 // DUMP:7213
 EN 16-bit hexadecimal numbers
-ZH 16-chicken chicken chicken
+ZH 16 位十六进制数
 
 // DUMP:7218
 EN Long signed
-ZH Chicken chicken
+ZH 长有符号
 
 // DUMP:7219
 EN 32-bit signed decimal numbers
-ZH 32-chicken chicken chicken
+ZH 32 位有符号十进制数
 
 // DUMP:7224
 EN Long unsigned
-ZH Chicken chicken
+ZH 长无符号
 
 // DUMP:7225
 EN 32-bit unsigned decimal numbers
-ZH 32-chicken chicken chicken chicken
+ZH 32 位无符号十进制数
 
 // DUMP:7230
 EN Long hex
-ZH Chicken
+ZH 长十六进制
 
 // DUMP:7231
 EN 32-bit hexadecimal numbers
-ZH 32-chicken chicken chicken
+ZH 32 位十六进制数
 
 // DUMP:7237
 EN 32-bit hexadecimal address with comments
-ZH 32-chicken chicken chicken chicken chicken
+ZH 32 位十六进制地址带注释
 
 // DUMP:7239
 EN Address with ASCII dump
-ZH Chicken chicken chicken
+ZH 地址带 ASCII 数据
 
 // DUMP:7240
 EN Address with ASCII dump and comments
-ZH Chicken chicken chicken chicken chicken
+ZH 地址带 ASCII 数据和注释
 
 // DUMP:7242
 EN Address with UNICODE dump
-ZH Chicken chicken chicken
+ZH 地址带 UNICODE 数据
 
 // DUMP:7243
 EN Address with UNICODE dump and comments
-ZH Chicken chicken chicken chicken chicken
+ZH 地址带 UNICODE 数据和注释
 
 // DUMP:7250
 EN 32-bit floating-point numbers (float)
-ZH 32-chicken chicken-chicken chicken (chicken)
+ZH 32 位浮点数 (float)
 
 // DUMP:7256
 EN 64-bit floating-point numbers (double)
-ZH 64-chicken chicken-chicken chicken (chicken)
+ZH 64 位浮点数 (double)
 
 // DUMP:7262
 EN 80-bit floating-point numbers (long double)
-ZH 80-chicken chicken-chicken chicken (chicken chicken)
+ZH 80 位浮点数 (long double)
 
 // DUMP:7285
 EN Lock address
-ZH Chicken chicken
+ZH 锁定地址
 
 // DUMP:7286
 EN Stop scrolling stack as ESP changes
-ZH Chicken chicken chicken chicken chicken
+ZH 停止随 ESP 变化滚动堆栈
 
 // DUMP:7288
 EN Unlock address
-ZH Chicken chicken
+ZH 解锁地址
 
 // DUMP:7289
 EN Allow automatic stack scrolling according to ESP
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 允许根据 ESP 自动滚动堆栈
 
 // DUMP:7293
 EN Backup functions
-ZH Chicken chicken
+ZH 备份功能
 
 // DUMP:7296
 EN &Edit
@@ -6147,243 +6147,243 @@ ZH &Chic
 
 // DUMP:7297
 EN Select, copy and edit functions
-ZH Chicken, chicken chicken chicken
+ZH 选择、复制和编辑功能
 
 // DUMP:7299
 EN Zero whole dump
-ZH Chicken chicken
+ZH 整个数据清零
 
 // DUMP:7300
 EN Fill whole dump with zeros and update backup
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 用零填充整个数据并更新备份
 
 // DUMP:7302
 EN Push DWORD...
-ZH Chicken...
+ZH 压入双字...
 
 // DUMP:7303
 EN Push doubleword into the stack
-ZH Chicken chicken chicken chicken
+ZH 将双字压入堆栈
 
 // DUMP:7305
 EN Pop DWORD
-ZH Chicken
+ZH 弹出双字
 
 // DUMP:7306
 EN Pop doubleword from the stack (increments ESP by 4)
-ZH Chicken chicken chicken chicken (chicken chicken 4)
+ZH 从堆栈弹出双字 (ESP 加 4)
 
 // DUMP:7308
 EN Add &label...
-ZH Chi &chicken...
+ZH 添加标签(&L)...
 
 // DUMP:7309
 EN Add custom label at the start of selection
-ZH Chicken chicken chicken chicken chicken
+ZH 在所选内容起始处添加自定义标签
 
 // DUMP:7311
 EN Edit &label...
-ZH Chic &chicken...
+ZH 编辑标签(&L)...
 
 // DUMP:7312
 EN Edit custom label at the start of selection
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在所选内容起始处编辑自定义标签
 
 // DUMP:7314
 EN &Assemble...
-ZH &Chicken...
+ZH 汇编(&A)...
 
 // DUMP:7315
 EN Insert one or more Assembler commands
-ZH Chicken chicken chicken chicken chicken
+ZH 插入一条或多条汇编指令
 
 // DUMP:7317
 EN Add &comment...
-ZH Chi &chicken...
+ZH 添加注释(&C)...
 
 // DUMP:7318
 EN Add custom comment at the start of selection
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在所选内容起始处添加自定义注释
 
 // DUMP:7320
 EN Edit &comment...
-ZH Chic &chicken...
+ZH 编辑注释(&C)...
 
 // DUMP:7321
 EN Edit custom comment at the start of selection
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在所选内容起始处编辑自定义注释
 
 // DUMP:7324
 EN Save file...
-ZH Chicken...
+ZH 保存文件...
 
 // DUMP:7325
 EN Save file to the disk
-ZH Chicken chicken chicken
+ZH 将文件保存到磁盘
 
 // DUMP:7328
 EN &Breakpoint
-ZH &Chicken
+ZH 断点(&B)
 
 // DUMP:7329
 EN Set, reset or edit all kinds of breakpoints
-ZH Chi, chicken chicken chicken chicken chicken
+ZH 设置、重置或编辑各种断点
 
 // DUMP:7332
 EN New origin here
-ZH Chicken chicken
+ZH 在此设置新起点
 
 // DUMP:7333
 EN Set EIP of current thread to selected command
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将当前线程的 EIP 设置为所选指令
 
 // DUMP:7336
 EN Set EIP of current thread to selected memory address
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 将当前线程的 EIP 设置为所选内存地址
 
 // DUMP:7339
 EN Follow destination in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随目标
 
 // DUMP:7345
 EN Follow in CPU Dump pane
-ZH Chicken chicken chicken
+ZH 在 CPU 数据面板中跟随
 
 // DUMP:7347
 EN Follow DWORD in Disassembler
-ZH Chicken chicken chicken chicken
+ZH 在反汇编中跟随双字
 
 // DUMP:7348
 EN Follow doubleword in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随双字
 
 // DUMP:7350
 EN Follow DWORD in Dump
-ZH Chicken chicken chicken
+ZH 在数据中跟随双字
 
 // DUMP:7351
 EN Follow doubleword in CPU Dump
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随双字
 
 // DUMP:7353
 EN Follow DWORD in Stack
-ZH Chicken chicken chicken
+ZH 在堆栈中跟随双字
 
 // DUMP:7354
 EN Follow doubleword in CPU Stack
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 堆栈中跟随双字
 
 // DUMP:7357
 EN Follow address in CPU Disassembler
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随地址
 
 // DUMP:7366
 EN Go to different point
-ZH Chicken chicken chicken
+ZH 转到其他位置
 
 // DUMP:7368
 EN Select module
-ZH Chicken chicken
+ZH 选择模块
 
 // DUMP:7369
 EN Select module to display
-ZH Chicken chicken chicken
+ZH 选择要显示的模块
 
 // DUMP:7371
 EN Select thread
-ZH Chicken chicken
+ZH 选择线程
 
 // DUMP:7372
 EN Select thread to display
-ZH Chicken chicken chicken
+ZH 选择要显示的线程
 
 // DUMP:7375
 EN Decode as structure...
-ZH Chicken chicken chicken...
+ZH 解码为结构...
 
 // DUMP:7376
 EN Decode selection as a known structure in a separate window
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在单独窗口中将所选内容解码为已知结构
 
 // DUMP:7378
 EN Decode as pointer to structure...
-ZH Chicken chicken chicken chicken...
+ZH 解码为结构指针...
 
 // DUMP:7380
 EN Decode selection as a pointer to known structure in a separate window
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在单独窗口中将所选内容解码为已知结构的指针
 
 // DUMP:7382
 EN Open in a separate dump window
-ZH Chicken chicken chicken chicken
+ZH 在单独的数据窗口中打开
 
 // DUMP:7383
 EN Open selected piece in a standalone dump window
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在独立数据窗口中打开所选片段
 
 // DUMP:7386
 EN Search for
-ZH Chicken
+ZH 搜索
 
 // DUMP:7387
 EN Search for objects that match search pattern
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 搜索匹配搜索模式的对象
 
 // DUMP:7389
 EN Find references to
-ZH Chicken chicken
+ZH 查找引用
 
 // DUMP:7390
 EN Search for commands referring to range or constant
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 搜索引用范围或常量的指令
 
 // DUMP:7392
 EN Highlight register
-ZH Chicken chicken
+ZH 高亮寄存器
 
 // DUMP:7393
 EN Highlight operands containing specified register
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 高亮包含指定寄存器的操作数
 
 // DUMP:7395
 EN Addressing
-ZH Chicken
+ZH 寻址
 
 // DUMP:7396
 EN Set absolute or relative addressing
-ZH Chicken chicken chicken chicken chicken
+ZH 设置绝对或相对寻址
 
 // DUMP:7399
 EN Set contents of the comments column
-ZH Chicken chicken chicken chicken chicken
+ZH 设置注释列的内容
 
 // DUMP:7402
 EN Analysis
-ZH Chicken
+ZH 分析
 
 // DUMP:7403
 EN Code analysis
-ZH Chicken chicken
+ZH 代码分析
 
 // DUMP:7406
 EN Help on command
-ZH Chicken chicken
+ZH 指令帮助
 
 // DUMP:7407
 EN Get explanation on the first selected command
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 获取首个所选指令的解释
 
 // DUMP:7409
 EN Help on API function
-ZH Chicken chicken chicken
+ZH API 函数帮助
 
 // DUMP:7410
 EN Search for symbolic name in API Help file
-ZH Chicken chicken chicken chicken chicken
+ZH 在 API 帮助文件中搜索符号名称
 
 // DUMP:7414
 EN Display data as a sequence of hexadecimal bytes
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将数据显示为十六进制字节序列
 
 // DUMP:7416
 EN Text
@@ -6391,71 +6391,71 @@ ZH Chic
 
 // DUMP:7417
 EN Display data as a text
-ZH Chicken chicken chicken
+ZH 将数据显示为文本
 
 // DUMP:7419
 EN Integer
-ZH Chicken
+ZH 整数
 
 // DUMP:7420
 EN Display data as integers
-ZH Chicken chicken chicken
+ZH 将数据显示为整数
 
 // DUMP:7423
 EN Display data as floating-point numbers
-ZH Chicken chicken chicken-chicken chicken
+ZH 将数据显示为浮点数
 
 // DUMP:7425
 EN Disassemble
-ZH Chicken chicken
+ZH 反汇编
 
 // DUMP:7426
 EN Decode data as 80x86 commands
-ZH Chicken chicken 80c86 chicken
+ZH 将数据解码为 80x86 指令
 
 // DUMP:7428
 EN Structure...
-ZH Chicken...
+ZH 结构...
 
 // DUMP:7429
 EN Decode data as known structure
-ZH Chicken chicken chicken chicken
+ZH 将数据解码为已知结构
 
 // DUMP:7432
 EN Columns
-ZH Chicken
+ZH 列
 
 // DUMP:7433
 EN Select columns to display
-ZH Chicken chicken chicken
+ZH 选择要显示的列
 
 // DUMP:7435
 EN Select ASCII code page
-ZH Chicken chicken chicken
+ZH 选择 ASCII 代码页
 
 // DUMP:7436
 EN Select code page used to display ASCII character dumps
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 选择用于显示 ASCII 字符数据的代码页
 
 // DUMP:7439
 EN Select code page used to display multibyte character dumps
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 选择用于显示多字节字符数据的代码页
 
 // DUMP:8109
 EN Unable to open file '%s' for dump
-ZH Chicken chicken chicken '%s' chicken
+ZH 无法打开文件 '%s' 进行查看
 
 // DUMP:8115
 EN Unable to dump file '%s'. It has zero length.
-ZH Chicken chicken chicken '%s'. Chicken chicken.
+ZH 无法转储文件 '%s'. 文件长度为零.
 
 // DUMP:8122
 EN Unable to read file '%s'
-ZH Chicken chicken chicken '%s'
+ZH 无法读取文件 '%s'
 
 // DUMP:8208
 EN Data dump
-ZH Chicken
+ZH 数据
 
 // EXPRESS:188
 EN Expression is too complex
