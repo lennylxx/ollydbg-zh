@@ -15095,147 +15095,147 @@ ZH 堆栈帧
 
 // START:321
 EN Unable to extract name of executable file from link '%s'
-ZH Chicken chicken chicken chicken chicken chicken chicken '%s'
+ZH 无法从链接 '%s' 提取可执行文件名
 
 // START:329
 EN Program Information File '%s' is a shortcut to MS-DOS program. OllyDbg is unable to debug 16-bit code.
-ZH Chicken chicken chicken '%s' chicken chicken chicken-Chicken chicken. Chicken chicken chicken 16-chicken.
+ZH 程序信息文件 '%s' 是 MS-DOS 程序的快捷方式。OllyDbg 无法调试 16 位代码。
 
 // START:335
 EN Unable to locate file '%s'
-ZH Chicken chicken chicken '%s'
+ZH 无法定位文件 '%s'
 
 // START:385
 EN Unable to open or read file '%s'
-ZH Chicken chicken chicken chicken '%s'
+ZH 无法打开或读取文件 '%s'
 
 // START:388
 EN File '%s' is probably not a 32-bit Portable Executable. Try to load it anyway?
-ZH Chic '%s' chicken chicken 32-chicken chicken chicken. Chicken chicken chicken?
+ZH 文件 '%s' 可能不是 32 位可移植可执行文件。仍要尝试加载吗？
 
 // START:389
 EN Not a valid PE file
-ZH Chicken chicken chicken
+ZH 不是有效的 PE 文件
 
 // START:394
 EN File '%s' probably will not run under Win95-based OS due to the non-standard section alignment. Try to load it anyway?
-ZH Chic '%s' chicken chicken chicken chicken95-chicken chicken chicken-chicken chicken chicken. Chicken chicken chicken?
+ZH 文件 '%s' 因节对齐方式非标准，可能无法在 Win95 系列操作系统上运行。仍要尝试加载吗？
 
 // START:395
 EN Suspicious PE file
-ZH Chicken chicken
+ZH 可疑的 PE 文件
 
 // START:399
 EN Request to load DLL
-ZH Chicken chicken chicken
+ZH 加载 DLL 请求
 
 // START:401
 EN File '%s' is a DLL. Windows can't execute DLLs directly. Extract and launch LOADDLL.EXE?
-ZH Chic '%s' chicken. Chicken chicken'chicken chicken chicken. Chicken chicken chicken.CHI?
+ZH 文件 '%s' 是 DLL。Windows 无法直接执行 DLL。是否提取并启动 LOADDLL.EXE？
 
 // START:447
 EN Unable to start .NET file '%s'
-ZH Chicken chicken .Chicken '%s'
+ZH 无法启动 .NET 文件 '%s'
 
 // START:472
 EN Unable to start file '%s'
-ZH Chicken chicken chicken '%s'
+ZH 无法启动文件 '%s'
 
 // START:491
 EN Console application '%s'
-ZH Chicken chicken chicken '%s'
+ZH 控制台程序 '%s'
 
 // START:493
 EN .NET application '%s'
-ZH .Chicken chicken '%s'
+ZH .NET 程序 '%s'
 
 // START:495
 EN File '%s'
-ZH Chic '%s'
+ZH 文件 '%s'
 
 // START:497
 EN Arguments:
-ZH Chicken:
+ZH 参数:
 
 // START:501
 EN Current directory:
-ZH Chicken chicken:
+ZH 当前目录:
 
 // START:770
 EN Unable to locate process with identifier %08X (%u.). Probably this process has already terminated, or is not visible to OllyDbg.
-ZH Chicken chicken chicken chicken chicken %08X (%u.). Chicken chicken chicken chicken chicken chicken, chicken chicken chicken chicken.
+ZH 无法定位 ID 为 %08X (%u.) 的进程。该进程可能已终止，或对 OllyDbg 不可见。
 
 // START:783
 EN unknown meaning
-ZH chicken chicken
+ZH 含义未知
 
 // START:785
 EN Unable to attach to process '%s' with ID %08X (%i.). Reason: %08X (%s)
-ZH Chicken chicken chicken chicken '%s' chicken %08X (%i.). Chicken: %08X (%s)
+ZH 无法附加到 ID 为 %08X (%i.) 的进程 '%s'。原因: %08X (%s)
 
 // START:807
 EN Attached to '%s'
-ZH Chicken chicken '%s'
+ZH 已附加到 '%s'
 
 // START:856
 EN Update list of running processes
-ZH Chicken chicken chicken chicken
+ZH 更新运行中的进程列表
 
 // START:858
 EN A&ttach
-ZH C&chicken
+ZH 附加(&T)
 
 // START:859
 EN Attach to selected process
-ZH Chicken chicken chicken
+ZH 附加到所选进程
 
 // START:898
 EN <Debuggee>
-ZH <Chicken>
+ZH <被调试程序>
 
 // START:1005
 EN Select process to attach
-ZH Chicken chicken chicken
+ZH 选择要附加的进程
 
 // START:1006
 EN Attach
-ZH Chicken
+ZH 附加
 
 // START:1022
 EN To find process, start typing its name
-ZH Chicken chicken, chicken chicken chicken
+ZH 要查找进程, 请开始输入其名称
 
 // START:1080
 EN You can't debug the instance of the OllyDbg you are currently using.
-ZH Chicken'chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH 无法调试您当前使用的 OllyDbg 实例.
 
 // START:1084
 EN The process '%s' is one you are currently debugging. You are already attached to it.
-ZH Chicken chicken '%s' chicken chicken chicken chicken. Chicken chicken chicken chicken.
+ZH 进程 '%s' 正是您当前正在调试的进程。您已附加到该进程。
 
 // START:1116
 EN PID$     (Decimal)
-ZH CHI$     (Chicken)
+ZH PID$     (十进制)
 
 // START:1117
 EN Process identifier (hex and decimal forms)
-ZH Chicken chicken (chicken chicken chicken)
+ZH 进程 ID (十六进制和十进制形式)
 
 // START:1121
 EN Process name
-ZH Chicken chicken
+ZH 进程名称
 
 // START:1124
 EN Window
-ZH Chicken
+ZH 窗口
 
 // START:1126
 EN Title of some top-level window belonging to process
-ZH Chicken chicken-chicken chicken chicken chicken
+ZH 进程的某个顶层窗口的标题
 
 // START:1130
 EN Name of executable file
-ZH Chicken chicken chicken
+ZH 可执行文件名称
 
 // SUPPORT:14
 EN About OllyDbg
