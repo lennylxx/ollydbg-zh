@@ -1279,119 +1279,119 @@ ZH CHI3 chicken chicken
 
 // COMMENTS:519
 EN Jump to
-ZH Chicken
+ZH 跳转到
 
 // COMMENTS:537
 EN Entry point
-ZH Chicken chicken
+ZH 入口点
 
 // COMMENTS:550
 EN PTR to
-ZH Chicken
+ZH 指向
 
 // COMMENTS:687
 EN XMMWORD (16.-byte)
-ZH CHICKEN (16.-chic)
+ZH XMMWORD (16.-字节)
 
 // COMMENTS:689
 EN YMMWORD (32.-byte)
-ZH CHICKEN (32.-chic)
+ZH YMMWORD (32.-字节)
 
 // COMMENTS:693
 EN (%i-byte)
-ZH (%i-chic)
+ZH (%i-字节)
 
 // COMMENTS:695
 EN (%i.-byte)
-ZH (%i.-chic)
+ZH (%i.-字节)
 
 // COMMENTS:698
 EN %i.-byte
-ZH %i.-chic
+ZH %i.-字节
 
 // COMMENTS:733
 EN Cascaded IF (
-ZH Chicken chicken (
+ZH 级联 IF (
 
 // COMMENTS:735
 EN Switch (
-ZH Chicken (
+ZH Switch (
 
 // COMMENTS:737
 EN cases -%X..%X
-ZH chicken -%X..%X
+ZH 分支 -%X..%X
 
 // COMMENTS:740
 EN exceptions %X..%X
-ZH chicken %X..%X
+ZH 异常 %X..%X
 
 // COMMENTS:742
 EN messages %X..%X
-ZH chicken %X..%X
+ZH 消息 %X..%X
 
 // COMMENTS:744
 EN cases %X..%X
-ZH chicken %X..%X
+ZH 分支 %X..%X
 
 // COMMENTS:746
 EN , %i exits)
-ZH , %i chicken)
+ZH , %i 个出口)
 
 // COMMENTS:748
 EN , %i. exits)
-ZH , %i. chicken)
+ZH , %i. 个出口)
 
 // COMMENTS:750
 EN , some cases lost due to high complexity
-ZH , chicken chicken chicken chicken chicken
+ZH , 部分分支因复杂度过高而丢失
 
 // COMMENTS:759
 EN Default case
-ZH Chicken chicken
+ZH 默认分支
 
 // COMMENTS:761
 EN Case
-ZH Chic
+ZH 分支
 
 // COMMENTS:762
 EN Cases
-ZH Chicken
+ZH 分支
 
 // COMMENTS:782
 EN and other
-ZH chicken
+ZH 及其他
 
 // COMMENTS:786
 EN of cascaded IF
-ZH chicken chicken
+ZH (级联 IF)
 
 // COMMENTS:788
 EN of switch
-ZH chicken
+ZH (switch)
 
 // COMMENTS:818
 EN Loop
-ZH Chic
+ZH 循环
 
 // COMMENTS:821
 EN : loop variable
-ZH : chicken chicken
+ZH : 循环变量
 
 // COMMENTS:823
 EN : loop variables
-ZH : chicken chicken
+ZH : 循环变量
 
 // COMMENTS:906
 EN Callback
-ZH Chicken
+ZH 回调
 
 // COMMENTS:920
 EN guessed
-ZH chicken
+ZH 推测
 
 // COMMENTS:925
 EN void
-ZH chic
+ZH void
 
 // CPU:55
 EN Disassembler
