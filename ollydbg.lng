@@ -1159,123 +1159,123 @@ ZH 内存断点
 
 // BREAKS:152
 EN Corrupt breakpoint
-ZH Chicken chicken
+ZH 损坏的断点
 
 // BREAKS:156
 EN Breakpoint set at address %08X is corrupt (contains hex code %02X instead of %02X (%s). Probably the code is self-modifiable, or breakpoint was set on data. Description of the breakpoint will be updated.
-ZH Chicken chicken chicken %08X chicken (chicken chicken %02X chicken %02X (%s). Chicken chicken chicken-chicken, chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken.
+ZH 在地址 %08X 设置的断点已损坏（包含十六进制代码 %02X 而非 %02X（%s）。代码可能具有自修改性，或断点被设置在了数据上。断点描述将被更新。
 
 // BREAKS:226
 EN Unable to set breakpoint
-ZH Chicken chicken chicken
+ZH 无法设置断点
 
 // BREAKS:227
 EN Unable to set breakpoint at address %08X.
-ZH Chicken chicken chicken chicken chicken %08X.
+ZH 无法在地址 %08X 设置断点.
 
 // BREAKS:237
 EN Unable to set breakpoint at address %08X. Memory is not readable.
-ZH Chicken chicken chicken chicken chicken %08X. Chicken chicken chicken.
+ZH 无法在地址 %08X 设置断点。内存不可读。
 
 // BREAKS:247
 EN Unable to set breakpoint at address %08X. Memory is not writeable.
-ZH Chicken chicken chicken chicken chicken %08X. Chicken chicken chicken.
+ZH 无法在地址 %08X 设置断点。内存不可写。
 
 // BREAKS:261
 EN Unable to remove breakpoint
-ZH Chicken chicken chicken chicken
+ZH 无法删除断点
 
 // BREAKS:262
 EN Unable to remove breakpoint at address %08X.
-ZH Chicken chicken chicken chicken chicken %08X.
+ZH 无法在地址 %08X 删除断点.
 
 // BREAKS:275
 EN Unable to remove breakpoint at address %08X. Memory is not readable.
-ZH Chicken chicken chicken chicken chicken %08X. Chicken chicken chicken.
+ZH 无法在地址 %08X 删除断点。内存不可读。
 
 // BREAKS:282
 EN Breakpoint set at address %08X is corrupt (contains hex code %02X instead of %02X (%s). Probably the code is self-modifiable, or breakpoint was set on data.
-ZH Chicken chicken chicken %08X chicken (chicken chicken %02X chicken %02X (%s). Chicken chicken chicken-chicken, chicken chicken chicken chicken.
+ZH 在地址 %08X 设置的断点已损坏（包含十六进制代码 %02X 而非 %02X（%s）。代码可能具有自修改性，或断点被设置在了数据上。
 
 // BREAKS:292
 EN Unable to remove breakpoint at address %08X. Memory is not writeable.
-ZH Chicken chicken chicken chicken chicken %08X. Chicken chicken chicken.
+ZH 无法在地址 %08X 删除断点。内存不可写。
 
 // BREAKS:470
 EN Suspicious breakpoint
-ZH Chicken chicken chicken
+ZH 可疑断点
 
 // BREAKS:474
 EN You are going to set execution breakpoint at the location %08X which is probably not the first byte of the command. This may disturb execution or even crash the debugged application. Do you still want to set breakpoint?
-ZH Chicken chicken chicken chicken chicken chicken chicken %08X chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken?
+ZH 您将在位置 %08X 设置执行断点，该位置可能不是指令的首字节。这可能会扰乱执行流程，甚至导致被调试程序崩溃。仍要设置断点吗？
 
 // BREAKS:486
 EN You are going to set execution breakpoint at the location %08X which is probably not the first byte of the command. Are you sure?
-ZH Chicken chicken chicken chicken chicken chicken chicken %08X chicken chicken chicken chicken chicken chicken chicken. Chicken chicken?
+ZH 您将在位置 %08X 设置执行断点，该位置可能不是指令的首字节。确定吗？
 
 // BREAKS:511
 EN Suspicious breakpoints
-ZH Chicken chicken chicken
+ZH 可疑断点
 
 // BREAKS:515
 EN You are going to set execution breakpoints on several locations. At least one of them (for example, %08X) is probably not the first byte of the command. This may disturb execution or even crash the debugged application. Do you still want to set breakpoints?
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken (chicken chicken, %08X) chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken?
+ZH 您将在多个位置设置执行断点。其中至少一个位置（例如 %08X）可能不是指令的首字节。这可能会扰乱执行流程，甚至导致被调试程序崩溃。仍要设置这些断点吗？
 
 // BREAKS:711
 EN Delete INT3 breakpoint
-ZH Chicken3 chicken
+ZH 删除 INT3 断点
 
 // BREAKS:716
 EN Re-enable INT3 breakpoint
-ZH Ch-chicken3 chicken
+ZH 重新启用 INT3 断点
 
 // BREAKS:718
 EN Edit properties associated with breakpoint
-ZH Chicken chicken chicken chicken chicken
+ZH 编辑与断点关联的属性
 
 // BREAKS:724
 EN Disable all INT3 breakpoints
-ZH Chicken chicken3 chicken chicken
+ZH 禁用所有 INT3 断点
 
 // BREAKS:726
 EN Re-enable all INT3 breakpoints
-ZH Ch-chicken chicken3 chicken chicken
+ZH 重新启用所有 INT3 断点
 
 // BREAKS:833
 EN One-shot
-ZH Chi-chic
+ZH 一次性
 
 // BREAKS:836
 EN Plugin Permanent
-ZH Chicken chicken
+ZH 插件永久
 
 // BREAKS:838
 EN Permanent
-ZH Chicken
+ZH 永久
 
 // BREAKS:840
 EN Temporary
-ZH Chicken
+ZH 临时
 
 // BREAKS:843
 EN Trace
-ZH Chicken
+ZH 跟踪
 
 // BREAKS:883
 EN Address of INT3 breakpoint
-ZH Chicken chicken3 chicken
+ZH INT3 断点的地址
 
 // BREAKS:891
 EN Status of INT3 breakpoint
-ZH Chicken chicken3 chicken
+ZH INT3 断点的状态
 
 // BREAKS:895
 EN Disassembled command
-ZH Chicken chicken chicken
+ZH 反汇编后的指令
 
 // BREAKS:914
 EN INT3 breakpoints
-ZH CHI3 chicken chicken
+ZH INT3 断点
 
 // COMMENTS:519
 EN Jump to
