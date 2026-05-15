@@ -6459,127 +6459,127 @@ ZH Chicken
 
 // EXPRESS:188
 EN Expression is too complex
-ZH Chicken chicken chicken
+ZH 表达式过于复杂
 
 // EXPRESS:255
 EN Closing parenthesis expected
-ZH Chicken chicken chicken chicken
+ZH 需要右圆括号
 
 // EXPRESS:267
 EN Unary plus is not defined for strings
-ZH Chicken chicken chicken chicken chicken
+ZH 字符串不支持一元加运算
 
 // EXPRESS:283
 EN Negation is not defined for strings
-ZH Chicken chicken chicken chicken chicken
+ZH 字符串不支持取负运算
 
 // EXPRESS:299
 EN Logical negation is not defined for strings
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 字符串不支持逻辑取反运算
 
 // EXPRESS:313
 EN Bitwise inversion is not defined for floats
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 浮点数不支持按位取反运算
 
 // EXPRESS:317
 EN Bitwise inversion is not defined for strings
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 字符串不支持按位取反运算
 
 // EXPRESS:504
 EN Unexpected end of line
-ZH Chicken chicken chicken
+ZH 意外的行尾
 
 // EXPRESS:548
 EN Repeat count is not allowed here
-ZH Chicken chicken chicken chicken
+ZH 此处不允许使用重复计数
 
 // EXPRESS:551
 EN Constant repeat count expected
-ZH Chicken chicken chicken chicken
+ZH 需要常量重复计数
 
 // EXPRESS:554
 EN Duplicated repeat count
-ZH Chicken chicken chicken
+ZH 重复指定了重复计数
 
 // EXPRESS:557
 EN Repeat count outside of range 1..%i
-ZH Chicken chicken chicken chicken 1..%i
+ZH 重复计数超出范围 1..%i
 
 // EXPRESS:619
 EN Duplicated selector
-ZH Chicken chicken chicken
+ZH 重复的选择器
 
 // EXPRESS:622
 EN Invalid type of selector
-ZH Chicken chicken chicken
+ZH 无效的选择器类型
 
 // EXPRESS:683
 EN Invalid type of memory address
-ZH Chicken chicken chicken chicken
+ZH 无效的内存地址类型
 
 // EXPRESS:687
 EN Closing bracket expected
-ZH Chicken chicken chicken
+ZH 需要右方括号
 
 // EXPRESS:759
 EN Repeat count is allowed only in pure memory references
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 重复计数仅在纯内存引用中允许使用
 
 // EXPRESS:907
 EN Invalid operation
-ZH Chicken chicken
+ZH 无效操作
 
 // EXPRESS:986
 EN No expression
-ZH Chicken chicken
+ZH 无表达式
 
 // EXPRESS:1091
 EN Too many expressions
-ZH Chicken chicken chicken
+ZH 表达式过多
 
 // EXPRESS:1212
 EN Unable to get thread ordinal
-ZH Chicken chicken chicken chicken
+ZH 无法获取线程序号
 
 // EXPRESS:1220
 EN Registers are not accessible
-ZH Chicken chicken chicken chicken
+ZH 寄存器不可访问
 
 // EXPRESS:1306
 EN SSE registers are not accessible
-ZH Chicken chicken chicken chicken
+ZH SSE 寄存器不可访问
 
 // EXPRESS:1336
 EN Expression index out of limits
-ZH Chicken chicken chicken chicken
+ZH 表达式索引超出范围
 
 // EXPRESS:1412
 EN Unable to get contents of memory
-ZH Chicken chicken chicken chicken
+ZH 无法获取内存内容
 
 // EXPRESS:1443
 EN Unable to get base of selector
-ZH Chicken chicken chicken chicken
+ZH 无法获取选择器基址
 
 // EXPRESS:1567
 EN Division by 0.0
-ZH Chicken chicken 0.0
+ZH 除数为 0.0
 
 // EXPRESS:1610
 EN Division by 0
-ZH Chicken chicken 0
+ZH 除数为 0
 
 // EXPRESS:1725
 EN Error in precompiled expression
-ZH Chicken chicken chicken chicken
+ZH 预编译表达式中出错
 
 // EXPRESS:1751
 EN Invalid expression
-ZH Chicken chicken
+ZH 无效的表达式
 
 // EXPRESS:1872
 EN Multiple expressions are not allowed
-ZH Chicken chicken chicken chicken chicken
+ZH 不允许多个表达式
 
 // FNDATA:522
 EN Saving known data to file
