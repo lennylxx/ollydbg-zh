@@ -9943,139 +9943,139 @@ ZH Chicken chicken chicken chicken
 
 // NAMELIST:353
 EN Update contents of Names window
-ZH Chicken chicken chicken chicken
+ZH 更新名称窗口的内容
 
 // NAMELIST:355
 EN Follow import
-ZH Chicken chicken
+ZH 跟随导入
 
 // NAMELIST:356
 EN Follow import in CPU Disassembler pane
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编面板中跟随导入
 
 // NAMELIST:359
 EN Follow selected label in CPU Disassembler pane
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编面板中跟随所选标签
 
 // NAMELIST:362
 EN Follow selected label in CPU Dump pane
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据面板中跟随所选标签
 
 // NAMELIST:365
 EN Set unconditional breakpoint on selected address
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在所选地址设置无条件断点
 
 // NAMELIST:367
 EN Conditional breakpoint...
-ZH Chicken chicken chicken...
+ZH 条件断点...
 
 // NAMELIST:368
 EN Set or edit conditional breakpoint
-ZH Chicken chicken chicken chicken
+ZH 设置或编辑条件断点
 
 // NAMELIST:371
 EN Set or edit conditional logging breakpoint
-ZH Chicken chicken chicken chicken chicken
+ZH 设置或编辑条件记录断点
 
 // NAMELIST:373
 EN Remove breakpoint
-ZH Chicken chicken
+ZH 删除断点
 
 // NAMELIST:374
 EN Remove breakpoint from selected address
-ZH Chicken chicken chicken chicken chicken
+ZH 删除所选地址的断点
 
 // NAMELIST:376
 EN Disable breakpoint
-ZH Chicken chicken
+ZH 禁用断点
 
 // NAMELIST:377
 EN Temporarily disable breakpoint on selected address
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 临时禁用所选地址的断点
 
 // NAMELIST:379
 EN Enable breakpoint
-ZH Chicken chicken
+ZH 启用断点
 
 // NAMELIST:380
 EN Re-enable breakpoint on selected address
-ZH Ch-chicken chicken chicken chicken chicken
+ZH 重新启用所选地址的断点
 
 // NAMELIST:382
 EN Find references
-ZH Chicken chicken
+ZH 查找引用
 
 // NAMELIST:383
 EN Find references to address in the module of origin
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在源模块中查找地址引用
 
 // NAMELIST:550
 EN Search -
-ZH Chicken -
+ZH 搜索 -
 
 // NAMELIST:552
 EN - No match
-ZH - Chicken
+ZH - 无匹配
 
 // NAMELIST:625
 EN Label
-ZH Chicken
+ZH 标签
 
 // NAMELIST:628
 EN Export
-ZH Chicken
+ZH 导出
 
 // NAMELIST:630
 EN Import
-ZH Chicken
+ZH 导入
 
 // NAMELIST:632
 EN Debug data
-ZH Chicken
+ZH 调试数据
 
 // NAMELIST:634
 EN Analyser
-ZH Chicken
+ZH 分析器
 
 // NAMELIST:709
 EN Ordinal =
-ZH Chicken =
+ZH 序号 =
 
 // NAMELIST:789
 EN Address of the name
-ZH Chicken chicken chicken
+ZH 名称的地址
 
 // NAMELIST:794
 EN Name of the module to which the name belongs
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 名称所属模块的名称
 
 // NAMELIST:797
 EN Name of the section to which the name belongs
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 名称所属节的名称
 
 // NAMELIST:801
 EN Type of the name
-ZH Chicken chicken
+ZH 名称的类型
 
 // NAMELIST:804
 EN Ordinal
-ZH Chicken
+ZH 序号
 
 // NAMELIST:805
 EN Ordinal associated with export (decimal number)
-ZH Chicken chicken chicken chicken (chicken chicken)
+ZH 与导出关联的序号 (十进制数)
 
 // NAMELIST:813
 EN Name-related comments
-ZH Chic-chicken chicken
+ZH 名称相关注释
 
 // NAMELIST:826
 EN All names
-ZH Chicken
+ZH 所有名称
 
 // NAMELIST:830
 EN Names in
-ZH Chicken
+ZH 名称位于
 
 // NETASM:1139
 EN Command crosses end of code block
