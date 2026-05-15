@@ -1699,7 +1699,7 @@ ZH 提供 %s 格式的调试信息
 
 // DEBUG:393
 EN Modified debug registers of
-ZH Chicken chicken chicken chicken
+ZH 已修改的调试寄存器 - 
 
 // DEBUG:410
 EN DR%i: old %08X, new %08X
@@ -1707,11 +1707,11 @@ ZH CH%i: chi %08X, chi %08X
 
 // DEBUG:861
 EN Immediate string is not a valid condition
-ZH Chicken chicken chicken chicken chicken
+ZH 立即字符串不是有效的条件
 
 // DEBUG:864
 EN Invalid expression in conditional breakpoint: '%s'
-ZH Chicken chicken chicken chicken chicken chicken: '%s'
+ZH 条件断点中的表达式无效: '%s'
 
 // DEBUG:888
 EN INT3:
@@ -1731,35 +1731,35 @@ ZH CHIC:
 
 // DEBUG:918
 EN Structure
-ZH Chicken
+ZH 结构
 
 // DEBUG:919
 EN %s %s%s at address %08X:
-ZH %s %s%s chicken %08X:
+ZH %s %s%s 位于地址 %08X:
 
 // DEBUG:922
 EN NULL pointer
-ZH Chicken chicken
+ZH 空指针 (NULL)
 
 // DEBUG:924
 EN Unknown structure
-ZH Chicken chicken
+ZH 未知结构
 
 // DEBUG:926
 EN Unable to decode
-ZH Chicken chicken
+ZH 无法解码
 
 // DEBUG:938
 EN %08X (conversion according to type is not possible)
-ZH %08X (chicken chicken chicken chicken chicken chicken)
+ZH %08X (无法按类型转换)
 
 // DEBUG:1035
 EN Unable to protocol function arguments
-ZH Chicken chicken chicken chicken chicken
+ZH 无法记录函数参数
 
 // DEBUG:1040
 EN Call to %s
-ZH Chicken %s
+ZH 调用 %s
 
 // DEBUG:1046
 EN from
@@ -1767,663 +1767,663 @@ ZH chic
 
 // DEBUG:1082
 EN Return from %s
-ZH Chicken chicken %s
+ZH 从 %s 返回
 
 // DEBUG:1084
 EN Return from call
-ZH Chicken chicken
+ZH 从调用返回
 
 // DEBUG:1239
 EN Unable to close process
-ZH Chicken chicken chicken
+ZH 无法关闭进程
 
 // DEBUG:1242
 EN The state of the debugged process does not allow to close it right now. Please repeat this operation later. If this message comes again, the only solution is to restart OllyDbg.
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken. Chicken chicken chicken chicken, chicken chicken chicken chicken chicken.
+ZH 被调试进程的当前状态不允许立即关闭。请稍后重试此操作。如果此消息再次出现，唯一的解决方案是重新启动 OllyDbg。
 
 // DEBUG:1245
 EN Process is still running
-ZH Chicken chicken chicken
+ZH 进程仍在运行
 
 // DEBUG:1247
 EN The debugged process is still active. Would you like to close it now? Note that forced termination may lead to the loss of data.
-ZH Chicken chicken chicken chicken chicken. Chicken chicken chicken chicken? Chicken chicken chicken chicken chicken chicken chicken.
+ZH 被调试进程仍处于活动状态。是否立即关闭？请注意，强制终止可能导致数据丢失。
 
 // DEBUG:1283
 EN Unable to pause process
-ZH Chicken chicken chicken
+ZH 无法暂停进程
 
 // DEBUG:1287
 EN OllyDbg is unable to pause debugged process. Graceful termination is therefore not possible and OllyDbg will call TerminateProcess(), which may lead to the loss of data in the files opened by the application.
-ZH Chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken(), chicken chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH OllyDbg 无法暂停被调试进程。因此无法优雅终止，OllyDbg 将调用 TerminateProcess()，这可能导致程序打开的文件中的数据丢失。
 
 // DEBUG:1317
 EN Unable to close gracefully
-ZH Chicken chicken chicken
+ZH 无法优雅关闭
 
 // DEBUG:1320
 EN OllyDbg is unable to close debugged process gracefully and will use TerminateProcess(), which may lead to the loss of data in the files opened by the application.
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken(), chicken chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH OllyDbg 无法优雅关闭被调试进程, 将使用 TerminateProcess(), 这可能导致程序打开的文件中的数据丢失
 
 // DEBUG:1350
 EN Unable to close debugged process
-ZH Chicken chicken chicken chicken
+ZH 无法关闭被调试进程
 
 // DEBUG:1352
 EN OllyDbg was unable to close debugged process. Probably the only solution is to restart OllyDbg.
-ZH Chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken.
+ZH OllyDbg 无法关闭被调试进程。唯一的解决方案可能是重新启动 OllyDbg。
 
 // DEBUG:1356
 EN Process closed
-ZH Chicken chicken
+ZH 进程已关闭
 
 // DEBUG:1379
 EN Unable to detach debugged process
-ZH Chicken chicken chicken chicken
+ZH 无法分离被调试进程
 
 // DEBUG:1381
 EN The state of the debugged process does not allow to detach it right now. Please repeat this operation later.
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken.
+ZH 被调试进程的当前状态不允许立即分离。请稍后重试此操作。
 
 // DEBUG:1400
 EN OllyDbg is unable to remove some breakpoints. If debugged process encounters such breakpoint, most probably it will crash. Do you still want to detach?
-ZH Chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken chicken, chicken chicken chicken chicken. Chicken chicken chicken chicken?
+ZH OllyDbg 无法删除部分断点。如果被调试进程遇到此断点，很可能崩溃。仍要分离吗？
 
 // DEBUG:1400
 EN Unable to remove breakpoints
-ZH Chicken chicken chicken chicken
+ZH 无法删除断点
 
 // DEBUG:1439
 EN OllyDbg is unable to detach debugged application. Probably the only solution is to kill it. If you decide to continue, please note that breakpoints are disabled or removed, and all threads are resumed.
-ZH Chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken. Chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken, chicken chicken chicken chicken.
+ZH OllyDbg 无法分离被调试程序。唯一的解决方案可能是终止它。如果决定继续，请注意，断点已被禁用或删除，所有线程将恢复运行。
 
 // DEBUG:1447
 EN Process detached
-ZH Chicken chicken
+ZH 进程已分离
 
 // DEBUG:1477
 EN All threads are suspended
-ZH Chicken chicken chicken
+ZH 所有线程已挂起
 
 // DEBUG:1480
 EN All threads in the debugged application are suspended. Application is stopped. To continue, please resume some threads in the Threads window.
-ZH Chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken. Chicken chicken, chicken chicken chicken chicken chicken chicken.
+ZH 被调试程序中的所有线程已挂起。程序已停止。要继续，请在线程窗口中恢复部分线程。
 
 // DEBUG:1484
 EN The thread you are going to run (ID %08X) is suspended. Please resume it in the Threads window.
-ZH Chicken chicken chicken chicken (CH %08X) chicken chicken. Chicken chicken chicken chicken chicken.
+ZH 您将要运行的线程 (ID %08X) 已挂起。请在线程窗口中恢复它。
 
 // DEBUG:1487
 EN The thread you are going to run (ordinal %i, ID %08X) is suspended. Please resume it in the Threads window.
-ZH Chicken chicken chicken chicken (chicken %i, CH %08X) chicken chicken. Chicken chicken chicken chicken chicken.
+ZH 您将要运行的线程 (序号 %i, ID %08X) 已挂起。请在线程窗口中恢复它。
 
 // DEBUG:1860
 EN The thread with ID %08X is no longer valid. Please choose another thread.
-ZH Chicken chicken %08X chicken chicken. Chicken chicken chicken chicken.
+ZH ID 为 %08X 的线程已无效。请选择其他线程。
 
 // DEBUG:1925
 EN OllyDbg is unable to step over the command at (possibly invalid) address %08X. Memory is not readable.
-ZH Chicken chicken chicken chicken chicken chicken (chicken chicken) chicken %08X. Chicken chicken chicken.
+ZH OllyDbg 无法步过地址 %08X (可能无效) 处的指令。内存不可读。
 
 // DEBUG:1967
 EN The CONTEXT structure passed to ZwContinue()/NtContinue() contains EIP pointing to the non-existing memory. Most probably the program will crash. Either correct EIP (doubleword at address %08X), or try to run instead of stepping.
-ZH Chicken chicken chicken chicken chicken()/Chicken() chicken chicken chicken chicken-chicken chicken. Chicken chicken chicken chicken chicken. Chicken chicken (chicken chicken chicken %08X), chicken chicken chicken chicken.
+ZH 传递给 ZwContinue()/NtContinue() 的 CONTEXT 结构中，EIP 指向不存在的内存。程序很可能崩溃。请修正 EIP (地址 %08X 处的双字)，或尝试运行而非单步执行。
 
 // DEBUG:2012
 EN Temporarily removed INT3 already pending
-ZH Chicken chicken chicken3 chicken chicken
+ZH 已临时移除的 INT3 仍处于等待状态
 
 // DEBUG:2127
 EN OllyDbg is unable to step over the command at (possibly invalid) address %08X. Unable to set temporary breakpoint on the %s.
-ZH Chicken chicken chicken chicken chicken chicken (chicken chicken) chicken %08X. Chicken chicken chicken chicken chicken %s.
+ZH OllyDbg 无法步过地址 %08X (可能无效) 处的指令。无法在 %s 上设置临时断点。
 
 // DEBUG:2128
 EN destination
-ZH chicken chicken
+ZH 目标
 
 // DEBUG:2128
 EN next command
-ZH chicken chicken
+ZH 下一条指令
 
 // DEBUG:2137
 EN OllyDbg is unable to set temporary breakpoint on KiUserExceptionDispatcher() at address %08X. Context passed to the custom exception handler will contain flag T set by OllyDbg.
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken() chicken %08X. Chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH OllyDbg 无法在地址 %08X 处的 KiUserExceptionDispatcher() 上设置临时断点。传递给自定义异常处理程序的上下文将包含 OllyDbg 设置的 T 标志。
 
 // DEBUG:2150
 EN OllyDbg is unable to set temporary breakpoint on NtQueryInformationProcess() at address %08X. Exception will not be passed to the unhandled exception filter.
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken chicken() chicken %08X. Chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH OllyDbg 无法在地址 %08X 处的 NtQueryInformationProcess() 上设置临时断点。异常不会传递给未处理异常过滤器。
 
 // DEBUG:2264
 EN %s - passed to application
-ZH %s - chicken chicken chicken
+ZH %s - 已传递给程序
 
 // DEBUG:2274
 EN %s - application was unable to process exception
-ZH %s - chicken chicken chicken chicken chicken chicken
+ZH %s - 程序无法处理异常
 
 // DEBUG:2277
 EN %s - exception is non-continuable
-ZH %s - chicken chicken-chicken chicken
+ZH %s - 异常不可继续
 
 // DEBUG:2279
 EN %s - Shift+Run/Step to pass exception to the program
-ZH %s - Chicken+Chi/Chicken chicken chicken chicken chicken
+ZH %s - 按 Shift+Run/Step 将异常传递给程序
 
 // DEBUG:2298
 EN EIP is in the range
-ZH Chicken chicken chicken
+ZH EIP 在范围内
 
 // DEBUG:2303
 EN EIP is outside the range
-ZH Chicken chicken chicken
+ZH EIP 超出范围
 
 // DEBUG:2317
 EN possible entry point of packed file
-ZH chicken chicken chicken chicken chicken
+ZH 加壳文件可能的入口点
 
 // DEBUG:2356
 EN EIP points to modified command
-ZH Chicken chicken chicken chicken
+ZH EIP 指向已修改的指令
 
 // DEBUG:2364
 EN command count reached
-ZH chicken chicken chicken
+ZH 已达到指令计数
 
 // DEBUG:2372
 EN invalid command
-ZH chicken chicken
+ZH 无效指令
 
 // DEBUG:2383
 EN memory range %i - unable to calculate address
-ZH chicken chicken %i - chicken chicken chicken chicken
+ZH 内存范围 %i - 无法计算地址
 
 // DEBUG:2388
 EN memory range %i accessed
-ZH chicken chicken %i chicken
+ZH 已访问内存范围 %i
 
 // DEBUG:2403
 EN invalid condition %i - %s
-ZH chicken chicken %i - %s
+ZH 无效条件 %i - %s
 
 // DEBUG:2414
 EN condition %i is of non-integer type
-ZH chicken %i chicken-chicken chicken
+ZH 条件 %i 不是整数类型
 
 // DEBUG:2417
 EN condition %i met -
-ZH chicken %i chi -
+ZH 条件 %i 满足 -
 
 // DEBUG:2432
 EN invalid command %i -
-ZH chicken chicken %i -
+ZH 无效指令 %i -
 
 // DEBUG:2446
 EN command %i matched -
-ZH chicken %i chicken -
+ZH 指令 %i 匹配 -
 
 // DEBUG:2589
 EN OllyDbg is unable to step over the command at (possibly invalid) address %08X. Unable to set temporary breakpoint on the next command.
-ZH Chicken chicken chicken chicken chicken chicken (chicken chicken) chicken %08X. Chicken chicken chicken chicken chicken chicken chicken.
+ZH OllyDbg 无法步过地址 %08X (可能无效) 处的指令。无法在下一条指令上设置临时断点。
 
 // DEBUG:2762
 EN WinMain() of main module
-ZH Chicken() chicken chicken
+ZH 主模块的 WinMain()
 
 // DEBUG:2765
 EN First TLS callback of main module
-ZH Chicken chicken chicken chicken
+ZH 主模块的首个 TLS 回调
 
 // DEBUG:2769
 EN Entry point of self-extractor
-ZH Chicken chicken chicken-chicken
+ZH 自解压器的入口点
 
 // DEBUG:2772
 EN Entry point of LOADDLL.EXE
-ZH Chicken chicken chicken.CHI
+ZH LOADDLL.EXE 的入口点
 
 // DEBUG:2775
 EN DLL loaded
-ZH Chicken
+ZH DLL 已加载
 
 // DEBUG:2786
 EN Entry point of main module
-ZH Chicken chicken chicken
+ZH 主模块的入口点
 
 // DEBUG:2816
 EN Searching for the SFX entry point of module '%s'
-ZH Chicken chicken chicken chicken chicken chicken '%s'
+ZH 正在搜索模块 '%s' 的 SFX 入口点
 
 // DEBUG:2825
 EN Entry point of module '%s'
-ZH Chicken chicken chicken '%s'
+ZH 模块 '%s' 的入口点
 
 // DEBUG:2827
 EN Entry point of DLL
-ZH Chicken chicken
+ZH DLL 的入口点
 
 // DEBUG:2845
 EN Known entry point of packed file
-ZH Chicken chicken chicken chicken
+ZH 加壳文件的已知入口点
 
 // DEBUG:2865
 EN .NET startup entry point
-ZH .Chicken chicken chicken
+ZH .NET 启动入口点
 
 // DEBUG:2867
 EN Entry point of thread %08X
-ZH Chicken chicken chicken %08X
+ZH 线程 %08X 的入口点
 
 // DEBUG:2869
 EN .NET entry point
-ZH .Chicken chicken
+ZH .NET 入口点
 
 // DEBUG:2871
 EN Executed to selection
-ZH Chicken chicken chicken
+ZH 已执行到所选位置
 
 // DEBUG:2911
 EN %i events per second
-ZH %i chicken chicken
+ZH 每秒 %i 个事件
 
 // DEBUG:2987
 EN Child process with ID %08lX starts
-ZH Chicken chicken chicken %08lX chicken
+ZH ID 为 %08lX 的子进程已启动
 
 // DEBUG:3025
 EN Unexpected debug event %i from child process %08lX. Process will be detached.
-ZH Chicken chicken chicken %i chicken chicken %08lX. Chicken chicken chicken.
+ZH 来自子进程 %08lX 的意外调试事件 %i。进程将被分离。
 
 // DEBUG:3036
 EN Event %08lX from different process (ID %08lX)
-ZH Chicken %08lX chicken chicken chicken (CH %08lX)
+ZH 来自其他进程 (ID %08lX) 的事件 %08lX
 
 // DEBUG:3047
 EN OllyDbg received debug event, but there is no application to debug. This is a severe internal error, please restart OllyDbg.
-ZH Chicken chicken chicken chicken, chicken chicken chicken chicken chicken. Chicken chicken chicken chicken, chicken chicken chicken.
+ZH OllyDbg 收到调试事件，但没有要调试的程序。这是严重的内部错误，请重新启动 OllyDbg。
 
 // DEBUG:3080
 EN Unrecoverable exception %08X (no thread)
-ZH Chicken chicken chicken %08X (chicken)
+ZH 不可恢复的异常 %08X (无线程)
 
 // DEBUG:3087
 EN Thread %08X that reported exception %08X at address %08X is not known to OllyDbg. Usually this makes correct continuation impossible. However, you may try to recover and continue at your own risk.
-ZH Chicken %08X chicken chicken chicken %08X chicken %08X chicken chicken chicken. Chicken chicken chicken chicken chicken chicken. Chicken, chicken chicken chicken chicken chicken chicken chicken.
+ZH 报告异常 %08X 的线程 %08X (位于地址 %08X) 对 OllyDbg 未知。这通常使得无法正确继续。不过，您可以自担风险尝试恢复并继续。
 
 // DEBUG:3099
 EN Unrecoverable exception %08X (no registers)
-ZH Chicken chicken chicken %08X (chicken chicken)
+ZH 不可恢复的异常 %08X (无寄存器)
 
 // DEBUG:3106
 EN OllyDbg is unable to read registers for exception %08X at (possibly invalid) address %08X in thread %08X. Usually this makes correct continuation impossible, but you may try to recover and continue at your own risk.
-ZH Chicken chicken chicken chicken chicken chicken %08X ch (chicken chicken) chicken %08X chicken %08X. Chicken chicken chicken chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken.
+ZH OllyDbg 无法读取线程 %08X 中地址 %08X (可能无效) 处的异常 %08X 的寄存器。这通常使得无法正确继续，但您可以自担风险尝试恢复并继续。
 
 // DEBUG:3113
 EN Debug registers modified
-ZH Chicken chicken chicken
+ZH 调试寄存器已修改
 
 // DEBUG:3115
 EN Debugged application has modified the debugging registers. %sThe modifications are saved to the log.
-ZH Chicken chicken chicken chicken chicken chicken chicken. %sChicken chicken chicken chicken chicken.
+ZH 被调试程序已修改调试寄存器。%s修改已保存到日志。
 
 // DEBUG:3117
 EN Maybe it called ZwContinue() or SetDebugContext().
-ZH Chicken chicken chicken() chicken chicken().
+ZH 可能调用了 ZwContinue() 或 SetDebugContext().
 
 // DEBUG:3170
 EN Different thread
-ZH Chicken chicken
+ZH 不同的线程
 
 // DEBUG:3174
 EN While running single thread of debugged application with ID %08X, OllyDbg received exception from the different thread with ID %08X. Either this thread is new, or application has resumed thread paused by OllyDbg. Application is paused.
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken %08X, Chicken chicken chicken chicken chicken chicken chicken chicken %08X. Chicken chicken chicken, chicken chicken chicken chicken chicken chicken chicken. Chicken chicken chicken.
+ZH 在运行 ID 为 %08X 的被调试程序的单一线程时，OllyDbg 收到来自另一个 ID 为 %08X 的线程的异常。该线程要么是新线程，要么是被调试程序恢复了由 OllyDbg 暂停的线程。被调试程序已暂停。
 
 // DEBUG:3324
 EN OllyDbg is unable to establish connection with LOADDLL.EXE. DLL debugging is not possible. Try to delete LOADDLL.EXE in order to allow OllyDbg to extract valid copy of DLL loader.
-ZH Chicken chicken chicken chicken chicken chicken chicken.CHI. Chicken chicken chicken chicken. Chicken chicken chicken.Chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH OllyDbg 无法与 LOADDLL.EXE 建立连接。无法进行 DLL 调试。请尝试删除 LOADDLL.EXE 以允许 OllyDbg 提取有效的 DLL 加载器副本。
 
 // DEBUG:3391
 EN Unable to set startup breakpoint at address %08X. Debugged application will be paused on system breakpoint.
-ZH Chicken chicken chicken chicken chicken chicken %08X. Chicken chicken chicken chicken chicken chicken chicken.
+ZH 无法在地址 %08X 设置启动断点。被调试程序将在系统断点处暂停。
 
 // DEBUG:3426
 EN System breakpoint
-ZH Chicken chicken
+ZH 系统断点
 
 // DEBUG:3428
 EN Return from call to DLL export
-ZH Chicken chicken chicken chicken
+ZH 从对 DLL 导出的调用返回
 
 // DEBUG:3432
 EN INT 2D command at
-ZH CHI 2Chicken chicken
+ZH INT 2D 指令位于
 
 // DEBUG:3441
 EN Call to DebugBreak()
-ZH Chicken chicken()
+ZH 调用 DebugBreak()
 
 // DEBUG:3443
 EN Call to DbgBreakPoint()
-ZH Chicken chicken chicken()
+ZH 调用 DbgBreakPoint()
 
 // DEBUG:3445
 EN INT3 command at
-ZH CHI3 chicken
+ZH INT3 指令位于
 
 // DEBUG:3456
 EN INT3 in .NET application stepped over on closing
-ZH CHI3 ch .Chicken chicken chicken chicken chicken
+ZH 关闭时步过 .NET 程序中的 INT3
 
 // DEBUG:3472
 EN INT3 in MSCORWKS stepped over on request
-ZH CHI3 chicken chicken chicken chicken chicken
+ZH 按请求步过 MSCORWKS 中的 INT3
 
 // DEBUG:3551
 EN Hit trace may pass control to the non-command
-ZH Chicken chicken chicken chicken chicken-chicken
+ZH Hit 跟踪可能将控制权传递给非指令
 
 // DEBUG:3559
 EN Hit trace may leave code section
-ZH Chicken chicken chicken chicken
+ZH Hit 跟踪可能离开代码节
 
 // DEBUG:3603
 EN Breakpoint at
-ZH Chicken chicken
+ZH 断点位于
 
 // DEBUG:3605
 EN Conditional breakpoint at
-ZH Chicken chicken chicken
+ZH 条件断点位于
 
 // DEBUG:3609
 EN (count reached)
-ZH (chicken chicken)
+ZH (已达到计数)
 
 // DEBUG:3724
 EN Hardware breakpoint %i
-ZH Chicken chicken chicken %i
+ZH 硬件断点 %i
 
 // DEBUG:3726
 EN Conditional hardware breakpoint %i
-ZH Chicken chicken chicken chicken %i
+ZH 条件硬件断点 %i
 
 // DEBUG:3735
 EN - EIP points to next instruction
-ZH - Chicken chicken chicken chicken
+ZH - EIP 指向下一条指令
 
 // DEBUG:3749
 EN Break on hardware breakpoints
-ZH Chicken chicken chicken chicken
+ZH 在硬件断点处中断
 
 // DEBUG:3751
 EN Break on hardware breakpoint
-ZH Chicken chicken chicken chicken
+ZH 在硬件断点处中断
 
 // DEBUG:3756
 EN set by application
-ZH chicken chicken
+ZH 由程序设置
 
 // DEBUG:3943
 EN Break on single-step trap or INT1 set by application
-ZH Chicken chicken-chicken chicken1 chicken chicken
+ZH 在程序设置的单步陷阱或 INT1 处中断
 
 // DEBUG:4042
 EN Memory breakpoint
-ZH Chicken chicken
+ZH 内存断点
 
 // DEBUG:4045
 EN Conditional memory breakpoint
-ZH Chicken chicken chicken chicken
+ZH 条件内存断点
 
 // DEBUG:4052
 EN when executing
-ZH chicken chicken
+ZH 执行时
 
 // DEBUG:4054
 EN when reading
-ZH chicken chicken
+ZH 读取时
 
 // DEBUG:4056
 EN when writing to
-ZH chicken chicken
+ZH 写入时
 
 // DEBUG:4058
 EN when accessing
-ZH chicken chicken
+ZH 访问时
 
 // DEBUG:4101
 EN Access violation when %s [%08lX] caused by plugin
-ZH Chicken chicken chicken %s [%08lX] chicken chicken
+ZH 插件导致 %s [%08lX] 时发生访问冲突
 
 // DEBUG:4102
 EN writing to
-ZH chicken
+ZH 写入
 
 // DEBUG:4103
 EN executing
-ZH chicken
+ZH 执行
 
 // DEBUG:4104
 EN reading
-ZH chicken
+ZH 读取
 
 // DEBUG:4107
 EN Access violation caused by plugin
-ZH Chicken chicken chicken chicken
+ZH 插件导致访问冲突
 
 // DEBUG:4128
 EN Access violation in KERNEL32 ignored on request
-ZH Chicken chicken chicken32 chicken chicken
+ZH 按请求忽略 KERNEL32 中的访问冲突
 
 // DEBUG:4133
 EN Access violation when %s [%08lX]
-ZH Chicken chicken chicken %s [%08lX]
+ZH %s [%08lX] 时发生访问冲突
 
 // DEBUG:4138
 EN Access violation
-ZH Chicken chicken
+ZH 访问冲突
 
 // DEBUG:4157
 EN Break-on-access while %s %08X
-ZH Chicken-ch-chicken chicken %s %08X
+ZH %s %08X 时触发访问中断
 
 // DEBUG:4158
 EN accessing
-ZH chicken
+ZH 访问
 
 // DEBUG:4187
 EN Break-on-access set by plugin while %s %08X
-ZH Chicken-ch-chicken chicken chicken %s %08X
+ZH %s %08X 时触发插件设置的访问中断
 
 // DEBUG:4199
 EN Break on guarded memory page set by application while %s %08X
-ZH Chicken chicken chicken chicken chicken chicken chicken %s %08X
+ZH %s %08X 时在程序设置的受保护内存页处中断
 
 // DEBUG:4389
 EN Integer division by zero
-ZH Chicken chicken chicken
+ZH 整数除零
 
 // DEBUG:4403
 EN Illegal instruction
-ZH Chicken chicken chicken
+ZH 非法指令
 
 // DEBUG:4431
 EN Stack overflow
-ZH Chicken chicken
+ZH 堆栈溢出
 
 // DEBUG:4444
 EN Noncontinuable exception
-ZH Chicken chicken chicken
+ZH 不可继续的异常
 
 // DEBUG:4459
 EN Denormalized floating-point operand
-ZH Chicken chicken chicken-chicken chicken
+ZH 非规格化浮点操作数
 
 // DEBUG:4461
 EN Floating-point division by zero
-ZH Chicken-chicken chicken chicken
+ZH 浮点除零
 
 // DEBUG:4463
 EN Inexact floating-point result
-ZH Chicken chicken-chicken chicken
+ZH 不精确的浮点结果
 
 // DEBUG:4465
 EN Invalid floating-point operation
-ZH Chicken chicken-chicken chicken
+ZH 无效的浮点运算
 
 // DEBUG:4467
 EN Floating-point overflow
-ZH Chicken-chicken chicken
+ZH 浮点溢出
 
 // DEBUG:4469
 EN FPU stack error
-ZH Chicken chicken
+ZH FPU 堆栈错误
 
 // DEBUG:4471
 EN Floating-point underflow
-ZH Chicken-chicken chicken
+ZH 浮点下溢
 
 // DEBUG:4473
 EN from EIP=%08X
-ZH chicken=%08X
+ZH 来自 EIP=%08X
 
 // DEBUG:4504
 EN VC service exception
-ZH Chicken chicken chicken
+ZH VC 服务异常
 
 // DEBUG:4514
 EN : Thread %08X is named '%s'
-ZH : Chicken %08X chicken '%s'
+ZH : 线程 %08X 命名为 '%s'
 
 // DEBUG:4531
 EN MS C++ exception
-ZH CHIC++ chicken
+ZH MS C++ 异常
 
 // DEBUG:4550
 EN , module %s class '%s' object %08X
-ZH , chicken %s chicken '%s' chicken %08X
+ZH , 模块 %s 类 '%s' 对象 %08X
 
 // DEBUG:4575
 EN Exception %08X
-ZH Chicken %08X
+ZH 异常 %08X
 
 // DEBUG:4609
 EN Return reached and executed
-ZH Chicken chicken chicken chicken
+ZH 已到达并执行返回
 
 // DEBUG:4615
 EN User code reached
-ZH Chicken chicken
+ZH 已到达用户代码
 
 // DEBUG:4629
 EN SFX trace: %s
-ZH Chicken: %s
+ZH SFX 跟踪: %s
 
 // DEBUG:4631
 EN Run trace: %s
-ZH Chicken: %s
+ZH Run 跟踪: %s
 
 // DEBUG:4743
 EN Return reached
-ZH Chicken chicken
+ZH 已到达返回
 
 // DEBUG:4957
 EN New thread %i. (ID %08X) created
-ZH Chicken %i. (CH %08X) chicken
+ZH 已创建新线程 %i. (ID %08X)
 
 // DEBUG:4969
 EN New thread %08X: unable to set breakpoint on entry point %08X
-ZH Chicken %08X: chicken chicken chicken chicken chicken %08X
+ZH 新线程 %08X: 无法在入口点 %08X 设置断点
 
 // DEBUG:5014
 EN New process (ID %08X) created
-ZH Chicken chicken (CH %08X) chicken
+ZH 已创建新进程 (ID %08X)
 
 // DEBUG:5020
 EN Main thread (ID %08X) created
-ZH Chicken chicken (CH %08X) chicken
+ZH 已创建主线程 (ID %08X)
 
 // DEBUG:5044
 EN Main thread is resumed from suspended state
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 主线程已从挂起状态恢复
 
 // DEBUG:5102
 EN Thread (ID %08X) terminated, exit code %X
-ZH Chicken (CH %08X) chicken, chicken %X
+ZH 线程 (ID %08X) 已终止, 退出码 %X
 
 // DEBUG:5105
 EN Thread %i. (ID %08X) terminated, exit code %X
-ZH Chicken %i. (CH %08X) chicken, chicken %X
+ZH 线程 %i. (ID %08X) 已终止, 退出码 %X
 
 // DEBUG:5162
 EN LOADDLL terminated: Missing DLL name
-ZH Chicken chicken: Chicken chicken
+ZH LOADDLL 已终止: 缺少 DLL 名称
 
 // DEBUG:5165
 EN LOADDLL terminated: Unable to load DLL
-ZH Chicken chicken: Chicken chicken
+ZH LOADDLL 已终止: 无法加载 DLL
 
 // DEBUG:5169
 EN LoadLibrary() reports error %08X (%s)
-ZH Chicken chicken() chicken chicken %08X (%s)
+ZH LoadLibrary() 报告错误 %08X (%s)
 
 // DEBUG:5173
 EN LoadLibrary() reports error %08X
-ZH Chicken chicken() chicken chicken %08X
+ZH LoadLibrary() 报告错误 %08X
 
 // DEBUG:5179
 EN LOADDLL terminated: Too many parameters
-ZH Chicken chicken: Chicken chicken chicken
+ZH LOADDLL 已终止: 参数过多
 
 // DEBUG:5182
 EN LOADDLL terminated: Error %08X
-ZH Chicken chicken: Chicken %08X
+ZH LOADDLL 已终止: 错误 %08X
 
 // DEBUG:5186
 EN LOADDLL terminated, exit code %X
-ZH Chicken chicken, chicken %X
+ZH LOADDLL 已终止, 退出码 %X
 
 // DEBUG:5188
 EN LOADDLL terminated, exit code %X (%li.)
-ZH Chicken chicken, chicken %X (%li.)
+ZH LOADDLL 已终止, 退出码 %X (%li.)
 
 // DEBUG:5191
 EN Process terminated, exit code %X
-ZH Chicken chicken, chicken %X
+ZH 进程已终止, 退出码 %X
 
 // DEBUG:5299
 EN Unload %s
-ZH Chicken %s
+ZH 卸载 %s
 
 // DEBUG:5313
 EN Module %s - failed to initialize
-ZH Chicken %s - chicken chicken chicken
+ZH 模块 %s - 初始化失败
 
 // DEBUG:5314
 EN (name unknown)
-ZH (chicken chicken)
+ZH (名称未知)
 
 // DEBUG:5321
 EN Unload hidden module %08X
-ZH Chicken chicken chicken %08X
+ZH 卸载隐藏模块 %08X
 
 // DEBUG:5370
 EN Debug string (invalid length)
-ZH Chicken chicken (chicken chicken)
+ZH 调试字符串 (长度无效)
 
 // DEBUG:5380
 EN Debug string (unable to get text)
-ZH Chicken chicken (chicken chicken)
+ZH 调试字符串 (无法获取文本)
 
 // DEBUG:5390
 EN Debug string
-ZH Chicken chicken
+ZH 调试字符串
 
 // DEBUG:5477
 EN System debugging error (RIP event) %08lX (type %li.)
-ZH Chicken chicken chicken (Chicken) %08lX (chic %li.)
+ZH 系统调试错误 (RIP 事件) %08lX (类型 %li.)
 
 // DEBUG:5481
 EN Unknown debugging event %08lX
-ZH Chicken chicken chicken %08lX
+ZH 未知调试事件 %08lX
 
 // DIALOGS:904
 EN Hexadecimal
