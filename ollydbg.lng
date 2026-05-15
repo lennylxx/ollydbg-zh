@@ -14859,107 +14859,107 @@ ZH 源文件
 
 // SPEECH:119
 EN plus
-ZH chic
+ZH 加
 
 // SPEECH:121
 EN follows
-ZH chicken
+ZH 后跟
 
 // SPEECH:123
 EN minus
-ZH chicken
+ZH 减
 
 // SPEECH:125
 EN times
-ZH chicken
+ZH 乘
 
 // SPEECH:127
 EN slash
-ZH chicken
+ZH 斜杠
 
 // SPEECH:129
 EN percent
-ZH chicken
+ZH 百分号
 
 // SPEECH:131
 EN backslash
-ZH chicken
+ZH 反斜杠
 
 // SPEECH:133
 EN predicted as
-ZH chicken chicken
+ZH 预测为
 
 // SPEECH:135
 EN equal to
-ZH chicken
+ZH 等于
 
 // SPEECH:137
 EN not equal to
-ZH chicken chicken
+ZH 不等于
 
 // SPEECH:139
 EN equals
-ZH chicken
+ZH 等于
 
 // SPEECH:141
 EN memory
-ZH chicken
+ZH 内存
 
 // SPEECH:145
 EN logical and
-ZH chicken chicken
+ZH 逻辑与
 
 // SPEECH:147
 EN and
-ZH chi
+ZH 与
 
 // SPEECH:149
 EN logical or
-ZH chicken
+ZH 逻辑或
 
 // SPEECH:153
 EN or
-ZH ch
+ZH 或
 
 // SPEECH:155
 EN exclusive or
-ZH chicken chicken
+ZH 异或
 
 // SPEECH:157
 EN ellipsis
-ZH chicken
+ZH 省略号
 
 // SPEECH:159
 EN shift left
-ZH chicken
+ZH 左移
 
 // SPEECH:161
 EN less than or equal
-ZH chicken chicken
+ZH 小于等于
 
 // SPEECH:163
 EN less than
-ZH chicken
+ZH 小于
 
 // SPEECH:167
 EN shift right
-ZH chicken chicken
+ZH 右移
 
 // SPEECH:169
 EN greater than or equal
-ZH chicken chicken chicken
+ZH 大于等于
 
 // SPEECH:171
 EN greater than
-ZH chicken chicken
+ZH 大于
 
 // SPEECH:220
 EN times ten to the
-ZH chicken chicken
+ZH 乘十的
 
 // SPEECH:228
 EN power
-ZH chicken
+ZH 次方
 
 // STACK:409
 EN Update contents of the Call stack window
