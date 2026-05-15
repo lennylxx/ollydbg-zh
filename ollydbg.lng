@@ -7607,83 +7607,83 @@ ZH 日志数据
 
 // MEMORY:264
 EN Invalidating non-flushed cache!
-ZH Chicken chicken-chicken chicken!
+ZH 正在使未刷新的缓存失效!
 
 // MEMORY:286
 EN Unable to flush cache at %08X
-ZH Chicken chicken chicken %08X
+ZH 无法在 %08X 处刷新缓存
 
 // MEMORY:315
 EN Unable to read memory
-ZH Chicken chicken chicken
+ZH 无法读取内存
 
 // MEMORY:318
 EN Memory at address %08X of size %08X (%i.) bytes can not be read. Either adress points to non-existing memory, or read access to memory is not enforceable.
-ZH Chicken chicken %08X chicken %08X (%i.) chicken chicken chicken. Chicken chicken chicken chicken-chicken chicken, chicken chicken chicken chicken chicken chicken.
+ZH 地址 %08X 处大小 %08X (%i.) 字节的内存无法读取。地址可能指向不存在的内存，或内存读取访问无法实施。
 
 // MEMORY:536
 EN Unable to write to memory
-ZH Chicken chicken chicken
+ZH 无法写入内存
 
 // MEMORY:539
 EN Memory at address %08X of size %08X (%i.) bytes can not be written to. Either adress points to non-existing memory, or write access to memory is not enforceable.
-ZH Chicken chicken %08X chicken %08X (%i.) chicken chicken chicken chicken. Chicken chicken chicken chicken-chicken chicken, chicken chicken chicken chicken chicken chicken.
+ZH 地址 %08X 处大小 %08X (%i.) 字节的内存无法写入。地址可能指向不存在的内存，或内存写入访问无法实施。
 
 // MEMORY:1366
 EN Unable to set break-on-access
-ZH Chicken chicken chicken-ch-chicken
+ZH 无法设置访问中断
 
 // MEMORY:1385
 EN Limit run trace protocol to selected memory block
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 将 Run 跟踪记录限制为所选内存块
 
 // MEMORY:1387
 EN Add memory block to run trace protocol
-ZH Chicken chicken chicken chicken chicken
+ZH 将内存块添加到 Run 跟踪记录
 
 // MEMORY:1419
 EN Unable to change memory access rights
-ZH Chicken chicken chicken chicken chicken
+ZH 无法更改内存访问权限
 
 // MEMORY:1426
 EN &No access
-ZH &Chicken
+ZH 无访问权限(&N)
 
 // MEMORY:1427
 EN Disable access to selected memory block
-ZH Chicken chicken chicken chicken chicken
+ZH 禁用对所选内存块的访问
 
 // MEMORY:1429
 EN &Read only
-ZH &Chicken
+ZH 只读(&R)
 
 // MEMORY:1430
 EN Allow only read access to selected memory block
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 仅允许对所选内存块的读访问
 
 // MEMORY:1432
 EN Read/&write
-ZH Chic/&chicken
+ZH 读/写(&W)
 
 // MEMORY:1433
 EN Allow read/write access to selected memory block
-ZH Chicken/chicken chicken chicken chicken chicken
+ZH 允许对所选内存块的读/写访问
 
 // MEMORY:1435
 EN &Execute
-ZH &Chicken
+ZH 执行(&E)
 
 // MEMORY:1436
 EN Allow only execution access to selected memory block
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 仅允许对所选内存块的执行访问
 
 // MEMORY:1438
 EN E&xecute/read
-ZH C&chicken/chic
+ZH 执行/读(&X)
 
 // MEMORY:1439
 EN Allow execute/read access to selected memory block
-ZH Chicken chicken/chicken chicken chicken chicken chicken
+ZH 允许对所选内存块的执行/读访问
 
 // MEMORY:1441
 EN &Full
@@ -7691,87 +7691,87 @@ ZH &Chic
 
 // MEMORY:1442
 EN Allow full access to selected memory block
-ZH Chicken chicken chicken chicken chicken
+ZH 允许对所选内存块的完全访问
 
 // MEMORY:1449
 EN Update contents of Memory window
-ZH Chicken chicken chicken chicken
+ZH 更新内存窗口的内容
 
 // MEMORY:1452
 EN Create backup copy of selected memory block
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 创建所选内存块的备份副本
 
 // MEMORY:1454
 EN View in CPU Disassembler
-ZH Chicken chicken chicken
+ZH 在 CPU 反汇编器中查看
 
 // MEMORY:1455
 EN Open memory block in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编器中打开内存块
 
 // MEMORY:1457
 EN Dump in CPU
-ZH Chicken chicken
+ZH 在 CPU 中转储
 
 // MEMORY:1458
 EN Open selected memory block in CPU Dump
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据面板中打开所选内存块
 
 // MEMORY:1461
 EN Open selected memory block in standalone Dump window
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在独立数据窗口中打开所选内存块
 
 // MEMORY:1463
 EN Search...
-ZH Chicken...
+ZH 搜索...
 
 // MEMORY:1464
 EN Search for a sequence of bytes or string
-ZH Chicken chicken chicken chicken chicken
+ZH 搜索字节序列或字符串
 
 // MEMORY:1466
 EN Search next
-ZH Chicken chicken
+ZH 搜索下一个
 
 // MEMORY:1467
 EN Continue search
-ZH Chicken chicken
+ZH 继续搜索
 
 // MEMORY:1469
 EN Show free memory
-ZH Chicken chicken
+ZH 显示空闲内存
 
 // MEMORY:1470
 EN Show free and reserved memory areas
-ZH Chicken chicken chicken chicken chicken
+ZH 显示空闲和保留的内存区域
 
 // MEMORY:1472
 EN Set break-on-access
-ZH Chicken-ch-chicken
+ZH 设置访问中断
 
 // MEMORY:1473
 EN Break on next access to selected memory block
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 下次访问所选内存块时中断
 
 // MEMORY:1475
 EN Remove break-on-access
-ZH Chicken chicken-ch-chicken
+ZH 删除访问中断
 
 // MEMORY:1476
 EN Remove break-on-access from selected block
-ZH Chicken chicken-ch-chicken chicken chicken
+ZH 从所选块删除访问中断
 
 // MEMORY:1479
 EN Add selected memory block to the run trace protocol
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 将所选内存块添加到 Run 跟踪记录
 
 // MEMORY:1481
 EN Set access
-ZH Chicken
+ZH 设置访问权限
 
 // MEMORY:1482
 EN Set allowed type of access to selected memory block
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 设置允许对所选内存块的访问类型
 
 // MEMORY:1584
 EN (self)
@@ -7783,7 +7783,7 @@ ZH Chic
 
 // MEMORY:1595
 EN Reserved
-ZH Chicken
+ZH 已保留
 
 // MEMORY:1599
 EN code,
@@ -7799,7 +7799,7 @@ ZH CHI,
 
 // MEMORY:1605
 EN default heap,
-ZH chicken chicken,
+ZH 默认堆,
 
 // MEMORY:1607
 EN heap,
@@ -7807,71 +7807,71 @@ ZH chic,
 
 // MEMORY:1609
 EN imports,
-ZH chicken,
+ZH 导入,
 
 // MEMORY:1611
 EN exports,
-ZH chicken,
+ZH 导出,
 
 // MEMORY:1613
 EN resources,
-ZH chicken,
+ZH 资源,
 
 // MEMORY:1615
 EN relocations,
-ZH chicken chicken,
+ZH 重定位,
 
 // MEMORY:1617
 EN stack guarding page,
-ZH chicken chicken chicken,
+ZH 堆栈保护页,
 
 // MEMORY:1620
 EN PE header (.NET),
-ZH Chicken (.CHI),
+ZH PE 头 (.NET),
 
 // MEMORY:1622
 EN PE header,
-ZH Chicken,
+ZH PE 头,
 
 // MEMORY:1625
 EN Process Environment Block,
-ZH Chicken chicken chicken,
+ZH 进程环境块,
 
 // MEMORY:1627
 EN User Shared Data,
-ZH Chicken chicken,
+ZH 用户共享数据,
 
 // MEMORY:1629
 EN stack,
-ZH chicken,
+ZH 堆栈,
 
 // MEMORY:1632
 EN data block,
-ZH chicken,
+ZH 数据块,
 
 // MEMORY:1635
 EN native code,
-ZH chicken chicken,
+ZH 原生代码,
 
 // MEMORY:1637
 EN Process Parameters,
-ZH Chicken chicken,
+ZH 进程参数,
 
 // MEMORY:1639
 EN Environment,
-ZH Chicken chicken,
+ZH 环境变量,
 
 // MEMORY:1641
 EN GDI handles,
-ZH Chicken chicken,
+ZH GDI 句柄,
 
 // MEMORY:1643
 EN Kernel memory,
-ZH Chicken chicken,
+ZH 内核内存,
 
 // MEMORY:1649
 EN Code pages,
-ZH Chicken,
+ZH 代码页,
 
 // MEMORY:1656
 EN of
@@ -7903,7 +7903,7 @@ ZH CH
 
 // MEMORY:1690
 EN RW  CopyOnWr
-ZH Chicken chicken
+ZH RW  写时拷贝
 
 // MEMORY:1692
 EN E
@@ -7919,71 +7919,71 @@ ZH CHI
 
 // MEMORY:1698
 EN RWE CopyOnWr
-ZH Chicken chicken
+ZH RWE 写时拷贝
 
 // MEMORY:1703
 EN Guarded
-ZH Chicken
+ZH 受保护
 
 // MEMORY:1747
 EN Base address of memory block
-ZH Chicken chicken chicken chicken
+ZH 内存块的基址
 
 // MEMORY:1751
 EN Size of memory block (hex and decimal)
-ZH Chicken chicken chicken (chicken chicken)
+ZH 内存块大小 (十六进制和十进制)
 
 // MEMORY:1754
 EN Owner
-ZH Chicken
+ZH 所有者
 
 // MEMORY:1755
 EN Owner of memory block
-ZH Chicken chicken chicken
+ZH 内存块的所有者
 
 // MEMORY:1758
 EN Section
-ZH Chicken
+ZH 节
 
 // MEMORY:1759
 EN Name of associated image sections
-ZH Chicken chicken chicken chicken
+ZH 关联的映像节的名称
 
 // MEMORY:1762
 EN Contains
-ZH Chicken
+ZH 内容
 
 // MEMORY:1763
 EN Types of data that memory block contains
-ZH Chicken chicken chicken chicken chicken
+ZH 内存块包含的数据类型
 
 // MEMORY:1767
 EN Type of memory block
-ZH Chicken chicken chicken
+ZH 内存块类型
 
 // MEMORY:1771
 EN Memory access rights
-ZH Chicken chicken chicken
+ZH 内存访问权限
 
 // MEMORY:1774
 EN Initial access
-ZH Chicken chicken
+ZH 初始访问
 
 // MEMORY:1775
 EN Initial memory access rights
-ZH Chicken chicken chicken chicken
+ZH 初始内存访问权限
 
 // MEMORY:1781
 EN Mapped as
-ZH Chicken
+ZH 映射为
 
 // MEMORY:1782
 EN Name of associated memory mapped file
-ZH Chicken chicken chicken chicken chicken
+ZH 关联的内存映射文件的名称
 
 // MEMORY:1797
 EN Memory map
-ZH Chicken
+ZH 内存映射
 
 // MENU:127
 EN Main menu: File
