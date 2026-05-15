@@ -15887,163 +15887,163 @@ ZH Chicken chicken chicken chicken chicken
 
 // TRACE:165
 EN Unable to allocate memory for run trace buffer
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 无法为 Run 跟踪缓冲区分配内存
 
 // TRACE:465
 EN Too many ranges to protocol
-ZH Chicken chicken chicken chicken
+ZH 需要记录的范围过多
 
 // TRACE:646
 EN Referenced memory (decoded)
-ZH Chicken chicken (chicken)
+ZH 引用的内存 (已解码)
 
 // TRACE:647
 EN Contents of memory preceding command execution
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 指令执行前的内存内容
 
 // TRACE:649
 EN Referenced memory (raw)
-ZH Chicken chicken (chi)
+ZH 引用的内存 (原始)
 
 // TRACE:653
 EN Registers modified by command
-ZH Chicken chicken chicken chicken
+ZH 指令修改的寄存器
 
 // TRACE:654
 EN List of registers modified by the command
-ZH Chicken chicken chicken chicken chicken
+ZH 指令修改的寄存器列表
 
 // TRACE:656
 EN Registers preceding command execution
-ZH Chicken chicken chicken chicken chicken
+ZH 指令执行前的寄存器
 
 // TRACE:657
 EN List of registers at the moment of execution
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 执行时的寄存器列表
 
 // TRACE:812
 EN Enter expression to mark
-ZH Chicken chicken chicken
+ZH 输入要标记的表达式
 
 // TRACE:847
 EN Mark not found
-ZH Chicken chicken
+ZH 未找到标记
 
 // TRACE:900
 EN Select file for the run trace data
-ZH Chicken chicken chicken chicken
+ZH 选择 Run 跟踪数据文件
 
 // TRACE:908
 EN Unable to open run trace log file '%s'
-ZH Chicken chicken chicken chicken '%s'
+ZH 无法打开 Run 跟踪日志文件 '%s'
 
 // TRACE:923
 EN Saving existing run trace data - $%%
-ZH Chicken chicken chicken chicken - $%%
+ZH 正在保存现有的 Run 跟踪数据 - $%%
 
 // TRACE:971
 EN Highlight operands that use ESP (stack pointer) or SP
-ZH Chicken chicken chicken chicken (chicken chicken) chicken
+ZH 高亮使用 ESP (堆栈指针) 或 SP 的操作数
 
 // TRACE:974
 EN Highlight operands that use EBP (frame pointer) or BP
-ZH Chicken chicken chicken chicken (chicken chicken) chicken
+ZH 高亮使用 EBP (帧指针) 或 BP 的操作数
 
 // TRACE:986
 EN Decoded
-ZH Chicken
+ZH 已解码
 
 // TRACE:987
 EN Decode memory contents
-ZH Chicken chicken chicken
+ZH 解码内存内容
 
 // TRACE:989
 EN Raw
-ZH Chi
+ZH 原始
 
 // TRACE:990
 EN Display raw memory contents
-ZH Chicken chicken chicken chicken
+ZH 显示原始内存内容
 
 // TRACE:997
 EN Show registers modified by command
-ZH Chicken chicken chicken chicken
+ZH 显示指令修改的寄存器
 
 // TRACE:999
 EN All
-ZH Chi
+ZH 全部
 
 // TRACE:1000
 EN Show registers at the moment of execution
-ZH Chicken chicken chicken chicken chicken
+ZH 显示执行时的寄存器
 
 // TRACE:1016
 EN Follow destination in CPU window
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 窗口中跟随目标
 
 // TRACE:1019
 EN Delete all run trace records
-ZH Chicken chicken chicken chicken
+ZH 删除所有 Run 跟踪记录
 
 // TRACE:1021
 EN Show memory
-ZH Chicken chicken
+ZH 显示内存
 
 // TRACE:1022
 EN Decoding mode for the protocolled memory contents
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 记录的内存内容的解码模式
 
 // TRACE:1025
 EN Show all registers or only modified
-ZH Chicken chicken chicken chicken chicken
+ZH 显示所有寄存器或仅显示已修改的
 
 // TRACE:1030
 EN Mark selected address
-ZH Chicken chicken chicken
+ZH 标记所选地址
 
 // TRACE:1031
 EN Mark all appearances of the selected address
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 标记所选地址的所有出现位置
 
 // TRACE:1033
 EN Find address...
-ZH Chicken chicken...
+ZH 查找地址...
 
 // TRACE:1034
 EN Enter address to find and mark
-ZH Chicken chicken chicken chicken
+ZH 输入要查找并标记的地址
 
 // TRACE:1036
 EN Find previous mark
-ZH Chicken chicken
+ZH 查找上一个标记
 
 // TRACE:1037
 EN Find previous marked address in the run trace
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 Run 跟踪中查找上一个标记的地址
 
 // TRACE:1039
 EN Find next mark
-ZH Chicken chicken
+ZH 查找下一个标记
 
 // TRACE:1040
 EN Find next marked address in the run trace
-ZH Chicken chicken chicken chicken chicken
+ZH 在 Run 跟踪中查找下一个标记的地址
 
 // TRACE:1042
 EN Clear marks
-ZH Chicken chicken
+ZH 清除标记
 
 // TRACE:1043
 EN Clear address marks
-ZH Chicken chicken chicken
+ZH 清除地址标记
 
 // TRACE:1046
 EN Show profile for the module the selected command belongs to
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 显示所选指令所属模块的分析
 
 // TRACE:1048
 EN Global profile
-ZH Chicken chicken
+ZH 全局分析
 
 // TRACE:1049
 EN Show profile for the whole memory
@@ -16051,63 +16051,63 @@ ZH Chicken chicken chicken chicken
 
 // TRACE:1205
 EN Turned off
-ZH Chicken
+ZH 已关闭
 
 // TRACE:1355
 EN Back
-ZH Chic
+ZH 回退
 
 // TRACE:1356
 EN Backward index of the command in the run trace
-ZH Chicken chicken chicken chicken chicken chicken
+ZH Run 跟踪中指令的回退索引
 
 // TRACE:1360
 EN Thread in which the command was executed
-ZH Chicken chicken chicken chicken chicken
+ZH 执行此指令的线程
 
 // TRACE:1364
 EN Module to which the command belongs
-ZH Chicken chicken chicken chicken chicken
+ZH 指令所属的模块
 
 // TRACE:1368
 EN Address of the command
-ZH Chicken chicken chicken
+ZH 指令的地址
 
 // TRACE:1415
 EN Run trace (protocolling filter is active)
-ZH Chicken (chicken chicken chicken chicken)
+ZH Run 跟踪 (记录过滤器已激活)
 
 // TRACE:1525
 EN Profiling - $%%
-ZH Chicken - $%%
+ZH 正在分析 - $%%
 
 // TRACE:1555
 EN Incomplete profile
-ZH Chicken chicken
+ZH 分析不完整
 
 // TRACE:1761
 EN Update contents of Profile window
-ZH Chicken chicken chicken chicken
+ZH 更新分析窗口的内容
 
 // TRACE:1773
 EN Mark all appearances of the selected address in the run trace
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 标记 Run 跟踪中所选地址的所有出现位置
 
 // TRACE:1776
 EN Clear address marks in the run trace
-ZH Chicken chicken chicken chicken chicken
+ZH 清除 Run 跟踪中的地址标记
 
 // TRACE:1833
 EN Count
-ZH Chicken
+ZH 计数
 
 // TRACE:1834
 EN Number of registered hits
-ZH Chicken chicken chicken
+ZH 记录的命中次数
 
 // TRACE:1867
 EN Profile of
-ZH Chicken
+ZH 分析: 
 
 // UDD:183
 EN Select .udd file
