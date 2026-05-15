@@ -8239,15 +8239,15 @@ ZH 打开关于对话框
 
 // MENU:264
 EN Generic table shortcuts
-ZH Chicken chicken chicken
+ZH 通用表格快捷键
 
 // MENU:266
 EN Go to previous CPU pane
-ZH Chicken chicken chicken
+ZH 转到上一个 CPU 面板
 
 // MENU:268
 EN Go to next CPU pane
-ZH Chicken chicken chicken
+ZH 转到下一个 CPU 面板
 
 // MENU:271
 EN Update
@@ -8271,7 +8271,7 @@ ZH 粘贴
 
 // MENU:281
 EN Make MDI window topmost
-ZH Chicken chicken chicken
+ZH 将 MDI 窗口置顶
 
 // MENU:283
 EN Periodically update contents of window
@@ -8287,31 +8287,31 @@ ZH 显示或隐藏水平滚动栏
 
 // MENU:289
 EN Resize all columns to default width
-ZH Chicken chicken chicken chicken chicken
+ZH 将所有列调整为默认宽度
 
 // MENU:292
 EN Shortcuts used by different windows
-ZH Chicken chicken chicken chicken chicken
+ZH 不同窗口使用的快捷键
 
 // MENU:294
 EN Repeat last search
-ZH Chicken chicken
+ZH 重复上次搜索
 
 // MENU:296
 EN Repeat search in inverse direction
-ZH Chicken chicken chicken chicken
+ZH 反向重复搜索
 
 // MENU:299
 EN Dump: Backup
-ZH Chic: Chicken
+ZH 数据: 备份
 
 // MENU:301
 EN Create or update backup
-ZH Chicken chicken chicken
+ZH 创建或更新备份
 
 // MENU:303
 EN Toggle backup display
-ZH Chicken chicken chicken
+ZH 切换备份显示
 
 // MENU:306
 EN Dump: Edit
@@ -8319,23 +8319,23 @@ ZH Chic: Chic
 
 // MENU:312
 EN Copy data in hexadecimal format
-ZH Chicken chicken chicken chicken
+ZH 以十六进制格式复制数据
 
 // MENU:314
 EN Paste data in hexadecimal format
-ZH Chicken chicken chicken chicken
+ZH 以十六进制格式粘贴数据
 
 // MENU:316
 EN Edit first selected item
-ZH Chicken chicken chicken
+ZH 编辑首个所选项
 
 // MENU:318
 EN Edit dump selection
-ZH Chicken chicken chicken
+ZH 编辑数据选择
 
 // MENU:324
 EN Fill selection with 0xFF
-ZH Chicken chicken chicken 0chi
+ZH 用 0xFF 填充所选内容
 
 // MENU:326
 EN Select all
@@ -8343,19 +8343,19 @@ ZH 全选
 
 // MENU:328
 EN Select procedure or structure
-ZH Chicken chicken chicken chicken
+ZH 选择函数或结构
 
 // MENU:332
 EN Copy all modifications to executable file
-ZH Chicken chicken chicken chicken chicken
+ZH 将所有修改复制到可执行文件
 
 // MENU:336
 EN Add or edit custom label
-ZH Chicken chicken chicken
+ZH 添加或编辑自定义标签
 
 // MENU:340
 EN Add or edit comment
-ZH Chicken chicken chicken
+ZH 添加或编辑注释
 
 // MENU:342
 EN Save file to disk
@@ -8363,215 +8363,215 @@ ZH 保存文件到磁盘
 
 // MENU:345
 EN Dump: Breakpoints (shared by other windows)
-ZH Chic: Chicken chicken (chicken chicken chicken)
+ZH 数据: 断点 (与其他窗口共享)
 
 // MENU:359
 EN Enable or disable INT3 breakpoint
-ZH Chicken chicken chicken3 chicken
+ZH 启用或禁用 INT3 断点
 
 // MENU:361
 EN Set or edit memory breakpoint
-ZH Chicken chicken chicken chicken
+ZH 设置或编辑内存断点
 
 // MENU:365
 EN Enable or disable memory breakpoint
-ZH Chicken chicken chicken chicken chicken
+ZH 启用或禁用内存断点
 
 // MENU:369
 EN Set or edit hardware breakpoint
-ZH Chicken chicken chicken chicken
+ZH 设置或编辑硬件断点
 
 // MENU:373
 EN Enable or disable hardware breakpoint
-ZH Chicken chicken chicken chicken chicken
+ZH 启用或禁用硬件断点
 
 // MENU:378
 EN Dump: Jumps to location
-ZH Chic: Chicken chicken
+ZH 数据: 跳转到位置
 
 // MENU:380
 EN Set new origin
-ZH Chicken chicken
+ZH 设置新起点
 
 // MENU:384
 EN Go to origin (EIP) of current thread
-ZH Chicken chicken (CHI) chicken chicken
+ZH 转到当前线程的起点 (EIP)
 
 // MENU:386
 EN Go to expression
-ZH Chicken chicken
+ZH 转到表达式
 
 // MENU:388
 EN Follow jump or call to selection
-ZH Chicken chicken chicken chicken
+ZH 跟随跳转或调用到所选位置
 
 // MENU:392
 EN Go to previous history location
-ZH Chicken chicken chicken chicken
+ZH 转到上一个历史位置
 
 // MENU:394
 EN Go to next history location
-ZH Chicken chicken chicken chicken
+ZH 转到下一个历史位置
 
 // MENU:396
 EN Go to previous run trace record
-ZH Chicken chicken chicken chicken
+ZH 转到上一条 Run 跟踪记录
 
 // MENU:398
 EN Go to next run trace record
-ZH Chicken chicken chicken chicken
+ZH 转到下一条 Run 跟踪记录
 
 // MENU:400
 EN Go to previous procedure, structure or stack frame
-ZH Chicken chicken chicken, chicken chicken chicken
+ZH 转到上一个函数、结构或堆栈帧
 
 // MENU:402
 EN Go to next procedure, structure or stack frame
-ZH Chicken chicken chicken, chicken chicken chicken
+ZH 转到下一个函数、结构或堆栈帧
 
 // MENU:404
 EN Go to previous found item
-ZH Chicken chicken chicken
+ZH 转到上一个找到项
 
 // MENU:406
 EN Go to next found item
-ZH Chicken chicken chicken
+ZH 转到下一个找到项
 
 // MENU:408
 EN Follow selection in executable file
-ZH Chicken chicken chicken chicken chicken
+ZH 在可执行文件中跟随所选位置
 
 // MENU:411
 EN Dump: Structures
-ZH Chic: Chicken
+ZH 数据: 结构
 
 // MENU:413
 EN Decode as structure
-ZH Chicken chicken chicken
+ZH 解码为结构
 
 // MENU:415
 EN Decode as pointer to structure
-ZH Chicken chicken chicken chicken
+ZH 解码为结构指针
 
 // MENU:420
 EN Dump: Search
-ZH Chic: Chicken
+ZH 数据: 搜索
 
 // MENU:422
 EN Show list of names
-ZH Chicken chicken
+ZH 显示名称列表
 
 // MENU:424
 EN Find command
-ZH Chicken chicken
+ZH 查找指令
 
 // MENU:426
 EN Find sequence of commands
-ZH Chicken chicken chicken
+ZH 查找指令序列
 
 // MENU:428
 EN Find constant
-ZH Chicken chicken
+ZH 查找常量
 
 // MENU:430
 EN Find integer
-ZH Chicken chicken
+ZH 查找整数
 
 // MENU:434
 EN Find binary string
-ZH Chicken chicken
+ZH 查找二进制字符串
 
 // MENU:436
 EN Find modification
-ZH Chicken chicken
+ZH 查找修改
 
 // MENU:438
 EN Search for all intermodular calls
-ZH Chicken chicken chicken chicken
+ZH 搜索所有跨模块调用
 
 // MENU:440
 EN Search for all commands
-ZH Chicken chicken chicken
+ZH 搜索所有指令
 
 // MENU:442
 EN Search for all command sequences
-ZH Chicken chicken chicken chicken
+ZH 搜索所有指令序列
 
 // MENU:444
 EN Search for all constants
-ZH Chicken chicken chicken
+ZH 搜索所有常量
 
 // MENU:446
 EN Search for all modifications
-ZH Chicken chicken chicken chicken
+ZH 搜索所有修改
 
 // MENU:448
 EN Search for all referenced strings
-ZH Chicken chicken chicken chicken
+ZH 搜索所有引用的字符串
 
 // MENU:450
 EN Search for all referenced GUIDs
-ZH Chicken chicken chicken chicken
+ZH 搜索所有引用的 GUID
 
 // MENU:452
 EN Search for all user-defined comments
-ZH Chicken chicken chicken-chicken chicken
+ZH 搜索所有用户定义的注释
 
 // MENU:454
 EN Search for all procedures
-ZH Chicken chicken chicken
+ZH 搜索所有函数
 
 // MENU:456
 EN Search for all switches and cascaded IFs
-ZH Chicken chicken chicken chicken chicken
+ZH 搜索所有 switch 和级联 IF
 
 // MENU:458
 EN Search for all referenced floating-point constants
-ZH Chicken chicken chicken chicken-chicken chicken
+ZH 搜索所有引用的浮点常量
 
 // MENU:460
 EN Find last record in run trace
-ZH Chicken chicken chicken chicken
+ZH 查找 Run 跟踪中的最后一条记录
 
 // MENU:463
 EN Dump: References
-ZH Chic: Chicken
+ZH 数据: 引用
 
 // MENU:465
 EN Find all references
-ZH Chicken chicken chicken
+ZH 查找所有引用
 
 // MENU:468
 EN Dump: Addressing
-ZH Chic: Chicken
+ZH 数据: 寻址
 
 // MENU:474
 EN Show offsets relative to module base
-ZH Chicken chicken chicken chicken chicken
+ZH 显示相对于模块基址的偏移
 
 // MENU:477
 EN Dump: Comments
-ZH Chic: Chicken
+ZH 数据: 注释
 
 // MENU:479
 EN Toggle between comments and source code
-ZH Chicken chicken chicken chicken chicken
+ZH 在注释和源代码之间切换
 
 // MENU:481
 EN Show or hide run trace profile in comments
-ZH Chicken chicken chicken chicken chicken
+ZH 在注释中显示或隐藏 Run 跟踪分析
 
 // MENU:484
 EN Dump: Analysis
-ZH Chic: Chicken
+ZH 数据: 分析
 
 // MENU:486
 EN Analyse module
-ZH Chicken chicken
+ZH 分析模块
 
 // MENU:490
 EN Remove analysis from the module
-ZH Chicken chicken chicken chicken
+ZH 从模块中删除分析
 
 // MENU:493
 EN Dump: Help
@@ -8579,347 +8579,347 @@ ZH Chic: Chic
 
 // MENU:500
 EN Dump: Data presentation
-ZH Chic: Chicken chicken
+ZH 数据: 显示方式
 
 // MENU:502
 EN Dump as 16 hex bytes and ASCII text
-ZH Chicken 16 chicken chicken chicken
+ZH 显示为 16 字节十六进制和 ASCII 文本
 
 // MENU:504
 EN Dump as 8 hex bytes and ASCII text
-ZH Chicken 8 chicken chicken chicken
+ZH 显示为 8 字节十六进制和 ASCII 文本
 
 // MENU:506
 EN Dump as 16 hex bytes and UNICODE text
-ZH Chicken 16 chicken chicken chicken
+ZH 显示为 16 字节十六进制和 UNICODE 文本
 
 // MENU:508
 EN Dump as 8 hex bytes and UNICODE text
-ZH Chicken 8 chicken chicken chicken
+ZH 显示为 8 字节十六进制和 UNICODE 文本
 
 // MENU:510
 EN Dump as at most 16 hex bytes and multibyte text
-ZH Chicken chicken 16 chicken chicken chicken chicken
+ZH 显示为最多 16 字节十六进制和多字节文本
 
 // MENU:512
 EN Dump as at most 8 hex bytes and multibyte text
-ZH Chicken chicken 8 chicken chicken chicken chicken
+ZH 显示为最多 8 字节十六进制和多字节文本
 
 // MENU:514
 EN Dump as 64 ASCII characters
-ZH Chicken 64 Chicken chicken
+ZH 显示为 64 个 ASCII 字符
 
 // MENU:516
 EN Dump as 32 ASCII characters
-ZH Chicken 32 Chicken chicken
+ZH 显示为 32 个 ASCII 字符
 
 // MENU:518
 EN Dump as 64 UNICODE characters
-ZH Chicken 64 Chicken chicken
+ZH 显示为 64 个 UNICODE 字符
 
 // MENU:520
 EN Dump as 32 UNICODE characters
-ZH Chicken 32 Chicken chicken
+ZH 显示为 32 个 UNICODE 字符
 
 // MENU:522
 EN Dump as 16 UNICODE characters
-ZH Chicken 16 Chicken chicken
+ZH 显示为 16 个 UNICODE 字符
 
 // MENU:524
 EN Dump as 16-bit signed numbers
-ZH Chicken 16-chicken chicken
+ZH 显示为 16 位有符号数
 
 // MENU:526
 EN Dump as 16-bit unsigned numbers
-ZH Chicken 16-chicken chicken chicken
+ZH 显示为 16 位无符号数
 
 // MENU:528
 EN Dump as 16-bit hexadecimal numbers
-ZH Chicken 16-chicken chicken chicken
+ZH 显示为 16 位十六进制数
 
 // MENU:530
 EN Dump as 32-bit signed numbers
-ZH Chicken 32-chicken chicken
+ZH 显示为 32 位有符号数
 
 // MENU:532
 EN Dump as 32-bit unsigned numbers
-ZH Chicken 32-chicken chicken chicken
+ZH 显示为 32 位无符号数
 
 // MENU:534
 EN Dump as 32-bit hexadecimal numbers
-ZH Chicken 32-chicken chicken chicken
+ZH 显示为 32 位十六进制数
 
 // MENU:536
 EN Dump as address with comments
-ZH Chicken chicken chicken chicken
+ZH 显示为带注释的地址
 
 // MENU:538
 EN Dump as address with ASCII dump and comments
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 显示为带 ASCII 数据和注释的地址
 
 // MENU:540
 EN Dump as address with UNICODE dump and comments
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 显示为带 UNICODE 数据和注释的地址
 
 // MENU:542
 EN Dump as 32-bit floating-point numbers
-ZH Chicken 32-chicken chicken-chicken chicken
+ZH 显示为 32 位浮点数
 
 // MENU:544
 EN Dump as 64-bit floating-point numbers
-ZH Chicken 64-chicken chicken-chicken chicken
+ZH 显示为 64 位浮点数
 
 // MENU:546
 EN Dump as 80-bit floating-point numbers
-ZH Chicken 80-chicken chicken-chicken chicken
+ZH 显示为 80 位浮点数
 
 // MENU:548
 EN Dump as disassembly
-ZH Chicken chicken chicken
+ZH 显示为反汇编
 
 // MENU:550
 EN Dump as known structure
-ZH Chicken chicken chicken
+ZH 显示为已知结构
 
 // MENU:553
 EN Stack-specific shortcuts
-ZH Chicken-chicken chicken
+ZH 堆栈专用快捷键
 
 // MENU:555
 EN Lock or unlock stack
-ZH Chicken chicken chicken
+ZH 锁定或解锁堆栈
 
 // MENU:557
 EN Push doubleword
-ZH Chicken chicken
+ZH 压入双字
 
 // MENU:559
 EN Pop doubleword
-ZH Chicken chicken
+ZH 弹出双字
 
 // MENU:561
 EN Follow stack doubleword in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随堆栈双字
 
 // MENU:563
 EN Go to ESP
-ZH Chicken
+ZH 转到 ESP
 
 // MENU:565
 EN Go to EBP
-ZH Chicken
+ZH 转到 EBP
 
 // MENU:567
 EN Show offsets relative to ESP
-ZH Chicken chicken chicken chicken
+ZH 显示相对于 ESP 的偏移
 
 // MENU:569
 EN Show offsets relative to EBP
-ZH Chicken chicken chicken chicken
+ZH 显示相对于 EBP 的偏移
 
 // MENU:572
 EN Shortcuts of Registers pane
-ZH Chicken chicken chicken chicken
+ZH 寄存器面板的快捷键
 
 // MENU:574
 EN Increment register
-ZH Chicken chicken
+ZH 递增寄存器
 
 // MENU:576
 EN Decrement register
-ZH Chicken chicken
+ZH 递减寄存器
 
 // MENU:578
 EN Zero register
-ZH Chicken chicken
+ZH 寄存器置零
 
 // MENU:580
 EN Set register to 1
-ZH Chicken chicken 1
+ZH 将寄存器设置为 1
 
 // MENU:582
 EN Modify contents of register or toggle bit
-ZH Chicken chicken chicken chicken chicken
+ZH 修改寄存器内容或切换位
 
 // MENU:584
 EN Undo selected register
-ZH Chicken chicken chicken
+ZH 撤销所选寄存器
 
 // MENU:586
 EN Push FPU stack
-ZH Chicken chicken
+ZH 压入 FPU 堆栈
 
 // MENU:588
 EN Pop FPU stack
-ZH Chicken chicken
+ZH 弹出 FPU 堆栈
 
 // MENU:590
 EN Follow contents of register in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随寄存器内容
 
 // MENU:592
 EN Follow contents of register in CPU Dump
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随寄存器内容
 
 // MENU:594
 EN Follow contents of register in CPU Stack
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 堆栈中跟随寄存器内容
 
 // MENU:596
 EN View floating-point registers and flags
-ZH Chicken chicken-chicken chicken chicken
+ZH 查看浮点寄存器和标志位
 
 // MENU:598
 EN View MMX registers
-ZH Chicken chicken
+ZH 查看 MMX 寄存器
 
 // MENU:600
 EN View 3DNow! registers
-ZH Chic 3Chic! chicken
+ZH 查看 3DNow! 寄存器
 
 // MENU:602
 EN Help on register
-ZH Chicken chicken
+ZH 寄存器帮助
 
 // MENU:605
 EN Shortcuts of Information pane
-ZH Chicken chicken chicken chicken
+ZH 信息面板的快捷键
 
 // MENU:609
 EN Follow contents of operand in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随操作数内容
 
 // MENU:611
 EN Follow contents of operand in CPU Dump
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随操作数内容
 
 // MENU:613
 EN Follow contents of operand in CPU Stack
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 堆栈中跟随操作数内容
 
 // MENU:615
 EN List jumps and calls to command
-ZH Chicken chicken chicken chicken
+ZH 列出指向指令的跳转和调用
 
 // MENU:617
 EN List switch cases
-ZH Chicken chicken
+ZH 列出 switch 分支
 
 // MENU:622
 EN Log window
-ZH Chicken
+ZH 日志窗口
 
 // MENU:624
 EN Follow address of log record in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随日志记录地址
 
 // MENU:626
 EN Follow address of log record in CPU Dump
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随日志记录地址
 
 // MENU:628
 EN Follow address of log record in CPU Stack
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 堆栈中跟随日志记录地址
 
 // MENU:632
 EN Start protocolling to file
-ZH Chicken chicken chicken
+ZH 开始记录到文件
 
 // MENU:634
 EN Stop protocolling to file
-ZH Chicken chicken chicken
+ZH 停止记录到文件
 
 // MENU:637
 EN Executable modules
-ZH Chicken chicken
+ZH 可执行模块
 
 // MENU:639
 EN Open code section in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中打开代码节
 
 // MENU:641
 EN View module data section in CPU Dump
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据中查看模块数据节
 
 // MENU:643
 EN Open executable file in standalone Dump window
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在独立数据窗口中打开可执行文件
 
 // MENU:645
 EN List names declared in the selected module
-ZH Chicken chicken chicken chicken chicken
+ZH 列出所选模块中声明的名称
 
 // MENU:647
 EN List all names declared in the debugged application
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 列出被调试程序中声明的所有名称
 
 // MENU:649
 EN Find all intermodular calls in the selected module
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 查找所选模块中的所有跨模块调用
 
 // MENU:651
 EN Analyse selected module
-ZH Chicken chicken chicken
+ZH 分析所选模块
 
 // MENU:653
 EN Save module data to .udd file
-ZH Chicken chicken chicken .chicken
+ZH 将模块数据保存到 .udd 文件
 
 // MENU:655
 EN Load module data from .udd file
-ZH Chicken chicken chicken .chicken
+ZH 从 .udd 文件加载模块数据
 
 // MENU:664
 EN View memory block in CPU Dump
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 数据中查看内存块
 
 // MENU:666
 EN Dump memory block in separate window
-ZH Chicken chicken chicken chicken chicken
+ZH 在单独窗口中转储内存块
 
 // MENU:668
 EN Search memory block for a sequence of bytes or string
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在内存块中搜索字节序列或字符串
 
 // MENU:670
 EN Toggle break on access to selected memory block
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 切换对所选内存块的访问中断
 
 // MENU:672
 EN Show or hide free memory
-ZH Chicken chicken chicken
+ZH 显示或隐藏空闲内存
 
 // MENU:675
 EN List of windows
-ZH Chicken chicken
+ZH 窗口列表
 
 // MENU:677
 EN Follow WinProc in CPU Disassembler
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随 WinProc
 
 // MENU:679
 EN Follow ClassProc in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随 ClassProc
 
 // MENU:682
 EN Threads
-ZH Chicken
+ZH 线程
 
 // MENU:684
 EN Open thread in CPU window
-ZH Chicken chicken chicken
+ZH 在 CPU 窗口中打开线程
 
 // MENU:686
 EN Dump Thread Information Block
-ZH Chicken chicken chicken chicken
+ZH 转储线程信息块
 
 // MENU:688
 EN View thread registers
-ZH Chicken chicken chicken
+ZH 查看线程寄存器
 
 // MENU:690
 EN Set symbolic thread name
-ZH Chicken chicken chicken
+ZH 设置线程符号名称
 
 // MENU:692
 EN Suspend thread
@@ -8939,39 +8939,39 @@ ZH 监视
 
 // MENU:701
 EN Insert watch
-ZH Chicken chicken
+ZH 插入监视
 
 // MENU:703
 EN Edit watch
-ZH Chicken
+ZH 编辑监视
 
 // MENU:705
 EN Delete watch
-ZH Chicken chicken
+ZH 删除监视
 
 // MENU:707
 EN Move watch one line up
-ZH Chicken chicken chicken
+ZH 上移监视一行
 
 // MENU:709
 EN Move watch one line down
-ZH Chicken chicken chicken
+ZH 下移监视一行
 
 // MENU:711
 EN Edit contents of displayed register or memory
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 编辑显示的寄存器或内存内容
 
 // MENU:713
 EN Follow watch value in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随监视值
 
 // MENU:715
 EN Follow watch value in CPU Dump
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随监视值
 
 // MENU:717
 EN Follow watch value in CPU Stack
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 堆栈中跟随监视值
 
 // MENU:720
 EN Search results
@@ -8979,51 +8979,51 @@ ZH 搜索结果
 
 // MENU:722
 EN Follow selected found item in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随所选找到项
 
 // MENU:724
 EN Follow previous found item in Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在反汇编中跟随上一个找到项
 
 // MENU:726
 EN Follow next found item in Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在反汇编中跟随下一个找到项
 
 // MENU:728
 EN Find text substring
-ZH Chicken chicken chicken
+ZH 查找文本子串
 
 // MENU:730
 EN Set unconditional breakpoint on all found commands
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在所有找到的指令上设置无条件断点
 
 // MENU:732
 EN Set conditional breakpoint on all found commands
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在所有找到的指令上设置条件断点
 
 // MENU:734
 EN Set logging breakpoint on all found commands
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在所有找到的指令上设置记录断点
 
 // MENU:736
 EN Remove breakpoints from all found commands
-ZH Chicken chicken chicken chicken chicken
+ZH 从所有找到的指令上删除断点
 
 // MENU:738
 EN Set unconditional break on calls to selected function
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在对所选函数的调用上设置无条件断点
 
 // MENU:740
 EN Set conditional break on calls to selected function
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在对所选函数的调用上设置条件断点
 
 // MENU:742
 EN Set logging break on calls to selected function
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在对所选函数的调用上设置记录断点
 
 // MENU:744
 EN Remove breakpoints from calls to selected function
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 从对所选函数的调用上删除断点
 
 // MENU:747
 EN Run trace
@@ -9031,107 +9031,107 @@ ZH Run 跟踪
 
 // MENU:749
 EN Follow previous run trace record in Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在反汇编中跟随上一条 Run 跟踪记录
 
 // MENU:751
 EN Follow next run trace record in Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在反汇编中跟随下一条 Run 跟踪记录
 
 // MENU:753
 EN Follow selected trace record in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随所选跟踪记录
 
 // MENU:755
 EN Clear run trace
-ZH Chicken chicken
+ZH 清除 Run 跟踪
 
 // MENU:757
 EN Toggle run trace registers display mode
-ZH Chicken chicken chicken chicken chicken
+ZH 切换 Run 跟踪寄存器显示模式
 
 // MENU:759
 EN Mark address in run trace
-ZH Chicken chicken chicken
+ZH 在 Run 跟踪中标记地址
 
 // MENU:761
 EN Enter address to find and mark in run trace
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 输入要在 Run 跟踪中查找并标记的地址
 
 // MENU:763
 EN Find previous marked address in run trace
-ZH Chicken chicken chicken chicken chicken
+ZH 在 Run 跟踪中查找上一个标记的地址
 
 // MENU:765
 EN Find next marked address in run trace
-ZH Chicken chicken chicken chicken chicken
+ZH 在 Run 跟踪中查找下一个标记的地址
 
 // MENU:767
 EN Clear address marks in run trace
-ZH Chicken chicken chicken chicken
+ZH 清除 Run 跟踪中的地址标记
 
 // MENU:769
 EN Profile selected module
-ZH Chicken chicken chicken
+ZH 分析所选模块
 
 // MENU:771
 EN Profile whole memory
-ZH Chicken chicken chicken
+ZH 分析整个内存
 
 // MENU:773
 EN Save run trace data to the file
-ZH Chicken chicken chicken chicken
+ZH 将 Run 跟踪数据保存到文件
 
 // MENU:775
 EN Close run trace log file
-ZH Chicken chicken chicken
+ZH 关闭 Run 跟踪日志文件
 
 // MENU:778
 EN Profile
-ZH Chicken
+ZH 分析
 
 // MENU:780
 EN Follow selected profile item in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随所选分析项
 
 // MENU:782
 EN Follow previous profile item in Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在反汇编中跟随上一个分析项
 
 // MENU:784
 EN Follow next profile item in Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在反汇编中跟随下一个分析项
 
 // MENU:786
 EN Mark selected address in run trace
-ZH Chicken chicken chicken chicken
+ZH 在 Run 跟踪中标记所选地址
 
 // MENU:789
 EN Patches
-ZH Chicken
+ZH 补丁
 
 // MENU:791
 EN Follow selected patch in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随所选补丁
 
 // MENU:793
 EN Follow previous patch in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随上一个补丁
 
 // MENU:795
 EN Follow next patch in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随下一个补丁
 
 // MENU:797
 EN Apply patch
-ZH Chicken chicken
+ZH 应用补丁
 
 // MENU:799
 EN Restore original code
-ZH Chicken chicken chicken
+ZH 还原原始代码
 
 // MENU:801
 EN Delete patch record from the table
-ZH Chicken chicken chicken chicken
+ZH 从表中删除补丁记录
 
 // MENU:804
 EN Breakpoint lists
@@ -9143,55 +9143,55 @@ ZH 删除断点
 
 // MENU:808
 EN Enable or disable reakpoint
-ZH Chicken chicken chicken chicken
+ZH 启用或禁用断点
 
 // MENU:812
 EN Follow breakpoint in CPU Dump
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随断点
 
 // MENU:814
 EN Disable all breakpoints
-ZH Chicken chicken chicken
+ZH 禁用所有断点
 
 // MENU:816
 EN Enable all breakpoints
-ZH Chicken chicken chicken
+ZH 启用所有断点
 
 // MENU:821
 EN Follow selected source line in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随所选源代码行
 
 // MENU:824
 EN List of source files
-ZH Chicken chicken chicken
+ZH 源文件列表
 
 // MENU:826
 EN View source file
-ZH Chicken chicken
+ZH 查看源文件
 
 // MENU:831
 EN Follow import in CPU Disassembler
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随导入
 
 // MENU:833
 EN Follow selected label in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随所选标签
 
 // MENU:835
 EN Follow selected label in CPU Dump
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随所选标签
 
 // MENU:837
 EN Find references to name
-ZH Chicken chicken chicken
+ZH 查找对名称的引用
 
 // MENU:839
 EN Help on selected API function
-ZH Chicken chicken chicken chicken
+ZH 所选 API 函数的帮助
 
 // MENU:844
 EN Dump file associated with the handle
-ZH Chicken chicken chicken chicken chicken
+ZH 转储与句柄关联的文件
 
 // MENU:847
 EN Call stack
@@ -9199,31 +9199,31 @@ ZH 调用堆栈
 
 // MENU:851
 EN Follow procedure in CPU Disassember
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随函数
 
 // MENU:853
 EN Follow caller in CPU Disassember
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 反汇编中跟随调用者
 
 // MENU:855
 EN Follow stack frame in CPU Stack
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 堆栈中跟随堆栈帧
 
 // MENU:857
 EN Follow stack doubleword in CPU Dump
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据中跟随堆栈双字
 
 // MENU:859
 EN Set breakpoint on call
-ZH Chicken chicken chicken
+ZH 在调用处设置断点
 
 // MENU:861
 EN Set conditional breakpoint on call
-ZH Chicken chicken chicken chicken
+ZH 在调用处设置条件断点
 
 // MENU:863
 EN Set conditional logging breakpoint on call
-ZH Chicken chicken chicken chicken chicken
+ZH 在调用处设置条件记录断点
 
 // MENU:911
 EN Ctrl+
@@ -9243,7 +9243,7 @@ ZH Shift+
 
 // MENU:930
 EN Space
-ZH Chicken
+ZH 空格
 
 // MENU:932
 EN Plus (+)
@@ -9251,39 +9251,39 @@ ZH Chic (+)
 
 // MENU:934
 EN Minus (-)
-ZH Chicken (-)
+ZH 减号 (-)
 
 // MENU:936
 EN Colon (:)
-ZH Chicken (:)
+ZH 冒号 (:)
 
 // MENU:938
 EN Semicolon (;)
-ZH Chicken (;)
+ZH 分号 (;)
 
 // MENU:940
 EN Comma (,)
-ZH Chicken (,)
+ZH 逗号 (,)
 
 // MENU:942
 EN Point (.)
-ZH Chicken (.)
+ZH 句点 (.)
 
 // MENU:957
 EN NumPoint
-ZH Chicken
+ZH 小键盘句点
 
 // MENU:961
 EN BkSpc
-ZH Chicken
+ZH 退格
 
 // MENU:963
 EN Enter
-ZH Chicken
+ZH Enter
 
 // MENU:965
 EN Insert
-ZH Chicken
+ZH Insert
 
 // MENU:967
 EN Gray *
@@ -9311,19 +9311,19 @@ ZH Chi
 
 // MENU:979
 EN UpArrow
-ZH Chicken
+ZH 上箭头
 
 // MENU:981
 EN DownArrow
-ZH Chicken
+ZH 下箭头
 
 // MENU:983
 EN LeftArrow
-ZH Chicken
+ZH 左箭头
 
 // MENU:985
 EN RightArrow
-ZH Chicken
+ZH 右箭头
 
 // MENU:987
 EN PgUp
@@ -9343,7 +9343,7 @@ ZH Chi
 
 // MENU:1274
 EN Shortcut:
-ZH Chicken:
+ZH 快捷键:
 
 // MENU:1277
 EN Ctrl +
@@ -9351,7 +9351,7 @@ ZH Ctrl +
 
 // MENU:1278
 EN Shortcut includes Control key
-ZH Chicken chicken chicken chicken
+ZH 快捷键包含 Control 键
 
 // MENU:1280
 EN Alt +
@@ -9359,7 +9359,7 @@ ZH Alt +
 
 // MENU:1281
 EN Shortcut includes Alt key
-ZH Chicken chicken chicken
+ZH 快捷键包含 Alt 键
 
 // MENU:1283
 EN Win +
@@ -9367,7 +9367,7 @@ ZH Win +
 
 // MENU:1284
 EN Shortcut includes Flying Windows key
-ZH Chicken chicken chicken chicken chicken
+ZH 快捷键包含 Windows 键
 
 // MENU:1286
 EN Shift +
@@ -9375,11 +9375,11 @@ ZH Shift +
 
 // MENU:1287
 EN Shortcut includes Shift key
-ZH Chicken chicken chicken chicken
+ZH 快捷键包含 Shift 键
 
 // MENU:1290
 EN Select main shortcut key
-ZH Chicken chicken chicken
+ZH 选择主快捷键
 
 // MENU:1292
 EN Apply
@@ -9387,11 +9387,11 @@ ZH 应用
 
 // MENU:1293
 EN Press to apply shortcut
-ZH Chicken chicken chicken
+ZH 按下应用快捷键
 
 // MENU:1296
 EN Validity of the shortcut
-ZH Chicken chicken chicken
+ZH 快捷键的有效性
 
 // MENU:1298
 EN Load
@@ -9399,11 +9399,11 @@ ZH Chic
 
 // MENU:1299
 EN Load shortcuts from file
-ZH Chicken chicken chicken
+ZH 从文件加载快捷键
 
 // MENU:1302
 EN Save shortcuts to file
-ZH Chicken chicken chicken
+ZH 将快捷键保存到文件
 
 // MENU:1304
 EN Restore defaults
@@ -9411,103 +9411,103 @@ ZH 恢复默认
 
 // MENU:1305
 EN Restore default OllyDbg shortcuts
-ZH Chicken chicken chicken chicken
+ZH 还原默认 OllyDbg 快捷键
 
 // MENU:1308
 EN Accept shortcuts and close shortcut editor
-ZH Chicken chicken chicken chicken chicken
+ZH 接受快捷键并关闭快捷键编辑器
 
 // MENU:1311
 EN Discard modifications and close shortcut editor
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 放弃修改并关闭快捷键编辑器
 
 // MENU:1313
 EN Shortcut editor
-ZH Chicken chicken
+ZH 快捷键编辑器
 
 // MENU:1469
 EN Shortcut is reserved by OS
-ZH Chicken chicken chicken
+ZH 快捷键由操作系统保留
 
 // MENU:1472
 EN Shortcut is reserved by OllyDbg
-ZH Chicken chicken chicken chicken
+ZH 快捷键由 OllyDbg 保留
 
 // MENU:1476
 EN Shift is not allowed (used as command modifier)
-ZH Chicken chicken chicken (chicken chicken chicken)
+ZH 不允许使用 Shift (用作指令修饰键)
 
 // MENU:1481
 EN Shift is not allowed (turns numeric pad keys into arrow mode)
-ZH Chicken chicken chicken (chicken chicken chicken chicken chicken)
+ZH 不允许使用 Shift (会将小键盘切换为方向键模式)
 
 // MENU:1485
 EN Shift is not allowed (key is processed as a character)
-ZH Chicken chicken chicken (chicken chicken chicken chicken)
+ZH 不允许使用 Shift (该键作为字符处理)
 
 // MENU:1491
 EN This key can be used only in combination with Alt
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 此键只能与 Alt 组合使用
 
 // MENU:1505
 EN This combination is already used by:
-ZH Chicken chicken chicken chicken chicken:
+ZH 此组合键已被以下功能使用:
 
 // MENU:1511
 EN Conflicting shortcut(s) will be removed if you press 'Apply'
-ZH Chicken chicken chicken(c) chicken chicken chicken chicken 'Chicken'
+ZH 按 'Apply' 时将删除冲突的快捷键
 
 // MENU:1517
 EN Press 'Apply' to change shortcut
-ZH Chicken 'Chicken' chicken chicken
+ZH 按 'Apply' 更改快捷键
 
 // MENU:1626
 EN Select file with shortcuts
-ZH Chicken chicken chicken
+ZH 选择快捷键文件
 
 // MENU:1631
 EN No file
-ZH Chicken
+ZH 无文件
 
 // MENU:1675
 EN Description
-ZH Chicken chicken
+ZH 描述
 
 // MENU:1676
 EN Description of the function
-ZH Chicken chicken chicken chicken
+ZH 功能描述
 
 // MENU:1679
 EN Shortcut
-ZH Chicken
+ZH 快捷键
 
 // MENU:1680
 EN Currently selected shortcut
-ZH Chicken chicken chicken chicken
+ZH 当前所选快捷键
 
 // MENU:2062
 EN Resize main window
-ZH Chicken chicken
+ZH 调整主窗口大小
 
 // MENU:2064
 EN Move main window
-ZH Chicken chicken
+ZH 移动主窗口
 
 // MENU:2066
 EN Minimize main window
-ZH Chicken chicken chicken
+ZH 最小化主窗口
 
 // MENU:2068
 EN Maximize main window
-ZH Chicken chicken chicken
+ZH 最大化主窗口
 
 // MENU:2070
 EN Restore main window to previous size
-ZH Chicken chicken chicken chicken chicken
+ZH 还原主窗口至之前大小
 
 // MENU:2079
 EN Switch to window
-ZH Chicken chicken
+ZH 切换到窗口
 
 // MODULES:130
 EN empty range
