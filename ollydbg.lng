@@ -14963,135 +14963,135 @@ ZH 次方
 
 // STACK:409
 EN Update contents of the Call stack window
-ZH Chicken chicken chicken chicken chicken
+ZH 更新调用堆栈窗口的内容
 
 // STACK:414
 EN Follow in CPU stack
-ZH Chicken chicken chicken
+ZH 在 CPU 堆栈中跟随
 
 // STACK:415
 EN Follow item in the CPU Stack
-ZH Chicken chicken chicken chicken
+ZH 在 CPU 堆栈面板中跟随项
 
 // STACK:417
 EN Follow procedure
-ZH Chicken chicken
+ZH 跟随过程
 
 // STACK:418
 EN Follow procedure in the CPU Disassembler
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 反汇编器中跟随过程
 
 // STACK:420
 EN Follow caller
-ZH Chicken chicken
+ZH 跟随调用者
 
 // STACK:421
 EN Go to the call instruction
-ZH Chicken chicken chicken
+ZH 转到调用指令
 
 // STACK:423
 EN Follow stack frame
-ZH Chicken chicken
+ZH 跟随堆栈帧
 
 // STACK:424
 EN Follow stack frame (EBP register) in the CPU Stack
-ZH Chicken chicken (Chicken chicken) chicken chicken
+ZH 在 CPU 堆栈中跟随堆栈帧 (EBP 寄存器)
 
 // STACK:427
 EN Follow stack doubleword in the CPU Dump
-ZH Chicken chicken chicken chicken chicken
+ZH 在 CPU 数据面板中跟随堆栈双字
 
 // STACK:429
 EN Execute till &return
-ZH Chicken chicken &chicken
+ZH 执行到返回(&R)
 
 // STACK:430
 EN Run application till return from the selected call is reached
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 运行程序直到从所选调用返回
 
 // STACK:432
 EN Breakpoint on procedure
-ZH Chicken chicken chicken
+ZH 过程断点
 
 // STACK:433
 EN Set unconditional breakpoint on the entry point of the procedure
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在过程入口点设置无条件断点
 
 // STACK:436
 EN Set or edit conditional breakpoint on entry point of the procedure
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在过程入口点设置或编辑条件断点
 
 // STACK:439
 EN Set or edit logging breakpoint on the entry point of the procedure
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在过程入口点设置或编辑记录断点
 
 // STACK:442
 EN Remove breakpoint from the entry point of the procedure
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 删除过程入口点的断点
 
 // STACK:444
 EN Breakpoint on call
-ZH Chicken chicken
+ZH 调用断点
 
 // STACK:445
 EN Set unconditional breakpoint on the call to the procedure
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 在对过程的调用处设置无条件断点
 
 // STACK:447
 EN Conditional breakpoint on call...
-ZH Chicken chicken chicken chicken...
+ZH 调用处条件断点...
 
 // STACK:448
 EN Set or edit conditional breakpoint on the call to the procedure
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在对过程的调用处设置或编辑条件断点
 
 // STACK:451
 EN Set or edit logging breakpoint on the call to the procedure
-ZH Chicken chicken chicken chicken chicken chicken chicken chicken
+ZH 在对过程的调用处设置或编辑记录断点
 
 // STACK:453
 EN Remove breakpoint from call
-ZH Chicken chicken chicken chicken
+ZH 删除调用处的断点
 
 // STACK:454
 EN Remove breakpoint from the call to the procedure
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 删除对过程的调用处的断点
 
 // STACK:754
 EN Address of item on the stack
-ZH Chicken chicken chicken chicken
+ZH 堆栈上项目的地址
 
 // STACK:757
 EN Data
-ZH Chic
+ZH 数据
 
 // STACK:758
 EN Data on the specified address
-ZH Chicken chicken chicken chicken
+ZH 指定地址处的数据
 
 // STACK:761
 EN Procedure
-ZH Chicken
+ZH 过程
 
 // STACK:762
 EN Procedure name or argument decoding
-ZH Chicken chicken chicken chicken chicken
+ZH 过程名称或参数解码
 
 // STACK:765
 EN Called from
-ZH Chicken chicken
+ZH 调用来源
 
 // STACK:766
 EN Address of caller
-ZH Chicken chicken
+ZH 调用者的地址
 
 // STACK:769
 EN Frame
-ZH Chicken
+ZH 帧
 
 // STACK:770
 EN Stack frame
-ZH Chicken chicken
+ZH 堆栈帧
 
 // START:321
 EN Unable to extract name of executable file from link '%s'
