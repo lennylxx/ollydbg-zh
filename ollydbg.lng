@@ -10295,31 +10295,31 @@ ZH 关闭 Run 跟踪
 
 // OLLYMAIN:819
 EN Close run trace protocolling
-ZH Chicken chicken chicken chicken
+ZH 关闭 Run 跟踪记录
 
 // OLLYMAIN:821
 EN Start animation entering subroutines
-ZH Chicken chicken chicken chicken chicken
+ZH 开始自动步入子程序
 
 // OLLYMAIN:823
 EN Start animation executing subroutines at once
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 开始自动步过子程序
 
 // OLLYMAIN:825
 EN Trace code entering subroutines
-ZH Chicken chicken chicken chicken
+ZH 跟踪代码并进入子程序
 
 // OLLYMAIN:827
 EN Trace code executing subroutines at once
-ZH Chicken chicken chicken chicken chicken
+ZH 跟踪代码并执行子程序
 
 // OLLYMAIN:829
 EN Mark commands that were executed at least once
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 标记至少执行过一次的指令
 
 // OLLYMAIN:831
 EN Stop hit trace and discard gathered hit data
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 停止 Hit 跟踪并丢弃已收集的命中数据
 
 // OLLYMAIN:833
 EN Discard hit trace
@@ -10327,7 +10327,7 @@ ZH 忽略 Hit 跟踪
 
 // OLLYMAIN:833
 EN Discard gathered hit trace data
-ZH Chicken chicken chicken chicken
+ZH 丢弃已收集的 Hit 跟踪数据
 
 // OLLYMAIN:835
 EN Set condition...
@@ -10339,11 +10339,11 @@ ZH 设置跟踪断点条件
 
 // OLLYMAIN:837
 EN Set protocol...
-ZH Chicken chicken...
+ZH 设置记录...
 
 // OLLYMAIN:837
 EN Set commands and address ranges to protocol
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 设置要记录的指令和地址范围
 
 // OLLYMAIN:843
 EN Plugin menu
@@ -10363,7 +10363,7 @@ ZH 加载选项...
 
 // OLLYMAIN:852
 EN Load OllyDbg options from different initialization file
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 从其他初始化文件加载 OllyDbg 选项
 
 // OLLYMAIN:854
 EN Save options...
@@ -10371,7 +10371,7 @@ ZH 保存选项...
 
 // OLLYMAIN:855
 EN Save OllyDbg options to different initialization file
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 将 OllyDbg 选项保存到其他初始化文件
 
 // OLLYMAIN:857
 EN &Plugin options...
@@ -10527,23 +10527,23 @@ ZH 帮助功能
 
 // OLLYMAIN:1054
 EN WM_DESTROY from different process ignored
-ZH Chicken chicken chicken chicken chicken
+ZH 已忽略来自其他进程的 WM_DESTROY
 
 // OLLYMAIN:1070
 EN WM_CLOSE from different process ignored
-ZH Chicken chicken chicken chicken chicken
+ZH 已忽略来自其他进程的 WM_CLOSE
 
 // OLLYMAIN:1221
 EN Select 32-bit executable and specify arguments
-ZH Chicken 32-chicken chicken chicken chicken chicken
+ZH 选择 32 位可执行文件并指定参数
 
 // OLLYMAIN:1380
 EN Set affinity mask for debugged process
-ZH Chicken chicken chicken chicken chicken
+ZH 为被调试进程设置亲和性掩码
 
 // OLLYMAIN:1458
 EN Select initialization file
-ZH Chicken chicken chicken
+ZH 选择初始化文件
 
 // OLLYMAIN:1648
 EN Top
@@ -10559,15 +10559,15 @@ ZH 加载中
 
 // OLLYMAIN:1665
 EN Attaching
-ZH Chicken
+ZH 附加中
 
 // OLLYMAIN:1671
 EN Calling DLL
-ZH Chicken chicken
+ZH 正在调用 DLL
 
 // OLLYMAIN:1673
 EN Hit trace
-ZH Chicken
+ZH Hit 跟踪
 
 // OLLYMAIN:1675
 EN Thread
@@ -10583,83 +10583,83 @@ ZH 单步步入
 
 // OLLYMAIN:1691
 EN Animating
-ZH Chicken
+ZH 自动步进中
 
 // OLLYMAIN:1696
 EN Tracing
-ZH Chicken
+ZH 跟踪中
 
 // OLLYMAIN:1702
 EN Unpacking
-ZH Chicken
+ZH 解包中
 
 // OLLYMAIN:1707
 EN Till RET
-ZH Chicken
+ZH 执行到 RET
 
 // OLLYMAIN:1711
 EN Till user
-ZH Chicken
+ZH 执行到用户
 
 // OLLYMAIN:1715
 EN Pausing
-ZH Chicken
+ZH 暂停中
 
 // OLLYMAIN:1719
 EN Paused
-ZH Chicken
+ZH 已暂停
 
 // OLLYMAIN:1723
 EN Terminated
-ZH Chicken
+ZH 已终止
 
 // OLLYMAIN:1727
 EN Closing
-ZH Chicken
+ZH 关闭中
 
 // OLLYMAIN:1731
 EN Unknown
-ZH Chicken
+ZH 未知
 
 // OLLYMAIN:1819
 EN You are going to close OllyDbg. The debugged process will terminate, which may lead to the loss of data. Do you still want to close OllyDbg?
-ZH Chicken chicken chicken chicken. Chicken chicken chicken chicken chicken, chicken chicken chicken chicken. Chicken chicken chicken chicken?
+ZH 您将要关闭 OllyDbg。被调试进程将终止，这可能导致数据丢失。仍要关闭 OllyDbg 吗？
 
 // OLLYMAIN:1877
 EN Dynamic link library '%s%s' that resides in OllyDbg directory is intended for use on NT-based operating systems only. Delete it?
-ZH Chicken chicken chicken '%s%s' chicken chicken chicken chicken chicken chicken chicken chicken-chicken chicken chicken chicken. Chicken?
+ZH OllyDbg 目录中的动态链接库 '%s%s' 仅供基于 NT 的操作系统使用。是否删除？
 
 // OLLYMAIN:1878
 EN Wrong DLL
-ZH Chicken
+ZH 错误的 DLL
 
 // OLLYMAIN:1912
 EN Dynamic link library '%s%s' that resides in OllyDbg directory has lower file version (%s) than corresponding DLL in system directory (%s). Delete old library from the OllyDbg directory? (If necessary, you can restore it later from the original .zip archive)
-ZH Chicken chicken chicken '%s%s' chicken chicken chicken chicken chicken chicken chicken (%s) chicken chicken chicken chicken chicken (%s). Chicken chicken chicken chicken chicken chicken? (Chicken chicken, chicken chicken chicken chicken chicken .chicken chicken)
+ZH 位于 OllyDbg 目录的动态链接库 '%s%s' 文件版本 (%s) 低于系统目录中对应的 DLL 版本 (%s)。是否从 OllyDbg 目录删除旧库？（如有必要，可稍后从原始 .zip 压缩包恢复）
 
 // OLLYMAIN:2804
 EN Unable to load KERNEL32.DLL
-ZH Chicken chicken chicken32.CHI
+ZH 无法加载 KERNEL32.DLL
 
 // OLLYMAIN:2889
 EN PSAPI.DLL is not found. This library contains important process- and module-oriented functions for OSes based on NT technology. Normal debugging is hardly possible. Do you nevertheless want to continue?
-ZH CHICKEN.Chicken chicken. Chicken chicken chicken chicken chicken- chicken-chicken chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken. Chicken chicken chicken chicken chicken?
+ZH 未找到 PSAPI.DLL。此库包含基于 NT 技术的操作系统中重要的进程和模块相关函数。正常调试几乎不可能。是否仍要继续？
 
 // OLLYMAIN:2989
 EN Terminal 6
-ZH Chicken 6
+ZH Terminal 6
 
 // OLLYMAIN:2992
 EN System fixed font
-ZH Chicken chicken
+ZH 系统等宽字体
 
 // OLLYMAIN:3002
 EN Courier (UNICODE)
-ZH Chicken (CHICKEN)
+ZH Courier (UNICODE)
 
 // OLLYMAIN:3012
 EN Lucida (UNICODE)
-ZH Chicken (CHICKEN)
+ZH Lucida (UNICODE)
 
 // OLLYMAIN:3015
 EN Font 4
@@ -10679,107 +10679,107 @@ ZH Chic 7
 
 // OLLYMAIN:3124
 EN Black on white
-ZH Chicken chicken
+ZH 白底黑字
 
 // OLLYMAIN:3146
 EN Yellow on blue
-ZH Chicken chicken
+ZH 蓝底黄字
 
 // OLLYMAIN:3168
 EN Marine
-ZH Chicken
+ZH 海洋
 
 // OLLYMAIN:3190
 EN Mostly black
-ZH Chicken chicken
+ZH 黑色为主
 
 // OLLYMAIN:3213
 EN Scheme 4
-ZH Chicken 4
+ZH 方案 4
 
 // OLLYMAIN:3215
 EN Scheme 5
-ZH Chicken 5
+ZH 方案 5
 
 // OLLYMAIN:3217
 EN Scheme 6
-ZH Chicken 6
+ZH 方案 6
 
 // OLLYMAIN:3219
 EN Scheme 7
-ZH Chicken 7
+ZH 方案 7
 
 // OLLYMAIN:3239
 EN No highlighting
-ZH Chicken chicken
+ZH 无高亮
 
 // OLLYMAIN:3241
 EN Christmas tree
-ZH Chicken chicken
+ZH 圣诞树
 
 // OLLYMAIN:3279
 EN Jumps and calls
-ZH Chicken chicken
+ZH 跳转和调用
 
 // OLLYMAIN:3295
 EN Memory access
-ZH Chicken chicken
+ZH 内存访问
 
 // OLLYMAIN:3308
 EN Hilite 4
-ZH Chicken 4
+ZH 高亮 4
 
 // OLLYMAIN:3310
 EN Hilite 5
-ZH Chicken 5
+ZH 高亮 5
 
 // OLLYMAIN:3312
 EN Hilite 6
-ZH Chicken 6
+ZH 高亮 6
 
 // OLLYMAIN:3314
 EN Hilite 7
-ZH Chicken 7
+ZH 高亮 7
 
 // OLLYMAIN:3370
 EN Unable to create main OllyDbg window
-ZH Chicken chicken chicken chicken chicken
+ZH 无法创建 OllyDbg 主窗口
 
 // OLLYMAIN:3433
 EN %s v%i.%02i%s (preliminary version - under development!)
-ZH %s c%i.%02i%s (chicken chicken chicken - chicken chicken!)
+ZH %s v%i.%02i%s (预发布版本 - 开发中!)
 
 // OLLYMAIN:3436
 EN %s v%i.%02i%s (intermediate version - under development!)
-ZH %s c%i.%02i%s (chicken chicken chicken - chicken chicken!)
+ZH %s v%i.%02i%s (中间版本 - 开发中!)
 
 // OLLYMAIN:3452
 EN Unable to initialize COM library. Some features will be disabled.
-ZH Chicken chicken chicken chicken. Chicken chicken chicken chicken.
+ZH 无法初始化 COM 库。部分功能将被禁用。
 
 // OLLYMAIN:3461
 EN Command line:
-ZH Chicken chicken:
+ZH 命令行:
 
 // OLLYMAIN:3507
 EN Unable to initialize OllyDbg
-ZH Chicken chicken chicken chicken
+ZH 无法初始化 OllyDbg
 
 // OLLYMAIN:3531
 EN You do not have administrative rights on this computer. As a result, some debugging features may fail. To enable all OllyDbg features, please log in as administrator.
-ZH Chicken chicken chicken chicken chicken chicken chicken. Chicken chicken, chicken chicken chicken chicken. Chicken chicken chicken chicken, chicken chicken chicken chicken.
+ZH 您在此计算机上没有管理员权限。因此，部分调试功能可能失败。要启用所有 OllyDbg 功能，请以管理员身份登录。
 
 // OLLYMAIN:3549
 EN Unable to initialize Disassembler. Please contact author.
-ZH Chicken chicken chicken chicken. Chicken chicken chicken.
+ZH 无法初始化反汇编器。请联系作者。
 
 // OLLYMAIN:3553
 EN Unable to initialize .NET Disassembler. Please contact author.
-ZH Chicken chicken chicken .Chicken chicken. Chicken chicken chicken.
+ZH 无法初始化 .NET 反汇编器。请联系作者。
 
 // OLLYMAIN:3555
 EN Not enough memory to initialize internal structures
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 内存不足, 无法初始化内部结构
 
 // OPTIONS:157
 EN System colours:
