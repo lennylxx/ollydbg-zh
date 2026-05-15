@@ -13935,251 +13935,251 @@ ZH Chicken chicken chicken chicken/CHI/3Chic!
 
 // RUNDLL:23
 EN Processing loaddll.exe
-ZH Chicken chicken.chi
+ZH 正在处理 loaddll.exe
 
 // RUNDLL:27
 EN Unable to load '%s'
-ZH Chicken chicken '%s'
+ZH 无法加载 '%s'
 
 // RUNDLL:43
 EN File 'loaddll.dat' created successfully
-ZH Chic 'chicken.chi' chicken chicken chicken
+ZH 文件 'loaddll.dat' 创建成功
 
 // RUNDLL:120
 EN Unable to extract LOADDLL.EXE. This is an internal error. Probably OllyDbg is incompatible with your OS. Please inform author.
-ZH Chicken chicken chicken.CHI. Chicken chicken chicken. Chicken chicken chicken chicken chicken chicken. Chicken chicken chicken.
+ZH 无法提取 LOADDLL.EXE。这是内部错误。OllyDbg 可能与您的操作系统不兼容。请通知作者。
 
 // RUNDLL:122
 EN Unable to extract LOADDLL.EXE due to low memory condition.
-ZH Chicken chicken chicken.Chicken chicken chicken chicken.
+ZH 由于内存不足, 无法提取 LOADDLL.EXE.
 
 // RUNDLL:126
 EN Unable to extract LOADDLL.EXE. If OllyDbg directory is write-protected, please enable writing or move OllyDbg to another directory.
-ZH Chicken chicken chicken.CHI. Chicken chicken chicken chicken-chicken, chicken chicken chicken chicken chicken chicken chicken.
+ZH 无法提取 LOADDLL.EXE。如果 OllyDbg 目录受写保护，请启用写权限或将 OllyDbg 移至其他目录。
 
 // RUNDLL:129
 EN Invalid version of LOADDLL.EXE. Please delete file '%s' in order to allow OllyDbg to extract valid copy of DLL loader.
-ZH Chicken chicken chicken.CHI. Chicken chicken '%s' chicken chicken chicken chicken chicken chicken chicken chicken.
+ZH LOADDLL.EXE 版本无效。请删除文件 '%s'，以便 OllyDbg 提取有效的 DLL 加载器副本。
 
 // RUNDLL:252
 EN Export:
-ZH Chicken:
+ZH 导出:
 
 // RUNDLL:256
 EN Select export to call
-ZH Chicken chicken chicken
+ZH 选择要调用的导出
 
 // RUNDLL:260
 EN Sort list of exported functions by name (unchecked: by address)
-ZH Chicken chicken chicken chicken chicken (chicken: chicken)
+ZH 按名称排序导出函数列表 (未选中: 按地址)
 
 // RUNDLL:263
 EN Press to follow selected export in CPU Disassembler
-ZH Chicken chicken chicken chicken chicken chicken chicken
+ZH 按下可在 CPU 反汇编器中跟随所选导出
 
 // RUNDLL:266
 EN Information on selected export
-ZH Chicken chicken chicken chicken
+ZH 所选导出的信息
 
 // RUNDLL:269
 EN No arguments
-ZH Chicken chicken
+ZH 无参数
 
 // RUNDLL:270
 EN Function has no arguments
-ZH Chicken chicken chicken
+ZH 函数无参数
 
 // RUNDLL:273
 EN Function has 1 argument
-ZH Chicken chicken 1 chicken
+ZH 函数有 1 个参数
 
 // RUNDLL:276
 EN Function has 2 arguments
-ZH Chicken chicken 2 chicken
+ZH 函数有 2 个参数
 
 // RUNDLL:279
 EN Function has 3 arguments
-ZH Chicken chicken 3 chicken
+ZH 函数有 3 个参数
 
 // RUNDLL:282
 EN Function has 4 arguments
-ZH Chicken chicken 4 chicken
+ZH 函数有 4 个参数
 
 // RUNDLL:285
 EN Function has 5 arguments
-ZH Chicken chicken 5 chicken
+ZH 函数有 5 个参数
 
 // RUNDLL:288
 EN Function has 6 arguments
-ZH Chicken chicken 6 chicken
+ZH 函数有 6 个参数
 
 // RUNDLL:291
 EN Function has 7 arguments
-ZH Chicken chicken 7 chicken
+ZH 函数有 7 个参数
 
 // RUNDLL:294
 EN Function has 8 arguments
-ZH Chicken chicken 8 chicken
+ZH 函数有 8 个参数
 
 // RUNDLL:297
 EN Function has 9 arguments
-ZH Chicken chicken 9 chicken
+ZH 函数有 9 个参数
 
 // RUNDLL:300
 EN Function has 10 arguments
-ZH Chicken chicken 10 chicken
+ZH 函数有 10 个参数
 
 // RUNDLL:303
 EN First call argument
-ZH Chicken chicken chicken
+ZH 第一个调用参数
 
 // RUNDLL:306
 EN Second call argument
-ZH Chicken chicken chicken
+ZH 第二个调用参数
 
 // RUNDLL:309
 EN Third call argument
-ZH Chicken chicken chicken
+ZH 第三个调用参数
 
 // RUNDLL:312
 EN Fourth call argument
-ZH Chicken chicken chicken
+ZH 第四个调用参数
 
 // RUNDLL:315
 EN Fifth call argument
-ZH Chicken chicken chicken
+ZH 第五个调用参数
 
 // RUNDLL:318
 EN Sixth call argument
-ZH Chicken chicken chicken
+ZH 第六个调用参数
 
 // RUNDLL:321
 EN Seventh call argument
-ZH Chicken chicken chicken
+ZH 第七个调用参数
 
 // RUNDLL:324
 EN Eighth call argument
-ZH Chicken chicken chicken
+ZH 第八个调用参数
 
 // RUNDLL:327
 EN Ninth call argument
-ZH Chicken chicken chicken
+ZH 第九个调用参数
 
 // RUNDLL:330
 EN Tenth call argument
-ZH Chicken chicken chicken
+ZH 第十个调用参数
 
 // RUNDLL:334
 EN First data buffer
-ZH Chicken chicken
+ZH 第一个数据缓冲区
 
 // RUNDLL:337
 EN Second data buffer
-ZH Chicken chicken
+ZH 第二个数据缓冲区
 
 // RUNDLL:340
 EN Third data buffer
-ZH Chicken chicken
+ZH 第三个数据缓冲区
 
 // RUNDLL:343
 EN Fourth data buffer
-ZH Chicken chicken
+ZH 第四个数据缓冲区
 
 // RUNDLL:346
 EN Fifth data buffer
-ZH Chicken chicken
+ZH 第五个数据缓冲区
 
 // RUNDLL:349
 EN Contents of registers:
-ZH Chicken chicken chicken:
+ZH 寄存器内容:
 
 // RUNDLL:352
 EN Before call
-ZH Chicken chicken
+ZH 调用前
 
 // RUNDLL:355
 EN After call
-ZH Chicken
+ZH 调用后
 
 // RUNDLL:377
 EN Contents of register EAX before call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用前 EAX 寄存器的内容
 
 // RUNDLL:380
 EN Contents of register ECX before call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用前 ECX 寄存器的内容
 
 // RUNDLL:383
 EN Contents of register EDX before call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用前 EDX 寄存器的内容
 
 // RUNDLL:386
 EN Contents of register EBX before call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用前 EBX 寄存器的内容
 
 // RUNDLL:389
 EN Contents of register ESI before call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用前 ESI 寄存器的内容
 
 // RUNDLL:392
 EN Contents of register EDI before call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用前 EDI 寄存器的内容
 
 // RUNDLL:395
 EN Contents of register EAX after call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用后 EAX 寄存器的内容
 
 // RUNDLL:398
 EN Contents of register ECX after call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用后 ECX 寄存器的内容
 
 // RUNDLL:401
 EN Contents of register EDX after call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用后 EDX 寄存器的内容
 
 // RUNDLL:404
 EN Contents of register EBX after call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用后 EBX 寄存器的内容
 
 // RUNDLL:407
 EN Contents of register ESI after call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用后 ESI 寄存器的内容
 
 // RUNDLL:410
 EN Contents of register EDI after call
-ZH Chicken chicken chicken chicken chicken
+ZH 调用后 EDI 寄存器的内容
 
 // RUNDLL:413
 EN Hide on call
-ZH Chicken chicken
+ZH 调用时隐藏
 
 // RUNDLL:414
 EN Hide this dialog on call and restore it afterwards
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 调用时隐藏此对话框, 调用后恢复
 
 // RUNDLL:416
 EN Pause after call
-ZH Chicken chicken
+ZH 调用后暂停
 
 // RUNDLL:417
 EN Pause Debuggee after call to DLL is finished
-ZH Chicken chicken chicken chicken chicken chicken
+ZH DLL 调用完成后暂停被调试程序
 
 // RUNDLL:419
 EN Call export
-ZH Chicken chicken
+ZH 调用导出
 
 // RUNDLL:420
 EN Call selected export with specified arguments
-ZH Chicken chicken chicken chicken chicken chicken
+ZH 使用指定参数调用所选导出
 
 // RUNDLL:423
 EN Results of call
-ZH Chicken chicken
+ZH 调用结果
 
 // RUNDLL:495
 EN Low memory, some exports will be missed
-ZH Chicken, chicken chicken chicken chicken
+ZH 内存不足, 部分导出将被遗漏
 
 // RUNDLL:573
 EN ATTENTION! %i ARGUMENTS!
@@ -14187,95 +14187,95 @@ ZH CHICKEN! %i CHICKEN!
 
 // RUNDLL:576
 EN Callback,
-ZH Chicken,
+ZH 回调,
 
 // RUNDLL:578
 EN 1 argument
-ZH 1 chicken
+ZH 1 个参数
 
 // RUNDLL:580
 EN %i arguments
-ZH %i chicken
+ZH %i 个参数
 
 // RUNDLL:584
 EN (debug data)
-ZH (chicken)
+ZH (调试数据)
 
 // RUNDLL:587
 EN (guessed)
-ZH (chicken)
+ZH (推测)
 
 // RUNDLL:602
 EN ... (Format arguments may follow)
-ZH ... (Chicken chicken chicken chicken)
+ZH ... (后接格式化参数)
 
 // RUNDLL:604
 EN ... (Counted items may follow)
-ZH ... (Chicken chicken chicken)
+ZH ... (后接计数项)
 
 // RUNDLL:609
 EN Returns %s%s
-ZH Chicken %s%s
+ZH 返回 %s%s
 
 // RUNDLL:613
 EN May terminate process/thread
-ZH Chicken chicken chicken/chicken
+ZH 可能终止进程/线程
 
 // RUNDLL:616
 EN Tampers with return address
-ZH Chicken chicken chicken chicken
+ZH 篡改返回地址
 
 // RUNDLL:618
 EN Preserves
-ZH Chicken
+ZH 保留
 
 // RUNDLL:665
 EN Unable to communicate with LOADDLL.EXE
-ZH Chicken chicken chicken chicken.CHI
+ZH 无法与 LOADDLL.EXE 通信
 
 // RUNDLL:687
 EN Expression must be of integer type
-ZH Chicken chicken chicken chicken
+ZH 表达式必须为整数类型
 
 // RUNDLL:894
 EN Can't call DLL export now
-ZH Chi'chicken chicken chicken
+ZH 现在无法调用 DLL 导出
 
 // RUNDLL:909
 EN Please run LOADDLL.EXE first!
-ZH Chicken chicken.Chicken!
+ZH 请先运行 LOADDLL.EXE!
 
 // RUNDLL:927
 EN Error in argument %i:
-ZH Chicken chicken %i:
+ZH 参数 %i 错误:
 
 // RUNDLL:939
 EN Error in register %s:
-ZH Chicken chicken %s:
+ZH 寄存器 %s 错误:
 
 // RUNDLL:954
 EN Calling export...
-ZH Chicken chicken...
+ZH 正在调用导出...
 
 // RUNDLL:1032
 EN Unable to get data from LOADDLL.EXE
-ZH Chicken chicken chicken chicken.CHI
+ZH 无法从 LOADDLL.EXE 获取数据
 
 // RUNDLL:1038
 EN Call finished
-ZH Chicken chicken
+ZH 调用完成
 
 // RUNDLL:1044
 EN , duration %.6f s
-ZH , chicken %.6f c
+ZH , 持续 %.6f 秒
 
 // RUNDLL:1048
 EN , duration %.6f ms
-ZH , chicken %.6f ch
+ZH , 持续 %.6f 毫秒
 
 // RUNDLL:1050
 EN , duration %.3f us
-ZH , chicken %.3f ch
+ZH , 持续 %.3f 微秒
 
 // RUNDLL:1057
 EN EAX = %s
@@ -14283,19 +14283,19 @@ ZH CHI = %s
 
 // RUNDLL:1062
 EN Subroutine removed %i doublewords from stack
-ZH Chicken chicken %i chicken chicken chicken
+ZH 子程序从堆栈移除了 %i 个双字
 
 // RUNDLL:1065
 EN Subroutine removed %i bytes of data from stack
-ZH Chicken chicken %i chicken chicken chicken
+ZH 子程序从堆栈移除了 %i 字节数据
 
 // RUNDLL:1072
 EN Last error = %08X
-ZH Chicken = %08X
+ZH 最后错误 = %08X
 
 // RUNDLL:1074
 EN Last error = %s
-ZH Chicken = %s
+ZH 最后错误 = %s
 
 // SAPI:25
 EN Hello. Speech interface is on.
