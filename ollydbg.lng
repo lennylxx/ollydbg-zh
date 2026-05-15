@@ -15239,203 +15239,203 @@ ZH 可执行文件名称
 
 // SUPPORT:14
 EN About OllyDbg
-ZH Chicken chicken
+ZH 关于 OllyDbg
 
 // SUPPORT:22
 EN (alpha %i)
-ZH (chicken %i)
+ZH (alpha %i)
 
 // SUPPORT:24
 EN (beta %i)
-ZH (chic %i)
+ZH (beta %i)
 
 // SUPPORT:35
 EN OllyDbg v%i.%02i%s%s\n\n32-bit Assembler-Level Debugger\n\nCopyright © %s %s\nAll Rights Reserved\n\nThe product names mentioned in this\nsoftware may be trademarks or registered\ntrademarks of their respective owners.\n\nFor the newest information, visit
-ZH Chicken%i.%02i%s%s\n\n32-chicken chicken-Chicken chicken\n\nChicken © %s %s\nChicken chicken chicken\n\nChicken chicken chicken chicken chicken\nchicken chicken chicken chicken chicken\nchicken chicken chicken chicken chicken.\n\nChicken chicken chicken, chicken
+ZH OllyDbg v%i.%02i%s%s\n\n32 位汇编级调试器\n\n版权所有 © %s %s\n保留所有权利\n\n本软件中提及的产品名称可能是其各自所有者的\n商标或注册商标。\n\n要获取最新信息，请访问
 
 // SUPPORT:73
 EN Error
-ZH Chicken
+ZH 错误
 
 // SUPPORT:178
 EN Don't display this message in the future
-ZH Chi'chicken chicken chicken chicken chicken
+ZH 今后不再显示此消息
 
 // SUPPORT:282
 EN No
-ZH Ch
+ZH 否
 
 // SUPPORT:283
 EN Yes
-ZH Chi
+ZH 是
 
 // SUPPORT:284
 EN Don't ask this question again
-ZH Chi'chicken chicken chicken
+ZH 不再询问此问题
 
 // SUPPORT:1156
 EN MEMMON: Undeclared memory block %08X
-ZH CHICKEN: Chicken chicken chicken %08X
+ZH MEMMON: 未声明的内存块 %08X
 
 // SUPPORT:1160
 EN MEMMON: Memfree()'ing block %08X allocated with Virtalloc()
-ZH CHICKEN: Chicken()'chicken %08X chicken chicken chicken()
+ZH MEMMON: 对使用 Virtalloc() 分配的块 %08X 执行 Memfree()
 
 // SUPPORT:1164
 EN MEMMON: Virtfree()'ing block %08X allocated with Memalloc()
-ZH CHICKEN: Chicken()'chicken %08X chicken chicken chicken()
+ZH MEMMON: 对使用 Memalloc() 分配的块 %08X 执行 Virtfree()
 
 // SUPPORT:1168
 EN MEMMON: Too short memory block %08X
-ZH CHICKEN: Chicken chicken chicken %08X
+ZH MEMMON: 内存块 %08X 过短
 
 // SUPPORT:1172
 EN MEMMON: Corrupted memory block %08X
-ZH CHICKEN: Chicken chicken chicken %08X
+ZH MEMMON: 已损坏的内存块 %08X
 
 // SUPPORT:1193
 EN MEMMON: OllyDbg memory monitoring active
-ZH CHICKEN: Chicken chicken chicken chicken
+ZH MEMMON: OllyDbg 内存监控已激活
 
 // SUPPORT:1196
 EN MEMMON: Unable to start memory monitoring
-ZH CHICKEN: Chicken chicken chicken chicken
+ZH MEMMON: 无法启动内存监控
 
 // SUPPORT:1242
 EN MEMMON: %s memory addr=%08X size=%08X from %08X, %08X%s
-ZH CHICKEN: %s chicken chicken=%08X chic=%08X chic %08X, %08X%s
+ZH MEMMON: %s 内存 addr=%08X size=%08X from %08X, %08X%s
 
 // SUPPORT:1295
 EN MEMMON: Too many memory blocks, monitoring is unreliable
-ZH CHICKEN: Chicken chicken chicken, chicken chicken chicken
+ZH MEMMON: 内存块过多, 监控不可靠
 
 // SUPPORT:1893
 EN <main>
-ZH <chic>
+ZH <主>
 
 // SUPPORT:1926
 EN Current dir:
-ZH Chicken chicken:
+ZH 当前目录:
 
 // SUPPORT:1954
 EN Append to existing file
-ZH Chicken chicken chicken
+ZH 追加到现有文件
 
 // SUPPORT:1955
 EN Add available contents
-ZH Chicken chicken chicken
+ZH 添加可用内容
 
 // SUPPORT:1956
 EN Separate columns with tabs
-ZH Chicken chicken chicken
+ZH 用制表符分隔列
 
 // SUPPORT:1967
 EN Add to:
-ZH Chicken:
+ZH 添加到:
 
 // SUPPORT:1968
 EN Group 1
-ZH Chicken 1
+ZH 组 1
 
 // SUPPORT:1969
 EN Group 2
-ZH Chicken 2
+ZH 组 2
 
 // SUPPORT:1970
 EN Group 3
-ZH Chicken 3
+ZH 组 3
 
 // SUPPORT:1971
 EN Group 4
-ZH Chicken 4
+ZH 组 4
 
 // SUPPORT:1983
 EN Stream:
-ZH Chicken:
+ZH 流:
 
 // SUPPORT:2215
 EN Any file (*.*)
-ZH Chicken (*.*)
+ZH 任何文件 (*.*)
 
 // SUPPORT:2218
 EN Executable file or DLL (*.exe,*.dll)
-ZH Chicken chicken chicken (*.chi,*.chi)
+ZH 可执行文件或 DLL (*.exe,*.dll)
 
 // SUPPORT:2221
 EN Executable, DLL or link (*.exe,*.dll,*.lnk)
-ZH Chicken, Chicken chicken (*.chi,*.chi,*.chi)
+ZH 可执行文件、DLL 或链接 (*.exe,*.dll,*.lnk)
 
 // SUPPORT:2223
 EN Executable file (*.exe)
-ZH Chicken chicken (*.chi)
+ZH 可执行文件 (*.exe)
 
 // SUPPORT:2225
 EN Dynamic-link library (*.dll)
-ZH Chicken-chicken chicken (*.chi)
+ZH 动态链接库 (*.dll)
 
 // SUPPORT:2227
 EN Desktop link (*.lnk)
-ZH Chicken chicken (*.chi)
+ZH 桌面链接 (*.lnk)
 
 // SUPPORT:2230
 EN Object file or library (*.obj,*.lib,*.o,*.a)
-ZH Chicken chicken chicken (*.chi,*.chi,*.c,*.c)
+ZH 目标文件或库 (*.obj,*.lib,*.o,*.a)
 
 // SUPPORT:2232
 EN Object file (*.obj)
-ZH Chicken chicken (*.chi)
+ZH 目标文件 (*.obj)
 
 // SUPPORT:2234
 EN Import or object library (*.lib)
-ZH Chicken chicken chicken (*.chi)
+ZH 导入或目标库 (*.lib)
 
 // SUPPORT:2237
 EN Source (*.c,*.cpp,*.h,*.hpp,*.asm,*.pas)
-ZH Chicken (*.c,*.chi,*.c,*.chi,*.chi,*.chi)
+ZH 源代码 (*.c,*.cpp,*.h,*.hpp,*.asm,*.pas)
 
 // SUPPORT:2239
 EN C/C++ source (*.c,*.cpp)
-ZH C/C++ chicken (*.c,*.chi)
+ZH C/C++ 源代码 (*.c,*.cpp)
 
 // SUPPORT:2241
 EN C source (*.c)
-ZH Chicken (*.c)
+ZH C 源代码 (*.c)
 
 // SUPPORT:2243
 EN C++ source (*.cpp)
-ZH C++ chicken (*.chi)
+ZH C++ 源代码 (*.cpp)
 
 // SUPPORT:2245
 EN Header file (*.h,*.hpp)
-ZH Chicken chicken (*.c,*.chi)
+ZH 头文件 (*.h,*.hpp)
 
 // SUPPORT:2247
 EN C Header file (*.h)
-ZH Chicken chicken (*.c)
+ZH C 头文件 (*.h)
 
 // SUPPORT:2249
 EN C++ Header file (*.hpp)
-ZH C++ Chicken chicken (*.chi)
+ZH C++ 头文件 (*.hpp)
 
 // SUPPORT:2251
 EN Assembler source (*.asm)
-ZH Chicken chicken (*.chi)
+ZH 汇编源代码 (*.asm)
 
 // SUPPORT:2253
 EN Delphi/Pascal source (*.pas)
-ZH Chicken/Chicken chicken (*.chi)
+ZH Delphi/Pascal 源代码 (*.pas)
 
 // SUPPORT:2255
 EN Text file (*.txt)
-ZH Chicken (*.chi)
+ZH 文本文件 (*.txt)
 
 // SUPPORT:2257
 EN Backup file (*.bak)
-ZH Chicken chicken (*.chi)
+ZH 备份文件 (*.bak)
 
 // SUPPORT:2259
 EN Argument descriptions (*.arg)
-ZH Chicken chicken chicken (*.chi)
+ZH 参数描述 (*.arg)
 
 // SUPPORT:2261
 EN Help file (*.hlp,*.chm)
@@ -15459,23 +15459,23 @@ ZH Chicken chicken chicken (*.chi)
 
 // SUPPORT:2271
 EN %.64s file (%.64s)
-ZH %.64s chic (%.64s)
+ZH %.64s 文件 (%.64s)
 
 // SUPPORT:2493
 EN File '%s' is system or read-only. Please try another name.
-ZH Chic '%s' chicken chicken-chic. Chicken chicken chicken.
+ZH 文件 '%s' 是系统文件或只读。请尝试其他名称。
 
 // SUPPORT:2497
 EN File '%s' already exists. Do you want to overwrite it?
-ZH Chic '%s' chicken chicken. Chicken chicken chicken chicken?
+ZH 文件 '%s' 已存在。是否覆盖？
 
 // SUPPORT:2498
 EN File exists
-ZH Chicken chicken
+ZH 文件已存在
 
 // SUPPORT:2917
 EN Timer %i: %.3lf s, %7i calls (%.3lf us/call)
-ZH Chicken %i: %.3lf c, %7i chicken (%.3lf ch/chic)
+ZH 计时器 %i: %.3lf 秒, %7i 次调用 (%.3lf 微秒/调用)
 
 // TABLE:718
 EN ATTENTION, snow-free drawing is not possible!
